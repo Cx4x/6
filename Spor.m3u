@@ -1,8 +1,4 @@
-#EXTM3U url-tvg="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gitea.com/cx66/6/raw/branch/main/Sports.m3u
-
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,http://epg2.733240.com/xmltv/epg_TW.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml"
 #EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" group-title="🔆请开启魔法观看🔆",🔆请开启魔法观看🔆
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 #EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" group-title="🔆请开启魔法观看🔆",🔆请开启魔法观看🔆
