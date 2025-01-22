@@ -1,6 +1,4 @@
 咪咕体育,#genre#
- 欧联1,https://newtvsuper.com/NBc0101/S1889/18140
- 欧联2,https://newtvsuper.com/NBc0101/S1889/18141
  01/22 19:25_WCBA常规赛B组_江西赣星 VS 厦门环东文旅_清流播出,https://wyzy.online:55734/allinone/migu/947048951.m3u8?migutoken=61a149430c1ff46ca13243cf9352f15cb9519539ee6f0684c3e32ecdaee771044ee4886833152547420ee5ca2f1902981ecd189c492a0d8dbac0bcc3836d99f2c397cf9f4f428c23026755a2a4
  01/22 19:20_WCBA常规赛B组_合肥文旅 VS 武汉盛帆黄鹤_现场解说,https://wyzy.online:55734/allinone/migu/947049090.m3u8?migutoken=ec97c5953e1d9207cee3ff8c547acb3efeb4b145f7c939655d31430d94efa8e3050a61fc7c4f309d60f4ab482a403079a0561decdc78292fe39b143384bcbef7ee45503b93c20d70e5e9e2df8a
  01/22 19:20_WCBA常规赛B组_河南豫光金铅 VS 黑龙江上东_现场解说,https://wyzy.online:55734/allinone/migu/947049407.m3u8?migutoken=6d0d365519b80eb84a1640b243098dda9e624efe70402b907eb5d8af8a3805ee59e5b3c6ab75e1a4752291a629318042d583f25f0e251d8c6b8ae2cfb7b19e106632726580c32d218d80b59d41
