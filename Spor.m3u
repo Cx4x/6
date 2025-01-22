@@ -422,132 +422,132 @@ https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 #EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" group-title="4K UHD ",🔆均为国外满血4KUHD🔆
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 #EXTINF:-1 tvg-id="1608071" tvg-name="4K| SKY SPORTS MAIN EVENTS UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportsmainevent.png" group-title="4K UHD ",4K| SKY SPORTS MAIN EVENTS UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1608071&extension=ts&play_token=Vk3XFfxeax
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1608071&extension=ts&play_token=Vk3XFfxeax
 #EXTINF:-1 tvg-id="1761500" tvg-name="4K| SKY SPORTS F1 UHD" tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-SPORTF1.png" group-title="4K UHD ",4K| SKY SPORTS F1 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1761500&extension=ts&play_token=uRdSmNnZWn
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1761500&extension=ts&play_token=uRdSmNnZWn
 #EXTINF:-1 tvg-id="1608068" tvg-name="4K| SKY SPORTS 1 UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-1.png" group-title="4K UHD ",4K| SKY SPORTS 1 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1608068&extension=ts&play_token=Hz2YynZqtK
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1608068&extension=ts&play_token=Hz2YynZqtK
 #EXTINF:-1 tvg-id="1608069" tvg-name="4K| SKY SPORTS 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-2.png" group-title="4K UHD ",4K| SKY SPORTS 2 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1608069&extension=ts&play_token=pxle8EOIxJ
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1608069&extension=ts&play_token=pxle8EOIxJ
 #EXTINF:-1 tvg-id="1481950" tvg-name="4K| ZIGGO SPORT UHD" tvg-logo="http://103.176.90.118/piconsnew/ziggosportuhd.png" group-title="4K UHD ",4K| ZIGGO SPORT UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1481950&extension=ts&play_token=2F1uMmPu7L
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1481950&extension=ts&play_token=2F1uMmPu7L
 #EXTINF:-1 tvg-id="1481941" tvg-name="4K| ESPN UHD" tvg-logo="http://103.176.90.118/piconsnew/espnuhd.png" group-title="4K UHD ",4K| ESPN UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1481941&extension=ts&play_token=LnlT38nmKz
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1481941&extension=ts&play_token=LnlT38nmKz
 #EXTINF:-1 tvg-id="1595637" tvg-name="4K| TNT ULTIMATE 4K+ [LIVE-EVENT]" tvg-logo="http://103.176.90.118/piconsnew/tntsports.png" group-title="4K UHD ",4K| TNT ULTIMATE 4K+ [LIVE-EVENT]
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1595637&extension=ts&play_token=CMhjC37odG
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1595637&extension=ts&play_token=CMhjC37odG
 #EXTINF:-1 tvg-id="1470604" tvg-name="4K| BLOOMBERG UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/BLOOMBERG-HD.png" group-title="4K UHD ",4K| BLOOMBERG UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470604&extension=ts&play_token=219sEsVgvy
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470604&extension=ts&play_token=219sEsVgvy
 #EXTINF:-1 tvg-id="1470653" tvg-name="4K| CNN UHD 4K" tvg-logo="http://103.176.90.118/picons/logos/logos/CNN.png" group-title="4K UHD ",4K| CNN UHD 4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470653&extension=ts&play_token=hXCUA1pgmF
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470653&extension=ts&play_token=hXCUA1pgmF
 #EXTINF:-1 tvg-id="1471386" tvg-name="4K| LOVE NATURE UHD" tvg-logo="http://103.176.90.118/picons/logos/LOVE-NATURE-UHD1.png" group-title="4K UHD ",4K| LOVE NATURE UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471386&extension=ts&play_token=mOwYlaIgax
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471386&extension=ts&play_token=mOwYlaIgax
 #EXTINF:-1 tvg-id="1470603" tvg-name="4K| SPORTSNET 360 UHD" tvg-logo="http://103.176.90.118/picons/logos/USA/SPORTSNET-360.png" group-title="4K UHD ",4K| SPORTSNET 360 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470603&extension=ts&play_token=0HeBTZGbCS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470603&extension=ts&play_token=0HeBTZGbCS
 #EXTINF:-1 tvg-id="1479590" tvg-name="4K| ASTRO SUPERSPORT UHD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="4K UHD ",4K| ASTRO SUPERSPORT UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1479590&extension=ts&play_token=4P6Df4WmO5
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1479590&extension=ts&play_token=4P6Df4WmO5
 #EXTINF:-1 tvg-id="1471382" tvg-name="4K| SKY SPORTS DARTS UHD" tvg-logo="http://103.176.90.118/picons/logos/SKY-SPORTS-F1-UHD.png" group-title="4K UHD ",4K| SKY SPORTS DARTS UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471382&extension=ts&play_token=UsFHKyGIzW
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471382&extension=ts&play_token=UsFHKyGIzW
 #EXTINF:-1 tvg-id="1471380" tvg-name="4K| TRT UHD" group-title="4K UHD ",4K| TRT UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471380&extension=ts&play_token=h8mD7MFqvk
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471380&extension=ts&play_token=h8mD7MFqvk
 #EXTINF:-1 tvg-id="1491210" tvg-name="4K| CANAL+ UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS.png" group-title="4K UHD ",4K| CANAL+ UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491210&extension=ts&play_token=AZJ0Fyv0JN
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491210&extension=ts&play_token=AZJ0Fyv0JN
 #EXTINF:-1 tvg-id="1491209" tvg-name="4K| UHD 1 BY ASTRA" tvg-logo="http://103.176.90.118/picons/logos/logos/UHD-1-BY-ASTRA.png" group-title="4K UHD ",4K| UHD 1 BY ASTRA
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491209&extension=ts&play_token=3YhZC69uOc
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491209&extension=ts&play_token=3YhZC69uOc
 #EXTINF:-1 tvg-id="1491208" tvg-name="4K| QVC ZWEI UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/QVC-ZWEI-UHD.png" group-title="4K UHD ",4K| QVC ZWEI UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491208&extension=ts&play_token=eS6kvgvjKS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491208&extension=ts&play_token=eS6kvgvjKS
 #EXTINF:-1 tvg-id="1491207" tvg-name="4K| QVC UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/QVC-UHD.png" group-title="4K UHD ",4K| QVC UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491207&extension=ts&play_token=ORdsAKjNXF
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491207&extension=ts&play_token=ORdsAKjNXF
 #EXTINF:-1 tvg-id="1491206" tvg-name="4K| FOX REGIONAL UHD (EVENT ONLY)" tvg-logo="http://103.176.90.118/picons/logos/logos/FOX.png" group-title="4K UHD ",4K| FOX REGIONAL UHD (EVENT ONLY)
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491206&extension=ts&play_token=ek1AeDqBCT
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491206&extension=ts&play_token=ek1AeDqBCT
 #EXTINF:-1 tvg-id="1491205" tvg-name="4K| FOX UHD (EVENT ONLY)" tvg-logo="http://103.176.90.118/picons/logos/logos/FOX.png" group-title="4K UHD ",4K| FOX UHD (EVENT ONLY)
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491205&extension=ts&play_token=km4WsLIBeP
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491205&extension=ts&play_token=km4WsLIBeP
 #EXTINF:-1 tvg-id="1479591" tvg-name="4K| TNT SPORTS UHD [EVENT]" tvg-logo="http://103.176.90.118/piconsnew/tntsports.png" group-title="4K UHD ",4K| TNT SPORTS UHD [EVENT]
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1479591&extension=ts&play_token=UWVKtkrryF
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1479591&extension=ts&play_token=UWVKtkrryF
 #EXTINF:-1 tvg-id="1470619" tvg-name="4K| HUB PREMIER 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/HUB-PREMIER.png" group-title="4K UHD ",4K| HUB PREMIER 2 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470619&extension=ts&play_token=emAmAJGPbw
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470619&extension=ts&play_token=emAmAJGPbw
 #EXTINF:-1 tvg-id="1470622" tvg-name="4K| NOW SPORTS (EPL) UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/NOW-SPORTS.png" group-title="4K UHD ",4K| NOW SPORTS (EPL) UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470622&extension=ts&play_token=oviKc80CWR
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470622&extension=ts&play_token=oviKc80CWR
 #EXTINF:-1 tvg-id="1471387" tvg-name="4K| SKY SPORTS UHD [EVENT]" tvg-logo="http://103.176.90.118/picons/logos/SKY-SPORTS-UHD.png" group-title="4K UHD ",4K| SKY SPORTS UHD [EVENT]
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471387&extension=ts&play_token=a0fxSNhzW4
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471387&extension=ts&play_token=a0fxSNhzW4
 #EXTINF:-1 tvg-id="1620282" tvg-name="4K| LA 1 UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/LA1.png" group-title="4K UHD ",4K| LA 1 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1620282&extension=ts&play_token=UGM8BF4mnq
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1620282&extension=ts&play_token=UGM8BF4mnq
 #EXTINF:-1 tvg-id="1471385" tvg-name="4K| COCINA UHD" tvg-logo="http://103.176.90.118/picons/logos/COCINA.png" group-title="4K UHD ",4K| COCINA UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471385&extension=ts&play_token=vLge2tXbxe
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471385&extension=ts&play_token=vLge2tXbxe
 #EXTINF:-1 tvg-id="1471376" tvg-name="4K| DAZN LA LIGA TV UHD" tvg-logo="http://103.176.90.118/picons/logos/DAZN-LA-LIGA-.PNG" group-title="4K UHD ",4K| DAZN LA LIGA TV UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471376&extension=ts&play_token=5qk1zpdqc4
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471376&extension=ts&play_token=5qk1zpdqc4
 #EXTINF:-1 tvg-id="1471384" tvg-name="4K| DECASA UHD" tvg-logo="http://103.176.90.118/picons/logos/DECASA.png" group-title="4K UHD ",4K| DECASA UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471384&extension=ts&play_token=ufMnxhIimb
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471384&extension=ts&play_token=ufMnxhIimb
 #EXTINF:-1 tvg-id="1471377" tvg-name="4K| LIGA CAMPEONES UHD" tvg-logo="http://103.176.90.118/picons/logos/LIGA-CAMPEONES.png" group-title="4K UHD ",4K| LIGA CAMPEONES UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471377&extension=ts&play_token=l0B2unPTWi
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471377&extension=ts&play_token=l0B2unPTWi
 #EXTINF:-1 tvg-id="1471383" tvg-name="4K| ODISEA UHD" tvg-logo="http://103.176.90.118/picons/logos/ODISEA.png" group-title="4K UHD ",4K| ODISEA UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471383&extension=ts&play_token=VAmttDyAR2
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471383&extension=ts&play_token=VAmttDyAR2
 #EXTINF:-1 tvg-id="1632124" tvg-name="4K| MUSEUM UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/MUSEUM.png" group-title="4K UHD ",4K| MUSEUM UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1632124&extension=ts&play_token=5d1dmLAm94
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1632124&extension=ts&play_token=5d1dmLAm94
 #EXTINF:-1 tvg-id="1632123" tvg-name="4K| V SPORT+ UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/V-SPORT-PLUS.png" group-title="4K UHD ",4K| V SPORT+ UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1632123&extension=ts&play_token=X7lsOmv4Wk
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1632123&extension=ts&play_token=X7lsOmv4Wk
 #EXTINF:-1 tvg-id="1470618" tvg-name="4K| ELEVEN SPORTS 1 UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/ELEVEN-SPORTS-1.png" group-title="4K UHD ",4K| ELEVEN SPORTS 1 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470618&extension=ts&play_token=WWpN2xcUlX
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470618&extension=ts&play_token=WWpN2xcUlX
 #EXTINF:-1 tvg-id="1749224" tvg-name="4k| MAX UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/logos/MAX.png" group-title="4K UHD ",4k| MAX UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749224&extension=ts&play_token=obtyq3wTYm
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749224&extension=ts&play_token=obtyq3wTYm
 #EXTINF:-1 tvg-id="1749223" tvg-name="4k| REDBOX UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/logos/Redbox.png" group-title="4K UHD ",4k| REDBOX UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749223&extension=ts&play_token=S2APkok1no
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749223&extension=ts&play_token=S2APkok1no
 #EXTINF:-1 tvg-id="1749222" tvg-name="4k| SMART BLU UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/logos/SMART-BLU.png" group-title="4K UHD ",4k| SMART BLU UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749222&extension=ts&play_token=ip3H9CVWzO
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749222&extension=ts&play_token=ip3H9CVWzO
 #EXTINF:-1 tvg-id="1749221" tvg-name="4k| ARCHIV 81 UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ARCHIV-81.png" group-title="4K UHD ",4k| ARCHIV 81 UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749221&extension=ts&play_token=kUrrAM3PZV
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749221&extension=ts&play_token=kUrrAM3PZV
 #EXTINF:-1 tvg-id="1749220" tvg-name="4k| SPECIAL BOX UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/logos/SPECIAL-BOX.png" group-title="4K UHD ",4k| SPECIAL BOX UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749220&extension=ts&play_token=LGPivq4veF
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749220&extension=ts&play_token=LGPivq4veF
 #EXTINF:-1 tvg-id="1749219" tvg-name="4k| SPORT KLUB UHD/4K" tvg-logo="https://logo.protv.cc/piconsnew/sportklub.png" group-title="4K UHD ",4k| SPORT KLUB UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749219&extension=ts&play_token=36WugOtKg2
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1749219&extension=ts&play_token=36WugOtKg2
 #EXTINF:-1 tvg-id="1470620" tvg-name="4K| 5SPORT UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/5SPORT.png" group-title="4K UHD ",4K| 5SPORT UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470620&extension=ts&play_token=xH5Rsg8k7D
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1470620&extension=ts&play_token=xH5Rsg8k7D
 #EXTINF:-1 tvg-id="1471378" tvg-name="4K| SPORT TV PT UHD" tvg-logo="http://103.176.90.118/picons/logos/SPORT-TV-1.png" group-title="4K UHD ",4K| SPORT TV PT UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471378&extension=ts&play_token=saGtMOHPGu
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1471378&extension=ts&play_token=saGtMOHPGu
 #EXTINF:-1 tvg-id="1640380" tvg-name="4k| CANAL+ BOX OFFICE UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-UHD.png" group-title="4K UHD ",4k| CANAL+ BOX OFFICE UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640380&extension=ts&play_token=Kxisui1Yqp
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640380&extension=ts&play_token=Kxisui1Yqp
 #EXTINF:-1 tvg-id="1640388" tvg-name="4k| CANAL+ EVENEMENT UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-UHD.png" group-title="4K UHD ",4k| CANAL+ EVENEMENT UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640388&extension=ts&play_token=FD3rQByNKc
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640388&extension=ts&play_token=FD3rQByNKc
 #EXTINF:-1 tvg-id="1640387" tvg-name="4k| CANAL+ HDR/UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-UHD.png" group-title="4K UHD ",4k| CANAL+ HDR/UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640387&extension=ts&play_token=QSjENnblWl
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640387&extension=ts&play_token=QSjENnblWl
 #EXTINF:-1 tvg-id="1640385" tvg-name="4k| EVENEMENT SPORT HDR/UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/FOOT-PLUS.png" group-title="4K UHD ",4k| EVENEMENT SPORT HDR/UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640385&extension=ts&play_token=reIIWZlUiT
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640385&extension=ts&play_token=reIIWZlUiT
 #EXTINF:-1 tvg-id="1640378" tvg-name="4k| FRANCE 2 HDR/UHD/4K" tvg-logo="http://103.176.90.118/piconsnew/france2.png" group-title="4K UHD ",4k| FRANCE 2 HDR/UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640378&extension=ts&play_token=Z9UTjKbERz
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640378&extension=ts&play_token=Z9UTjKbERz
 #EXTINF:-1 tvg-id="1640381" tvg-name="4k| FRANCE 2 UHD/4K" tvg-logo="http://103.176.90.118/piconsnew/france2.png" group-title="4K UHD ",4k| FRANCE 2 UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640381&extension=ts&play_token=O8EUBkxtBK
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640381&extension=ts&play_token=O8EUBkxtBK
 #EXTINF:-1 tvg-id="1640382" tvg-name="4k| FRANCE 3 UHD/4K" tvg-logo="http://103.176.90.118/piconsnew/france3.png" group-title="4K UHD ",4k| FRANCE 3 UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640382&extension=ts&play_token=CvCKV50I0D
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640382&extension=ts&play_token=CvCKV50I0D
 #EXTINF:-1 tvg-id="1640386" tvg-name="4k| LOUPE ART UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/LOUPE-ART.png" group-title="4K UHD ",4k| LOUPE ART UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640386&extension=ts&play_token=8Nyui6KPwJ
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640386&extension=ts&play_token=8Nyui6KPwJ
 #EXTINF:-1 tvg-id="1640383" tvg-name="4k| M6 UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/M6-UHD.png" group-title="4K UHD ",4k| M6 UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640383&extension=ts&play_token=SUDwNXOMrT
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640383&extension=ts&play_token=SUDwNXOMrT
 #EXTINF:-1 tvg-id="1124351" tvg-name="4k| NESN UHD/4K+" tvg-logo="http://103.176.90.118/picons/logos/USA/NESN-UHD.png" group-title="4K UHD ",4k| NESN UHD/4K+
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1124351&extension=ts&play_token=hlVjuYi9b9
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1124351&extension=ts&play_token=hlVjuYi9b9
 #EXTINF:-1 tvg-id="1753227" tvg-name="4K| SKY SPORT 4K [LIVE-EVENT]" tvg-logo="http://103.176.90.118/piconsnew/skysport4k.png" group-title="4K UHD ",4K| SKY SPORT 4K [LIVE-EVENT]
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1753227&extension=ts&play_token=82vkuPnezK
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1753227&extension=ts&play_token=82vkuPnezK
 #EXTINF:-1 tvg-id="1640379" tvg-name="4k| TF1 HDR/UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/tf1.png" group-title="4K UHD ",4k| TF1 HDR/UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640379&extension=ts&play_token=BlSeJOhP4B
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640379&extension=ts&play_token=BlSeJOhP4B
 #EXTINF:-1 tvg-id="1640384" tvg-name="4k| TF1 UHD/4K" tvg-logo="http://103.176.90.118/picons/logos/logos/tf1.png" group-title="4K UHD ",4k| TF1 UHD/4K
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640384&extension=ts&play_token=PiSJRlzMhT
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1640384&extension=ts&play_token=PiSJRlzMhT
 #EXTINF:-1 tvg-id="1380013" tvg-name="SP| CANAL+ 4K+/UHD" tvg-logo="http://103.176.90.118/picons/logos/france/CANAL.png" group-title="4K UHD ",SP| CANAL+ 4K+/UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1380013&extension=ts&play_token=MjHEVVM32t
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1380013&extension=ts&play_token=MjHEVVM32t
 #EXTINF:-1 tvg-id="1491180" tvg-name="4K| SKY PRIMAFILA 1 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="4K UHD ",4K| SKY PRIMAFILA 1 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491180&extension=ts&play_token=lQIfUI23QX
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491180&extension=ts&play_token=lQIfUI23QX
 #EXTINF:-1 tvg-id="1491181" tvg-name="4K| SKY PRIMAFILA 2 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="4K UHD ",4K| SKY PRIMAFILA 2 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491181&extension=ts&play_token=ArjFd85ND4
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491181&extension=ts&play_token=ArjFd85ND4
 #EXTINF:-1 tvg-id="1491183" tvg-name="4K| SKY PRIMAFILA 3 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="4K UHD ",4K| SKY PRIMAFILA 3 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491183&extension=ts&play_token=AMisGZyR7y
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491183&extension=ts&play_token=AMisGZyR7y
 #EXTINF:-1 tvg-id="1491184" tvg-name="4K| SKY PRIMAFILA 4 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="4K UHD ",4K| SKY PRIMAFILA 4 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491184&extension=ts&play_token=So5qkljEsA
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491184&extension=ts&play_token=So5qkljEsA
 #EXTINF:-1 tvg-id="1491185" tvg-name="4K| SKY PRIMAFILA 5 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="4K UHD ",4K| SKY PRIMAFILA 5 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491185&extension=ts&play_token=baZtOBIDtZ
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491185&extension=ts&play_token=baZtOBIDtZ
 #EXTINF:-1 tvg-id="1491186" tvg-name="4K| SKY PRIMAFILA 6 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="4K UHD ",4K| SKY PRIMAFILA 6 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491186&extension=ts&play_token=lSyufys2J0
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491186&extension=ts&play_token=lSyufys2J0
 #EXTINF:-1 tvg-id="1491187" tvg-name="4K| SKY PRIMAFILA 7 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="4K UHD ",4K| SKY PRIMAFILA 7 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491187&extension=ts&play_token=F1Ci9AT9A5
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491187&extension=ts&play_token=F1Ci9AT9A5
 #EXTINF:-1 tvg-id="1491188" tvg-name="4K| SKY PRIMAFILA 8 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="4K UHD ",4K| SKY PRIMAFILA 8 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491188&extension=ts&play_token=MteLn5JIbT
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491188&extension=ts&play_token=MteLn5JIbT
 #EXTINF:-1 tvg-id="1491189" tvg-name="4K| SKY PRIMAFILA 9 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="4K UHD ",4K| SKY PRIMAFILA 9 UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491189&extension=ts&play_token=X3Ldg1lvAJ
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1491189&extension=ts&play_token=X3Ldg1lvAJ
 #EXTINF:-1 tvg-id="1632122" tvg-name="4K| DIGI UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI.png" group-title="4K UHD ",4K| DIGI UHD
-ffmpeg http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1632122&extension=ts&play_token=LsX6lUdZJO
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C0:02:CA&stream=1632122&extension=ts&play_token=LsX6lUdZJO
