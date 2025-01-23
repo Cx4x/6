@@ -64,3 +64,43 @@ https://wyzy.online:55734/allinone/txsport/100002:20253289/295568/1382300900.m3u
 https://wyzy.online:55734/allinone/txsport/100000:10022400621/295525/1382294700.m3u8?txtoken=883ac2e7039d45d8969cbaed0dec592451929610f0d36e9f8167628e9859ea1d105ffe93da9dadf49302bfef2de19a6d243a335db4eb2b4b19f5e457a5e0f70a427cc8bdef5f12c0918b20560f6e616fada8a9b4145f90c39f69e01850343c1e8af0ade093b27767a5c141c5dc791b2eaafc172db07060877bb1dc9994
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-01-24 03:00:00_NBA常规赛_步行者 vs 马刺_英文原声
 https://wyzy.online:55734/allinone/txsport/100000:10022400621/295525/1767101400.m3u8?txtoken=e82283c481df8cd3686a46196d625d7ae9df76d2f45c20a7ea76505e4821f4e2d14df59eec98b3fffe83885f14864a6b95e25cfd83306c28bc32b997aa8337917441f34abd4f459792517ae38c574533331c1576018d8ade23ae78588af3cfe4dfdeb3ea1471a9756a9c976ac8a2e6e8397cf933527c6cadef31652bb6
+
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:25_NBA常规赛_活塞VS老鹰_邢晨
+https://wyzy.online:55734/allinone/migu/947110646.m3u8?migutoken=2446342d66ef2211562a4510964d957b484f9788faaa2ceedcadbe850565d437d7688c4094b7b342bbb6ce61ecad4a15faf90f84283f33693e96050075be22b4af4e8973bf7417398dc519523b
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:25_NBA常规赛_活塞VS老鹰_英文原声
+https://wyzy.online:55734/allinone/migu/947110684.m3u8?migutoken=9938d5aa093a74603a20b6fe895b560433fcd6dc643ac8a6295f27190def886b941135a521fb3cd0b09017688edd60e84d6de4bd1221d453c75a83d5cf19f8ad2cdb8e12fa428b0e2b4ada39d9
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:25_NBA常规赛_太阳VS篮网_王冠证
+https://wyzy.online:55734/allinone/migu/947110858.m3u8?migutoken=93d4d60087f1b20237868688cd12c96d8b5ccc157a67f4209d2cb32d2cf42bef41d42dfe873fd15e618d47c8b6022ac8757bb64058db906bb631307305dac4b0b9cec25ec5a66c6d58b7c3b0a7
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:25_NBA常规赛_太阳VS篮网_英文原声
+https://wyzy.online:55734/allinone/migu/947110868.m3u8?migutoken=c04cd84b55606804df3e209cc769b837e888ba87f611d75b395c28e1650ddffd88c1cbadfbf9b57a1e531c99e46b4ce65e1787bf15010ad980bf4d65069183eca17c974c21b52a73fbe54cc084
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:15_NBA常规赛_森林狼VS独行侠_连睿 周鹏 秋童
+https://wyzy.online:55734/allinone/migu/947110926.m3u8?migutoken=15e591ec4372db6e86eca7ef638d38aee62920915c3ddf7603e3e84a4b83c3725c4fcac55c3fc20557e00833835e90b909508966ea71d3babe0a25dbe39f5c1b48a3607e7fc8d19b6d680fd29a
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:25_NBA常规赛_森林狼VS独行侠_英文原声
+https://wyzy.online:55734/allinone/migu/947110983.m3u8?migutoken=c5067bb6574cada5a9e4f0af8cd1bd1f632558767c501244cd136e8dad0ecc0062b12ba3ffca391282e11f2fa6e8f27c1c2f9926c76f14bd6572b296ee0c3f422eacfadc6478ab068e75925c7b
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:55_NBA常规赛_骑士VS火箭_陈鑫隆
+https://wyzy.online:55734/allinone/migu/947111049.m3u8?migutoken=bdf0f3cd1b502bedd2c46bee8451bacd76b0e5ed42a64b88efaeb5511dbbf97e703806470082f3c92842dfe42cb69530a05dda9027018defb2412b659cb0c2b2e0f20f6a4e0a26c920025d2a76
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:55_NBA常规赛_骑士VS火箭_英文原声
+https://wyzy.online:55734/allinone/migu/947111078.m3u8?migutoken=41cb501dae54fd99c3ceb2af11c1a4f3210e8804f10be1f665f5020e41922f417e073819a6c29456056f868563347b499afa312a30f4f63f448621b06260e0c0af2b5af7a9922ceb87f03f6790
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:55_NBA常规赛_爵士VS雷霆_罗森
+https://wyzy.online:55734/allinone/migu/947111285.m3u8?migutoken=e9be9107548993a37645cd8bdf6c727922b499aadac9ae151f089f952a1207cdcb552db8bcbc88afdf1e3e555aaaaddeb2343f3d925180c50620da0adbfe5f99cd79e8447e3c3d5654daebf01a
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:55_NBA常规赛_爵士VS雷霆_英文原声
+https://wyzy.online:55734/allinone/migu/947111297.m3u8?migutoken=b076777ac1ee0a85447b7b2346906fd168e1f21b22412e12b2b3efb06113411f4dfd4545caa719d9ea2fa6ed031abadfa48d29e2c8926d69e790fda9ea5f116b803dccb77a0e137b36606e0505
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/01 08:00_NBA常规赛_黄蜂VS灰熊_24-25赛季NBA常规赛全场集锦：黄蜂120:132灰熊（20250123）
+https://wyzy.online:55734/allinone/migu/947447295.m3u8?migutoken=6b6459f9db30d90a9b771f05d0228d56556baeed107713fc51c94fca46cb4837463b61369c778d07005ea012f61c9387c823f5ab339a386fd44d99a74c79fd3474bdd325e88c1d28883550afc9
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:55_NBA常规赛_黄蜂VS灰熊_刘芳宇
+https://wyzy.online:55734/allinone/migu/947111180.m3u8?migutoken=99106a18777f0b7b69cbe8db20c53003aa7d2847e858f449e71f4518d1fd415fe4e3b384016764effad637f7adb6c0bd7a98869b1168554f0ab26b45ddaaefc6421041ffe6e6ecabad1d56351a
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 08:55_NBA常规赛_黄蜂VS灰熊_英文原声
+https://wyzy.online:55734/allinone/migu/947111195.m3u8?migutoken=d771586e15174af666656be2d8265bf4caa58d6d911b3d98722ef2c672c5c339bc0a9bcadb1df823ccfc5dcdfa771966144b6e13dd63e9f9a1e8246f4c77f78b969f0b894c48f1f10094195d5b
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 10:55_NBA常规赛_勇士VS国王_孙博 季孟年
+https://wyzy.online:55734/allinone/migu/947111328.m3u8?migutoken=247fbd4f7577c59797e3552d57a2c78b2508ae801c5d2380c2849e498f596f5c0db5ed74d48576ef464f316b5d16acddc4bb6d69a7fe4ba50a7250ee76008a968583ec7f2e8f67db9bb80a6850
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 10:55_NBA常规赛_勇士VS国王_拜月宁
+https://wyzy.online:55734/allinone/migu/947111349.m3u8?migutoken=380ad220a1adfb05b14ca28b6dbb1334cc5d68c59bca272dadb37f905416abae6755c8b8ea087259b4d9eac22cb70c546223611a63206a1461883a428d50229ecb23d231ad4f73c98d06bf5a0f
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 10:55_NBA常规赛_勇士VS国王_英文原声
+https://wyzy.online:55734/allinone/migu/947111367.m3u8?migutoken=5650343eb775cc4b359595634ce728e2b7d02a6237260be0b62d83e2ff598f9f0141decd46af94be94472449ab7c88fb932321378ea8cd36beba37833f06381589b8e692f3b2fd1218405759b7
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 11:15_NBA常规赛_凯尔特人VS快船_李天宇 陈正昊 王羽希
+https://wyzy.online:55734/allinone/migu/947225216.m3u8?migutoken=0dbe495addf1cdadb1a15dee833894dca34a200b352f4f41d2462213ba4b5be3eff3f05313051becbf6895d6b0fa71eca3b04e836549c5f3ac2bab72cf7fdffa0c2e61dacb77acdf5a2a17f57c
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 11:15_NBA常规赛_凯尔特人VS快船_蔡凯臣
+https://wyzy.online:55734/allinone/migu/947110468.m3u8?migutoken=1f9dcc3615f54c073403de89e1e2f439b849fde7451b6a7c8f9001b22f8b934bab9f1d7746367d602f19cd65ed39fa3ff8b5ac82c27c80938c181573bb15cddb20dd907d5c28bf09d5a1b4f47c
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/23 11:25_NBA常规赛_凯尔特人VS快船_英文原声
+https://wyzy.online:55734/allinone/migu/947110447.m3u8?migutoken=284f20ed1608b63cce1b7672ab833eddaff594197240c28b2c746bad441b701be1cb59363a2d7b68a2e60a79edc3ab01b8d86b3e6d94e8dd14085b2499d027d8ea5a040d49270e166613ac12c7
