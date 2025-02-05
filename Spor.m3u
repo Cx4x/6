@@ -5,6 +5,164 @@ https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/TNT_SPORTS_1.png" group-title="BeeSport", TNT SPORTS 1
+https://py.doube.eu.org/BeeSport?pid=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/TNT_SPORTS_2.png" group-title="BeeSport", TNT SPORTS 2
+https://py.doube.eu.org/BeeSport?pid=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/TNT_SPORTS_3.png" group-title="BeeSport", TNT SPORTS 3
+https://py.doube.eu.org/BeeSport?pid=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/TNT_SPORTS_4.png" group-title="BeeSport", TNT SPORTS 4
+https://py.doube.eu.org/BeeSport?pid=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_FOOTBALL.png" group-title="BeeSport", SKY SPORTS FOOTBALL
+https://py.doube.eu.org/BeeSport?pid=5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_MAIN_EVENT.png" group-title="BeeSport", SKY SPORTS MAIN EVENT
+https://py.doube.eu.org/BeeSport?pid=6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_PREMIER_LEAGUE.png" group-title="BeeSport", SKY SPORTS PREMIER LEAGUE
+https://py.doube.eu.org/BeeSport?pid=7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_ACTION.png" group-title="BeeSport", SKY SPORTS ACTION
+https://py.doube.eu.org/BeeSport?pid=8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_MIX.png" group-title="BeeSport", SKY SPORTS MIX
+https://py.doube.eu.org/BeeSport?pid=9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_ARENA.png" group-title="BeeSport", SKY SPORTS ARENA
+https://py.doube.eu.org/BeeSport?pid=10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_NEWS.png" group-title="BeeSport", SKY SPORTS NEWS
+https://py.doube.eu.org/BeeSport?pid=11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_CRICKET.png" group-title="BeeSport", SKY SPORTS CRICKET
+https://py.doube.eu.org/BeeSport?pid=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Sky_Sports_Tennis.png" group-title="BeeSport", Sky Sports Tennis
+https://py.doube.eu.org/BeeSport?pid=13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_F1.png" group-title="BeeSport", SKY SPORTS F1
+https://py.doube.eu.org/BeeSport?pid=14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_GOLF.png" group-title="BeeSport", SKY SPORTS GOLF
+https://py.doube.eu.org/BeeSport?pid=15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_RACING.png" group-title="BeeSport", SKY SPORTS RACING
+https://py.doube.eu.org/BeeSport?pid=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/BEIN_SPORTS_USA.png" group-title="BeeSport", BEIN SPORTS USA
+https://py.doube.eu.org/BeeSport?pid=17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/TENNIS_CHANNEL.png" group-title="BeeSport", TENNIS CHANNEL
+https://py.doube.eu.org/BeeSport?pid=18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/LALIGA_TV_HD.png" group-title="BeeSport", LALIGA TV HD
+https://py.doube.eu.org/BeeSport?pid=19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/HBO_1.png" group-title="BeeSport", HBO 1
+https://py.doube.eu.org/BeeSport?pid=20
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/HBO_2.png" group-title="BeeSport", HBO 2
+https://py.doube.eu.org/BeeSport?pid=21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Discovery_Channel.png" group-title="BeeSport", Discovery Channel
+https://py.doube.eu.org/BeeSport?pid=22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Discovery_Life.png" group-title="BeeSport", Discovery Life
+https://py.doube.eu.org/BeeSport?pid=23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Cinemax_West.png" group-title="BeeSport", Cinemax West
+https://py.doube.eu.org/BeeSport?pid=24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Great_Movies.png" group-title="BeeSport", Great Movies
+https://py.doube.eu.org/BeeSport?pid=25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Sky_Cinema_Comedy.png" group-title="BeeSport", Sky Cinema Comedy
+https://py.doube.eu.org/BeeSport?pid=26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Sky_Cinema_Family.png" group-title="BeeSport", Sky Cinema Family
+https://py.doube.eu.org/BeeSport?pid=27
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Cartoon_Network.png" group-title="BeeSport", Cartoon Network
+https://py.doube.eu.org/BeeSport?pid=28
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Virgin_2.png" group-title="BeeSport", Virgin 2
+https://py.doube.eu.org/BeeSport?pid=29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Virgin_3.png" group-title="BeeSport", Virgin 3
+https://py.doube.eu.org/BeeSport?pid=30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Virgin_1.png" group-title="BeeSport", Virgin 1
+https://py.doube.eu.org/BeeSport?pid=31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/DAZN.png" group-title="BeeSport", DAZN
+https://py.doube.eu.org/BeeSport?pid=32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Bein_Sports_English_2.png" group-title="BeeSport", Bein Sports English 2
+https://py.doube.eu.org/BeeSport?pid=33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SuperSport_Premier_League.png" group-title="BeeSport", SuperSport Premier League
+https://py.doube.eu.org/BeeSport?pid=34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SuperSport_LaLiga.png" group-title="BeeSport", SuperSport LaLiga
+https://py.doube.eu.org/BeeSport?pid=35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SuperSport_Action.png" group-title="BeeSport", SuperSport Action
+https://py.doube.eu.org/BeeSport?pid=36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SuperSport_Blitz.png" group-title="BeeSport", SuperSport Blitz
+https://py.doube.eu.org/BeeSport?pid=37
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SuperSport_Cricket.png" group-title="BeeSport", SuperSport Cricket
+https://py.doube.eu.org/BeeSport?pid=38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SuperSport_Football.png" group-title="BeeSport", SuperSport Football
+https://py.doube.eu.org/BeeSport?pid=39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SuperSport_Golf.png" group-title="BeeSport", SuperSport Golf
+https://py.doube.eu.org/BeeSport?pid=40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SuperSport_Rugby.png" group-title="BeeSport", SuperSport Rugby
+https://py.doube.eu.org/BeeSport?pid=41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/SuperSport_Tennis.png" group-title="BeeSport", SuperSport Tennis
+https://py.doube.eu.org/BeeSport?pid=42
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Variety_1.png" group-title="BeeSport", Variety 1
+https://py.doube.eu.org/BeeSport?pid=43
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Variety_2.png" group-title="BeeSport", Variety 2
+https://py.doube.eu.org/BeeSport?pid=44
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Variety_3.png" group-title="BeeSport", Variety 3
+https://py.doube.eu.org/BeeSport?pid=45
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Variety_4.png" group-title="BeeSport", Variety 4
+https://py.doube.eu.org/BeeSport?pid=46
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Eurosport_1.png" group-title="BeeSport", Eurosport 1
+https://py.doube.eu.org/BeeSport?pid=47
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Eurosport_2.png" group-title="BeeSport", Eurosport 2
+https://py.doube.eu.org/BeeSport?pid=48
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Premier_Sports_1.png" group-title="BeeSport", Premier Sports 1
+https://py.doube.eu.org/BeeSport?pid=49
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Premier_Sports_2.png" group-title="BeeSport", Premier Sports 2
+https://py.doube.eu.org/BeeSport?pid=50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Golf_Channel.png" group-title="BeeSport", Golf Channel
+https://py.doube.eu.org/BeeSport?pid=51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/MLB_Network.png" group-title="BeeSport", MLB Network
+https://py.doube.eu.org/BeeSport?pid=52
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/NBA_TV.png" group-title="BeeSport", NBA TV
+https://py.doube.eu.org/BeeSport?pid=53
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/NFL_Network.png" group-title="BeeSport", NFL Network
+https://py.doube.eu.org/BeeSport?pid=54
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/NFL_REDZONE.png" group-title="BeeSport", NFL REDZONE
+https://py.doube.eu.org/BeeSport?pid=55
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/NHL_Network.png" group-title="BeeSport", NHL Network
+https://py.doube.eu.org/BeeSport?pid=56
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/WWE.png" group-title="BeeSport", WWE
+https://py.doube.eu.org/BeeSport?pid=57
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Willow_Cricket.png" group-title="BeeSport", Willow Cricket
+https://py.doube.eu.org/BeeSport?pid=58
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Willow_Extra.png" group-title="BeeSport", Willow Extra
+https://py.doube.eu.org/BeeSport?pid=59
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/World_Fishing_Network.png" group-title="BeeSport", World Fishing Network
+https://py.doube.eu.org/BeeSport?pid=60
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/ESPN.png" group-title="BeeSport", ESPN
+https://py.doube.eu.org/BeeSport?pid=61
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/ESPN_2.png" group-title="BeeSport", ESPN 2
+https://py.doube.eu.org/BeeSport?pid=62
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/ESPN_News.png" group-title="BeeSport", ESPN News
+https://py.doube.eu.org/BeeSport?pid=63
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/ESPN_U.png" group-title="BeeSport", ESPN U
+https://py.doube.eu.org/BeeSport?pid=64
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/ITV_1.png" group-title="BeeSport", ITV 1
+https://py.doube.eu.org/BeeSport?pid=65
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/ITV_2.png" group-title="BeeSport", ITV 2
+https://py.doube.eu.org/BeeSport?pid=66
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/ITV_3.png" group-title="BeeSport", ITV 3
+https://py.doube.eu.org/BeeSport?pid=67
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/ITV_4.png" group-title="BeeSport", ITV 4
+https://py.doube.eu.org/BeeSport?pid=68
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/MUTV.png" group-title="BeeSport", MUTV
+https://py.doube.eu.org/BeeSport?pid=69
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/LFC_TV.png" group-title="BeeSport", LFC TV
+https://py.doube.eu.org/BeeSport?pid=70
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/FOX_NEWS.png" group-title="BeeSport", FOX NEWS
+https://py.doube.eu.org/BeeSport?pid=71
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/ACC_Network.png" group-title="BeeSport", ACC Network
+https://py.doube.eu.org/BeeSport?pid=72
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Fight_Network.png" group-title="BeeSport", Fight Network
+https://py.doube.eu.org/BeeSport?pid=73
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/CBS_Sports_Network.png" group-title="BeeSport", CBS Sports Network
+https://py.doube.eu.org/BeeSport?pid=74
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/CNBC.png" group-title="BeeSport", CNBC
+https://py.doube.eu.org/BeeSport?pid=75
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Fox_Sports_1.png" group-title="BeeSport", Fox Sports 1
+https://py.doube.eu.org/BeeSport?pid=76
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo.doube.eu.org/beesport/Fox_Sports_2.png" group-title="BeeSport", Fox Sports 2
+https://py.doube.eu.org/BeeSport?pid=77
+
+
+
 #EXTINF:-1 tvg-id="755394" tvg-name="UK: Eurosport 1" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="海外体育 ②",UK: Eurosport 1
 http://ua-iptv.com:8080//Balcony11/8036405556/755394
 #EXTINF:-1 tvg-id="755395" tvg-name="UK: Eurosport 2" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="海外体育 ②",UK: Eurosport 2
