@@ -1,6 +1,7 @@
-
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/08 03:45_足总杯第四轮比赛_曼联 vs 莱斯特城_詹俊 张路
-http://live.20191209.xyz:5888/migu/947965325.m3u8?migutoken=6355da8351c2a0ab876d40693ecda770a40c6e8f23ef796040a632acab0b8a6c76c31ddd47496b7aa81343215e4d671a05befa3c3594a4e3935c6457019122ecab26e144ce2e5265fd3eb370
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/09 01:35_足总杯第四轮比赛_伯明翰 vs 纽卡斯尔联_苗锟
+http://live.20191209.xyz:5888/migu/947966716.m3u8?migutoken=ff53bba2eaef88d4cd8a528a33f25a86c6f38265c51182381beea36b44a3ad2bd6c6691b85cb23774f4d5ad037dad684fab78196ac676de1a5236465e87702ceb724cf9b6d879c7954d0f80e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/09 03:45_足总杯第四轮比赛_布莱顿 vs 切尔西_娄一晨 刘越
+http://live.20191209.xyz:5888/migu/947967405.m3u8?migutoken=074ce477d197d964e92b404c6c6d066d42cc2b399577acf9e342147c78766fe995d4acccada9b0be6f3c999dfc2a060c6252770270db65b5912a20afa60b6d1f7c9916b4b63d6e6c901e6ba0
 
 
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,http://epg2.733240.com/xmltv/epg_TW.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml"
