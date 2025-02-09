@@ -1,7 +1,11 @@
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/09 01:35_足总杯第四轮比赛_伯明翰 vs 纽卡斯尔联_苗锟
-http://live.20191209.xyz:5888/migu/947966716.m3u8?migutoken=ff53bba2eaef88d4cd8a528a33f25a86c6f38265c51182381beea36b44a3ad2bd6c6691b85cb23774f4d5ad037dad684fab78196ac676de1a5236465e87702ceb724cf9b6d879c7954d0f80e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/09 03:45_足总杯第四轮比赛_布莱顿 vs 切尔西_娄一晨 刘越
-http://live.20191209.xyz:5888/migu/947967405.m3u8?migutoken=074ce477d197d964e92b404c6c6d066d42cc2b399577acf9e342147c78766fe995d4acccada9b0be6f3c999dfc2a060c6252770270db65b5912a20afa60b6d1f7c9916b4b63d6e6c901e6ba0
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/09 20:20_足总杯第四轮比赛_布莱克本 vs 狼队_刘畅
+http://live.20191209.xyz:5888/migu/947966828.m3u8?migutoken=dbb6575da963ad90ae4530113eb2a03386b405d04d8ef2c74ffe689e92e85f43fd7fe038682fde9958c4af82d9f762e6b6efe5a8f968904b74313e2a726093f5ff855850a188a3f53275756e
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/09 22:50_足总杯第四轮比赛_普利茅斯 vs 利物浦_刘焕
+http://live.20191209.xyz:5888/migu/947966913.m3u8?migutoken=8cbd86f493b202d13484bee447f2b19c209e5270cc6c5d06a3b71c7516e9fccea0558e659c42bafce9a99b3eac23bcc314ec04c86d44b2ce84e1d4bf0a732832e15e530c9a54dce20e0e5e80
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/10 01:20_足总杯第四轮比赛_阿斯顿维拉 vs 托特纳姆热刺_苏东 徐阳 林梦鸽
+http://live.20191209.xyz:5888/migu/947967040.m3u8?migutoken=52f5f750d6f4677449066a5a290b5771eac3c2f65807466bb27f4525716ed531c954a2a366deba1b8ddaf476f21f5dc5c1f2985c6dbf96f7d8bffcbe0e05d19540a99ec9a0307369cc26ac36
 
 
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,http://epg2.733240.com/xmltv/epg_TW.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml"
