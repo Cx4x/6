@@ -1,18 +1,9 @@
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/09 20:20_足总杯第四轮比赛_布莱克本 vs 狼队_刘畅
-http://live.20191209.xyz:5888/migu/947966828.m3u8?migutoken=dbb6575da963ad90ae4530113eb2a03386b405d04d8ef2c74ffe689e92e85f43fd7fe038682fde9958c4af82d9f762e6b6efe5a8f968904b74313e2a726093f5ff855850a188a3f53275756e
-
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/09 22:50_足总杯第四轮比赛_普利茅斯 vs 利物浦_刘焕
-http://live.20191209.xyz:5888/migu/947966913.m3u8?migutoken=8cbd86f493b202d13484bee447f2b19c209e5270cc6c5d06a3b71c7516e9fccea0558e659c42bafce9a99b3eac23bcc314ec04c86d44b2ce84e1d4bf0a732832e15e530c9a54dce20e0e5e80
-
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 02/10 01:20_足总杯第四轮比赛_阿斯顿维拉 vs 托特纳姆热刺_苏东 徐阳 林梦鸽
-http://live.20191209.xyz:5888/migu/947967040.m3u8?migutoken=52f5f750d6f4677449066a5a290b5771eac3c2f65807466bb27f4525716ed531c954a2a366deba1b8ddaf476f21f5dc5c1f2985c6dbf96f7d8bffcbe0e05d19540a99ec9a0307369cc26ac36
-
-
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,http://epg2.733240.com/xmltv/epg_TW.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml"
 #EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" group-title="🔆请开启魔法观看🔆",🔆请开启魔法观看🔆
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 #EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" group-title="🔆请开启魔法观看🔆",🔆请开启魔法观看🔆
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
+
 
 
 
