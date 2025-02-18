@@ -32,8 +32,10 @@ http://live.20191209.xyz:5888/migu/948569418.m3u8?migutoken=db76f82a92082e48f159
 http://live.20191209.xyz:5888/migu/948569265.m3u8?migutoken=a87b23bb384b415caf8540cacc4cf4d694c10b778a4a79cbba95347672188189a8964400de00d5af93baeac4a9870d53bae340195660d361f3e5dcbd702a30526649c0ab9c12917fb9f651e2
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚冠精英", 02/18 19:50_亚冠精英联赛阶段_柔佛新山 vs 浦项制铁_刘焕
 http://live.20191209.xyz:5888/migu/948490917.m3u8?migutoken=c7e31f8e4826c79f7120c0ec7a54afdec3b5cfd5f64d97b8653b0a8c5534a7c57f0d1df066dd846d3c565ef39e92d13ad8bb6feb34701d36435a626e1c13e08944da50d7c7d3ee7d0dfe2912
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚冠精英", 02/18 19:45_亚冠精英联赛阶段_上海申花 vs 神户胜利船_涂远 马延峰 孙蕊
-http://live.20191209.xyz:5888/migu/948490988.m3u8?migutoken=28bac0e3f1140bb5a237688ebc2d06f09a2f1200421e30445983d99b4d7bea7c806a6897d6e2c46c5e8039c279860afbb18429c9da59f6963720c663bb269ad0189a3123f191bbb0eb70820a
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚精英赛", 02/18 19:45_亚冠精英联赛阶段_上海申花 vs 神户胜利船_涂远 马延峰 孙蕊 1
+http://dx.hebiu.cn/migu/948490988.m3u8?migutoken=b4ec4c5c2d71da36448bb9a615f532f43b87ad45d5aeb308b7831861a910037ecb946f4c7dd5fb8927f3a5aae8c2eb7136e1d1cf78a18d8110ecdb9a2c3aa73c46287ec3c8945c4584a1f576
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚精英赛", 02/18 19:45_亚冠精英联赛阶段_上海申花 vs 神户胜利船_涂远 马延峰 孙蕊 2
+http://live.20191209.xyz:5888/migu/948490988.m3u8?migutoken=1929faa3aca4349ef25cc7f7b6feac713cfe6f2733f0187454028d9a0c83aba91715abcc3f4f7b609a649ddd72410720beebcb9187503f601290d9851d5a25cfc5e500b5c2d2a289ee122e4d
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 02/18 19:50_WCBA常规赛A组_新疆国达氢 VS 山东赤水河酒_解说
 http://live.20191209.xyz:5888/migu/948570553.m3u8?migutoken=d1759aff354b0de7e3270f180240ae113907aa058297eeecfaed0f3c75ab8c3aac39cfec1372a3d15c7b3e00ded8e7e9550d3bebd268e25eae3a080c67ceac044b7333f5898f3c3b181109a0
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 02/18 21:50_亚冠二级八分之一决赛_大不里士拖拉机 vs 哈列迪亞_王子睿
