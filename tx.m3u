@@ -1,10 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="2025-02-24 01:09:23" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2025-02-24 01:09:23
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/160000.png" group-title="男篮非洲杯预选赛", 2025-02-23 18:00:00_男篮非洲杯预选赛_几内亚 vs 肯尼亚
 http://dx.hebiu.cn/txsport/160014:118783/296993/1382739200.m3u8?txtoken=e2304a23561ec3ab216933309c1557e5311ea30d508d4973aeffcb547d09939ee7dd9bf48c49acd8dad5fdc07e7a32e29d6d4d1a29fb19f117a18040b6802cf50f1452dc06e0f64f4c1ad27d5776a5caad60b7272e7579e06771ae112fdffe1088cb7b707593a357f7be6061f52b3a8c4f5360008d11b214c718b34a57
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/160000.png" group-title="男篮亚洲杯预选赛", 2025-02-23 18:00:00_男篮亚洲杯预选赛_韩国 vs 印尼
