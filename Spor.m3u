@@ -371,6 +371,7 @@ http://doubleclicktv.live/70376812/52663544/271130
 #EXTINF:-1 tvg-id="271140" tvg-name="Apple TV+ Series info" tvg-logo="https://iili.io/wwppKG.md.png" group-title="☀️APPLE+PPV☀️",Apple TV+ Series info
 http://doubleclicktv.live/70376812/52663544/271140
 
+
 #EXTINF:-1 tvg-id="1001368" tvg-name="UK: SKY SPORTS Action/NFL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="☀️天空体育-①☀️",UK: SKY SPORTS Action/NFL
 http://ua-iptv.com:8080//Balcony11/8036405556/1001368
 #EXTINF:-1 tvg-id="1001369" tvg-name="UK: SKY SPORTS Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="☀️天空体育-①☀️",UK: SKY SPORTS Arena
@@ -421,6 +422,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7341/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7338/index.m3u8
 #EXTINF:-1 tvg-name="UK-4K: SKY SPORTS CRICKET" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpCricket_HD.png" group-title="☀️天空体育-②☀️",SKY SPORTS CRICKET
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7343/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Eleven_1_HD.png" group-title="☀️ELEVEN体育☀️",ELEVEN SPORTS 4K [葡语]
@@ -681,7 +683,7 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1608071&e
 
 #EXTINF:-1 tvg-id="1000093" tvg-name="US: UFC FIGHT PASS 24/7" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="🇺🇸美国体育🇺🇸",US: UFC FIGHT PASS 24/7
 http://ua-iptv.com:8080//Balcony11/8036405556/1000093
-#EXTINF:-1 tvg-id="759577" tvg-name="US WWE Network (PC)" tvg-logo="https://i.postimg.cc/9QzrVKdy/peacock.png" group-title="PEACOCK",US WWE Network (PC)
+#EXTINF:-1 tvg-id="759577" tvg-name="US WWE Network (PC)" tvg-logo="https://i.postimg.cc/9QzrVKdy/peacock.png" group-title="🇺🇸美国体育🇺🇸",US WWE Network (PC)
 http://ua-iptv.com:8080//Balcony11/8036405556/759577
 #EXTINF:-1 tvg-id="999992" tvg-name="US:  ACC NETWORK" tvg-logo="https://i.ibb.co/BVNRjXc/acc-network-us.png" group-title="🇺🇸美国体育🇺🇸",US:  ACC NETWORK
 http://ua-iptv.com:8080//Balcony11/8036405556/999992
