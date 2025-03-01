@@ -1,183 +1,97 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="2025-03-01 12:01:52" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2025-03-01 12:01:52
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 02/28 19:00_CBA全明星周末特辑_CBA全明星周末特辑_蔡凯臣 霍楠 裴优
-http://dx.hebiu.cn/migu/949349542.m3u8?migutoken=14e0d0a2b86c3c4f605f10e2f901d95c5ad61a91fbcbd85ca0aaae030fe11c7a26ffbbfcb60313764749a306070f9303a3600d42cfba00420cd45e6ec675cb206653121172d416fec3eabded
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 02/28 14:00_希金斯逆转舒尔第 奥康纳6-3卡特_希金斯逆转舒尔第 奥康纳6-3卡特_1号桌
-http://dx.hebiu.cn/migu/948722896.m3u8?migutoken=10527245e4a036194f38dd58dfd891f898c7fdb0b1b730c71125da220b56fb5a1f6ac87092364fd4312bb21c6c4067376e878a6541b8d8162f620650d2b0e8c6d6875ddfb1c4bc32875ddb36
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 02/28 19:20_WCBA16进8决赛_石家庄英励 VS 山东赤水河酒_解说
-http://dx.hebiu.cn/migu/949303223.m3u8?migutoken=8da92a07004fabcd87024bac8498554117fc242ec4d87459b5e1df3eb01ec85c45181dba4c539c81dfe21133577f60fcf31aba7cb8c67f9c363fae6dbc05c19262dd382ee786bf6db55c3fe6
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 02/28 19:20_WCBA16进8决赛_武汉盛帆黄鹤 VS 山西竹叶青酒_解说
-http://dx.hebiu.cn/migu/949304370.m3u8?migutoken=4e7c4b821b0f65af28d8f383c4adc6d54943d6ddc0959aeb5ab9fab18ad0b9e6663aa1fc0d8a3fc5b1435c632ef36001bbde97fad44892836c796f0186657aa44f3a71eef157faf79e7c151f
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 02/28 19:20_WCBA16进8决赛_福建晋江众腾 VS 上海浦发银行_解说
-http://dx.hebiu.cn/migu/949304227.m3u8?migutoken=b5c19b3971f97407c8c033e8b0f0b8653b05c9158241b6a06dc724fed9e27aab1bf3eeaacd6e18f30c894aba1bcf33188100da8a5c2b276e6e5475a3b430291dc876ce850a1046c5b59182e3
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 02/28 19:20_WCBA16进8决赛_陕西天泽 VS 内蒙古农信_解说
-http://dx.hebiu.cn/migu/949303993.m3u8?migutoken=3dddd56c5a39f67f98a90586bfe4fac96acc944fd8ce8e3f87edd562431960037354209927acc1dae8967af1079a6f1e6868c737cb6fa0169a19db13faac354d9b8f640308726e5284494cab
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 02/28 19:20_WCBA16进8决赛_黑龙江上东 VS 四川蜀道远达_解说
-http://dx.hebiu.cn/migu/949304648.m3u8?migutoken=7e929f2b63ca9677ff8540e0c46adbf41d33ff4252fc37bc31d11cb9114485d607428493f5945726f7c782276982ae1133fd16e1abea146191f93e756cb0607a0c88acd20bff60877936ecd7
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 02/28 19:20_WCBA16进8决赛_河南豫光金铅 VS 东莞新彤盛_解说
-http://dx.hebiu.cn/migu/949303408.m3u8?migutoken=dcc958fbc556b03998fa89b931c43d6f9b5a7a4b45984582abde2e32cf52401a2650446c16f0c072d08d748d705a4d2c73f4fc26bd402b8c3ad1071d6b89f62c015f7ac8e001065d3cd05335
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 02/28 19:20_WCBA16进8决赛_江苏南钢 VS 北京首钢园_解说
-http://dx.hebiu.cn/migu/949304507.m3u8?migutoken=4ff40f3e53f6aa4b8efe2ce37fba131b81e50d67bfc3271d9643b1cc112086c5ca3a4e9f2026c121aea7528f0348cb6a000b5baf4883d4e6c51002222d7822da589da5bf100a4aa717365074
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 02/28 19:00_中超联赛_上海海港 vs 长春亚泰_苏东 杨晨
-http://dx.hebiu.cn/migu/949353307.m3u8?migutoken=8637ed30525a816cb0ad5bb1b837f68279108e759a55d3f17a8aa5612dc0d852e5334cf804ec59a4314fe3b2dcf939529af3ab45a47322d56654cdcb540c81137b31a2323104147834a30ea7
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 01/01 08:00_中超联赛_上海海港 vs 长春亚泰_CCTV5+
-http://dx.hebiu.cn/migu/750391830.m3u8?migutoken=b50be45157b2fa0d92d2803106b7730371330dd1cd5a3dfb78214f5aa99c291ddc5827d90b5c2f7e4ff75e2682682724d2c38cf8d24cb7473de0ee13c789ab62b1fb4a1a0338999166bc925b
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 02/28 19:20_中超联赛_上海海港 vs 长春亚泰_赛场原声
-http://dx.hebiu.cn/migu/949353183.m3u8?migutoken=b00f8140e3d43171750dc91fc11547cab48c1ff584e06137849a3fc8f2d2d07979a42881c50c5e51b54abb5bd8914cbe9c49078f6860979e855774a0fa23b67ad0dadbd6128211c999ac92a1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 02/28 19:35_中超联赛_上海海港 vs 长春亚泰_智能解说
-http://dx.hebiu.cn/migu/949457763.m3u8?migutoken=d5f08124cacc90474b5546229aeefcd3288f3714fc097902be8dffe503766e2a82b4491a7c9bcf857f43759cf15b97a9482d46edeeb1e9a6255c7c069a0d39a609d8db32cc412ccf8af2ffe2
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 02/28 20:00_成都AG超玩会 vs 深圳KLG_成都AG超玩会 vs 深圳KLG_官方解说
-http://dx.hebiu.cn/migu/948853172.m3u8?migutoken=a9c9879834294ab615891954568ca4c26e67554b8f7ab50e54b3b4097757d741df01cac6f221c5cb5168d6128ddc91b9e7885fd712c543d089454df14bf2bca9e50738002272d8b8671eb549
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 02/28 19:50_WCBA16进8决赛_新疆国达氢 VS 浙江稠州银行_解说
-http://dx.hebiu.cn/migu/949303746.m3u8?migutoken=99414427e577285600268c614ca4518df465d9f9a4e1b728fbec2b96a1465a79c6452d18100b88c180f5e19906239cb106ebd177741f420e7727552f37d93b57cdff4bc18cc7f8c5c1ff0e1c
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/9/100000001234106dc4ef.png" group-title="WTA", 03/01 02:00_佩古拉 2-0 布林科娃_佩古拉 2-0 布林科娃_赛场原声
-http://dx.hebiu.cn/migu/949239185.m3u8?migutoken=cadbd981ebd3f07a2d088f438d63fde1a0bc7630c760d496aa39fa6d6396ab58a7f2008b4b9bf5df2d6f16acc51821f4ef9c496655448c7dfb250b5f575a3c2aaca2b152840cd202632631cb
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 03/01 03:15_德甲联赛_斯图加特 vs 拜仁慕尼黑_涂远 张力
-http://dx.hebiu.cn/migu/949357240.m3u8?migutoken=24a83f2cd1585fad91fc980d0cefb84e4d02edc0d7628e96f54044e87714d904bc18d7becc8baf0bc1749efb4c44bd20bcbaeef70c00f96e3429c224556ec8df3efbeddc35863d664b525265
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 03/01 03:15_德甲联赛_斯图加特 vs 拜仁慕尼黑_涂远 张力
-http://dx.hebiu.cn/migu/949450774.m3u8?migutoken=30a48690ad1b981a6fd0db92a0a60b208919206a3c2918ed65135ed879834632642390ee45ab3977734ee89299717cdea9280e91b05ed1d22d065a6866b248c1c9f4b9d2682030bbe92b14da
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 03/01 03:35_法甲联赛_摩纳哥 vs 兰斯_李秉昊
-http://dx.hebiu.cn/migu/949357931.m3u8?migutoken=ee10f1aa0933b97608f8f401fbfec40fe73b01b5157de88ec0c7171c351a6d305f868ac3ed2fbb93b2698ba18430cd0a27d148f1531dbef2952e11f969d645376cc898268086b1d435db2c78
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 03/01 03:35_意甲联赛_佛罗伦萨 vs 莱切_吴奕博
-http://dx.hebiu.cn/migu/949357534.m3u8?migutoken=7fa414e227a5911d12b64881f3949ba73166164384301f6bdb9c74e4206678d7754c1a90783e4c968139a4308707d624b7a6e5aa2aed082be64062040d2bc96635c6447c75dcd3f7e4e1e5cc
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 03/01 03:50_西甲联赛_巴拉多利德 vs 拉斯帕尔马斯_洪宇青
-http://dx.hebiu.cn/migu/949356969.m3u8?migutoken=4d1581e53aa08b505ee53c164843003231d47c57f7a30b04f21f09ed9ce66f82e57d2b9bfd14f0020c2ff9f5f034e6190316495336669ebed85502d7a2608b6a7a9a2521e435a5d8ff4ab5d9
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 03/01 03:50_足总杯第五轮比赛_阿斯顿维拉 vs 加的夫城_张天翼
-http://dx.hebiu.cn/migu/949359294.m3u8?migutoken=3e503399481c56cd140dba061663c365473783f6b00f3dcc6c586cfd44b4fc35e5fd6d48de4ebbeb13e95429f0fbd90b4d1594dcafded0c040c181ce4a115e9c3fe597e5cce178dfdc78dec4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/9/100000001234106dc4ef.png" group-title="WTA", 03/01 04:00_纳瓦罗速胜 巴多萨因伤退赛_纳瓦罗速胜 巴多萨因伤退赛_赛场原声
-http://dx.hebiu.cn/migu/948975735.m3u8?migutoken=32f7fd2546d08befaa4828f3e60bf50e3ab2615c1a9abf6dd009233e4319ea44c62acca3fad460eb11bf69e3507c87948896cd6840ebf7fe723dcf28e89a73b9a6c40b8bbfd0d249f622a62d
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 07:55_NBA常规赛_掘金VS活塞_徐秦威
-http://dx.hebiu.cn/migu/949017913.m3u8?migutoken=3280a8c1790b7cf94dd0517742b8cd6162639d90de57a7c57672d87480b1d27570e59b1e84affa0fda3b0d53bcd201034edfa4f89806f2d3b05eef46d364c5d11369ae79b1d248d1302c167c
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 08:25_NBA常规赛_骑士VS凯尔特人_蔡凯臣 季孟年
-http://dx.hebiu.cn/migu/949018536.m3u8?migutoken=15a4283bf9f80784a53c94b69f0e70091bdb130b55576abc12bb151f4e8519e59bd4a4e8317f817f5902dd1df8da1dbf9b378102b6739344055a81d3f0e020bc305eacee61f6a59049ba7ab7
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 08:25_NBA常规赛_雷霆VS老鹰_罗森
-http://dx.hebiu.cn/migu/949018292.m3u8?migutoken=32081a72f75325ccda7081f707a4369a6dc65907aad75e704a2d8a0b395c756ddd8a74a2007899af8865dfb22de05a2de6daa458d4e1798f8c51500e6e4ad844b2d1008e2071121d8cc7cb15
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 08:25_NBA常规赛_开拓者VS篮网_刘沛元
-http://dx.hebiu.cn/migu/949019112.m3u8?migutoken=cf3b75be06d980b4283ca76941be7dabbbed168e5b2025e28cbbb39f10dbcd532a1bcaa461bca1ce7dd09d576bcbe34cf9ef222e91ef7e21dd23da302d622c7ff07193381fe94ff99da63f09
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 01/01 08:00_NBA常规赛_尼克斯VS灰熊_空中圆舞曲！莫兰特抢断发动快攻空中拉杆命中
-http://dx.hebiu.cn/migu/949527503.m3u8?migutoken=e28e0debd4a5aff636985fe8b629be3f908584fd9011ed62901bdc40e6e44d130369cd09d83acb1a42568c0b2d0238d04667fd22ca5b787756a408e118bb7a0f396fd729bfe5980bd3e999e8
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 08:55_NBA常规赛_尼克斯VS灰熊_金哲豪
-http://dx.hebiu.cn/migu/949019860.m3u8?migutoken=e41b8162205c62fcd357d9630e1d451a2613dcc8885b9c587f03b2e06543be07c58004a845ad71b5b5dbe73a76c389aac3dd6764a727310173c880e219621be73767ec27916607cce82cab02
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 08:55_NBA常规赛_猛龙VS公牛_王琰博
-http://dx.hebiu.cn/migu/949019675.m3u8?migutoken=a0b75fa32dcf79584f13cdb1a0b9c9c264b1e89e6b786955d69cd70a1e4c02e849aa05b4386e1ca9ccff61d8b5777c860e96991eebed7e7b9a135e17b28e29a064372c5bb58b1aa4513da119
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 08:55_NBA常规赛_步行者VS热火_周赫
-http://dx.hebiu.cn/migu/949019430.m3u8?migutoken=bd1f070609a432b18bed8b02ce7361e8263df59e12a8a5c635d9efe3ef48ad833746e1a8d776910b25348a9905571fe4ffe2a70342191529365984e1bfa6f40867db3722fc4e4ed02a5d8ac0
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 09:55_NBA常规赛_鹈鹕VS太阳_姜帆 闫宇峰
-http://dx.hebiu.cn/migu/949020107.m3u8?migutoken=5d321ba99b8e3022b3efaf0e24041975a9e418e55ad1c5ae1fa82eae352b8530616b23ed877ba87b0eb10e0ab7a5d169c635ca58a8296ae48312c8d4c991e5e0ebd829d544f17cbefb6c59ca
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/01 10:00_2023-24赛季CBA全明星正赛回顾_2023-24赛季CBA全明星正赛回顾_解说
-http://dx.hebiu.cn/migu/949457836.m3u8?migutoken=43135249e8baf7eeecc2c29349377398f2f8e3c03a4b6754161cf5c5a44904e217f3c3fd62299348ea624659cc2779e89e77bfc6bb418eb80d70f1b163c450b2cf66d10d490b1842a4a89d86
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 10:25_NBA常规赛_森林狼VS爵士_王冠证
-http://dx.hebiu.cn/migu/949020404.m3u8?migutoken=5d36514b334566a3d07853a5f7cab41d38619a86a2d465d2c4c32bc4f87a8694c02c16ff93dac4abebc1ee7efd836cb180bd29daed4071a3893ae1bf026db82077548df0bff792d51136b1c3
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 10:45_NBA常规赛_快船VS湖人_孙博 苏群 佳依
-http://dx.hebiu.cn/migu/949020599.m3u8?migutoken=09a5af74d024aab0112e7fed04b47eb7543f20489bcc720b63b9c78b803e7e52320515c6c0cb954b1686be77e90ee84b0edf5ed4e263bdd98cacad7f40bc06b10edf0a17c8ac5f6873de3157
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 10:55_NBA常规赛_快船VS湖人_郑泽鹏
-http://dx.hebiu.cn/migu/949020805.m3u8?migutoken=980da96f3f1daef71d93c18014f61dc793b86be99369600c3f920c133e583b43d91456515490c9c9ae51f2a38c01881af3126a44f0dec807f89a6da43bc5dfe0e3ca140e4b0648939e1907ad
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 10:55_NBA常规赛_快船VS湖人_莫俊祺
-http://dx.hebiu.cn/migu/949020858.m3u8?migutoken=08a33669246cac5616367f648268f32936f5eb5c20369543d6b5d64fc0454637980b3a1b8f03465e7a68d7dbfb282e79506d6cab2bb16260bf89ca5ecfa461d81be6340a01f4029fa6a10572
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 03/01 10:55_NBA常规赛_快船VS湖人_洪荒
-http://dx.hebiu.cn/migu/949020908.m3u8?migutoken=0661e0128045178b64c581ba5b07ffa80e83b53fa2cf5147b3601313eaad41d5cd3fd605de56eb023bbead6c8a40329308d1d38a6146cd9e0d6f6d6ed84c9cff60a254055b3c7f109f33ceb4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 03/01 13:40_上海EDG.M vs 北京JDG_上海EDG.M vs 北京JDG_官方解说
-http://dx.hebiu.cn/migu/948848909.m3u8?migutoken=0ab4de197944a8cf21fe35832d7e1beac455f62a9f767eb8fb9550b19906666be27c1707b696e28435946a1618cd1a7a76f8f3c97f555fc4ae6316363e5d3891be3d2c59775de7822c7ef118
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 03/01 14:00_决赛：希金斯PK乔·奥康纳_决赛：希金斯PK乔·奥康纳_1号桌
-http://dx.hebiu.cn/migu/948722935.m3u8?migutoken=b711f9e99dd0b214c28e7918d5177e46f72a701bf01f61598aa8da3c81a1e36fe65a56bc7a5b5db6aa91acb2d3b6478eeeb120c4a8418a8c36fb8e1e85719a41250a14d5bdd8ae1126df2fd3
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 15:15_中超联赛_青岛海牛 vs 深圳新鹏城_袁甲 冯潇霆
-http://dx.hebiu.cn/migu/949353133.m3u8?migutoken=0f46669531028a6a03d407a271c0225d6d8662bcab7a94a800b5c029084f9692cd9b3b80d6be1bc9cbb73f27b10ae92a0127a76ed7f03ade14199699e83c26e2e49b52f09fe8bd75c00165e4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 15:15_中超联赛_青岛海牛 vs 深圳新鹏城_赛场原声
-http://dx.hebiu.cn/migu/949352795.m3u8?migutoken=4c0acbe3076f7329a14b65b2c68f017d0435bf57a775a0ddb2865d13620e00e5a2bfb719390a3803710730a962f38b17791aa3ed22692eb459e35703a16b097c8e8fe03d6f6156ed579e6ee7
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/01 15:15_CBA全明星赛_星锐一年级vs清华大学队_吕程 陈正昊 刘铁
-http://dx.hebiu.cn/migu/949349477.m3u8?migutoken=da74cd5dac04be8cb9f6daf65ff2bf2965a57abbc539266173c657e1944287ff35dcd01cce83cc364ea7a9dae95c830c81060aaf2e0c848d9ad12cb0ec938ecaa679e604055e83ce8d2b9195
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/01 15:30_CBA全明星赛_星锐一年级vs清华大学队_现场原声
-http://dx.hebiu.cn/migu/949349407.m3u8?migutoken=14086cef9250484cc982a77bee999fdb4cdebedb4eaae293183f52021361f0232dadbeb8e8cc1bf1bf755b2e5e8db734507a5e9a71db3b552d364ba8caa9ae7cd9f7a47ce8078b8ed10a2614
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/01 15:30_CBA全明星赛_星锐一年级vs清华大学队_吕程 陈正昊 刘铁
-http://dx.hebiu.cn/migu/949506120.m3u8?migutoken=17a24b14e5c704622515538f022e924c66cb20b0cf2babf578e9d7153f1f0b61b00550540c788e9fb1e4db5cf60518660bd7e1f976f974c8f09e7e319154505b9c7130732ea93a4123fc91b6
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 03/01 17:00_苏州KSG vs 佛山DRG_苏州KSG vs 佛山DRG_官方解说
-http://dx.hebiu.cn/migu/948849533.m3u8?migutoken=d085a92166e39682f56ddb812f3ccb2b814df89db7cea8cc9af0b12c6f3bcf531f7f41ad0d49ae6fb5321e8c11827a706fc4de22f88792bf6f0e7fab58fc950a9cadefd746bda2616d854225
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 03/01 16:30_AL vs TES_AL vs TES_官方解说
-http://dx.hebiu.cn/migu/948784954.m3u8?migutoken=dc6012e45afa85bcff4e795fd68e4bdf6658b6908cdd17d5d5c136f246b9a3e59bd245a11670959de542cde9e435c4a5ef6f310bc322a02cc4c40c6a16e0e2473937804f13dcafb2c5234e3e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/01 18:45_CBA全明星赛_星锐二年级vs大学生联队_解说
-http://dx.hebiu.cn/migu/949349389.m3u8?migutoken=2489144b26652c8ca5e3329882ff0c7dcf70daa819edbaba4c16121dbaf7caf6f4044a5ad3ec7374e9d9dd4644af732d56ed53ea125f35c0ef2337c8354dd679b272452116a4864cd83b454c
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/01 18:45_CBA全明星赛_星锐二年级vs大学生联队_现场原声
-http://dx.hebiu.cn/migu/949349312.m3u8?migutoken=7c80d076190e5a3ffd32e99e862b8c3ca7ab58c31529e210c051a61ff16057149c1f809c7ee5464eb1aa69a2168cbffd2c8f48be9175805ab52d3c2131b9808394d0f2b1046c876dd43d0dc9
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/01 18:45_CBA全明星赛_星锐二年级vs大学生联队_周鹏 刘晓宇 陈磊
-http://dx.hebiu.cn/migu/949506738.m3u8?migutoken=ab2622d201302b2aa768621f263398a35146063588149bf7679729b54467fa2d0ad619e4cf9450129a9cd7d1b8cdee5ecda92aa49f8449bb127bfe6166e328f5fd286b7a34530040ecf6abb2
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 18:30_中超联赛_上海申花 vs 北京国安_娄一晨 刘越
-http://dx.hebiu.cn/migu/949352551.m3u8?migutoken=c372b220d25a244ca481375265bbaa692f325330a2792b05848bb56aff295aae4220e4949bb3f679df2ee79da1304249026afe333564ae46e9077d4b1442a24bd349ef5a97067032d48a202c
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 18:30_中超联赛_上海申花 vs 北京国安_刘腾 贾天宁 李子琪
-http://dx.hebiu.cn/migu/949352543.m3u8?migutoken=ccc55538e66153bb859baac30aa4dafe50f7b730aef45a043c7e74a574a100f4395eb49d7c75315cd55979bb767da0422926e13b99c47c992c26c155aad748c36e68c9e87f13ea523b2279fd
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 19:20_中超联赛_上海申花 vs 北京国安_张天翼 徐云龙
-http://dx.hebiu.cn/migu/949352505.m3u8?migutoken=a4f317218f6a7e6cba8117602754aca114805ee5d74aea48ec658bc73ddf1585d2b7f02589ac05ac340f14988a6bd7b2671ba18b98cb7bc50ca35ceea650dcd26ef4e9e1e69cfcf576f3e215
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 19:20_中超联赛_上海申花 vs 北京国安_涂远
-http://dx.hebiu.cn/migu/949352458.m3u8?migutoken=957e070f21f0b57a6c1380a8e24a10ade99674ec3d779944f7239d59234e21484142fffa523f1c0ad9d9423f1e90cf79a9888845defc3b3af47670e1c66218f2215507e4cf52e11a2f3457d1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 19:20_中超联赛_上海申花 vs 北京国安_4K赛场原声
-http://dx.hebiu.cn/migu/949352415.m3u8?migutoken=b95fc357413936259b981ddb62c1cfc25148677db27e31a1bd4375fba0e6f3c8b8682689bf32f75e779e58801fe773901abd26761e184a51a7ebe3a76594663ec60f64885b8197adfb95b2d6
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 19:35_中超联赛_上海申花 vs 北京国安_智能解说
-http://dx.hebiu.cn/migu/949457832.m3u8?migutoken=0c516079bdece2e8d90774cf1b956affc3d04b3663079d1d8067e5d3e9a165e24bb7a58bcc6ee767e5c778b9ed7f61b67c95ad6c93d022085adb0a3aad52e7425c213920efd8c4e3d620a199
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 19:20_中超联赛_梅州客家 vs 河南_石庆圣 李彦
-http://dx.hebiu.cn/migu/949352713.m3u8?migutoken=70a552a83c3e26c3b69a917084edfb915767040f0e718551f5f5917cbfdc31d2415df3cc4db60a7511ef983444e2bf1c7629274e70c5d457c2bd21d447a23b9badca1be5b3152dda647bd0e8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 19:20_中超联赛_梅州客家 vs 河南_赛场原声
-http://dx.hebiu.cn/migu/949352629.m3u8?migutoken=fb53bff9f6154e693415fda2caf869dd89aa877861a28e75c30609c38b87d5f4579ae29eca2244dd7bca0e6bd1e7c90520cc9bd50ad4760e791fa9941a2bc3580dc550cffd46716e63d61384
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 19:45_中超联赛_云南玉昆 vs 浙江_解说
-http://dx.hebiu.cn/migu/949353944.m3u8?migutoken=ae5c86cfe739a0c62fd81e4692fff508a05e65643e81fa8ba7dfdeeb7d4a5cfe65026506fc92d14f99d2fc08d64cf5f80067dbb0f1dda7c77132d3378f9a82885d68bf66b1f70d034ff8b6c1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/01 19:45_中超联赛_云南玉昆 vs 浙江_赛场原声
-http://dx.hebiu.cn/migu/949352215.m3u8?migutoken=c9a0e7b9e345b5686e0e5c89af0646e59d4136c0dbcfb6da9dc23e191994f857895e183d85acdf7e75fcd230b8ee57b546a1fccbae390097ba7d2b7981de65085ce3bae0903f31f7c405dad3
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 03/01 20:00_重庆狼队 vs 长沙TES.A_重庆狼队 vs 长沙TES.A_官方解说
-http://dx.hebiu.cn/migu/948849697.m3u8?migutoken=62234be5d3f7bb8250b8727bb9b339aec23c520c6e4ac5a80748b42422b08d9497b029d890c4ff554815e55feab7883b4210bec9bf205620f93d6f8013f1812479053e9dd05fe60169180f86
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 03/01 20:05_足总杯第五轮比赛_普雷斯顿 vs 伯恩利_郭灿亮
-http://dx.hebiu.cn/migu/949358296.m3u8?migutoken=22d2a3aaa8e82bb5e7456059baeb570c4d0bc7a9a03bcbab59eeffaf8550392bb0267b4f8716804a3d0c70c58eac1cb00d7a128c9bb84216fda0939ea5c888f869fdb7441fbef10c699e5869
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 03/01 20:05_足总杯第五轮比赛_水晶宫 vs 米尔沃尔_刘焕
-http://dx.hebiu.cn/migu/949358200.m3u8?migutoken=d781d6d3515df360939eeef6baf930c14b87a59623f052d78b7eba97279f2f32241628ee2ec7e751704e61db7a33d00865f9bbc20e2902ddfc47c56c7a6e20145b4c9937ce144f00be8a7cf7
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 03/01 20:50_西甲联赛_赫罗纳 vs 塞尔塔_李霄
-http://dx.hebiu.cn/migu/949357056.m3u8?migutoken=ad35ec4153fc3b89b2ae2e68adf3da0db09aad6197fc4217dbf3ec3d86bd7c538e597c653930097d0d5434f4aef803edca313a1a6b4e936d8969921726d0d6be09363beb10a917af444a9478
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 03/01 21:50_意甲联赛_亚特兰大 vs 威尼斯_石庆圣
-http://dx.hebiu.cn/migu/949357639.m3u8?migutoken=c87d96e413df357400301f948cf4dce085c8cc4103eef7f8888a25bfd0fdfc4cd02c6828b8f5fd3647cd561a13d897a8052e1d39d3cf555c365d3b43a92c2434bd73a12e343447973a1de70f
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 03/01 22:20_德甲联赛_RB莱比锡 vs 美因茨_刘洋
-http://dx.hebiu.cn/migu/949357761.m3u8?migutoken=080345b84ea32c321ba4f7bf1ac551a521b7198e4ed3f83f77a451a3df0eaee891f1678155f85e040c8b1dc35380b6b7265e96d86ce14e26f1e7ee4fffc41f58dbbe812ac10e331a6d27d3a7
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 03/01 22:20_德甲联赛_不来梅 vs 沃尔夫斯堡_周楚雄
-http://dx.hebiu.cn/migu/949358115.m3u8?migutoken=18d77ec60b170082e9eb73254f99d3894415519e694f7e2205510ed64e848b3b62e9b6b49c9296eeaf2210cc637110ba280c28e5d973b6dcace2ec6e93c331a6387addb3b1ccd74fe37219ff
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 03/01 22:20_德甲联赛_海登海姆 vs 门兴格拉德巴赫_谭逸雄
-http://dx.hebiu.cn/migu/949357643.m3u8?migutoken=0ca7b63460c7e9ae51085ff85f4b7c6b849d17434c464dc625ce1ad98cc720c024fe1080cdac2f4127553f715718609e142c0e9f441c382ae715e805c7176611c2e9b312fd957b821655d5e0
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 03/01 22:20_德甲联赛_波鸿 vs 霍芬海姆_王子睿
-http://dx.hebiu.cn/migu/949357553.m3u8?migutoken=1c26416a981b5ca5a6b2380d904481700979d0f00f3e633c262dbd2cf6b8ae09f5824942f703085e47493352a2332cc52e06c9aeeee09f2bf104986357ba20623c51f5804fa90e12ebd397da
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 03/01 22:15_德甲联赛_圣保利 vs 多特蒙德_沈云怡 秦游夏
-http://dx.hebiu.cn/migu/949357864.m3u8?migutoken=4922b11bb6da6c4acf60b404486b2ff713bde4ab346950d8f24714b4049632d651513c825c7c0056ed0b24ec8201846a3924d5b4a74118d3a9964dfff55acd2c4612f14a2b8966f4d6ca0f48
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 03/01 22:15_德甲联赛_圣保利 vs 多特蒙德_沈云怡 秦游夏
-http://dx.hebiu.cn/migu/949450680.m3u8?migutoken=47cc67922787c5d700fdc475f7787b2b31e4ddee7b3d336f6f1e1c64a60c7dd680a922c66a1ef996ad896e9e1043104563346bceef35259a22bec8bbff7d56f8bd81ee6873587f424593164b
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 03/01 22:50_足总杯第五轮比赛_伯恩茅斯 vs 狼队_林梦鸽
-http://dx.hebiu.cn/migu/949358373.m3u8?migutoken=54a7b9664aed8267ce303d0d90a4957e1f2ad64ac6f04b74f8daecd8cd60a519b0deaa0b2ef5021d85b0cb66dedbf2c27f5bbd4ba75a7b55667245f5bb953a5f7f4f8d0d9632b8943b6e8d43
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 03/01 23:05_西甲联赛_巴列卡诺 vs 塞维利亚_张天翼
-http://dx.hebiu.cn/migu/949357107.m3u8?migutoken=880703c934abab5adf2110d5b566e86d7b8ea752eef6eac2696a347297f9dc635e96c8d3971d75951400d935996a8810f346fca4469075b09d09e0f862f73ab520908b8121c1e730307eff91
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 03/01 23:50_法甲联赛_圣埃蒂安 vs 尼斯_盛斌
-http://dx.hebiu.cn/migu/949358060.m3u8?migutoken=97a2cb66cf8c46ed1e982ae4e908216b415670d856690eafb0794092ae3c42bd299869d9dbc2c18f5b6160ae18b3e077fbcf5b4aa3b91d305d6eb9e280384f832588df11f89be922d1fb46b8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 03/02 00:45_意甲联赛_那不勒斯 vs 国际米兰_刘腾 黄健翔
-http://dx.hebiu.cn/migu/949358013.m3u8?migutoken=9989822384c02b43d9cb7d602e881621edf77301ccac036183cd6c3235800538b5bc252237233c65436b0026ac0c6ba8d8a011dda08f291b777360018b77210ab5d5f6002395999ea9388ac1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 03/02 00:45_意甲联赛_那不勒斯 vs 国际米兰_刘腾 黄健翔
-http://dx.hebiu.cn/migu/949451185.m3u8?migutoken=867824d68de6fc3be42c1d3899dcbf29142b5f293e465cd759be5cfa3b53972e980cf78c0f53e6804a5d9ddeb77e0c62bee5e42492bd2b4fbc632c119d2a9a65ba8d5c48c04257a8ee02964b
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 03/02 01:20_德甲联赛_法兰克福 vs 勒沃库森_胡小凡 马延峰
-http://dx.hebiu.cn/migu/949358226.m3u8?migutoken=d3efd7109ff33439345f6ab555aa084e3081cd05be195fdffb94e138505940cefe81a77e6af5fedd549fad6a4a9117ab721aa72857b590028336976fae6189d8742ffc17458240efc2981ec3
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 03/02 01:15_西甲联赛_皇家贝蒂斯 vs 皇家马德里_吴桐 贺宇
-http://dx.hebiu.cn/migu/949357186.m3u8?migutoken=c7f4afc3ae874b60914dffc2f2af6c8798005c25c1e51ae8ad5d6b0984706ea1b3b636bec4aa09d96656677726bc4555cfa90cf6bc5e3d7572aee7d60e97ec317cf97e00cdd2a57cc78238ff
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 03/02 01:30_足总杯第五轮比赛_曼城 vs 普利茅斯_颜强 徐阳
-http://dx.hebiu.cn/migu/949358516.m3u8?migutoken=6ba02f21d0eeb80780558da5a9c29beb1cde57169d5198bf83aca80bb19b831ae7e220b2380aee26c207a9b789a3c744658d748ca99dc92112f4fa2832a5d1addc916aaa826d9f39908873ca
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 03/02 01:50_法甲联赛_朗斯 vs 勒阿弗尔_乔迁
-http://dx.hebiu.cn/migu/949358180.m3u8?migutoken=2e6607d7a8a71da1060d1585364a22dc9df214d6bb290d43f53d97040bcff7780292c950b3afcb404a2565a617d991077850eb72cb30dfa503cf1bd738bf05a5254f01a63f3d5998df614c9f
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/10/9/100000001234106dc4ef.png" group-title="WTA", 03/02 03:30_WTA奥斯汀站半决赛_WTA奥斯汀站半决赛_赛场原声
-http://dx.hebiu.cn/migu/949239255.m3u8?migutoken=89c96248a12f69539cd8935b35e12c356797d91792931689c4fb5ce66b2da1319f86cbc148ff1dcbe2f5eb3c71188da88a4d8cdc512ccd3ecdf35a2aabce521aed1119d17d700fc297caccf1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 03/02 03:35_意甲联赛_乌迪内斯 vs 帕尔马_张昊泽
-http://dx.hebiu.cn/migu/949358149.m3u8?migutoken=f2775db4a5ce352db21b8a81df70f63d1c7cf0e634752094514371eff24ed82b4ed18392d645c118234f2c1e87d9b703f0ad31394c1511ff2ed8132cb444a8883eed5227cd88f7583f380901
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 03/02 03:45_西甲联赛_马德里竞技 vs 毕尔巴鄂竞技_周楚雄 贺宇
-http://dx.hebiu.cn/migu/949357495.m3u8?migutoken=c5f319f45e0123f63599d98ad2e740fd7747d19eb2e0c8fa4d2fdebad5483b73dedd578ba1a63e7c7419fe67c40a8ae819e32674c89f66031ce09f62ceb669516700887bb02f32adab0cf6e8
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 03/02 03:45_西甲联赛_马德里竞技 vs 毕尔巴鄂竞技_周楚雄 贺宇
-http://dx.hebiu.cn/migu/949450892.m3u8?migutoken=496057d9554614389875aea611b8d1b09d9681c0ca0d71f54ed10033bfe362a5502834785c8e45b29784ae8ca9dab3c9d07f5e4be27bbb3b0bba371f36c4d0549938ca3f679fa375182e25f2
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 03/02 03:50_法甲联赛_巴黎圣日耳曼 vs 里尔_鹿中原 王宇
-http://dx.hebiu.cn/migu/949359297.m3u8?migutoken=d74e9d8528df7417b19f60cf64075d12533d13b82c4280b94b2560575934607a1a73687edd93de9e3e91f53f6f2cabc58b6bba674f5dae2dd8f7520a7ed18361dfc7bd12ec2079983da67015
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 03/02 03:50_法甲联赛_巴黎圣日耳曼 vs 里尔_鹿中原 王宇
-http://dx.hebiu.cn/migu/949450628.m3u8?migutoken=26ecd6f79e2e8b473aef4ac5f598be960b8310a15c00ce9a585a75572d4cc54cb7c42c7b080bc3cd8c107de21957eec6299671aed1c6d9a13271efda236990e9ad05e5393ebc6ff6d50c265d
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 03/02 05:25_UFC格斗之夜：卡普VS阿尔马巴耶夫_UFC格斗之夜：卡普VS阿尔马巴耶夫_郑文祺 汪乐
-http://dx.hebiu.cn/migu/949380748.m3u8?migutoken=a7b52539607e1731661d7cf152f356e4e38645a757b1e23932ec8fc6355ab5b279120bd71ec64fe8c19f946d94a5a0d3685bf84e167f4601763eedc1bdf3f8a0cb5817d4fdc1967bffbe2146
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/100000000239106c2aa4.png" group-title="UFC格斗之夜", 03/02 05:25_UFC格斗之夜：卡普VS阿尔马巴耶夫_UFC格斗之夜：卡普VS阿尔马巴耶夫_英文原声
-http://dx.hebiu.cn/migu/949380492.m3u8?migutoken=1946e7e05f5607e0e5935eca89d7ec0a08a864de15dfd0bf68fe63501a05028c642777e67f62f2d700e9508646dd7b825f9c1b2923ffaca4ce51190e90a4f8c67a5cf6db75a962c01aa19e07
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA250奥斯汀站", 2025-03-01 02:00:00_WTA250奥斯汀站_WTA250奥斯汀站 1/4决赛
+http://dx.hebiu.cn/txsport/100002:20253566/297003/1767549300.m3u8?txtoken=989650d1607466c17902836b4b4a85298033335e6ea2c6c36828838129885f4af5ec20ed79b677a89a5f70951ce23cd7d047cdffeeb16e04d0c9a6a22d7947bf0be71a78e2347c999b0c28f02fa3145cbfb6d84023c53ba9349308a1715284937c4da68be50fdf6af84201091b6410d6af9afd834db12e8d3c70df684a
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA500梅里达站", 2025-03-01 04:00:00_WTA500梅里达站_WTA500梅里达站 1/4决赛_陈驰 杨宇成
+http://dx.hebiu.cn/txsport/100002:20253565/296998/1382740900.m3u8?txtoken=fef759645cd4ac77ae126a209829bf9035a500bbe160d35f014c9b762caa4837ff420b4b6717773a1f0ef23a7869b283e436a6ac41a899e8c52d0073d84d388e9e9f872f6049618161771d93ebc27ed4c490e731141031bbf0a90101cfd2ee5927d30551ef49c9522934941ab2cc38d2fbd51b068abcce0c8b0a9a6b9a
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA500梅里达站", 2025-03-01 04:00:00_WTA500梅里达站_WTA500梅里达站 1/4决赛_赛场原声
+http://dx.hebiu.cn/txsport/100002:20253565/296998/1382741000.m3u8?txtoken=e55355db7adbb36a48642dab84df08bbdc880b421843bf20e1cd029080a7641dc96c01254febd24b293b5acaa2e717389b9cc2aff38a4c0fd2d026cdeb5671fe207773abda022c92786fd678009fe90021230f4152b47e67a08c460c5210fd39be98a0f9a31638406cc8e81e1c7d0d34efcd8b614303b0bfd5d303587a
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:00:00_NBA常规赛_活塞 vs 掘金_王兆丰
+http://dx.hebiu.cn/txsport/100000:10022400850/297009/1767549400.m3u8?txtoken=ed11bd72e1c2e8f32d37e86081c18192293ee637a6d2d0819baa0689f20081bf7d398b4f78e94f38d29327e9f8b049f74af74686e94e3df3984ac40e209bd8548c31ca4519f0234c99bfb807596bc4e45aa94a2d374c5cd49c1c46afb9574258c107f5833af46d4df0ccb36aecbe96be4a2067add017f4cec6c77c9638
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:00:00_NBA常规赛_活塞 vs 掘金_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400850/297009/1382741200.m3u8?txtoken=404c31decf3743a083595aec62a77d7822a99fb50c861407b598f519280da897a6be6b5b6316ac18ca6475ab19ef7efbf540601a3771ffe256e27c039709077aa995c308953a85b26e1a412d256a887467ebfa367b4f1bd539ed0961e466d2ff7379307a6db5957bf9a48e4b994aa5594bc74fed633050ab8bc195e770
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:30:00_NBA常规赛_老鹰 vs 雷霆_寇逸豪
+http://dx.hebiu.cn/txsport/100000:10022400851/297011/1767550100.m3u8?txtoken=ca7c0471604131769f12e8d909b930484418fbbab8fc8d1baa7b2823d222ed1ed2179d4c3992cbe6b89f01cd50af4e58d0147bcefbf1f5d2e3ca98e26bd98cdbae86f9c2ca2360b328dadbf54db7b77e32c63d7fc6ae5a20436065a23e8e70fa10f96464108bb2b7d1c29a8c9004b50d0aa80688d79b8a301d4b1e24e3
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:30:00_NBA常规赛_老鹰 vs 雷霆_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400851/297011/1382742000.m3u8?txtoken=d5ae8fb41c47fdfebfaae938a54152d292092ab88241bdbb8c5c2f2ee7d6bc7da11bcd0f365cab8a67fc7c7feec085bd37be6c12278675a8324899eae5531bc5779bb6ab51eca2b17f66ae478c729976fb945ba7304bb9958f79083e828559d13221168e441fd40d83c3ed42d6579e9201e52c65983b5f20e15038ba2e
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:30:00_NBA常规赛_凯尔特人 vs 骑士_柯凡 王仕鹏 婧雯
+http://dx.hebiu.cn/txsport/100000:10022400852/297013/1382742100.m3u8?txtoken=0e67c886ae7b9b4eaad769924c8f21acbade1b695f62c64e617ac67913bbb1e80306c0888664dd1e4a075c8bd79e201375fe82beba858618ff6a415b84ee0329c85564b317e8a1e1c17d8c38d2156caebeee79f6712f54ee9f12938d7b146100c54eb9d80ff9da63d80015df0a5711a27d1cd1613c0592f11f6ab67f24
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:30:00_NBA常规赛_凯尔特人 vs 骑士_二路-林炜珽
+http://dx.hebiu.cn/txsport/100000:10022400852/297013/1767581500.m3u8?txtoken=65bf6f440c7d8ea4d44fa902b82c020729072dac76c225ba0cc44f5490d5b747a852c7952aa2c928729b7d089090b511cfb64f700ea1606f6d1f13617237c9234d1692643986dee60aeef20b5bb1efa58954753a59079fecfe784adad3d0eccdaf01aaf35e528b8d36545c35c254b2220df1e0537863b60bd5979dacd4
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:30:00_NBA常规赛_凯尔特人 vs 骑士_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400852/297013/1382742200.m3u8?txtoken=10ad1218813308e597812a85caa1e66f5a8cb934eb7a43e256d33108d9cc9555adfbc540494b4dd7d7bc015ca3adbb2a18862da135c33e5cf6d3a27db08fabdf15285fa3b41a2c9db5cfb6071514c8157408adb541574f5d043b538b5e18a7a819a371abf64e4daef771e9f9dec30062e5d3c38ae2c5e8f1077f3309f6
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:30:00_NBA常规赛_凯尔特人 vs 骑士_球星视角
+http://dx.hebiu.cn/txsport/100000:10022400852/297013/1767550300.m3u8?txtoken=fdeea7b462863d418208a1922cb9222fd43374d52d3dea11e6214b399f4581dc20b24fdfec29364d82c890824f11e55483db50e34ebe2d41e25dac99988729a0372ed0ac9aa00ea8ae595db351d148fcb50ad2c182e8632f889e5c61fb0814d8693ddf0e02cb75a7cfe3721fc7b2a2eb38fcc4182c5180ac161b7fc3fd
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:30:00_NBA常规赛_篮网 vs 开拓者_丁楠
+http://dx.hebiu.cn/txsport/100000:10022400853/297014/1767550400.m3u8?txtoken=c078fced61e31cd4e54f2248d6cadd6b849c79148a82601f5a258e0b39075b597e0dfa6a1e0e7dfa4116f1470d06b742114ecd660877479c1e86aeb9fa38c6a619e4455d8ac47931c4c1531d3800f038b125ed0bcd637b28f551727da1f3becc8e6d8fec9f2092a198a63c6c5025ebfbd5eb1026a2fe89fec83f66fbf5
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 08:30:00_NBA常规赛_篮网 vs 开拓者_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400853/297014/1382742300.m3u8?txtoken=066340c042663cf44b26cc455be5dcdfacf75acf7c88d2ec7b188611dd84511a764a73ec9e36155a07603733138fadf339212d3967230767658356d48c048fff21da3faa1a1277bd929478c251a17234bb3a8bc5947d89b50690844475eafb7fed09043a293ec2e9e3a48e9dfcda84bb9c5220da9ad8329d2e8ea23299
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100080.png" group-title="CHBL西区(女)", 2025-03-01 09:00:00_CHBL西区(女)_鄂尔多斯一中 vs 巴蜀中学
+http://dx.hebiu.cn/txsport/100080:100101483/300212/1767703000.m3u8?txtoken=c9f7d6f4979ee4b3ca91a27d9b8a555beb4dc05a46283072bdaa00b1821f84dfb378af72631ab3746a08076476ff73c6ebc86c59836bde46931ec7f80ef1de766c5a6795709f930eb8197ef97e08d352fc0febfda174989f6fb6946c1a0e8020252a4e991ae9bb8c5ed30f2eb413c6aba5dc1476bf7df5dad1359f7d64
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100080.png" group-title="CHBL西区(女)", 2025-03-01 09:00:00_CHBL西区(女)_西安铁一陆港 vs 宜宾一中
+http://dx.hebiu.cn/txsport/100080:100101485/300213/1382901800.m3u8?txtoken=fa3f9e689ae21aea7dfb4721f14bf5ffa652c2314c053f852f65a6dbc9abf6cae286e755fd341a25f8af3b484af3a8babcaa83a8741b8934ea79cdd0e6443a67e780d16b5234861b6e630af34d4cf49b44526982aa8bfdb85a77feb8778f95b221cdb6bdee27cc3c79fd1245a36d03c94fefdfe1f6a1cfd471a9ef50d1
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 09:00:00_NBA常规赛_热火 vs 步行者_石楷文
+http://dx.hebiu.cn/txsport/100000:10022400854/297015/1767550500.m3u8?txtoken=7781e0c4834497267d97c164653238c0aac896a466ea05204c8d0be59c24559446aa90835b7681bc368d81d252173135d397df313d907abe613d2ce0190de83b16a984d5eca9c011d51de9104fe61cf54afac5dad9d24ca74f83be48a1ea650b229841c63e58f362da9829af3b163d134e8f7a586fcf3b8f4764d38e00
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 09:00:00_NBA常规赛_热火 vs 步行者_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400854/297015/1767550600.m3u8?txtoken=dfb4c190d447ee8cd22de6d83a672473b715e4d433766a684f042fe967f9222f894d036a3b4c99bdb0965f27456a31fd92508af21e8a572bcacc888d660353133eface4c38cc25105556e9b33f895718c1a8c6db3dd8a53f711bccba2cef2e233d6b9aa662684f9ee34262dd805d696db007b2b7d5c2dad14ddf1d264b
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 09:00:00_NBA常规赛_公牛 vs 猛龙_郑诚
+http://dx.hebiu.cn/txsport/100000:10022400855/297017/1382742800.m3u8?txtoken=3aee792fb07145ee999acbc0f96d8e442805359658574cbe3101b3ed62938ce0ee271b51e69969653810ba133264edfe13560982c1e9d6de765186519d148cc9fd1c1f48babc98f1e27eea57181c317da906148802ddbc49b69d1292844bbb17f28a1c4f03345f9071a943bb0b847a95559d163400924c88d820e9c3f9
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 09:00:00_NBA常规赛_公牛 vs 猛龙_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400855/297017/1382742900.m3u8?txtoken=17c6088b56b0a3d3c6a02be7cd48ad6d45bf77374ed6e37e79ee8fd0a81e42c8b77017c5d34f57f64901913ead19d273d12dab5fdf50816fb166b39a9d81207d89be5c8f3c2b4e44a82cc3fc996210e8dfe2eedb49bb86f43e0d701b697e64d36561392baa14c9bdadd4bd2b55903090c7cde35946d9737ddf226b0d6d
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 09:00:00_NBA常规赛_灰熊 vs 尼克斯_金浩霆
+http://dx.hebiu.cn/txsport/100000:10022400856/297019/1767551900.m3u8?txtoken=3a4b07fad675621ccceb93ed0cfc9edaab9cc3f3f77205cfff7506fa021c880afeecb56db5282ef07005542ac05c3ef9867c854a1b4d375ed77324c6e3fed11aab1dc68e064cbbbc61b1ddcddb2ea7e5bf60b366f023265fc37787405f11605eae45ec5918da2d672e3161614661394ba91bcee469481ffbd959284fe9
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 09:00:00_NBA常规赛_灰熊 vs 尼克斯_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400856/297019/1767552000.m3u8?txtoken=ff02d3d5c1dc071ba934e999f21c29f10305e3eb86f3ea731dfd10d9b2cdd1ae7cb28c2ced57d6b8e4d309db750edfe21bc7a90086e46c5bbaebae804370202f839a427992350f4d20cd9921d06fb376489db4d77b6c984c1e8e448a0199700787a85245385c444da9fb5fde99b6e936c668d46a3ef9473a90b4f10b7b
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/19/d8caed5bf69141a8828856d68c2a2b0c.png" group-title="赛车", 2025-03-01 09:40:00_赛车_2025赛季MotoGP泰国大奖赛周六练习时段
+http://dx.hebiu.cn/txsport/100002:20253498/296362/1767368700.m3u8?txtoken=c2b5a543adab717728c06a5cba6b707c10223ac158b1f5b3365fe8c87a4a6a6e86546c74494d375eb752d6b4cf73a8d78da91c1441b35c6fc863ef11d2017332bd54cc31efb0a3b2c65526122659e33e576402bb4d2a8b9618ef8925f3a4fb247d5b9245f01e821ba0e34639c1a83069d1c661716ecc5922e147098c04
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 10:00:00_NBA常规赛_太阳 vs 鹈鹕_孔祥宇 沈知渝 辰辰
+http://dx.hebiu.cn/txsport/100000:10022400857/297021/1767552300.m3u8?txtoken=e4ee65ddd91714c70fb784069561552be7f8cc8a8ba63761452eb5c558012e3189a1c846c58a3daf1b2d2476ea1cda8d1716d61662ffc681336127ac6ca88a267bd4a495b69c046c50fee1eee86e015d495790e0f7bfe219a2b546c309f8b8be4a6afa733b528d656403223512cf4444032bf5760437b02192f71f4867
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 10:00:00_NBA常规赛_太阳 vs 鹈鹕_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400857/297021/1382743600.m3u8?txtoken=fbfbc5fa4499e37d2cc9c3adb559fe77c0fdd75ad221822e5a98042c1249efeb965e1625be0a9ca6253b05f631b77ce306785fda046f5bc7688b13d8e72600381f8515a24d6f6292545105fd8c70e50077f39ae86369ee9fb9c8a0141f6bacb6463bfe0e8dda10c3da6ce386be01de66c7d712eb9d04106931a9eb0ab4
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="篮球直播节目", 2025-03-01 10:30:00_篮球直播节目_《早安 NBA》第122期：暴风雨登陆奥兰多！库里12记三分爆砍56分_王子星 殳海 美娜
+http://dx.hebiu.cn/txsport/100002:20253640/297171/1382804200.m3u8?txtoken=5c32b9fed85c9a22be7566fdcc59aa1df32575bdd43e552d5f27bd5dcc1ae678cc13cc8e91c7b7c5f4f485c42fd0a1f8282e9f49b1caa67590e1a0330f98abd1e0b6080da703d70099c047e8c59b2a5021b68209773543b3b4163ba9a5f6033c820b402bfc403982ad08008af46667777adef465312287815ba9a0e6ec
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100080.png" group-title="CHBL西区(女)", 2025-03-01 10:30:00_CHBL西区(女)_临汾三中 vs 宜宾三中
+http://dx.hebiu.cn/txsport/100080:100101484/300214/1382901900.m3u8?txtoken=9670bc10fbddafb53602fe6225e39b5ff82cdc51588c7aba2661554d3ce7baaf6680c3d5f133e8a2d095c22b9f718c25709770b54dacdc0408fee5aa14fbf5e4070ce503d5322c325b7e1f0e384c059844d687c3b1178e5b7ed9c36c9bc39e0c0c5ca00e4e3d7710e481b1a634f5e34384c7403401dc2841b4fd115aa1
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100080.png" group-title="CHBL西区(女)", 2025-03-01 10:30:00_CHBL西区(女)_南开中学 vs 进山中学
+http://dx.hebiu.cn/txsport/100080:100101487/300215/1382902000.m3u8?txtoken=e0d6a72264a4079463771dfbb8de1daae4ec3bc0328007cdc773a88884be161cb67ac405ebad21e331ca21108a4d54afd9b1b3fe3ffca8f382437711d81dd541781f281f41b069742640ebd4fbd5becedb7a6a6689dfbb14c9629271b8ba7d9fb1c05b36ba579f5a144299e0f422ab96ce68a1f98f8b0496b2504171dc
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 10:30:00_NBA常规赛_爵士 vs 森林狼_刘乘源
+http://dx.hebiu.cn/txsport/100000:10022400858/297024/1382743900.m3u8?txtoken=cd3755b51e5d70de262252fa6dc6f24dfb784a75c8c27c68c8f4c469f35d18cfcf5abd67c680e4662ba6b0bfac9415a9946ac3f429317782be07b886068c2c08ff98c6831294a99c3bb0c1f1bd73a23f9c0b76cea2a20205839c9c91744e5d694166dac5fa39bd414070f061c258bcf7527d27901350d5f7f6340e7285
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 10:30:00_NBA常规赛_爵士 vs 森林狼_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400858/297024/1382744000.m3u8?txtoken=77a8251a82fb5e131b909385d9812f48f403f796470f90bc5f0392bb41027ea5cc6cedab8ed5944890448fba756feee6be6bd67d0633f29e59d37f23c9f602595442a6d849502a92778500d3d44a260bbab936fac7c8f9a7939ee5c3fd8d4b1704fa28379c84b01f0ce40681f8eda93d36da088ffbd77045bfee35c62a
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="发布会", 2025-03-01 11:00:00_发布会_骑士vs凯尔特人 赛后新闻发布会
+http://dx.hebiu.cn/txsport/100002:20253651/296986/1767547600.m3u8?txtoken=b08e6966cc379aa44e512a374349c066529d4824b27cdc3ac59ed7cd729a8cb4f23904bcbcde4985c542fd8c2a9d73808bb86c3cef2844752ae299c46f44715da5fb6055fa47ce2226a8cf9c3bce1809165919fa49433706a1fc9f53507f420160f4f9c3fc10807a864a6e349025a33c9c4bfe582e4a63de4351c3aa00
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 11:00:00_NBA常规赛_湖人 vs 快船_王子星 殳海 美娜
+http://dx.hebiu.cn/txsport/100000:10022400859/297027/1382744100.m3u8?txtoken=1e80563d4c7413b1750f6df9263d4e16c1c264a51e96ed5e8f98372c822b2d6edfe3191e68527bfc514f4b1a27bf002915fdd7d89679633e6d2de07011207eba1f378bedd72abf49d0939d65f1fcbb40da10e895fe4a817be29c7cc5774b23524d5794466c8b6af2d6b19f083df29b89993309569858a8cfefc29a1aa8
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 11:00:00_NBA常规赛_湖人 vs 快船_英文原声
+http://dx.hebiu.cn/txsport/100000:10022400859/297027/1382744200.m3u8?txtoken=55c16210d712b6dff1b14bf7a6c85bdc17d2541027136e03e582b81004ec1601ed0e51fdfdbf7cc9cf4f3ee5f1995e492ed65146f695aff4b500251f06fe4c874d2bcee1927ce8f3209279d208ddb1816bf641c1247ffdfa528b2691eae467862412576351ec3a0d4897d1502d36ab14e87014a2d0ea649b4d278958db
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 11:00:00_NBA常规赛_湖人 vs 快船_球星视角
+http://dx.hebiu.cn/txsport/100000:10022400859/297027/1382744400.m3u8?txtoken=bbb2e22dc9599b27ddf03ad59e90d44c7937a0fc801a204a721bc704f9bc2666be68a443a3c638fab44638c133c25c702b459bbee492e06b4b3e69d1eeb7155afdbaa7642ca5f47c00e708c8cfd5ef2935c4a9b835d28c336ae6d7ffa014abc837202f628c0d74cde29a2f02f71d715a596abf2e8334463e51198b5996
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-01 11:00:00_NBA常规赛_湖人 vs 快船_二路-皓篮球
+http://dx.hebiu.cn/txsport/100000:10022400859/297027/1767580900.m3u8?txtoken=16c2f9c38e702009e8ed1f41793b82d3eb2adee3fa0cec1963575cd1bfcdc3381752ee6892c89f85871ebee5683d848ead16f0e4c642baf0a7433f12cf24f00c9c4c536a93679965a3e5d504a841f41d07e9aebc0c974fdd71b98253093ac1cab314adf5f16dc8f3fbf721a88eb31ab0786f82bc686e82d40fdc2bcc8d
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/19/d8caed5bf69141a8828856d68c2a2b0c.png" group-title="赛车", 2025-03-01 11:50:00_赛车_2025赛季MotoGP泰国大奖赛排位赛_金昊楠
+http://dx.hebiu.cn/txsport/100002:20253499/296367/1767369200.m3u8?txtoken=0388329508148cc1f31aa8f7743bc89fd11845fa85efdd938d353bcca470599ad48e0c3440844d7ec305681212e0a0c3e869d20e2e1777d8a3f3414e017fb2964e8fd593c79a2b20ff4c5c135f1c9ded1853f7e41ffa2acb7ce2cc4176657d56254e7cc7b99e108ab26d771d4957783b94b16c588c532408d1ede9dead
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/19/d8caed5bf69141a8828856d68c2a2b0c.png" group-title="赛车", 2025-03-01 11:50:00_赛车_2025赛季MotoGP泰国大奖赛排位赛_英文原声
+http://dx.hebiu.cn/txsport/100002:20253499/296367/1382559900.m3u8?txtoken=2404923efebef6302c1bac1c5a0fab864b2c8ec5770c09fbc0d06dba36d74ed099bdd4ac64565f05ad9b18a9e4d26bb37177dadf6ff71e27bcad8489a0017052df56b12be4f0460ff8a3bb4c94ebef74dece63f90314943d917d79efbdbb2617a7f3fe9d64c7b1ef4c77890144c13e8a7a53726f6e3428b3dca990668d
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-01 12:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 掘金vs活塞
+http://dx.hebiu.cn/txsport/100002:20253622/296908/1767528200.m3u8?txtoken=29ad8e2f81c3b5efcea97670fbbf5d65358d2fc65dda56394181cda3da3649491c91262f1eb7178d92280bd4ad136ac5eed0d237ea4dc2c8a0127c9c3ae3c3de7d0d49496df3aa31b872d5a76295c03dd71f6b00a6cf30d901d586459e25ea76497d81ef55aeef6b94109735d1713ca7fd550186ca0f7ae0ed2c2b40ae
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="发布会", 2025-03-01 13:30:00_发布会_快船vs湖人 赛后新闻发布会
+http://dx.hebiu.cn/txsport/100002:20253652/296987/1382738800.m3u8?txtoken=659cf17756d8dc144294bd5f63dcd31430ddab5d33fe052660a3485b028f727b40098e457c3bb319b622352f2db10286c6a9df75e3deac87f43ec67055e110487c9e355d4c1e2892b1a1c2cbd45e0c92d04eded5dd94f33a668f5297ca8b3292724acdb8c02aafde4ffb23158b83d46688ca4376e5e6a01a746950a1b6
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-01 14:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 雷霆vs老鹰
+http://dx.hebiu.cn/txsport/100002:20253623/296909/1382720600.m3u8?txtoken=2ff9214e71a67bd1f5629f5773a023fa0ce9bc64e338e9a46fee74ef7f30229243534fe95486efa42bcd751f0a54b8e07d39af0675041b47a0e7b39944591a782d21d9f09d9e7f86e54c3d75744bf098eb691e074ce4b360a6716ce1e229febfff54bb85bcd689ef0d125b1e05e8eef7b0ea3d9e8114ccbed304ed6889
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100080.png" group-title="CHBL西区(男)", 2025-03-01 14:30:00_CHBL西区(男)_太原市外国语 vs 巴蜀常春藤
+http://dx.hebiu.cn/txsport/100080:100101486/300187/1382902700.m3u8?txtoken=b5854906ed8c195eb45207d85b70fcbcefd178eb74db4a67aaa60d239698c79ecd2a600f2f8d31a362d613a7ef19c1287d5284e7970bac371c343c853c9b487a1f094b228b1c98197bda9d2bbb4e616d309b7b4983a8193c84cad7a2baecb678a9bdff596a8e9dedf8fd66387d1c1d5c00e86bd8614f1196f78948feb5
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100080.png" group-title="CHBL西区(男)", 2025-03-01 14:30:00_CHBL西区(男)_乌市101中学 vs 绵阳南山中学
+http://dx.hebiu.cn/txsport/100080:100101489/300188/1767703700.m3u8?txtoken=b5361e5ce2e675d7c0958a935332060482d6258c5c5edcba8b0f1a24a74187e6fec5a3404be74fddb76935cfa2c56c8b0285788f4dc9e889079254a6681218f189265599678596ff791fe466c93d2ef77afdf05e67e3f8a5eab6819699a7605dbb4db161c64d02dbe110069f46cbc60a4c1314a4293bfc730978239492
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/19/d8caed5bf69141a8828856d68c2a2b0c.png" group-title="赛车", 2025-03-01 16:00:00_赛车_2025赛季MotoGP泰国大奖赛冲刺赛_金昊楠
+http://dx.hebiu.cn/txsport/100002:20253500/296372/1382560500.m3u8?txtoken=987edd08166dc88f927c5ec8871e5f866b3590649413a62f52e08c22942482c896763220f6b3f1ee4b79aab59dd88e468b9f3223a3aa819faa00a59c21d0aa1e742595bb0e03462cd08d5ff7630033badae9dae95cf66222056767bc975d5d28b3ffe65e69eeace0d220eed742e60cf2e69f48127bda521c95f9e5a7c0
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/19/d8caed5bf69141a8828856d68c2a2b0c.png" group-title="赛车", 2025-03-01 16:00:00_赛车_2025赛季MotoGP泰国大奖赛冲刺赛_英文原声
+http://dx.hebiu.cn/txsport/100002:20253500/296372/1767369600.m3u8?txtoken=3a36eb3bb65a5d86f6b77a063b0b045e65e5f2c87f8e4beb0c73b529c262ac8d16e83c1612233368e520f0da9dbc5c61c699e286aa083a07eabac7b784d743e0c6b5714c79dfb5c6daa913a1098f2b703d4e9226c4b7604e1f23049f901b722e2cfa11687af8b2e8f2839d7a94a094303e52c82e7702176fd877d40f8a
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-01 16:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 骑士vs凯尔特人
+http://dx.hebiu.cn/txsport/100002:20253624/296910/1382720700.m3u8?txtoken=5a90b4ade9166c43007b4c90ce17e1799d88bb971aabf15881dcd89eedc0d1d319918deab1610fa2fd84af1454d0644c20ad68bfe12f07105a8a33d634275dc4f0265c64f3aba4257e2c979044c818d408f02035b667f92226d802781267b08a34ba3a6def724781318175a3d73c4433a9b2ee1d001879c7266004f36f
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100080.png" group-title="CHBL西区(男)", 2025-03-01 16:00:00_CHBL西区(男)_宜宾一中 vs 重庆实验中学
+http://dx.hebiu.cn/txsport/100080:100101488/300189/1767703800.m3u8?txtoken=c3e82e06633b390ee10212a0a64cea01c5832bf347b404e054315d3181ea947a5859222acdc6513b08675472dca2924029680aa9923bd36f9d75d1e9cfbb7e32282aafbcaed5356a26c8711d447a84253ca14e9eb7c5c6545f73f3ed6870479fb2862deaf091149c5e755aeee338376b35262adc9d679409dae69a9906
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100080.png" group-title="CHBL西区(男)", 2025-03-01 16:00:00_CHBL西区(男)_包头33中 vs 太原五中
+http://dx.hebiu.cn/txsport/100080:100101490/300190/1767703900.m3u8?txtoken=f312ef0edf23650d660ef19d8b471aec35b853d60100796b5dc4cf28efe3a89c6fe0f268b668779c8719336bbb0a6e278ea39580aa3f113b182afa920a83be6d6cf0559f2d860ff18607b240a19589dfd675ea1a119f5be82c91f53a58ee2efcb60d7e199e74700da9cc5f536dfdda19611b1bf40c0076cf869c50a2ec
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-01 18:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 鹈鹕vs太阳
+http://dx.hebiu.cn/txsport/100002:20253625/296911/1767528300.m3u8?txtoken=8986567de06ed6b7c4efe754add89aeee870ad32c3b2d2437e1d42175c4721548f08c4171000949ca3ebfe4c1819cf46edeb171ce32ca4b6f45e37358f936e0dc8a1ff31751eb18d76f0ae39b26aad2ce0b2fbedac5a1def15d3ff32e7ac0131148706fa2b096cb628d273574adde725434fdd97fba3a00e5201dce41a
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-01 20:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 快船vs湖人
+http://dx.hebiu.cn/txsport/100002:20253626/296912/1382720800.m3u8?txtoken=9e1271507d77d96cc4b32ab3740421549c0ea57f40c9718402f4576a074531256adcdca38ced063aac5bd063bfa9092b574fe8299f52c88e6c04b290a1459fd8c0c8aea5b56c313de9663458683976d9d3dab75a106a4c7cf2c2d86a08fd6fba98c6e9b4995bf9f675b14822fd3d081c0f2f1d857edbfc47ff2728b5b1
+
