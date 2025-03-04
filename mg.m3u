@@ -1,10 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="2025-03-05 01:44:14" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2025-03-05 01:44:14
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 03/04 13:00_希金斯4-3卡特 特鲁姆普晋级_希金斯4-3卡特 特鲁姆普晋级_2号桌
 http://dx.hebiu.cn/migu/949506602.m3u8?migutoken=4f229604bf0965e490397093d03fd5e0170fdb123985a9c6eb66ef24a98b9d4b86321548578f5b5a9e5c43def96bc3804b2eef7acbd2d615923aefc9051eec9f5cf5bd7dc1903144ca0c24de
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/10/29/6M2EMCV4L0OG.png" group-title="亚冠精英", 03/04 19:45_亚冠精英八分之一决赛_上海海港 vs 横滨水手_娄一晨 刘越 孙蕊
