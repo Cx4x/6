@@ -1,7 +1,4 @@
 咪咕体育,#genre#
-2025-03-05 01:44:14,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
  03/04 13:00_希金斯4-3卡特 特鲁姆普晋级_希金斯4-3卡特 特鲁姆普晋级_2号桌,http://dx.hebiu.cn/migu/949506602.m3u8?migutoken=4f229604bf0965e490397093d03fd5e0170fdb123985a9c6eb66ef24a98b9d4b86321548578f5b5a9e5c43def96bc3804b2eef7acbd2d615923aefc9051eec9f5cf5bd7dc1903144ca0c24de
  03/04 19:45_亚冠精英八分之一决赛_上海海港 vs 横滨水手_娄一晨 刘越 孙蕊,http://dx.hebiu.cn/migu/949357432.m3u8?migutoken=b4dedb7aef575cd45c271fbe3877cb357b9d4ade5dedcbcdf5d5c99adbb7b0b19e41e2fdee114811d282374de403df6526b708e866ad3c5a5c842e01d540982d6728e7a0bf0b57fd2a632def
  03/04 21:50_亚冠精英八分之一决赛_武里南联 vs 柔佛新山_刘焕,http://dx.hebiu.cn/migu/949357574.m3u8?migutoken=611ac9d6639257aa48c04b1301d3e5e220987ba8f3bb81a53c714e08ccd2a5c2ccd25777fc2a563a6fa8855d5196d70abf492e8b35c146540ff7d998d779f35ca9eed5b95e21a67b9d69ea30
