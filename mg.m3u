@@ -1,12 +1,13 @@
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 17:30_中超联赛_河南 vs 上海申花_苏东 黄健翔 郭小仙儿
 https://feijing-xzbonlinepull.17kq.fun/live/202_3475954_1.m3u8?txSecret=b349aef44b98c2fe9123c3677c5eb5bf&txTime=67e80ef1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 17:30_中超联赛_河南 vs 上海申花_赛场原声
-http://218.93.208.172:35455/migu/951135119.m3u8?migutoken=ae46a20653c65b0cf5daef65a932c752241dccb04b9bb2c6a0dc0cc9edc8ecd93d4175a942e303e362ccede6967b3342bd244138d2b51a7e355a729ab1dc3787682af500c34e944cdfdddb87
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 18:30_中超联赛_梅州客家 vs 山东泰山_石庆圣 李彦
 https://feijing-xzbonlinepull.17kq.fun/live/202_3476020_1.m3u8?txSecret=ebcab24352fd6ebd064607da52cf4b3b&txTime=67e80e9d
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 18:30_中超联赛_梅州客家 vs 山东泰山_赛场原声
-http://218.93.208.172:35455/migu/951136077.m3u8?migutoken=77688183bf8b38cc67ea7fa474a29858ad640d0c8b718e7ae985821fc74bafb569399349e7ac99d3aff35d8794321e1f4c6637950f3b7a36682b3ddbb86c5d72898202fe2978997415e5db1f
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 18:00_中超联赛_北京国安 vs 成都蓉城_袁甲 徐阳
+https://feijing-xzbonlinepull.17kq.fun/live/202_3476026_1.m3u8?txSecret=586449e55a1e7d93959a6026664160bb&txTime=67e81396
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 03/29 19:20_中甲联赛_重庆铜梁龙 vs 辽宁铁人_解说流
 http://218.93.208.172:35455/migu/951227618.m3u8?migutoken=e8c2ef37faac3ddaa7c173708acca8578126c48f431e697b6e9fd2a680ba77c4da886eee03a0fb871c23591da3fae1230b2b3e60022c878bac087c26ddccfd709c431aa76347ab1bda7b9ade
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 03/29 19:20_中甲联赛_南通支云 vs 石家庄功夫_解说流
@@ -17,8 +18,7 @@ http://218.93.208.172:35455/migu/951230140.m3u8?migutoken=fcab4411984d6e863772a2
 http://218.93.208.172:35455/migu/951023529.m3u8?migutoken=53c453ec50387fe914da1a0a5d8360c523fa22848e03caccd8542ee36ee7affb781e269c7920fe810d8ce43c5bbf6cb830c68c6e8729ebf174a4eae69507ed364ea09c41860f7a3f8fc467b6
 
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 18:00_中超联赛_北京国安 vs 成都蓉城_袁甲 徐阳
-https://feijing-xzbonlinepull.17kq.fun/live/202_3476026_1.m3u8?txSecret=586449e55a1e7d93959a6026664160bb&txTime=67e81396
+
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/29 19:10_CBA常规赛第11轮_上海久事vs新疆伊力特_李天宇 陈正昊
 https://feijing-xzbonlinepull.17kq.fun/live/201_3476695_1.m3u8?txSecret=73c969bf747bf8bb86fd40c8f2049115&txTime=67e8132b
