@@ -18,29 +18,14 @@ http://218.93.208.172:35455/migu/951023529.m3u8?migutoken=53c453ec50387fe914da1a
 
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 18:00_中超联赛_北京国安 vs 成都蓉城_袁甲 徐阳
-http://218.93.208.172:35455/migu/951137403.m3u8?migutoken=3403bc85ac4fcc35d164ab02896307c8abd9f850f89996d3cda88b392529d6d101a28484845f6cb48c27ee745f5de3f71676fdfcfbcecf465a00f147e61c9840d596008cb813c0be38009847
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 18:00_中超联赛_北京国安 vs 成都蓉城_刘腾 贺宇 李子琪
-http://218.93.208.172:35455/migu/951137691.m3u8?migutoken=4c65821f9c2ec0ade31aedefbaee1f762ae3c73ff05526b075b151e3170a57d0af7f435b82c9ec20bbf7e151329316dd6992a89d67671f8ae0913789e5a16a453e7a1476e2aca6822484dd0e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 19:20_中超联赛_北京国安 vs 成都蓉城_涂远
-http://218.93.208.172:35455/migu/951136874.m3u8?migutoken=d67f622dcbe557cc4f527fe6a68eadbeff2c19abed7db622581ccc8b001c0dd5e388fa2ee8542417d87f16d4a83c0faa4faecdf75a7bd96e5f9648235dce8aac8cc050087f0a2109dc3bca37
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 03/29 18:00_中超联赛_北京国安 vs 成都蓉城_4K赛场原声
-http://218.93.208.172:35455/migu/951136699.m3u8?migutoken=7d7b3d493ab966ac134ab034e73c45ec95c2bcafa7d2787296f1cc427f99940152bd9a8b3b5af63236c93bd2a6d3404b2f5dfd41cde765b50d2c1dae3a8260b9baa9bb4161bd097c79fa93bc
+https://feijing-xzbonlinepull.17kq.fun/live/202_3476026_1.m3u8?txSecret=586449e55a1e7d93959a6026664160bb&txTime=67e81396
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/29 19:10_CBA常规赛第11轮_上海久事vs新疆伊力特_李天宇 陈正昊
-http://218.93.208.172:35455/migu/950865170.m3u8?migutoken=108cdf13d70814646a702c6e6fea982c87d8e8d22d813cf1d0259d6a1f2bf31085443e83880adfbaeedf98962e90104a81b1922f596e5eb50b128614bcec8cc13af90e0cc61694662e317ba1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/29 19:25_CBA常规赛第11轮_上海久事vs新疆伊力特_张俊卿
-http://218.93.208.172:35455/migu/950865595.m3u8?migutoken=0c3429c52d295164172e2a68e8495f3d8b17bfed0dcf2d2839588cc2a04154e34d6988be242382dc2420dcab6c5f0a8a4b2e5bc8b93fdfc206894f8a4431f92fe75094c3a9481c6351487dc8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/29 19:25_CBA常规赛第11轮_上海久事vs新疆伊力特_盛哲
-http://218.93.208.172:35455/migu/950865562.m3u8?migutoken=590af14a6f230e4d26acb3017a485585d738da45d774726f59310437751e1298a9f5c59a93c72ec2499ca2cd1119316a86448186965feddbf54741185598a9eca418561e8b551b956f23a5ee
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/29 19:25_CBA常规赛第11轮_上海久事vs新疆伊力特_现场原声
-http://218.93.208.172:35455/migu/950865334.m3u8?migutoken=f58c23f34e5b904d14c956ccf4be489f50fa5bd2510ae0c81e770a9a16e4750249ddc1a7e9e9a52ac92bf13790a3a2474dd5b516ceb1f56b585e750c2334f49171ad1b99c3bf2ae807e280d9
+https://feijing-xzbonlinepull.17kq.fun/live/201_3476695_1.m3u8?txSecret=73c969bf747bf8bb86fd40c8f2049115&txTime=67e8132b
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/29 19:10_CBA常规赛第10轮_北京控股vs福建晋江文旅_吕程 殳海
-http://218.93.208.172:35455/migu/950863884.m3u8?migutoken=8e35c83c53eb613d2a4966cce5839c87ab0baf8f4604bab4ffe005bada53cb285bfa03d7495da3cbcdc9a8ab022c2b410c032c2f4278a6c357de86ed58b4f166007a25259f4fcb311cf79295
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/29 19:25_CBA常规赛第10轮_北京控股vs福建晋江文旅_周赫
-http://218.93.208.172:35455/migu/950864009.m3u8?migutoken=809f3c0d767ae5c5af9fcf28a3bb4a1f591086832aa2643ebff2b93a68ce3f99ce5370e5de11a67d68bc41e6eee0c73074ebf323771749063c6164da3f9f290a039fedd50e3b8847daeaae2c
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/29 19:25_CBA常规赛第10轮_北京控股vs福建晋江文旅_刘时
-http://218.93.208.172:35455/migu/950863917.m3u8?migutoken=e89c0679d4663017c6ab06e49d21362c16f15529f0e048dca7ad6e38791413bd9b93a9cf09f03667b7b3d48cbc9f8190dca300d3490414574173a1d1b1ed89482b872b624f334b29ab35a15e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 03/29 19:25_CBA常规赛第10轮_北京控股vs福建晋江文旅_现场原声
-http://218.93.208.172:35455/migu/950863771.m3u8?migutoken=0518820d27482a8303aa6d8b9e6f26135e6e607a3b1c361945d03de403db8b0c5f800196bd57f2fede9d2081201a24ea849628230f93bc72f5cc3e92aafa28f71ae97a8d115ddb590b6b338d
+https://feijing-xzbonlinepull.17kq.fun/live/201_3209730_1.m3u8?txSecret=dac7b2b50ac195473a00b7172a399cc6&txTime=67e81352
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 03/29 20:00_北京WB vs 武汉eStarPro_北京WB vs 武汉eStarPro_官方解说
 http://218.93.208.172:35455/migu/950598596.m3u8?migutoken=dd4f8ef65ecc7de00bae28d5fcddb78cd0d8e0fe64e3b553106f692c98d2a3883cf86c73d5ed3656ae98ea5f9de1b03b01231a3832b8e49b87d02295ced4bd452bfca5025ac4be1aa298b0fb
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" group-title="足总杯", 03/29 20:00_足总杯四分之一决赛_富勒姆 vs 水晶宫_娄一晨 刘越
