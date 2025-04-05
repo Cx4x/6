@@ -90,8 +90,10 @@ http://8.134.12.37:35455/migu/951634300.m3u8?migutoken=4c27d5f79790588b7067c0fe8
 http://8.134.12.37:35455/migu/951730564.m3u8?migutoken=50f77578c2f1a6737cb834e441876d3fe136ac624572e9d0b24e9c868685cd127ad7ef8e9991e7ecfa6bbf898727227b7e6ae35eb9677e72600ac262ff4f1a29404883139e2c1ef7539d8d2c
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 04/05 18:50_中乙联赛_兰州陇原竞技vs山东泰山B队_解说
 http://8.134.12.37:35455/migu/951634349.m3u8?migutoken=3fba07353d36ccf56893a36e2d06acc7cff31038eceb3f414555796e164b210a9c1935719f9356d2839402808ad98040b2905b8da882523d9d6207893d96b44be654f4c194b5b7cca5f7c7b4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/05 19:15_英超联赛_埃弗顿 vs 阿森纳_娄一晨 刘越
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/05 19:15_英超联赛_埃弗顿 vs 阿森纳_娄一晨 刘越 1
 http://8.134.12.37:35455/migu/951661506.m3u8?migutoken=ab13cfa8316a4ca3be81ebb6c4802ec41e6978d43a6eb1320284beaf33aed90d3b2867d98ead24f4f70b0d46ab4ccea145586529cadf0864d002d31ba46d5594483a5a86abf4fcfcab051d31
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/05 19:15_英超联赛_埃弗顿 vs 阿森纳_娄一晨 刘越 2
+https://pl10.chinefore.com/live/313504e547da5080.m3u8?txSecret=eab0c934da6c0be95379a4c2de5cac11&txTime=67F1121D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 04/05 19:20_WCBA总决赛_东莞新彤盛 VS 四川蜀道远达_解说
 http://8.134.12.37:35455/migu/951668972.m3u8?migutoken=803487df9952bde5655e7dcc5c78da28ee3ddb1b3728c1d29eb77a18bbf55f8580d0a5612eff693871b8172b0d8c55e65ca6ebf1157e9c6290f2280026669a63037978fb0f45ecd784b9f08f
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 04/05 19:20_WCBA总决赛_东莞新彤盛 VS 四川蜀道远达_现场解说
