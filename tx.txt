@@ -1,36 +1,16 @@
 腾迅体育,#genre#
-黄蜂 🆚 公牛 | 2025-04-07 01:00:00 | 4,https://zbpull3.zph369.com/live/13959704737661503914.m3u8
-黄蜂 🆚 公牛 | 2025-04-07 01:00:00 | 4,https://play1nm.hnyongshun.cn/live/9385d35b3139804162b66d1cb4af2659_ballbar_26630.m3u8
-黄蜂 🆚 公牛 | 2025-04-07 01:00:00 | 4,https://play1nm.hnyongshun.cn/live/7f5d0fd105c25fa1a3d0f6a952f0c0fe_ballbar_37480.m3u8
-篮网 🆚 猛龙 | 2025-04-07 03:30:00 | 未开赛,https://zbpull3.zph369.com/live/13973183754770536209.m3u8
-篮网 🆚 猛龙 | 2025-04-07 03:30:00 | 未开赛,https://play1nm.hnyongshun.cn/live/a955cd4e47bdffebe8565b3d2d597fae_ballbar_40530.m3u8
-篮网 🆚 猛龙 | 2025-04-07 03:30:00 | 未开赛,https://play1nm.hnyongshun.cn/live/298573d802407cb7b81428c010e572a9_ballbar_32270.m3u8
-雷霆 🆚 湖人 | 2025-04-07 03:30:00 | 未开赛,https://zbpull3.zph369.com/live/13993442270676275357.m3u8
-雷霆 🆚 湖人 | 2025-04-07 03:30:00 | 未开赛,https://zbpull3.zph369.com/live/13993483856202416106.m3u8
-雷霆 🆚 湖人 | 2025-04-07 03:30:00 | 未开赛,https://play1nm.hnyongshun.cn/live/ad377a05623ad1c1c3307b59bb11d3dd_ballbar_40550.m3u8
-雷霆 🆚 湖人 | 2025-04-07 03:30:00 | 未开赛,https://play1nm.hnyongshun.cn/live/ebf5790e78a6b945943c57354d35958c_ballbar_7260.m3u8
-老鹰 🆚 爵士 | 2025-04-07 06:00:00 | 未开赛,https://zbpull3.zph369.com/live/13973294340092510947.m3u8
-老鹰 🆚 爵士 | 2025-04-07 06:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/59a6143105f52c4f7f51a51ed67e62b2_ballbar_37540.m3u8
-老鹰 🆚 爵士 | 2025-04-07 06:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/8070728862cd3a77205cb73a5860905d_ballbar_19980.m3u8
-凯尔特人 🆚 奇才 | 2025-04-07 06:00:00 | 未开赛,https://zbpull3.zph369.com/live/13993873378138223319.m3u8
-凯尔特人 🆚 奇才 | 2025-04-07 06:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/9e9eea6ae174b099011d13edf3664ab0_ballbar_38300.m3u8
-凯尔特人 🆚 奇才 | 2025-04-07 06:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/f31e1c5c99c3a8a733d5755079b00a68_ballbar_21430.m3u8
-骑士 🆚 国王 | 2025-04-07 06:00:00 | 未开赛,https://zbpull3.zph369.com/live/13973405423630904487.m3u8
-骑士 🆚 国王 | 2025-04-07 06:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/4d5fe8856bd858731a546838bc27a1a9_ballbar_38750.m3u8
-骑士 🆚 国王 | 2025-04-07 06:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/ac0027511f37020e8414d0c355109097_ballbar_29870.m3u8
-开拓者 🆚 马刺 | 2025-04-07 06:00:00 | 未开赛,https://zbpull3.zph369.com/live/13993949983187185654.m3u8
-开拓者 🆚 马刺 | 2025-04-07 06:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/e0b201f905c381a5cd91718cb16dae30_ballbar_35060.m3u8
-开拓者 🆚 马刺 | 2025-04-07 06:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/43ddd8aa5a6cf9c594d04cad558dfe66_ballbar_8940.m3u8
-尼克斯 🆚 太阳 | 2025-04-07 07:00:00 | 未开赛,https://zbpull3.zph369.com/live/13994024307208262674.m3u8
-尼克斯 🆚 太阳 | 2025-04-07 07:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/9f7febd87255f1c3636b4617fbbc61c2_ballbar_29660.m3u8
-尼克斯 🆚 太阳 | 2025-04-07 07:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/39fa6925fb4f62b7f0a6344542c76252_ballbar_36860.m3u8
-掘金 🆚 步行者 | 2025-04-07 08:00:00 | 未开赛,https://zbpull3.zph369.com/live/13994408711023171940.m3u8
-掘金 🆚 步行者 | 2025-04-07 08:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/6d94ed71cc505d6a20c830b59f3c5c3a_ballbar_25170.m3u8
-掘金 🆚 步行者 | 2025-04-07 08:00:00 | 未开赛,https://play1nm.hnyongshun.cn/live/a06fbec529995fd06f2fb66031a6939e_ballbar_26380.m3u8
-鹈鹕 🆚 雄鹿 | 2025-04-07 08:30:00 | 未开赛,https://zbpull3.zph369.com/live/13994437728348249867.m3u8
-鹈鹕 🆚 雄鹿 | 2025-04-07 08:30:00 | 未开赛,https://play1nm.hnyongshun.cn/live/21efb6a7a22fb5914a817a96cb79c96e_ballbar_20910.m3u8
-鹈鹕 🆚 雄鹿 | 2025-04-07 08:30:00 | 未开赛,https://play1nm.hnyongshun.cn/live/509fd5aced7c9f07ba9f3bc121bec240_ballbar_27700.m3u8
-勇士 🆚 火箭 | 2025-04-07 08:30:00 | 未开赛,https://zbpull3.zph369.com/live/13994557664086546221.m3u8
-勇士 🆚 火箭 | 2025-04-07 08:30:00 | 未开赛,https://zbpull3.zph369.com/live/13994620584660840875.m3u8
-勇士 🆚 火箭 | 2025-04-07 08:30:00 | 未开赛,https://play1nm.hnyongshun.cn/live/5411ba94fb0e401b5bc09fc09a05ac98_ballbar_28130.m3u8
-勇士 🆚 火箭 | 2025-04-07 08:30:00 | 未开赛,https://play1nm.hnyongshun.cn/live/281901e34aa12b1a0cf095672e419ab8_ballbar_29040.m3u8
+2025-04-07 01:00:00_NBA常规赛_黄蜂 vs 公牛_金浩霆,https://newtvsuper.com/NBc0101/S1889/25182
+2025-04-07 01:00:00_NBA常规赛_黄蜂 vs 公牛_英文原声,https://newtvsuper.com/NBc0101/S1889/25183
+2025-04-07 03:30:00_NBA常规赛_篮网 vs 猛龙_刘乘源,https://newtvsuper.com/NBc0101/S1889/25184
+2025-04-07 03:30:00_NBA常规赛_篮网 vs 猛龙_英文原声,https://newtvsuper.com/NBc0101/S1889/25185
+2025-04-07 03:30:00_NBA常规赛_雷霆 vs 湖人_孔祥宇 曾令旭,https://newtvsuper.com/NBc0101/S1889/25186
+2025-04-07 03:30:00_NBA常规赛_雷霆 vs 湖人_英文原声,https://newtvsuper.com/NBc0101/S1889/25187
+2025-04-07 03:30:00_NBA常规赛_雷霆 vs 湖人_球星视角,https://newtvsuper.com/NBc0101/S1889/25188
+2025-04-07 06:00:00_NBA常规赛_老鹰 vs 爵士_李雪儿,https://newtvsuper.com/NBc0101/S1889/25189
+2025-04-07 06:00:00_NBA常规赛_老鹰 vs 爵士_英文原声,https://newtvsuper.com/NBc0101/S1889/25190
+2025-04-07 06:00:00_NBA常规赛_凯尔特人 vs 奇才_石楷文,https://newtvsuper.com/NBc0101/S1889/25191
+2025-04-07 06:00:00_NBA常规赛_凯尔特人 vs 奇才_英文原声,https://newtvsuper.com/NBc0101/S1889/25192
+2025-04-07 06:00:00_NBA常规赛_骑士 vs 国王_彭磊,https://newtvsuper.com/NBc0101/S1889/25193
+2025-04-07 06:00:00_NBA常规赛_骑士 vs 国王_英文原声,https://newtvsuper.com/NBc0101/S1889/25194
+2025-04-07 06:00:00_NBA常规赛_开拓者 vs 马刺_丁楠,https://newtvsuper.com/NBc0101/S1889/25195
+2025-04-07 06:00:00_NBA常规赛_开拓者 vs 马刺_英文原声,https://newtvsuper.com/NBc0101/S1889/25196
