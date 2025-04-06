@@ -125,7 +125,8 @@ http://8.134.12.37:35455/migu/951658591.m3u8?migutoken=de5eea67233f5f79da3935870
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 04/06 23:05_法甲联赛_兰斯 vs 斯特拉斯堡_鹿中原
 http://8.134.12.37:35455/migu/951658374.m3u8?migutoken=d5b27f046c6d8a3bed6e60dbf6829e0556b1996b1d6a934115530c0570070b1fe704cac5eca3004c6c019ed8ab6c644e3bc6ca2a51d3964d4202e7944e55b82b8c1a28d07001e1760e30dd5f
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/06 23:15_英超联赛_曼联 vs 曼城_詹俊 张路 林梦鸽
-http://8.134.12.37:35455/migu/951664462.m3u8?migutoken=83b1f0fe70c22c40373a60bff8fa72d86f93677c706cd45b1d3b5003f05fee0fcd99f36d17fc00f39806c77eff132145589cdd1100c20c1a3e697a2d3dc7e5c337b79ccae765639b6f4db85c
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-04-06 23:30_英超_曼联vs曼城_金相凯 董方卓 朱迟蕊 
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/06 23:20_英超联赛_曼联 vs 曼城_江忠德
 http://8.134.12.37:35455/migu/951664044.m3u8?migutoken=7890626670272684fd4b121c778d7b060eb8b6f79f4a2526cb9acf4ad27c59a09f65ed747dcea5b48fbfcc60c4dfa6a27dcf8c1c39945b1251bf3824466a266a61a327e806f311f212e72a41
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/06 23:20_英超联赛_曼联 vs 曼城_洪荒
