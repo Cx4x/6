@@ -1,86 +1,94 @@
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 04/09 18:50_中乙联赛_兰州陇原竞技vs湖北青年星_解说
-http://8.134.12.37:35455/migu/951890797.m3u8?migutoken=14955e5c0af450b3edb4470a3cecc7fe1123143e6d6558f0267e7d1d2a61925b31c9c38ac0cbeb51748a14c6532835e73cdf488dc68664f8f4ad4a59f2fd01eb1a2176ca2ea155c825379e79
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 04/09 18:50_中乙联赛_山东泰山B队vs无锡吴钩_解说
-http://8.134.12.37:35455/migu/951890731.m3u8?migutoken=7579fb4076901b497a0b81eda9b221ab28034d0fb561317561700775a31f6c7b3bb4640c8112318a29369cc62f841bab6f1f415510023bb9b91e84512b7de6fec7da7275f21fbc676f73d3e3
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 04/09 19:50_亚冠二级半决赛_本国联队 vs 悉尼FC_谭逸雄
-http://8.134.12.37:35455/migu/951659657.m3u8?migutoken=2fd50021d2d26a78f4ef97b87504195880cfa95a620fbc4284dd8c1ae726d18d773a10c50930beeaa29addef7535fdf9797ac200861261c4b21d21006318e09fb07f4aef5930262c041c8c08
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 04/09 20:00_杭州LGD.NBW vs 佛山DRG_杭州LGD.NBW vs 佛山DRG_官方解说
-http://8.134.12.37:35455/migu/951885853.m3u8?migutoken=021f0bfb56b2aec21b8b96a19b6d7d039f5feac63d6f06b06ca0b06306dd55e54edb2c8cc48bc427c7106b9c7fffc6ad3206a133e25893efe0b2d09fb48c2ad2a07733db76a368d3461dfb0d
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/09 20:20_WE vs JDG_WE vs JDG_官方解说
-http://8.134.12.37:35455/migu/951699850.m3u8?migutoken=1453aece89b85a502dd75a11d1ec716bdc7317c2c50c0b16576e803a6408465a34a9022ee79f023bef80c04e8a9d21f1c8b34484f7e9e1e0796bb8ccea326dde1eb27abe52629461cc0445eb
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 06:55_NBA常规赛_76人VS奇才_王凯
-http://8.134.12.37:35455/migu/951810328.m3u8?migutoken=4b05aa61b865ef88311284eb24779cf6baecddb72122e98fce96390b0cf7e301fc99fc4c7afefaf0112970c11173e3975065ffc1a292816fac238a7ab868f033a437a1f6446dca7cb854a920
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 06:55_NBA常规赛_凯尔特人VS魔术_季孟年
-http://8.134.12.37:35455/migu/951810479.m3u8?migutoken=59d003a5f16079148d0f2fabf46fb859bd70d35839e999d9edf99fe97ef4dda482b578e9c78585dfe170fe88adf76f2e20a8d89ee173715a90d6be92b6d494b98f494b7dbfd185c1c7708452
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 07:25_NBA常规赛_黄蜂VS猛龙_陈鑫隆
-http://8.134.12.37:35455/migu/951810202.m3u8?migutoken=4f9afc5fa09f45e81548f9c4dccdccac30fe0ca83fb84476719a26e845e1c19dd71557087474a4010c0c1814b501a442b93d50ebfd578bd99c53726ec55c6a37def7df7a9879570f2adbd844
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 07:25_NBA常规赛_湖人VS独行侠_李天宇 张兆旭
-http://8.134.12.37:35455/migu/951809327.m3u8?migutoken=5c72028fea4751b1c18b4896d5df89dc748d3768606061011448d622445f450076f40a1e7cc547f17726b310b3cea547801a8522c931be6827fd95e981c86adc9de1ac06481ad21a3eb943d7
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 07:55_NBA常规赛_热火VS公牛_王琰博
-http://8.134.12.37:35455/migu/951809096.m3u8?migutoken=e938fe4992a982e02075d96db25d2c0264dcf21277160057e0dad69451f80051a4bd42c8712b2401a70c036811baa734566ce3df515b1bd29aed98b523088f7d444d0eb80e417229131af4e2
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 08:55_NBA常规赛_开拓者VS爵士_周赫
-http://8.134.12.37:35455/migu/951808862.m3u8?migutoken=3e751ce9871e8bc0bb6b50aba839f97ba6eea603e83014680a8eb9449237defc1e7cdd99ce21c29f1aba68fe0ea893916779cbd889469f001f5181f04aa0eaaebeda1046a7cb056f8410e8bb
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 09:55_NBA常规赛_掘金vs国王_邢晨
-http://8.134.12.37:35455/migu/951808126.m3u8?migutoken=5f0d093427e49fe37368ab16e72ecb11e6a2a4cdbf9ed3dd1be996909c6f82f3a812bd24c85b37b575a488143dffad6c80713294ba7320803aeb3c6ac59a1cebc17e28054e753548343ee41a
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 09:55_NBA常规赛_雷霆vs太阳_孙博 孔德昕
-http://8.134.12.37:35455/migu/951808344.m3u8?migutoken=7a6465854a0ec7bb2dbd04ac2e36ace92eb91ef9853cc00cf35a9845788d35f73764a3c74c00b95f1488b1a686a485cfcd4e18e41486a0bb2cba971ce770bcd7e6b1debf63c21400e925ee9e
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 09:45_NBA常规赛_马刺vs勇士_姜帆 李根 小七
-http://8.134.12.37:35455/migu/951808599.m3u8?migutoken=a42c83c166953270ca639201b5392ddb0bb413c08625a7f5c042d269b3b795058fcfb0cbbb76a0b591fc0b5b9996af4167d9be8d587bc3c92ba2d1497421a9b076a61b6d927eb73d2579914b
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 09:55_NBA常规赛_马刺vs勇士_拜月宁
-http://8.134.12.37:35455/migu/951808509.m3u8?migutoken=50840e6d3be1ad4ecc54ea075a2b643a19ff7c3904990649e4a348da700bd229499e7f3aabce17236654fe5a0592b5ffefe4b0a223f0fe32cee2d5175fdd3489631253d1007a31e8cffe6c69
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/10 10:00_向鹏/刘炜珊冲八强 石洵瑶出战_向鹏/刘炜珊冲八强 石洵瑶出战_小马哥 周冠达
-http://8.134.12.37:35455/migu/951895548.m3u8?migutoken=e4f11b721f927bc5f22cd9a84ab28b77b206d40dc4cc731b55964481411d384e60e6b401b874b4a9cb40d37bbe12cd4f842dc163802f1d12bfe5cc7dfd231515f3afc4e10298ab6d0966cc6f
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/10 10:00_向鹏/刘炜珊冲八强 石洵瑶出战_向鹏/刘炜珊冲八强 石洵瑶出战_1号桌
-http://8.134.12.37:35455/migu/951895736.m3u8?migutoken=de49680d0ebc5814a473d1279bce58b9899dc9784c52912f8381716b09d74a85282d532aab575b3ebcde0fb6351ac1fdff4ccd36072551ad38669e2dd4e25fdfb2fc3c2615d0080383b9e4dd
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/10 10:00_向鹏/刘炜珊冲八强 石洵瑶出战_向鹏/刘炜珊冲八强 石洵瑶出战_2号桌
-http://8.134.12.37:35455/migu/951895962.m3u8?migutoken=fe1b4267504636da5c2b66692374f89bc60e91ec0a59c7a6faab1e1bf2ad3909078bbafd9e04caacc5b6f8f3f165ebf22174828234e381555942e468ce1b1b56f9356574512ea16ede5b8c23
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/10 10:00_向鹏/刘炜珊冲八强 石洵瑶出战_向鹏/刘炜珊冲八强 石洵瑶出战_3号桌
-http://8.134.12.37:35455/migu/951896122.m3u8?migutoken=d72a3b4d6959e8fd3a310f41e7cd6ec349ba338085a0d3cc95df2af34faa22e7f26049ee8d9a1d4de35d59b4a31a114ccb5bee09c7fbdf0734250b0feccdbaada0be5589bf7b1a189d6807f0
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/10 18:00_向鹏/刘炜珊冲八强 石洵瑶出战_向鹏/刘炜珊冲八强 石洵瑶出战_小马哥 周泽昊
-http://8.134.12.37:35455/migu/951896420.m3u8?migutoken=f8ec107ba3383117149777a8b6983d1752ea24594fa72461c0b53831bf37308ef89ff9f7b0e41d5b9141232d77c8dd47add11d8cec16b1212fb443a1fd555e8de7caace87912f0dd614c6876
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/10 18:00_向鹏/刘炜珊冲八强 石洵瑶出战_向鹏/刘炜珊冲八强 石洵瑶出战_1号桌英文解说
-http://8.134.12.37:35455/migu/951899183.m3u8?migutoken=8be5488356d8729156c429470b213ce3b7f32f44e77d4efb1693bca7665421d8ed70084165bf3703b20849572ef8e538e7caa61cf86f4b1e1c27cef3526e1b9d0792e2c199769b95e249b9ba
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/10 09:30_向鹏/刘炜珊冲八强 石洵瑶出战_向鹏/刘炜珊冲八强 石洵瑶出战_开幕式
-http://8.134.12.37:35455/migu/952010868.m3u8?migutoken=d2462319196c28626fc4d6ab14fcebbd049753d9eb6fc737858af2e5fa3bf335e851b63ba1c67310abe4ed05adca2b725c8c727a83ed2f60f408a52661343ea605764168c5a2c779757b0471
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 10:15_NBA常规赛_火箭vs快船_王冠证 徐咏 魏欣怡
-http://8.134.12.37:35455/migu/951807918.m3u8?migutoken=5d7c965e8a73d4ba28bfb2d5a853dbf4688063c1be355e4155dc0cfe14dddde1d3b3d61db72a63b13dbd56989e2ea677ba48e994af07b791eb2a4a9050a9eaf39cc7b1b36f3479f8285c5b17
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/10 10:25_NBA常规赛_火箭vs快船_周鹏
-http://8.134.12.37:35455/migu/951807846.m3u8?migutoken=7d6d99c8a5e72ff7885e205299c2bd12baf1daafe3e3a59aa07e97294df0bf48d033412514906ec7994dc809c8870e1f93ca14f0f425efd215ab434a88af76edf0d37a4edde1ca4a7acc0ca2
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/10 16:30_WBG vs TT_WBG vs TT_官方解说
-http://8.134.12.37:35455/migu/951700045.m3u8?migutoken=9d9cab14da8b517e700cfc271adf7c15ed42664cbf9adbf82561749284168bf9ee8bdb3e8ff2f910ed3e400992e68adb8910e90ed423460a803f27251d8fc872b3eaf9e6544fdfa35b4f8934
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 04/10 16:40_武汉eStarPro vs 长沙TES.A_武汉eStarPro vs 长沙TES.A_官方解说
-http://8.134.12.37:35455/migu/951889219.m3u8?migutoken=611d7e074fc4b560fe999eef53c4f807a1cbf8dad5852b1dfc4664fe80e144fe7390061a46b81d8c529cd50355207d1f64770fe9c415929c3bb942b534045495a174c71544ea7d5b9d41e6ff
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/10 17:00_赵心童PK龙泽煌 傅家俊出战_赵心童PK龙泽煌 傅家俊出战_1号桌
-http://8.134.12.37:35455/migu/951722947.m3u8?migutoken=46c67a8f0b2cd48cf66c80577a4e6de3168534566306c01b88d6d07e828afbfe7ed95305b9c390843e03d88e766121502ea3df5e24ca32ba7a714ba44d6f1753fd6eb89d2f9cdec857c5c8a9
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/10 17:00_赵心童PK龙泽煌 傅家俊出战_赵心童PK龙泽煌 傅家俊出战_2号桌
-http://8.134.12.37:35455/migu/951722974.m3u8?migutoken=a8a014f0f4ca328eaa75e79b3eb1a7b6ee97c94503a36ea22d09b4f9a873174143c11ca57d6573677723b53ce3bc179fb19c695918364ac9fdc7bc4fcf61efb9aec88cd15cb2b16307a9458b
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/10 17:00_赵心童PK龙泽煌 傅家俊出战_赵心童PK龙泽煌 傅家俊出战_3号桌
-http://8.134.12.37:35455/migu/951723025.m3u8?migutoken=b9eb6b553d60d33fdeca41db58126d5f3238526ba6bad88c64823b8be454a699684fa4bddf2322fc325313a6bc40b20cc1158dfccf8f274cd9ead3e8a7da7fa02a56654f3d883261b7bdc400
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/10 17:00_赵心童PK龙泽煌 傅家俊出战_赵心童PK龙泽煌 傅家俊出战_4号桌
-http://8.134.12.37:35455/migu/951723055.m3u8?migutoken=13a7620249c843ff51aba5d24bf59ee02aa78e7508c13eadc09b2dee3d63e0792aed9a82ff2ffbff070d883bface47d501a09ddc0996bbdee9aa66a5fe104bec2eac221496716fe3a87adb71
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/10 17:00_赵心童PK龙泽煌 傅家俊出战_赵心童PK龙泽煌 傅家俊出战_5号桌
-http://8.134.12.37:35455/migu/951723097.m3u8?migutoken=dbb5512671baf6de65d60f8c2f8b67caebb695a447c4ffd4868cd6ff47e7b30df204e7b939c70ae8e630938933c1075a01cb8071c6febc697d9e1d96ca4bc1d72d1e8b248e7dd5560a5bc606
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/10 17:00_赵心童PK龙泽煌 傅家俊出战_赵心童PK龙泽煌 傅家俊出战_6号桌
-http://8.134.12.37:35455/migu/951723131.m3u8?migutoken=fb7fb9b359dd79395cd0c60fe550a48c04edf56fdf858476059eb60255695d40015e4340ffa80db4e34402cea70de99d58f76fdf034ffbe04a11a3a2c970ae168057fa69f65e7d83358e1f85
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/10 17:00_赵心童PK龙泽煌 傅家俊出战_赵心童PK龙泽煌 傅家俊出战_7号桌
-http://8.134.12.37:35455/migu/951723157.m3u8?migutoken=e61bb29b9d76e0a008ae2c1bf7bdcc81be7279af839f2e37d97490b1256cef8e83524aacea423232a1d7fb7b946babb12981ef25a780c4053c374395bf49dda04862ea20a162ce2ed0b2e86b
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/10 17:00_赵心童PK龙泽煌 傅家俊出战_赵心童PK龙泽煌 傅家俊出战_8号桌
-http://8.134.12.37:35455/migu/951723196.m3u8?migutoken=4de36e366c2fde4a16e0a0e5e4adf5ddd8301608dbcfa7d4e06872531c9a38300101f31db021e898a4eb70d49af09166f2da996b9fb4bb08c73aca82d8b0811b83094e564bc70aee140c45b1
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/10 10:00_陈垣宇顺利晋级 钱天一速胜_陈垣宇顺利晋级 钱天一速胜_2号桌
+http://8.134.12.37:7055/migu/951895962.m3u8?migutoken=9dc038acd0b4fdc2bf80d1c81e599dbe8b54d7c8cd39b65c0c170ee5090d707a1ec9f2ec324d2539a8e23ba6f7cd6f6a5a68776669c2b163be0caa57e8d945c34ebe6181984189f746cd53fd
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/10 19:00_BLG vs AL_BLG vs AL_官方解说
-http://8.134.12.37:35455/migu/951700183.m3u8?migutoken=4ab54796925333b3eef86d75886085d4b50e1f09dcf73a2d6337551528cc5be234d6abc338647704fcb4087411afe61d1072512758cf5774b04fbb1fb08b736d0ffd8eebc762e85c9614e313
+http://8.134.12.37:7055/migu/951700183.m3u8?migutoken=6897494973187ae3f1a281969c3d5102f8ac8559ae0de5f9fbb26ee2bb004b935c0da37939b4a0d6f78e67fd530498b32810631a14c0c5d193a72b737dda5e15e0539f829a0f4f5ef70bb849
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 04/10 19:20_WCBA总决赛_四川蜀道远达 VS 东莞新彤盛_吕程 赵爽
-http://8.134.12.37:35455/migu/951669159.m3u8?migutoken=1834fa53612381e5bf0fe55317395af311a5326b58e0eef5cdfd4e2141a466882bf9d733e5753f4f6e65dbff00ff26b7ab32ac64a11af6da2f64ee817ba575f64f32e829f1a72a053708d081
+http://8.134.12.37:7055/migu/951669159.m3u8?migutoken=731ad01a7fa597206d6986451710d598f1f8131782a7fe3221f6e7fc564734d9811ce45291792adc50aa82ace7907e7188165420d97284cb19e435453b97031c62014e2a759b6d999e6269bd
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" group-title="WCBA", 04/10 19:20_WCBA总决赛_四川蜀道远达 VS 东莞新彤盛_现场解说
-http://8.134.12.37:35455/migu/951943099.m3u8?migutoken=b9a28e16d5b1f0dce291d5ef7932c9eb30dad4d60e950425027bd6d11dde438e7e74a2ac01cbf58c84c07b87d5b1bbcad438ff5a94ffd67ebbe4ef1759156fe4a966d5f5f255594bb2487dfe
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/10 18:45_CBA季后赛12进8_青岛国信制药vs浙江稠州金租_杨健 李根 拜月宁
-http://8.134.12.37:35455/migu/952016915.m3u8?migutoken=ce6909a67336869b93e206f604ef759f5ba2a43c1b14a35cdd93094c706e2eb79b36ae2321a1039346493a88ccc31da5989e80056c2e7a4021cd5924c859e022136dfef061a945601762d67e
+http://8.134.12.37:7055/migu/951943099.m3u8?migutoken=7e2eb7b0b2b091944f1eb28b1eea031a33fa168293917e6ddc03a2545dd5691b215e1a35d7d2f496ec240b4808b9deed4ea97df0906557ad4058f19c009275e4177e23c7c34d3cbf9dc3ba60
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/10 18:45_CBA季后赛12进8_青岛国信制药vs浙江稠州金租_杨健 霍楠 邱彪
+http://8.134.12.37:7055/migu/952016915.m3u8?migutoken=89992636ec474128a8853128a27c48a75a7386f53ab75918337f87725da211b1181fc1ab5883e5e365aa0602e3ae7f4e2bb3904cb90dd0635b495abb282fc32788ef8312ed2e6377d16148f1
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/10 19:25_CBA季后赛12进8_青岛国信制药vs浙江稠州金租_刘沛元
-http://8.134.12.37:35455/migu/952016592.m3u8?migutoken=940c73397564379c49897f00ea9ce1f60a4359d552235d6ad6fc4fd3b0e14fc5d7d4f5db3d2941df4167c2221c6a28b6dee6cc58d61c4bdd28b44ff7adfabc40e66dfa45d19d5f7e3eefcd48
+http://8.134.12.37:7055/migu/952016592.m3u8?migutoken=dd5b792c110f767851223bc95ee0e349eeb37e0c270b745bdc2eea2903dfdf4bf2143538f390a1f036c9f00cf29777e066b10dda04818da7dc9b8c6a60103075f54a26da52db0d67c76138aa
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/10 19:25_CBA季后赛12进8_青岛国信制药vs浙江稠州金租_金哲豪
-http://8.134.12.37:35455/migu/952016704.m3u8?migutoken=a21676a67d001c3bbf1ba5a8d33b0cbd66f82412317b3166b3494085d2f57fe91ac19417b9e4e1a7a56f45d7f15a3d3e6522015c67b967d89c5b9f1ba376639e887ed44e8cb55cd2c044f2cf
+http://8.134.12.37:7055/migu/952016704.m3u8?migutoken=9b49c865d5a882c043bd635e85593ea734a3030671047c5e2895b173b093a878fe83995e7f8edd059f025113d733c0f335b28fa0e1f6f07e13bf1928da6be3a0e40b783db545cba6a0615e6e
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/10 19:25_CBA季后赛12进8_青岛国信制药vs浙江稠州金租_现场原声
-http://8.134.12.37:35455/migu/952016361.m3u8?migutoken=c7a0c7efad64562e40f1718f89a3b3767ddde190e0d26a7aa4f8a8e9ec50204e9de0a044c8db45bb143f4b1346d5cecc7b446bdb2e8235bf232d17598b396f10e0b3fbc97e02c2b9b43951df
+http://8.134.12.37:7055/migu/952016361.m3u8?migutoken=d3716cc08bdd826fbaba48275660b3280fadb46ae46b4ce92cfd5798d8e669171834fa3e0f207a0b497096b4d930af14a7a5077c879b96f6dcfa9d11980b950c0d971e176988aee7be00bbb2
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 04/10 20:00_Hero久竞 vs 广州TTG_Hero久竞 vs 广州TTG_官方解说
-http://8.134.12.37:35455/migu/951890536.m3u8?migutoken=8b503d77b672a890a8bc1be17da4b8956689525fab383010318dad44562c7b69042c0d93fe248235ce388515fbf170fbb68d6adc95a245a168726b1381158796b022e6df873fbe7424a08697
+http://8.134.12.37:7055/migu/951890536.m3u8?migutoken=af972a7565ae37fce6838b4a702bfa14fee86165a80d74d4eb7e262709019a905cd4b74839d84e30217402180a253faf42da1886bbbc7ad9a1e2fdc3dfa4d31a15c7ffaad88af5da499761a8
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/11 06:55_NBA常规赛_骑士vs步行者_罗森
+http://8.134.12.37:7055/migu/951798323.m3u8?migutoken=bac8720957f29089a876f311780e0ee7d89976155c5fe991efc07cadf705438d22b62bcf9d682268e3ebd26196f00e73b13adee6422812259434396b75c791d4321572c9bacec31138173dd9
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/11 06:55_NBA常规赛_尼克斯vs活塞_董倡硕
+http://8.134.12.37:7055/migu/951798174.m3u8?migutoken=5ef08ba4ee439b730cd4faefd71250f26fbbc40ee3027f0b7ae5f5605031914e6fc61b7e1a54c5babfbc2a11cd2430595ea149c218ca315ec12e676a76be2e51f422ce1ff6425f342986ef27
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/11 07:55_NBA常规赛_老鹰vs篮网_孔德昕
+http://8.134.12.37:7055/migu/951798495.m3u8?migutoken=0324ecf61c099323b2be32f2a455b5fb3958a1b322cbd955bf6e98433c906d12cf91482e5f9222bf3d264144d165e39e9f8f6f249d953028ee4610eef916bb3b7846e7fa648dfa888f6e5631
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/11 07:55_NBA常规赛_鹈鹕VS雄鹿_刘芳宇
-http://8.134.12.37:35455/migu/951808992.m3u8?migutoken=4970f4dad8193c659255a754d3cefca9252ef87aa08d78f9c71868055076b999f62147f0b6e9b66f5ac37d91e9d366906ad92045fae30cefbff5f249c675ac1b3b70dcb98c395999914ac5e3
+http://8.134.12.37:7055/migu/951808992.m3u8?migutoken=fbdce66a12e0bc1a0489dfaeac39dd7a3ea47ed525304cc262f4e96fe097bc11bd702726b90499dac3a79bff3eae64c4adba389d1bcc1733a3b862c226a6167a2e957cec0a694ad1262087cf
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/11 09:15_NBA常规赛_森林狼vs灰熊_孙博 李根 裴优
+http://8.134.12.37:7055/migu/951798611.m3u8?migutoken=0269523b414edf8551ea47b083b80c52710f2e09db862dd563fcb834d6da74d8571c0e6cf714a7c8380814c265492171b6dec408351b5ee19ed17f4def8f3054d2d6d2b16f0cbaed55c13aac
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/11 11:00_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_周泽昊 周冠达
+http://8.134.12.37:7055/migu/951893152.m3u8?migutoken=780ac5cf21f57751db1596ac1739f4fd6d5fb0263e7f43f779627bb530db34a6937c1b00b56f8b44e4d731dcc8261fe72f8073772eb42fb2b1844a938653bffb2f00563a13ff9d4b892c42c3
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/11 18:00_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_周泽昊
+http://8.134.12.37:7055/migu/951893473.m3u8?migutoken=a4b021515d242fe6bbac9002e3ca384b4b7024ef30f5e29fb8469f1f75f9057e6817e90d505366ca341c7e22ac2d14c86e30bb3858f35b27beebabdb1d258cada14b0cd965ad159ba80c9613
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/11 11:00_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_1号桌
+http://8.134.12.37:7055/migu/951892320.m3u8?migutoken=db893a1f9d457672138ec327f855e5bc02b83bddeffcc545f60acdf4d74ce8171881abd9f9f7802178825a1efe1a7601975b9683799b501fb1b86210bbc237815cdf5c514c023629610159a0
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/11 11:00_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_2号桌
+http://8.134.12.37:7055/migu/951892662.m3u8?migutoken=48f618cd52a7505d7d15a417a7df1d487130d9ca245b6440680c83a45c1f50d2d9dfdb01bab16099a11126420ee8803853bb0d135437d504e699dfee3cdba708a3baa4363976beb9e74e5967
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/11 11:00_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_3号桌
+http://8.134.12.37:7055/migu/951892788.m3u8?migutoken=2662fc00dae037d1f1c9c38af3eb809c3bd07db309432f9823684a7147601ead8a0a69c58b392300fe80e6008498763a12961323afccbedb9b5367af741689d35c7f80a45d275e65191393e9
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/11 18:00_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_薛飞/钱天一vs向鹏/刘炜珊 徐海东战松岛辉空_1号桌英文解说
+http://8.134.12.37:7055/migu/951899147.m3u8?migutoken=acb02de7eace2cfd85b1e5c168322d08337ba83fdbc332be345e38444a80a4dd9e4db9647682d2e54bdf446502e6f60ff85254bfa7731f278876baf25f52bd08b4b2acb82bde7c8a23a84d10
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/11 16:30_AL vs FPX_AL vs FPX_官方解说
+http://8.134.12.37:7055/migu/951700350.m3u8?migutoken=f350f30fa9ba4139cb3712f2a37fac301cb74f5cdf1b33864b53dfb0427e75a0fd85cf2dd44472269eb2a8f2498b71e50d0850c2d1d4efd07a7a551edf5a0c5a23b5d39b5e77d052dd2cbe15
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 04/11 16:40_重庆狼队 vs 上海EDG.M_重庆狼队 vs 上海EDG.M_官方解说
+http://8.134.12.37:7055/migu/951884687.m3u8?migutoken=75377a70a0485f3bc16d96e1ab0f7c8d1c4decd146386b54fc51eeacc98416b9a2e17305a9e7c7c25bf28ed5c30a27f8222d34a8c5ab4e1cc0b201d2c67b75fe2a07266a9677b186dbc2fe9e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/11 17:00_田鹏飞马海龙江俊国强21:30齐登场_田鹏飞马海龙江俊国强21:30齐登场_1号桌
+http://8.134.12.37:7055/migu/951722288.m3u8?migutoken=fcd035b60d07c7cbaf0e6805f1116ce989ee0d8a65eab9ca23a89562eea211d2abfc197e966a8115c34a498afea14e2804134737f932c325ca6fd6b2903a316c61501ce0a199745fecf741c1
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/11 17:00_田鹏飞马海龙江俊国强21:30齐登场_田鹏飞马海龙江俊国强21:30齐登场_2号桌
+http://8.134.12.37:7055/migu/951722332.m3u8?migutoken=9689b7eb6b8a3cda32710ecfac3dcf2b02a217da4ef3723ff1a173e00e46c282f1ab1915149783af69f1dea1510f58ee2da32b0e79e3d731671df3856857a64647c3c1c3f773a6e0d0264def
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/11 17:00_田鹏飞马海龙江俊国强21:30齐登场_田鹏飞马海龙江俊国强21:30齐登场_3号桌
+http://8.134.12.37:7055/migu/951722397.m3u8?migutoken=bc36f6d93ca3492bd9367879b523ebeed520301e287c99bd08503d46425fb90d5e1e3aa5e67d84cb440fbbb23ab3deef94fd6959534f4b0780e918a93c8685819fdc3104f15a557d17f41bbc
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/11 17:00_田鹏飞马海龙江俊国强21:30齐登场_田鹏飞马海龙江俊国强21:30齐登场_4号桌
+http://8.134.12.37:7055/migu/951722624.m3u8?migutoken=19fa89fc71bd639d5b16b35d3819d3cfa74a6d43679c5a73769a56061d16a43cb1f3e4398c1c0bd86c932dc6311dd973084185d0851988ca24f8cb4d6bbabfc16b9d9596483f785aafb3d46b
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/11 17:00_田鹏飞马海龙江俊国强21:30齐登场_田鹏飞马海龙江俊国强21:30齐登场_5号桌
+http://8.134.12.37:7055/migu/951722652.m3u8?migutoken=bc27b008d7626604ba83f572bcf67bbbd454bfd480c39116a955c4ac7fee2f14c0a444fa180d8c0d2be182a66ad546ed866e63ca9446ddaedb03fa4b05f0a5645f67bf48a4d9bd6bec98801d
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/11 17:00_田鹏飞马海龙江俊国强21:30齐登场_田鹏飞马海龙江俊国强21:30齐登场_6号桌
+http://8.134.12.37:7055/migu/951722680.m3u8?migutoken=989a5f798b7461d4c035a1d18808e7d2d773620f32cb017103696ce92a0c01433bca8bc3acb68742b754e9e6db8d430d847b8ca2067178e9ef8462a67da89fd2f9cabfde036b697cd513ab8f
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/11 17:00_田鹏飞马海龙江俊国强21:30齐登场_田鹏飞马海龙江俊国强21:30齐登场_7号桌
+http://8.134.12.37:7055/migu/951722723.m3u8?migutoken=2493cbf0b1d70d822cb6a8b53522848adcb9aef667ddf88669159dbb75d355a078832be5499396d755fe475ae0fb82b95f592fcb559f8ffcd31087202f7b7e18748268035a066ba10051a8d6
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/11 17:00_田鹏飞马海龙江俊国强21:30齐登场_田鹏飞马海龙江俊国强21:30齐登场_8号桌
+http://8.134.12.37:7055/migu/951722827.m3u8?migutoken=486fd18b61e2c58b489c6a6e4c11715c58e4d135eee4e88d55fc4fec96dd28b4ede9791307f7b70e67b0567a37adf860eed2317c53a007cbb4ba1c85c7928dd11c027cb4bf8433bbfd8cbe45
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/11 18:30_广东vs上海赛前训练_广东vs上海赛前训练_翻译小余
+http://8.134.12.37:7055/migu/952017223.m3u8?migutoken=1599c87c2fe59f842d88923257c5d4f6560df722b8048063febda6ae47212c4f51670da2bb97d2593286afd77dd57ac2b3517b5ef6c29deecada5b09369eb824bbc798eb66a5c536a4396eef
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/11 18:30_广东vs上海赛前训练_广东vs上海赛前训练_张俊卿
+http://8.134.12.37:7055/migu/952017329.m3u8?migutoken=ae1d135245e6c6f20aff9f775453be75921160b65383344330ab99a2225b5fefd0b5ca922357230669c24b67f9424f4900d22a08e1a26906c807b8d31e263a766228da8c31481600834aa428
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/11 19:00_IG vs TES_IG vs TES_官方解说
+http://8.134.12.37:7055/migu/951700503.m3u8?migutoken=df3d12164bbe71eda8beacd664c68bc69c2c98e029a5fab6e2e853cda8ce9409a755762fc0f6bbefc2e4a35c622cb6ebbfe06056b96511880f4832c6eac6f9c1162642875558ff5dd488f18d
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/11 19:20_中超联赛_梅州客家 vs 长春亚泰_梁祥宇 冯潇霆
+http://8.134.12.37:7055/migu/952073739.m3u8?migutoken=306c14ebcbf999df8d38b4314be581e353c589ab0f04660f3bc7449ade400f139fc1056344ae450b60afd58bb12a03a0eafdd2b6020fbb3f830188f8af738d734dd880b0f8fb1a1b34c8aa35
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/11 19:20_中超联赛_梅州客家 vs 长春亚泰_赛场原声
+http://8.134.12.37:7055/migu/952073768.m3u8?migutoken=a625f4457f9a45076a7859ca8ce927e5c9e957f82ee9af6d7bde1c3dc12b89de360ab839981faa488736d9cbe54ce8cb4208babe141518db504203e49fc1a7fc71f94478bdd1f31c3525ccb6
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/11 19:00_中超联赛_山东泰山 vs 深圳新鹏城_孙雨轩 杨晨 郭小仙儿
+http://8.134.12.37:7055/migu/952073097.m3u8?migutoken=44c17c83bbafbe414c18b2b023c81bad484159c7a5bddeb75d3a0d27114e9cd965d8d09d2ae063f6fc6fb39ccc75f5d1167ee6aa8002d38a410c71bc499b4f7375ab619c2051d6ea1f1cee9c
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/11 19:20_中超联赛_山东泰山 vs 深圳新鹏城_赛场原声
+http://8.134.12.37:7055/migu/952072906.m3u8?migutoken=3b7a1e59fd2a69c6d8dde1336c8f6c6dfdf3f7b53e06ab900d57bab5db9e75a0b2ee69c14746b9ec8b00b4badb33fd73448f2741c9c23b95f0612ed496e27c61a9378bef984b3da5075dab8c
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/11 18:30_CBA季后赛12进8_广东东阳光vs上海久事_李天宇 周鹏 陈正昊
+http://8.134.12.37:7055/migu/952018313.m3u8?migutoken=a7f34d82727591ea51227fc3933ba51d8a6ef5820f2fc4d2124a3113478941f9e048e5250cd0a40f1ecb41a92df4789b9ef920733ec8c16026a76e24a592461e975c533e63d367f0c2d6d84f
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/11 19:25_CBA季后赛12进8_广东东阳光vs上海久事_翻译小余
+http://8.134.12.37:7055/migu/952017688.m3u8?migutoken=fed4f02415b6707e3ae445fda4616359fee767aa4bb2a3eeb3203564682f160e458a396ba2bc9d169f8566170d85ffbe1876a55db44993ed3ee4a6bfc41573c7292c45955c75c35dd8a846cf
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/11 19:25_CBA季后赛12进8_广东东阳光vs上海久事_张俊卿
+http://8.134.12.37:7055/migu/952017750.m3u8?migutoken=87cadae1f9cdb4e4a9f3964f773d4ffae9c231910e3bf487e9dd0c92ade4c34a183e9af90cd79d560da7ae4b3c4d23ed269c7cd7f0cbb57242a14f5eae7a1b5e8964fb3f02462f7c42f778f6
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/11 19:25_CBA季后赛12进8_广东东阳光vs上海久事_现场原声
+http://8.134.12.37:7055/migu/952017469.m3u8?migutoken=5c7b4759f6363952b21ff78d80e4f29b6122762ff80c20ce1a7e4a51ac87ee3b6b830884e70cd0fd54359c34dd579475cead26cf74596d4537013cf403d06069978242fd920fa8abac950079
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/11 19:25_CBA季后赛12进8_广东东阳光vs上海久事_3D全真视频
+http://8.134.12.37:7055/migu/952018104.m3u8?migutoken=305eefd5b27e85aeffd45e51ad40b250675ee87fa61dfcc8a8ab054f79a61cb13195fdd293b1f1968c8dd1f2369c4bc128d849eeaca5574b04614d1d5ee1cebf3e6397ea300aa3a6d45659cc
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 04/11 20:00_成都AG超玩会 vs 北京WB_成都AG超玩会 vs 北京WB_官方解说
+http://8.134.12.37:7055/migu/951885963.m3u8?migutoken=417bcba0d4c14e36862ae817ccbcecdff495a15bf6cf56329edbfd2ae44f7bff9a85bc13f92ba1b31dc3b8d0353bc2a8008d1cec80937035f8ab0fd3fadd50b711276d940e083b2d6af0e7d5
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 04/12 02:20_德甲联赛_沃尔夫斯堡 vs RB莱比锡_王子睿
+http://8.134.12.37:7055/migu/952021417.m3u8?migutoken=555c440938fed0d05153865ce87c393bbd2e767f4290f961d8de99ed0241e7472f277faf4ec43f772d64c6e4d2c03c8cb903269e271104e4622051f318dfd24e11c309c31440b25454b67bcc
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 04/12 02:35_法甲联赛_朗斯 vs 兰斯_鹿中原
+http://8.134.12.37:7055/migu/952021308.m3u8?migutoken=276d1ddfb43e615320a9c6ed5913a166f96a451fa6d6c3e68141e0e1057744a0c3fc1367f7d9cd263a8e7a71c830600a722d4ac2c723e46533ebf8745d956b1468307728b5b74f00be19a103
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 04/12 02:30_意甲联赛_乌迪内斯 vs AC米兰_石庆圣 李彦
+http://8.134.12.37:7055/migu/952021369.m3u8?migutoken=2326d336382a62a97b90d8f0b46d67057260d03f367efdc521f6f9ecbd189f5f20fa6172dee8f5abd5e92c632006d21eee1a887355238e3dc6f2bc19a54c2b091bb1b92b8ae84f8bcab16d47
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 04/12 02:50_西甲联赛_瓦伦西亚 vs 塞维利亚_洪宇青
+http://8.134.12.37:7055/migu/952021283.m3u8?migutoken=539532df6f5c6d61c9a45488fe1eebfbb5d90cf56dd8c1e40ec6dde911c184329bb9fe5edbc2766a38b79360552255f1045ce177b38711d06225050e353195c448be9a40ec31cd71d8909c8b
