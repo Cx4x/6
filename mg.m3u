@@ -69,9 +69,7 @@ http://8.134.12.37:7055/migu/952073739.m3u8?migutoken=306c14ebcbf999df8d38b4314b
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/11 19:20_中超联赛_梅州客家 vs 长春亚泰_赛场原声
 http://8.134.12.37:7055/migu/952073768.m3u8?migutoken=a625f4457f9a45076a7859ca8ce927e5c9e957f82ee9af6d7bde1c3dc12b89de360ab839981faa488736d9cbe54ce8cb4208babe141518db504203e49fc1a7fc71f94478bdd1f31c3525ccb6
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/11 19:00_中超联赛_山东泰山 vs 深圳新鹏城_孙雨轩 杨晨 郭小仙儿
-http://8.134.12.37:7055/migu/952073097.m3u8?migutoken=44c17c83bbafbe414c18b2b023c81bad484159c7a5bddeb75d3a0d27114e9cd965d8d09d2ae063f6fc6fb39ccc75f5d1167ee6aa8002d38a410c71bc499b4f7375ab619c2051d6ea1f1cee9c
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/11 19:20_中超联赛_山东泰山 vs 深圳新鹏城_赛场原声
-http://8.134.12.37:7055/migu/952072906.m3u8?migutoken=3b7a1e59fd2a69c6d8dde1336c8f6c6dfdf3f7b53e06ab900d57bab5db9e75a0b2ee69c14746b9ec8b00b4badb33fd73448f2741c9c23b95f0612ed496e27c61a9378bef984b3da5075dab8c
+https://feijing-xzbonlinepull.bszb.me/live/202_3507669_1.m3u8?txSecret=c665205e3c3289f2728ea5d7a31ebbc1&txTime=67f93de5
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/11 18:30_CBA季后赛12进8_广东东阳光vs上海久事_李天宇 周鹏 陈正昊
 http://8.134.12.37:7055/migu/952018313.m3u8?migutoken=a7f34d82727591ea51227fc3933ba51d8a6ef5820f2fc4d2124a3113478941f9e048e5250cd0a40f1ecb41a92df4789b9ef920733ec8c16026a76e24a592461e975c533e63d367f0c2d6d84f
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/11 19:25_CBA季后赛12进8_广东东阳光vs上海久事_翻译小余
