@@ -1,7 +1,4 @@
 咪咕体育,#genre#
-2025-04-13 00:31:26,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
  04/12 18:00_薛飞/钱天一混双亚军 朱雨玲晋级决赛_薛飞/钱天一混双亚军 朱雨玲晋级决赛_宋大为,http://8.134.12.37:7055/migu/951894578.m3u8?migutoken=7e30a60dac10ec58c7b0a50b3b1ade168d2fdaf0bcca0fe99ec3fda0f2a46ef9ed496b58003bb15c96050c2a4c0118f7d075562caba8b6fd21b9456c425b177f66a5a53f304d0875c026d35e
  04/12 18:30_激战前夜：闫晓楠vs扬迪罗巴特辑_激战前夜：闫晓楠vs扬迪罗巴特辑_陈瑞阳,http://8.134.12.37:7055/migu/952077928.m3u8?migutoken=e957e8ba8d1313714db421dd28ee7542e40b514993564bc7d34b04f7eea83ff308890272e4d01d45f61a8a145da47ffebbc7ef68252483f9bc023b3a8361d55db2c9b600656f675bc67e589e
  04/12 18:45_中超联赛_青岛海牛 vs 成都蓉城_石庆圣 李彦,http://8.134.12.37:7055/migu/952074622.m3u8?migutoken=eed4a4432a1115337c8716f9268e22e7b6049ba5ae0c67d06f4791c875fc029912752fe0e03509147164e59049a4d971f9393fa770904f172a276df6a4d4815693bd0cca4f022967e712247e
