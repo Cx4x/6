@@ -135,7 +135,7 @@ http://43.142.91.123:6543/migu/951899157.m3u8?migutoken=b94d81eb92a20a852e4f9a26
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/12/11/10000000124810603b67.png" group-title="UFC前瞻与回顾", 04/12 18:30_激战前夜：闫晓楠vs杨迪罗巴特辑_激战前夜：闫晓楠vs杨迪罗巴特辑_陈瑞阳
 http://43.142.91.123:6543/migu/952077928.m3u8?migutoken=2cc9bb62b056695b170d7459c7580581f94c535f348195893fa54fab6639c617de1a15cd24dcd260aabbea6b238a57d43714b38e470525ddd7fc059c84fa2c0b64653647a6be02e2d5e756a3
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/12 18:45_中超联赛_青岛海牛 vs 成都蓉城_石庆圣 李彦
-http://43.142.91.123:6543/migu/952074622.m3u8?migutoken=715a69abd34102c226bd78403e4637698de2630c89e095375d61a085ef7889b80b8db97ee0cb3d10a88b445b9893b98d11f64f3e9dfefda74290b2066eb2cf214b37a448a994a75feb48b3cd
+https://feijing-xzbonlinepull.bszb.me/live/202_3509746_1.m3u8?txSecret=499a86e57e58ec8c147a3667bda09624&txTime=67fa89c1
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/12 18:45_中超联赛_青岛海牛 vs 成都蓉城_赛场原声
 http://43.142.91.123:6543/migu/952074572.m3u8?migutoken=8c3a4810f3a43ef6853cf511dece08ae12addd9838574df419536d9efe2b6b4216565007d83c3c368e7814f1efb064975430a4306aa2d970f8ac36c70710fbf9cab4187e94ad3c69b917e4d6
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 04/12 18:50_中乙联赛_成都蓉城B队vs赣州瑞狮_解说
@@ -144,7 +144,10 @@ http://43.142.91.123:6543/migu/952107992.m3u8?migutoken=eee4e02f1fe92e0f65f121c3
 http://43.142.91.123:6543/migu/952007428.m3u8?migutoken=e0b8a4aba3424bcc735794360b699bbbb03415092e6b54113407ed8aa74ca05eaefbc4c8f4e18c15507612ab72066c6db9e08dd7e837b94b402476cf04138b7cf5729d9cca532aaa3928d2b8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/12 19:00_BLG vs JDG_BLG vs JDG_官方解说
 http://43.142.91.123:6543/migu/951700948.m3u8?migutoken=5067e67888bd84c98c0a3380a57e7d3f9b7614b79806453de6c2631a60849ff060f99da31277a6abeea036e0f15234297e73714a211047956aa78eb914c4fdd7b1a77ed1a9b6d2b4d74dc238
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/12 19:15_英超联赛_曼城 vs 水晶宫_孙雨轩 颜强
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/12 19:15_英超联赛_曼城 vs 水晶宫_孙雨轩 颜强 1
+https://pullkgq.15qctz.com/sport/202_3509761_1.m3u8?auth_key=1744457811-0-0-09df2c95f2d040365597bffd809b7de6
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/12 19:15_英超联赛_曼城 vs 水晶宫_孙雨轩 颜强 2
 http://43.142.91.123:6543/migu/952022402.m3u8?migutoken=15f8e9a73f697c2fec09dac981cccffb200e550a196690c9aae1a0bf3df50b899b37be9ecf92b599d0f4255ba66694bbaab0b83b48c585a46d72e376cd3e1d66cf851037d0bc5d4a208fa0c4
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/12 19:15_英超联赛_曼城 vs 水晶宫_刘畅 颜强
 http://43.142.91.123:6543/migu/952022412.m3u8?migutoken=9b4eebae68c636ba5b34322328eb9cbee10c66afb6207254e224e768ec5b93c4cd683f3661f9829a69136ec3865997af9534436a51c8adf5d1d605b0bd8c8536cc0c471d912b42b0fd360254
