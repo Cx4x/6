@@ -165,7 +165,9 @@ http://43.142.91.123:6543/migu/952073247.m3u8?migutoken=2d3c65a723688ed68af6ab11
 http://43.142.91.123:6543/migu/952073158.m3u8?migutoken=68052b02b0e0c6758fe5bce399f4a6bbc975e82d44c11f76d673dd041c66f2d4c746a0b1da4c373ff92cc6a64ef22508c48dee49ea2b16312349b47f2ecc17ca407df5fa49b1521d2afd6e74
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 04/12 19:50_西甲联赛_皇家社会 vs 马略卡_李霄
 http://43.142.91.123:6543/migu/952021310.m3u8?migutoken=752d2762554b8afdd4dbe385c8e231d3819998229e93d2a584fbad2620e6b42f92bbf9e83d34d18bbef095c084a299a1aa89cc9fa49f96f8d9b69a35c3d2f05b147199f9292ef5a04d722a71
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/12 19:30_中超联赛_上海申花 vs 浙江_娄一晨 刘越 姚安妮
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/12 19:30_中超联赛_上海申花 vs 浙江_娄一晨 刘越 姚安妮 1
+https://feijing-xzbonlinepull.bszb.me/live/202_3509854_1.m3u8?txSecret=c7ad0184bc3d4bef7beb25c98ce0444b&txTime=67fa8efc
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/12 19:30_中超联赛_上海申花 vs 浙江_娄一晨 刘越 姚安妮 2
 http://43.142.91.123:6543/migu/952073540.m3u8?migutoken=83fe0ba86fbf395a4c18a9aec78ab81351d083be0d9a52d77df15424b8f6de477f5a724d2ae6caddc95d28f61074d22a1cbd21e530da52e6d2f754ed4331b14a4e2e8657fd253150c4c351ef
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/12 19:45_中超联赛_上海申花 vs 浙江_赛场原声
 http://43.142.91.123:6543/migu/952073314.m3u8?migutoken=0527dc4b1d49aba2a27a479d239561cddf95be9ac79e7a619add536406aa6639b6031b9e22fdcc51669abe0aa7c2874a6619e88c6e78f12dda376b74e761c91fbaed42eede22f4c182fca22c
