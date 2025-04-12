@@ -1,10 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="2025-04-13 00:31:26" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2025-04-13 00:31:26
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 04/12 18:00_薛飞/钱天一混双亚军 朱雨玲晋级决赛_薛飞/钱天一混双亚军 朱雨玲晋级决赛_宋大为
 http://8.134.12.37:7055/migu/951894578.m3u8?migutoken=7e30a60dac10ec58c7b0a50b3b1ade168d2fdaf0bcca0fe99ec3fda0f2a46ef9ed496b58003bb15c96050c2a4c0118f7d075562caba8b6fd21b9456c425b177f66a5a53f304d0875c026d35e
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/12/11/10000000124810603b67.png" group-title="UFC前瞻与回顾", 04/12 18:30_激战前夜：闫晓楠vs扬迪罗巴特辑_激战前夜：闫晓楠vs扬迪罗巴特辑_陈瑞阳
