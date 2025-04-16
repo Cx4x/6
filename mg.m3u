@@ -135,8 +135,10 @@ http://8.134.12.37:35455/migu/952076734.m3u8?migutoken=5c8ce4e664545ea39397e0559
 http://8.134.12.37:35455/migu/952076866.m3u8?migutoken=af07c01db5c3b789d90a3da06f9faacf74ee1923eb08ecfa8c9c2674661ed1356c2a876c15a0705afe30ea863154f060f765b1fdb7dc902d348f664f6bcd9cd845fce8457c232a6cf5757483
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/16 20:00_WE vs TES_WE vs TES_官方解说
 http://8.134.12.37:35455/migu/951998026.m3u8?migutoken=fc905224f66c9ae38f1b1ea57643cfc9d56fc2e0274ff59da45e1e80b632450f5319fb313804face5159cf403ddcbd570bf126e96e59b7194675b1e318a985615b175fb44987fc319ca543fa
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/16 19:00_中超联赛_成都蓉城 vs 云南玉昆_娄一晨 刘越 姚安妮
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/16 19:00_中超联赛_成都蓉城 vs 云南玉昆_娄一晨 刘越 姚安妮 1
 https://feijing-xzbonlinepull.bszb.me/live/202_3518723_1.m3u8?txSecret=5316175024a6d14fb0b4ad7954ace906&txTime=67ffe7db
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/16 19:00_中超联赛_成都蓉城 vs 云南玉昆_娄一晨 刘越 姚安妮 2
+https://60.204.186.123:443/migu/play/952077162/7415cbc354d33b9ab2e98acae01a297e1e808176ade7bd78663640c19111bed493ce03d76a92a74a2cb384018fc8007e9394b6373463173ec8c49442695aa85bd445126742b2871667d68f74b9d3b7ed
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/16 19:20_中超联赛_成都蓉城 vs 云南玉昆_4K赛场原声
 http://8.134.12.37:35455/migu/952077259.m3u8?migutoken=7382c518e64a17b3bd7453c8ad2f7c7894f114325357c4ae7edd8483018e141c6710967320c37b214b964df428ade8fa8e9686540833b2c70f744e0dc37942ef14f90d9eddbc3fca5bfcf37b
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/16 18:00_CBA季后赛1/4决赛_北京北汽vs北京控股_杨健 张九龄 李根
