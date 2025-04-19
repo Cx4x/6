@@ -98,8 +98,10 @@ http://8.134.12.37:35455/migu/952061865.m3u8?migutoken=49d89b760b46ead5d785c99d2
 http://8.134.12.37:35455/migu/952450448.m3u8?migutoken=7ca946cbf872eb1eefbf79ada6d9aa7d6e3ea4934af7f71e4b384515a90bdcfcd66cd08f71fdae01f0860fec3a4b6b2c0b9e7ec456fd912bc7ae258427356b413fe10d449604ed60f34d604c
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 18:30_广东vs山西赛前训练_广东vs山西赛前训练_山西
 http://8.134.12.37:35455/migu/952450536.m3u8?migutoken=0361b0f4b0c8490e958c20137cb1602d680c1962f757e10af8c9cf0fe6e6bf554671f8746f4b057ac111a21d9694b0ff0c7733cebe4180cb60a38d0b2e89114f4ddd6fa811819d3ef46701da
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 18:30_中超联赛_上海申花 vs 武汉三镇_李欣 黄健翔 郭小仙儿
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 18:30_中超联赛_上海申花 vs 武汉三镇_李欣 黄健翔 郭小仙儿 1
 http://8.134.12.37:35455/migu/952384035.m3u8?migutoken=d1bb7cb12f7ec61a1faaa3b5a4c18340dc48e5ffa8c1c9f7358990052f64095d43eee1bd1b39aefe0a83d90a10da6b22c9cef61e4b7cd2e5851e0ac53bb7bdd06fe2538774686832af2f68e1
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 18:30_中超联赛_上海申花 vs 武汉三镇_李欣 黄健翔 郭小仙儿 2
+https://feijing-xzbonlinepull.bszb.me/live/202_3524801_1.m3u8?txSecret=35d793650365488897182fce8c5cd202&txTime=6803c73f
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 18:45_中超联赛_上海申花 vs 武汉三镇_赛场原声
 http://8.134.12.37:35455/migu/952384146.m3u8?migutoken=4bf82f0771a11ccf3b17458e8727c7dfc9f65537af5bcd24ead6c7aedfff8b7a39d9ea5e4b7ad76e977dbcd3846511d4833043ec0452a1a818946863a68894cdbfb35cb76c36a87b3840c00c
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="NBA经典赛事", 04/19 19:00_15年季后赛首轮G7 马刺vs快船_15年季后赛首轮G7 马刺vs快船_陈鑫隆
@@ -118,24 +120,30 @@ http://8.134.12.37:35455/migu/952222941.m3u8?migutoken=40bb17d48f23b86b35320a93c
 http://8.134.12.37:35455/migu/952222910.m3u8?migutoken=6662f948ec9f22bd4925c4ed29963311bdb5cbddc536d5b49ab792938548e56083f3b919b0c9704370cdfb4e77c235bc3426d59c77bcf3bfaf2ca44990923f4b441084e9fe432eb4f18542a9
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/04/07/6UCVSFL63NMP.png" group-title="国际乒联澳门单打世界杯", 04/19 19:00_争进决赛！孙颖莎登场迎战陈幸同_争进决赛！孙颖莎登场迎战陈幸同_周雨
 http://8.134.12.37:35455/migu/952223032.m3u8?migutoken=ed359c1d7c45c90bd406b4cd02899db91d75147a42d85c0bcfaa64d77c717da250e2e2f356171db7cdcd9440891b4722f1755db79f65db933c28b894a4749fc1d0845d93544a330e68062c74
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 18:00_中超联赛_北京国安 vs 山东泰山_苏东 徐阳
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 18:00_中超联赛_北京国安 vs 山东泰山_苏东 徐阳 1
 http://8.134.12.37:35455/migu/952384196.m3u8?migutoken=cb88a1042f8a16257bf483a23f37e7aba90f586221eaad3ceb2ca39b2c1dad600404953b49d00102e2991971e8855ff19222ae41d4f82cb65b13a4f80fc5c69a6fc7cafafddcaa3a1107a49b
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 18:00_中超联赛_北京国安 vs 山东泰山_苏东 徐阳 2
+https://feijing-xzbonlinepull.bszb.me/live/202_3524811_1.m3u8?txSecret=ec51518ebae47311a8b26b353f425d9c&txTime=6803c636
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 18:00_中超联赛_北京国安 vs 山东泰山_刘腾 贺宇 林梦鸽
 http://8.134.12.37:35455/migu/952384272.m3u8?migutoken=deb464be3389fb410336b8ed56f88eb8707dc76ca106d938330d3d834854dffb480923b01eec0ba62967826fc30b200cb8b3bc4a191b6233894c1f1beb0a6925bcecaa1e3a145aac9515be98
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 19:20_中超联赛_北京国安 vs 山东泰山_涂远
 http://8.134.12.37:35455/migu/952384834.m3u8?migutoken=d015501853739daa10aac0277b6c0541bfa1eba8a4053d19e8afbc4f2ac97ff050a5b9e0f350324bb1de8978e775b47a0a1596f95f0e973ca6d3a08fcdc7c6b8b331d480011cf26994765af2
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/19 19:20_中超联赛_北京国安 vs 山东泰山_4K赛场原声
 http://8.134.12.37:35455/migu/952384677.m3u8?migutoken=bfc3a21c92650efc1ae72f8458626f5d9698897de1828c1295da1337ad7d5095f4af7c3ee6fc5a8133ccf5c54c30c3bdc519bb68fc4f8456d0ddba7b0ee2145b18eb37257ec0fd6f28e15372
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 18:00_CBA季后赛1/4决赛_北京控股vs北京北汽_邵化谦 季孟年 杨健
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 18:00_CBA季后赛1/4决赛_北京控股vs北京北汽_邵化谦 季孟年 杨健 1
 http://8.134.12.37:35455/migu/952451385.m3u8?migutoken=17591ecfa8156f774cc79d2ef9e01c5132b13f5b356bee0ea1757b8d4b17d4d128567e598c34421b8e8341d44dcfed90c3345ed4f92d6240229418cd8f73986ae5eae82d10db7a98c616cfd7
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 18:00_CBA季后赛1/4决赛_北京控股vs北京北汽_邵化谦 季孟年 杨健 2
+https://live1.jiatianxiazhuangshi.com/live/59718266_ce07b05b50501ca84f4746ef6cf16e41_nsd.m3u8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 19:25_CBA季后赛1/4决赛_北京控股vs北京北汽_周赫
 http://8.134.12.37:35455/migu/952451525.m3u8?migutoken=01b6cd461b20830a6fc0456d8291b465f4391899193b246774977dd41d476d7e97932e95b741c86583566b552a87d2351830c450cb485c205623cf2fe2763203f08f15f7d708fdbc5097b03c
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 19:25_CBA季后赛1/4决赛_北京控股vs北京北汽_谭成国
 http://8.134.12.37:35455/migu/952451481.m3u8?migutoken=74677529988e7d264fce1961137573b5737042fb62c7256b42498f603e23b3c15515f28bad6506c550017bbb0e6437be4e894b57b4f5db821f92989b4d4d6526466823e8674aa5bb69947d75
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 19:25_CBA季后赛1/4决赛_北京控股vs北京北汽_现场原声
 http://8.134.12.37:35455/migu/952451446.m3u8?migutoken=ca7d7ee2247c8feb8ef18bad3d23494004400611569d5e1d583c2bf1c2d5cfb59f5e477f3e833d6707502a14e12ed928c3eff939a02e829e2c88b594a802668d32dafaf8ed4b615e3d8f2491
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 18:00_CBA季后赛1/4决赛_广东东阳光vs山西汾酒_李天宇 陈正昊 周鹏
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 18:00_CBA季后赛1/4决赛_广东东阳光vs山西汾酒_李天宇 陈正昊 周鹏 1
 http://8.134.12.37:35455/migu/952450766.m3u8?migutoken=28bc9f7ff2e15ceab9d2f749e416f49de78201918db88dfcbc9de7953cd0493a37d57a3157981fcddf79747d5c2585945a501dc349da061bbd4479409001863beef8813e5a8bfa14e5e755bb
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 18:00_CBA季后赛1/4决赛_广东东阳光vs山西汾酒_李天宇 陈正昊 周鹏 2
+https://live2.jiatianxiazhuangshi.com/live/59795234_97cc99754bc5fba353883b760b46bae1_nsd.m3u8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 19:25_CBA季后赛1/4决赛_广东东阳光vs山西汾酒_张泽欣
 http://8.134.12.37:35455/migu/952450964.m3u8?migutoken=eed45c010b8657d13555b70ae73c4ebba1559528349bb59b6cf1147a2a62159fc17f0f57022491aca2296c1d4356d3d23bf75fbbcd64248696e0217ceb7114e31647bb461813d52d9ea8e8f6
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/19 19:25_CBA季后赛1/4决赛_广东东阳光vs山西汾酒_石楷文
