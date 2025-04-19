@@ -155,19 +155,17 @@ http://8.134.12.37:35455/migu/952499418.m3u8?migutoken=88ce01200131097e9a754392b
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 04/19 21:30_斯诺克世锦赛第一轮：马克·威廉姆斯VS吴宜泽（第一阶段）_马克·威廉姆斯VS吴宜泽_2号桌
 http://8.134.12.37:35455/migu/952499423.m3u8?migutoken=7d29d8a47e1e01ff85cc942f8e814204126426cb398ea85a474cf485276ddb2d58b7c479da405af01474facb3cab63801e589b123718a6954b421747ba918fb279eac8afe8b3f062c63244dd
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:50_英超联赛_水晶宫 vs 伯恩茅斯_郭灿亮
-http://8.134.12.37:35455/migu/952386099.m3u8?migutoken=c29af84c3839595e723ce4b7a09a27cf0645c8290cdd12a70c75cb2dc411a830e5519bc61ed4cbc29365f2531919a6aae620927b0b2a99a31920c6958b8b789f8930884acee922799b6f6b9e
+https://feijing-xzbonlinepull.bszb.me/live/202_3525001_1.m3u8?txSecret=2b15ed7e347db27d3146013701c7d2f9&txTime=6803eb9e
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:45_英超联赛_埃弗顿 vs 曼城_娄一晨 刘越 1
 https://live4.jiatianxiazhuangshi.com/live/50850621_3ce116dd937c2ce546dcae69324943cc_nsd.m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:45_英超联赛_埃弗顿 vs 曼城_娄一晨 刘越 2
-http://8.134.12.37:35455/migu/952386172.m3u8?migutoken=577f9ad9fe98dd53daceb3a37825e6af8b016e7baa0c536c2496071ffd98a99c9b04c838f1deb5d43418065e77f938df4d71498775204b41ddaa4aa07f0e6b12464751a03ea59cd2f5717bcf
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:50_英超联赛_西汉姆联 vs 南安普敦_黄航
-http://8.134.12.37:35455/migu/952386220.m3u8?migutoken=27cd21023ff73b47bf9ddac2a86e615b944c9a2e62ab828a8cd3ddac9cd9556c80eb812b982fb689004a3624eaaa9b057c75f19c54616ff2c461a8cc7011e696559b9621896da32bfd66fda6
+https://feijing-xzbonlinepull.bszb.me/live/202_3525006_1.m3u8?txSecret=646ef4cc36a9185950d3e28fd566d692&txTime=6803eb42
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:50_英超联赛_布伦特福德 vs 布莱顿_苗锟
-http://8.134.12.37:35455/migu/952386026.m3u8?migutoken=8c599894462c252715bc5e9fb7a19b424b41b4c951129f2758cc290ae223df79dc6ecc51c2fe11822abe6eeceb684f1ccfc6e34bbf3832db73572a6e77d443c5e3b016b4c4eea1f64080536e
+https://feijing-xzbonlinepull.bszb.me/live/202_3525002_1.m3u8?txSecret=ae9399d23cad49978292409c1c40260e&txTime=6803eb83
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 04/19 22:00_西甲联赛_巴塞罗那 vs 塞尔塔_梁祥宇 李欣
 https://pullkgq.15qctz.com/sport/202_3529949_1.m3u8?auth_key=1745072815-0-0-204b66b99ea2541151736e4c01b804a4
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 04/19 22:00_西甲联赛_巴塞罗那 vs 塞尔塔_梁祥宇 李欣
-http://8.134.12.37:35455/migu/952386764.m3u8?migutoken=a83c375c941fefb9d65fa615ce31723623ccda09e231f9bae41ce5163a48ad23783780ed96dce733ff9da1257e6d054b90f2d81d64a3608525d784e220675188543c2b40805f7f689ba75caf
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 04/19 22:45_法甲联赛_巴黎圣日耳曼 vs 勒阿弗尔_鹿中原 王宇
 http://8.134.12.37:35455/migu/952386641.m3u8?migutoken=83f0f2b3667dcb32d2f6aa779fc25638a6a8eff1637db32e1abb4c55f8b3c575cc07f50621a2d6d6a04e160ac1f13f69af43ffa6ae0f0f8e5327442c980d3a2cccafc71b686dc018fae38799
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 04/19 23:50_意甲联赛_蒙扎 vs 那不勒斯_石庆圣
