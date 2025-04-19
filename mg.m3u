@@ -156,7 +156,9 @@ http://8.134.12.37:35455/migu/952499418.m3u8?migutoken=88ce01200131097e9a754392b
 http://8.134.12.37:35455/migu/952499423.m3u8?migutoken=7d29d8a47e1e01ff85cc942f8e814204126426cb398ea85a474cf485276ddb2d58b7c479da405af01474facb3cab63801e589b123718a6954b421747ba918fb279eac8afe8b3f062c63244dd
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:50_英超联赛_水晶宫 vs 伯恩茅斯_郭灿亮
 http://8.134.12.37:35455/migu/952386099.m3u8?migutoken=c29af84c3839595e723ce4b7a09a27cf0645c8290cdd12a70c75cb2dc411a830e5519bc61ed4cbc29365f2531919a6aae620927b0b2a99a31920c6958b8b789f8930884acee922799b6f6b9e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:45_英超联赛_埃弗顿 vs 曼城_娄一晨 刘越
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:45_英超联赛_埃弗顿 vs 曼城_娄一晨 刘越 1
+https://live4.jiatianxiazhuangshi.com/live/50850621_3ce116dd937c2ce546dcae69324943cc_nsd.m3u8
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:45_英超联赛_埃弗顿 vs 曼城_娄一晨 刘越 2
 http://8.134.12.37:35455/migu/952386172.m3u8?migutoken=577f9ad9fe98dd53daceb3a37825e6af8b016e7baa0c536c2496071ffd98a99c9b04c838f1deb5d43418065e77f938df4d71498775204b41ddaa4aa07f0e6b12464751a03ea59cd2f5717bcf
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/19 21:50_英超联赛_西汉姆联 vs 南安普敦_黄航
 http://8.134.12.37:35455/migu/952386220.m3u8?migutoken=27cd21023ff73b47bf9ddac2a86e615b944c9a2e62ab828a8cd3ddac9cd9556c80eb812b982fb689004a3624eaaa9b057c75f19c54616ff2c461a8cc7011e696559b9621896da32bfd66fda6
