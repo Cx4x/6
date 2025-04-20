@@ -86,16 +86,16 @@ http://8.134.12.37:35455/migu/952500024.m3u8?migutoken=86d3a3079bb6e5a59b75ab645
 http://8.134.12.37:35455/migu/951997945.m3u8?migutoken=e3e154442262d47b34853df46cfd6e3d89ab56948bb15f728a70ddc1d1cda1d32c7e06364a32d711b04fc33c23775fc51fe6ae60f2f7a2262b67b0559f16aaf8e4583d72595e2689395b43c4
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/20 18:15_中超联赛_青岛西海岸 vs 大连英博_张昊泽 雷腾龙
 https://feijing-xzbonlinepull.bszb.me/live/202_3527671_1.m3u8?txSecret=a606b767ae796c1636e6cca5345b28d4&txTime=680508be
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/20 18:15_中超联赛_青岛西海岸 vs 大连英博_赛场原声
-http://8.134.12.37:35455/migu/952385311.m3u8?migutoken=e8d42ff0bf4d6ec5cafcd1085fb20b58a699442235256f869571d05658001a07ecfabef28c9fcf0c566c92bebe2c6769b436b5c0e6624564b8d4712293bbf5b9c07ab2f7453c4fe4accbdd43
+
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/20 18:15_中超联赛_河南 vs 青岛海牛_袁甲 李毅
 https://feijing-xzbonlinepull.bszb.me/live/202_3527672_1.m3u8?txSecret=e859d050fbfa5dea6f6b74de562049d3&txTime=6805084b
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/20 18:15_中超联赛_河南 vs 青岛海牛_赛场原声
-http://8.134.12.37:35455/migu/952385204.m3u8?migutoken=fa2871f03c567547b86ba936da5daec72d92068fa5e3d7920e6ae634af3ac3a3d56ea8a447019c5dec26a8c9cce2d80da844c6cdecc88b617656771ea583cabb294208314fd4cfca166bcefd
+
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/20 18:45_中超联赛_梅州客家 vs 深圳新鹏城_孙雨轩 王伟
 https://feijing-xzbonlinepull.bszb.me/live/202_3527693_1.m3u8?txSecret=f120e238b0dfb228d5e63be1be7d9eb4&txTime=68050c89
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 04/20 18:45_中超联赛_梅州客家 vs 深圳新鹏城_赛场原声
-http://8.134.12.37:35455/migu/952385461.m3u8?migutoken=6a106613480c951257cc6defe954c09f199630cd7c3697a8ef13cbd820e6c4f199a85b3c7d680b3b4978d63169163a70625aa8696a5c521898329722bdfc6f0ee9be59f0dc70a9ebdbde68c5
+
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 04/20 19:00_奥胖出战 萨巴伦卡随后出场_奥胖出战 萨巴伦卡随后出场_单文强
 http://8.134.12.37:35455/migu/952041956.m3u8?migutoken=8c4e58eaffc5630417b77d0d89f039297489f7a908ab0de6ca743380ea3af0a27d7f6551eb7a1187997bc3d0bf3317d042b405b88ad14f5bf33500fff65c6fb59deeef489aa36fda86a6f36e
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 04/20 19:00_奥胖出战 萨巴伦卡随后出场_奥胖出战 萨巴伦卡随后出场_清流播出
@@ -126,12 +126,7 @@ https://feijing-xzbonlinepull.bszb.me/live/202_3527706_1.m3u8?txSecret=bca2b0083
 http://8.134.12.37:35455/migu/952385578.m3u8?migutoken=f1125c94809bc16834bf612ab9c17e80811eb68fddf8afd0271bb1986c0a604a4bd72a4f3c383b4c9e1fe1556960073fd42727c2c4e983b7da98c8924eeb7acd641444ab0f4fdd3cd414deed
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/20 18:00_CBA季后赛1/4决赛_青岛国信制药vs浙江方兴渡_庄宁宇 周鹏 张兆旭
 https://feijing-xzbonlinepull.bszb.me/live/201_3609126_1.m3u8?txSecret=d0b93a85d294a693e39ed12b71b2856f&txTime=680517a8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/20 19:25_CBA季后赛1/4决赛_青岛国信制药vs浙江方兴渡_刘沛元
-http://8.134.12.37:35455/migu/952576851.m3u8?migutoken=71c36a4eff8dedc3fe0f6fe09b41e4162b38b64623f41a49378f0cf884ea2952354516fc9a3fa94083949773e0f800efd44c72a7cd5b780b2c5002562c5497fe8283c0505e40c3e0cf5a576e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/20 19:25_CBA季后赛1/4决赛_青岛国信制药vs浙江方兴渡_郭知昊
-http://8.134.12.37:35455/migu/952576804.m3u8?migutoken=d04676fb93c82801b3bdf20590084a48043ca7048a1ffd5ffc69b3201c8f110cc123ee4394b3bec96c89a6512949e03819eaaf3e0398a57442d4048c00f005998910c3062d5df06ad18b6114
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 04/20 19:25_CBA季后赛1/4决赛_青岛国信制药vs浙江方兴渡_现场原声
-http://8.134.12.37:35455/migu/952576777.m3u8?migutoken=c1332085f85704e535a2fce2982c546934c8bd151b0e11782f57c651a015a749209219c752605e1f98c6c0027c96c051828e41d330c80de7bcde4a3cec03ed92550a30f8544318743df192f6
+
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 04/20 19:50_西甲联赛_巴拉多利德 vs 奥萨苏纳_李霄
 http://8.134.12.37:35455/migu/952387273.m3u8?migutoken=b0824ebd04575b265d9158c91444e1c9804fe74135870d2ce248cb987d113c3e60e06ba1c522eba70d8ce69515c11a68828f9dfb6061123ce3a5199f4982993540e47f6b4fb97fb70bb41d2b
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/20 20:00_FPX vs NIP_FPX vs NIP_官方解说
