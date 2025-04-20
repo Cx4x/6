@@ -138,8 +138,12 @@ http://8.134.12.37:35455/migu/952387273.m3u8?migutoken=b0824ebd04575b265d9158c91
 http://8.134.12.37:35455/migu/951998141.m3u8?migutoken=5eefc45643e1e70a6f86f0b46f4636abc07243cdc0c9f100845680cfe3ab115e09972426653a5ee8222ec70850431ae5003f0a5873feb7f3274299673f042e3afe6de405cdb6c6f17862101b
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 04/20 20:00_成都AG超玩会 vs 杭州LGD.NBW_成都AG超玩会 vs 杭州LGD.NBW_官方解说
 http://8.134.12.37:35455/migu/952009644.m3u8?migutoken=3cfef549a2d562c870caad843ea06972678391b93fda30ee5c84b3147706992f8e20e2ceac66bf29cba59d88f13176025cb665aa5de29c488bb9096c52ea4b5e696544146f4688d7ca457211
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/20 20:00_英超联赛_曼联 vs 狼队_苏东 徐阳 林梦鸽
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/20 20:00_英超联赛_曼联 vs 狼队_苏东 徐阳 林梦鸽 1
+https://newtvsuper.com/NBc0101/S1889/26747
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/20 20:00_英超联赛_曼联 vs 狼队_苏东 徐阳 林梦鸽 2
 https://newtvsuper.com/NBc0101/S1889/26746
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/20 20:00_英超联赛_曼联 vs 狼队_粤语
+https://newtvsuper.com/NBc0101/S1889/26749
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/20 20:00_英超联赛_富勒姆 vs 切尔西_刘畅 颜强
 https://newtvsuper.com/NBc0101/S1889/26751
