@@ -169,19 +169,19 @@ http://8.134.12.37:35455/migu/952387013.m3u8?migutoken=4984e3dfa8d05ef38bd32b54e
 http://8.134.12.37:35455/migu/952386896.m3u8?migutoken=5dcbfdc6b3062131742034905cb9753e238374f5463d95a9e7b5eeace3097aac3f4472d754ca0c4867fc85b78b5e80e52918fcc0e4fe3d9330566eeb57e0b3fd20705b0bc383a0f021026086
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 04/20 23:05_法甲联赛_尼斯 vs 昂热_盛斌
 http://8.134.12.37:35455/migu/952386979.m3u8?migutoken=1c89a1febe59417bfb4104003f6fe899ef8031a2132a1a086996b83d44180645d62dfea5833aef8dd2165c79d13d80e752e9c7f0134b59fd980a251f621773df1889190befe281433ca04ba4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/20 23:15_英超联赛_莱斯特城 vs 利物浦_詹俊 张路 1
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/20 23:30_英超联赛_莱斯特城 vs 利物浦_詹俊 张路 1
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/20 23:15_英超联赛_莱斯特城 vs 利物浦_詹俊 张路 2
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/20 23:30_英超联赛_莱斯特城 vs 利物浦_詹俊 张路 2
 https://newtvsuper.com/NBc0101/S1889/26763
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 04/20 23:15_德甲联赛_多特蒙德 vs 门兴格拉德巴赫_沈云怡 秦游夏
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 04/20 23:30_德甲联赛_多特蒙德 vs 门兴格拉德巴赫_沈云怡 秦游夏
 http://8.134.12.37:35455/migu/952388604.m3u8?migutoken=b7c22d24891b0c599d32b3d2ff2034cd9edc93784c2645374cbf90572367673d8f016664d0dd6e5d473252a71d3c9df508c6f2ca5948df13e435c1cdfcb71453e6949a9534ffe9f408f30406
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 04/20 23:45_意甲联赛_博洛尼亚 vs 国际米兰_刘腾 黄健翔
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 04/20 00:00_意甲联赛_博洛尼亚 vs 国际米兰_刘腾 黄健翔
 
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 04/21 00:20_西甲联赛_塞维利亚 vs 阿拉维斯_李霄
-http://8.134.12.37:35455/migu/952387439.m3u8?migutoken=45251c12c39de6f2e20085652122f049cc13fdd57d2e754d0613ea5941a141e36ec09904bd910f953c2241063fc49aef2c4073c0089d025d496ab3469ace4c387100ed7dfb56880da5c3cf2a
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 04/21 00:20_西甲联赛_塞维利亚 vs 阿拉维斯_李霄
-http://8.134.12.37:35455/migu/952387467.m3u8?migutoken=2bcd6262caafd31f72e5be983f57e1b7dbf789acd4098542df8dd64b87017872a90cf19a0a84cf3738f44bcbf331f5b62ef82e52dcfbf7a28f2c6427c29d41ff94ae03fa48dc4b2101bf1983
+
+
+
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/21 00:55_NBA季后赛_灰熊VS雷霆_张浩岳 张兆旭
 http://8.134.12.37:35455/migu/952550173.m3u8?migutoken=762c314c285e92a3a3cf4c56835f0c90ba6c1e235173250de124a507635ed5e2625275d41bc0d58f60b012f8fb502d3179399a7080f138bf632201eed12c3a85226c3fea4a63706abb54ce70
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/21 00:55_NBA季后赛_灰熊VS雷霆_英文原声
