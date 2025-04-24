@@ -60,7 +60,8 @@ https://play1nm.hnyongshun.cn/live/973a0bafa82a4a5d196021e5ed3e2f60_ballbar_4050
 
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季后赛", 2025-04-24 09:30:00_NBA季后赛_火箭 vs 勇士_中文
 https://play1nm.hnyongshun.cn/live/cced281c041b3469fbef59cf22d91d15_ballbar_40640.m3u8?txSecret=4c253160afaa3d8847c10daf13ff3248&txTime=68099417
-
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季后赛", 2025-04-24 09:30:00_NBA季后赛_火箭 vs 勇士_英文
+https://play1nm.hnyongshun.cn/live/62f10b996d1e53330ebbfd50e66a6b8a_ballbar_35630.m3u8?txSecret=b27277b1a5607640ab9fb0a3a436e6b9&txTime=68099417
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/24 16:30_WBG vs WE_WBG vs WE_官方解说
 http://8.134.12.37:35455/migu/952249667.m3u8?migutoken=2c3e23bc51eed834fa817e3b6a3d5ff557d199cb27594482f926e4d0ce055e1829106b298c71385cea05b96e2d21e5d7dac207906bc6b9ba0ac9334632b460767cf54e715c7e5f900df3fabb
