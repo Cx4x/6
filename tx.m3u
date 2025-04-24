@@ -13,6 +13,8 @@ http://8.134.12.37:35455/txsport/100002:20254211/302375/1384953300.m3u8?txtoken=
 http://8.134.12.37:35455/txsport/100002:20254289/302570/1384994100.m3u8?txtoken=0302d5d86f050cc33a2fc4bd81fd4bddaf072c4da9c64d5c497cae11b34c12051be30192b7d1f027497fc84393b9a8875f8943ffcf0801bf760549f15f19ce24152dcaeb41e0510b275b1e26fdfaeadf9a8f70237b1f0c442112ccc3398e101f831ed6a20f915cfec0920402c3a730535473adb7bf7562c643b3600c2b
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季后赛", 2025-04-24 09:30:00_NBA季后赛_火箭 vs 勇士_中文
 https://play1nm.hnyongshun.cn/live/cced281c041b3469fbef59cf22d91d15_ballbar_40640.m3u8?txSecret=4c253160afaa3d8847c10daf13ff3248&txTime=68099417
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季后赛", 2025-04-24 09:30:00_NBA季后赛_火箭 vs 勇士_英文
+https://play1nm.hnyongshun.cn/live/62f10b996d1e53330ebbfd50e66a6b8a_ballbar_35630.m3u8?txSecret=b27277b1a5607640ab9fb0a3a436e6b9&txTime=68099417
 
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100002.png" group-title="发布会", 2025-04-24 12:00:00_发布会_勇士vs火箭 赛后新闻发布会
 http://8.134.12.37:35455/txsport/100002:20254221/302256/1769701100.m3u8?txtoken=2e8159caa3b5552d9db9d2909aa24a3ba2a5e01ddc87a5c2ef406e0144aa8af14f44d5e76960374834864c374e38c3a694d521575ecc671f7e9fd2352ec77d4ef966218119d2b701db19c36a5d408938b8875abb00c215e1ba86d20648d01664085bdd8a2da88bf278ef0efcd452b05084220268d730106b405193d0c0
