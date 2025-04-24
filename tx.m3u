@@ -1,13 +1,12 @@
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季后赛", 2025-04-24 07:00:00_NBA季后赛_凯尔特人 vs 魔术_石楷文 李克 婧雯
-https://play1nm.hnyongshun.cn/live/4be6e38e656cac9e9a42631b659a9862_ballbar_25060.m3u8?txSecret=6816074e3494d0ad6a2ef99868c8d29b&txTime=68098154
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季后赛", 2025-04-24 07:00:00_NBA季后赛_凯尔特人 vs 魔术_英文原声
-https://play1nm.hnyongshun.cn/live/41dcb811c9fbd7f53fc8c74e5b0c7a47_ballbar_24620.m3u8?txSecret=d83cc0bac05ff272bff6e028406ca611&txTime=68098144
-
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季后赛", 2025-04-24 07:30:00_NBA季后赛_骑士 vs 热火_柯凡 吴谦 泱泱
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/24 06:45_NBA季后赛_魔术vs凯尔特人_蔡凯臣 季孟年 秋童
+https://play1nm.hnyongshun.cn/live/4be6e38e656cac9e9a42631b659a9862_ballbar_25060.m3u8?txSecret=a084d2a635b5f6fb9abfb1d90d964b03&txTime=68098f1e
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/24 06:55_NBA季后赛_魔术vs凯尔特人_英文原声
+https://play1nm.hnyongshun.cn/live/41dcb811c9fbd7f53fc8c74e5b0c7a47_ballbar_24620.m3u8?txSecret=e05fd24347f7edc09d2f3e2157d838a8&txTime=68098f1e
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/24 07:25_NBA季后赛_热火VS骑士_王晓晨 孔德昕
 https://play1nm.hnyongshun.cn/live/68a4ee06a80115392d232f9e27369593_ballbar_25800.m3u8?txSecret=91460f1b44021ab26a0b07ce2930763d&txTime=68098e34
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季后赛", 2025-04-24 07:30:00_NBA季后赛_骑士 vs 热火_英文原声
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/24 07:25_NBA季后赛_热火VS骑士_英文原声
 https://play1nm.hnyongshun.cn/live/973a0bafa82a4a5d196021e5ed3e2f60_ballbar_40500.m3u8?txSecret=a62e1526cb46ff3e94962fcf8cac5f15&txTime=68098e69
+
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100002.png" group-title="篮球直播节目", 2025-04-24 09:00:00_篮球直播节目_《早安 NBA》第172期："休斯顿，我们有麻烦了！"_王猛 殳海 炼炼
 http://8.134.12.37:35455/txsport/100002:20254211/302375/1384953300.m3u8?txtoken=0652af806739c4859907fdc0d513bd753333c45b821f3c483c3d8b551c0538f5fbd1beb0e6fbd0e8ed425d6e3a4587de471ba37d6cd179108a24117f680955e1f3cb10ddf3b4f22b4f819e7d8554e120de24e8950e48dd9c9ce45241d3b924868a33be54571d8f68c8b68700edcdb03f86d60586861275e6868729efd7
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100002.png" group-title="2025中国网球巡回赛", 2025-04-24 09:00:00_2025中国网球巡回赛_2025中国网球巡回赛CTA1000湖州网球公开赛 1/4决赛
