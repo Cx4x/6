@@ -172,8 +172,12 @@ http://8.138.8.12:35455/migu/952806331.m3u8?migutoken=35ee6c299372c842176e072ddd
 http://8.138.8.12:35455/migu/952806189.m3u8?migutoken=ab06cb4447647ed578f42b468c32166678692889529cce0db2d144aef878ec77f8cd235676eb6130301c8848a6ed4e6edaa898f1811cbf3179e440d92a77dbf91829f555fd134177fd59b2a6
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 04/27 20:00_TES vs JDG_TES vs JDG_官方解说
 http://8.138.8.12:35455/migu/952248905.m3u8?migutoken=72d47f858859b2c38f60d693339a77db3ff5b0d9f14970c172a1dfb8818e038cc6d5880fe3e658cf7b104e4bee5da82034b07d4c5cec049759ddd19d70c83f747697cad9b16f167a79cdb8e4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/27 20:45_英超联赛_伯恩茅斯 vs 曼联_詹俊 张路
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/27 20:45_英超联赛_伯恩茅斯 vs 曼联_詹俊 张路 1
 https://feijing-xzbonlinepull.bszb.me/live/202_3556002_1.m3u8?txSecret=00ac0a2e4fb6d743f3b208ea6325498e&txTime=680e62fb
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 04/27 20:45_英超联赛_伯恩茅斯 vs 曼联_詹俊 张路2
+http://8.138.8.12:35455/migu/952824294.m3u8?migutoken=9acf63ad3c526da9e4750eeae51a20cf3ded0aee39689787ac44852d3a0f1cf5c9d8cdbd97451ef74a0933c13bf71ee38bd947aa75941fb7c92497e61c65c4fe1cea39284a1332e0b156394d
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 04/27 20:50_法甲联赛_昂热 vs 里尔_李永熙
 http://8.138.8.12:35455/migu/952827822.m3u8?migutoken=9497846f33822ecbd116361250b7f0101e597fd7a0f2c05fafc05f5f85064543da7cb1e8d2fb459b6ea33c1ca237d13880c409000b3b2946cca054b8d4ca1df63aac1f68b5af12a000b5d9f6
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 04/27 20:30_意甲联赛_国际米兰 vs 罗马_刘腾 贺宇
