@@ -42,8 +42,11 @@ http://8.138.8.12:35455/migu/952826084.m3u8?migutoken=d1240ef4be51f2aaf92e3fda3b
 http://8.138.8.12:35455/migu/953051297.m3u8?migutoken=e3a691659f9226895da78744edc93303a468729833232ad7cc32fc35ad3e55d1ca865c06a049d03deb9bc5d6086a379fbb7cd9cac841500276a1c12527bc482a2e3b24aef17af46fbc3bf127
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/29 07:15_NBA季后赛_骑士VS热火_英文原声
 http://8.138.8.12:35455/migu/953051970.m3u8?migutoken=6918b8eca71d888dab3919675f522563dd2027131cbd6330f200cf2c9113481ff4bdb32c271bcdefd7d0be95fdcfcef6fb57c746ce86f646a2879a9ac422741c720c43f49b2647c405713711
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/29 09:30_NBA季后赛_火箭VS勇士_杨健 李根 小七
-http://8.138.8.12:35455/migu/953052513.m3u8?migutoken=66984d0f61390b6eace43cc531877df07b0f6bd9463fd19a86ceacffc2bf022744ee180dfeef53b5baf2c21fce2a4c75b9df2a0e1295ca3209c58bbce0bb54182c57a82ecf3289184ecb4d37
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/29 09:30_NBA季后赛_火箭VS勇士_杨健 李根 小七 1
+https://feijing-xzbonlinepull.bszb.me/live/201_3620187_1.m3u8?txSecret=cab5d6491bc5f6795b66da31242dde03&txTime=68107348
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/29 09:30_NBA季后赛_火箭VS勇士_杨健 李根 小七 2
+http://8.138.8.12:35455/txsport/100000:10042400154/302704/1385036700.m3u8?txtoken=68f3dd37012962a3a76cbeeb5a78ea0ff4850d62b7aedb7bb0b0f4fe2aceceb1725ffd74abdf56b3118977c60d8b60958dfbad34fe5c9af8b8af54ca992c589d991b1f4b99b9deb0d5c7c2eda77bc4eb131e9e533eecff7ca9589f0e9d243db480618ba30605a37179ce34c46483bec1876311792fb63a1183e53ca061
+
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/29 09:55_NBA季后赛_火箭VS勇士_拜月宁
 http://8.138.8.12:35455/migu/953052713.m3u8?migutoken=15335deb8cd3cf8cca0f4348a6b41c041247507a40c764dce237a67b948f6d14817675d6cf187b8809b5674c2e92ea687f6035692813c329a2aa4312a19bcd67bf8e64833b876ec9b44d0909
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 04/29 09:55_NBA季后赛_火箭VS勇士_周鹏
