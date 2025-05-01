@@ -64,17 +64,24 @@ http://8.138.8.12:35455/migu/952805726.m3u8?migutoken=808b345abc7fba82e941fb27f6
 http://8.138.8.12:35455/migu/952807610.m3u8?migutoken=4639b5f44aba7932be3ca64aa261d1096b684b3949cddd66612309ba239f1236eb9cf940524ff16631db903bb063426239d4a7d287446c683af4ac2c617d0120aa276599672a63b92d29f763
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 18:45_中超联赛_浙江 vs 长春亚泰_赛场原声
 http://8.138.8.12:35455/migu/952806980.m3u8?migutoken=d83efb998c9dedf357b5658e0cf854335e7946541017d00c9be8cc4ca8281102b8f2dda6a9d4c3ada9c5076ad6af66119fdccb9a5fd841c22a86e9314fae957d40b3d21ca31ab37d67b9bf78
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 18:00_中超联赛_上海海港 vs 北京国安_梁祥宇 刘越
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 18:00_中超联赛_上海海港 vs 北京国安_梁祥宇 刘越 1
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 18:00_中超联赛_上海海港 vs 北京国安_梁祥宇 刘越 2
 http://8.138.8.12:35455/migu/952806698.m3u8?migutoken=e0cef463bad35d2b83bc0a8e10f4d842926cd86610a35a680edb567013e19f8e1fb15e9d522d32320bd1383b5ca0c529af593ea102a7d73b3d988f8c51b921160a209c1c329fd329d6f11d2e
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 18:00_中超联赛_上海海港 vs 北京国安_娄一晨 李彦 魏欣怡
 http://8.138.8.12:35455/migu/952806801.m3u8?migutoken=30cd897e4bfa774616053c1bc19719a97b486c45e1bd3463f9dfa984fdc9bd64cba16bc2e89df5778d2f96eafa9fedd5def3a8743d0485c1ebc78f3d6a7ee4412368d8945bc77c24b37afe0c
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 19:20_中超联赛_上海海港 vs 北京国安_4K赛场原声
 http://8.138.8.12:35455/migu/952806892.m3u8?migutoken=d7a2c0adf0f880257be0c16b455528421d2f8249fd049891d7588ffa4eb5aadee03321934e548966aa4951fd96e87601e7de2edf95058ed86ba3faa8a5741c86f1e3b0d45d9f6b396a157ea4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 19:00_中超联赛_山东泰山 vs 青岛海牛_黄健翔 徐阳 李子琪
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 19:00_中超联赛_山东泰山 vs 青岛海牛_黄健翔 徐阳 李子琪 1
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 19:00_中超联赛_山东泰山 vs 青岛海牛_黄健翔 徐阳 李子琪 2
 http://8.138.8.12:35455/migu/952806293.m3u8?migutoken=c34151eb61c8c91b4d23fa490a47f902136f2fa19c9cb1030d3058e22c67c3535ba453e45cd1cc9bf3a95ccc7d3e34e43b076273e803d8cfb7e9214f0f99aff22e9ecc41aa0018975b9fd860
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/01 19:20_中超联赛_山东泰山 vs 青岛海牛_赛场原声
-http://8.138.8.12:35455/migu/952806383.m3u8?migutoken=f868ade9ceb277d5d14e0b2fb78d8904ebf188e31cb3c7c3a79b8165a291bb5734432c17b373e3451881b8d54cf503f32a2ea1f459c42a4064e8b8b8a69a024a053db69f26739b4e0f7872c2
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 05/01 18:00_CBA季后赛半决赛_辽宁本钢vs浙江方兴渡_姜帆 苏群 刘铁
+http://8.138.8.12:35455/migu/952806383.m3u8?migutoken=f868ade9ceb277d5d14e0b2fb78d8904ebf188e31cb3c7c3a79b8165a291bb5734432c17b373e3451881b8d54cf503f32a2ea1f459c42a4064e8b8b8a69a024a053db69f26739b4e0f7872c2 
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 05/01 18:00_CBA季后赛半决赛_辽宁本钢vs浙江方兴渡_姜帆 苏群 刘铁 1
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 05/01 18:00_CBA季后赛半决赛_辽宁本钢vs浙江方兴渡_姜帆 苏群 刘铁 2
 http://8.138.8.12:35455/migu/953131942.m3u8?migutoken=2fccdac28a3d7998bdf26a088ef009b551731766cee3ad67d777cce29190f7c76d1f9b65cce1f6f46c4913526e611453229c5c964f47c4469032fdf36b668a781d2f41c8d17abc8dc86828aa
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 05/01 19:55_CBA季后赛半决赛_辽宁本钢vs浙江方兴渡_中国vs塞尔维亚
 http://8.138.8.12:35455/migu/953137453.m3u8?migutoken=a085934a3645519f171d983cca956170b8cf1e1173d5f290f5d40dcb791a6d6a8685c6a2c8f6aafb3c0d69e4ae88c62e3221396dc7920fd0c90b5ffcb4dccf9f87b7b1bb6ad8560bbfd15bd3
