@@ -30,7 +30,10 @@ http://8.138.8.12:35455/migu/953142647.m3u8?migutoken=e2697200eaec89c1812dcd1be7
 http://8.138.8.12:35455/migu/953142599.m3u8?migutoken=2a68696cef0451d1782c239fb60114b8eeb40655697fd3db1a213eb0b577198b44f7973287298dcf4e0cb9adf08635f5969b36f0a7b36c04caade609de11c678ab03ff007c66024a8667a1db
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/03 02:45_英超联赛_曼城 vs 狼队_娄一晨 刘越
 http://8.138.8.12:35455/migu/953142519.m3u8?migutoken=2f614799d23213093c1a740b3e8293d0395a968871fe077cc8aff1c75cc1d268e56b0faf0935e449d0f64d8435f47e96a76a7b0e9b09c995de5f4b744789486e55755e57827dd2f161cd4722
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/03 08:30_NBA季后赛_火箭VS勇士_杨健 刘晓宇 苏群
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/03 08:30_NBA季后赛_火箭VS勇士_杨健 刘晓宇 苏群 1
+http://8.138.8.12:35455/txsport/100000:10042400156/303026/1385119000.m3u8?txtoken=2a32ad3571f0d0b8fb06f4ea1abf5193ee5021117960d0aa77f775d530b6a251e1ac657aa09f360401a232583daca7b5ac886188b89e6ef662a9b4d4014d13b2692e7e7c09a3c6d0084f1d8e9626cf3a90756a3835ff1313d91d10b46baa00728da377aab7b9c4189d0d5e342c35641e0195c8a3bdba3cd11310a284e8
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/03 08:30_NBA季后赛_火箭VS勇士_杨健 刘晓宇 苏群 2
 http://8.138.8.12:35455/migu/953172667.m3u8?migutoken=c58f7785922e23d107706185ffdcd5a6a7c375c2d93c1b49aa20321319b07cb98d1093fcd9d94df0756c9f6f3edb471fc76d36dbb2cfa1d845b93fa64e1c189ed50f189511f9561a8da7ec55
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/03 08:55_NBA季后赛_火箭VS勇士_火箭直播间
 http://8.138.8.12:35455/migu/953173496.m3u8?migutoken=edaefc944505afd67faf236eccc576459dfc82325471b5dcc2dcde8cd860ecbb793a48c4f526899530a41c0112d889db3197cf84fde44e43a16fd3e5806a5f1e5a78120c88ba0a30b7e8617d
