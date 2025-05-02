@@ -96,11 +96,15 @@ http://8.138.8.12:35455/migu/953171349.m3u8?migutoken=84a3173fac8062c73a178dbf08
 http://8.138.8.12:35455/migu/953141448.m3u8?migutoken=7798b1bab834383ddbc8d1719d8a2e6baa10a18b300b43a884fa3881f11dc711363ab1f9859a93cbdc4e1eb33e1e839e9a0612edaf75907f9ba8378937ca3a349bd82a39a013d5c1510634a0
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 05/02 19:20_中乙联赛_贵州筑城竞技vs广州蒲公英德桦绿建_解说
 http://8.138.8.12:35455/migu/953141437.m3u8?migutoken=be3c7c5f8bd0a2280aed1454cb3c8bb7d84c0284b943d7b7b674a10031d7081b51d1d2627a2c31c80b4492529bf4121fcb561a830895ff9bb935ac71c6060f56dd26c378299bdcdd97902177
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/02 19:00_中超联赛_成都蓉城 vs 上海申花_苏东 杨晨 林梦鸽
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/02 19:00_中超联赛_成都蓉城 vs 上海申花_苏东 杨晨 林梦鸽 1
+https://feijing-xzbonlinepull.bszb.me/live/202_3586085_1.m3u8?txSecret=dad70a2f86c30cd72406b31baebf249e&txTime=6814e684
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/02 19:00_中超联赛_成都蓉城 vs 上海申花_苏东 杨晨 林梦鸽 2
 http://8.138.8.12:35455/migu/952807544.m3u8?migutoken=f4076a646bc990dca3e3ed55850fa4978b930177c51220f5d28531d4977cb1173eb9f33bebd14d13b841cbeff66194c26524345e4ef9f858217b442a97dfa2c36b5cead2b0767fbc5acfe186
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/02 19:20_中超联赛_成都蓉城 vs 上海申花_赛场原声
 http://8.138.8.12:35455/migu/952807626.m3u8?migutoken=a860e752432d91df7b7a6facc425e96008581a631a4c19fbe9c4465a1dbba0e74e70f6e02cadbb764472d525c6d302d2bbbb35d48b6c611520d2230df8ddba0a9e8239ec0abd4b8dc5989f20
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 05/02 18:00_CBA季后赛半决赛_北京北汽vs山西汾酒_连睿 闫宇峰 杨健
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 05/02 18:00_CBA季后赛半决赛_北京北汽vs山西汾酒_连睿 闫宇峰 杨健 1
+https://pullkgq.15qctz.com/sport/201_3630264_2.m3u8?auth_key=1746186268-0-0-5b6abf45b17260d1ca1e9721ae74778a
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 05/02 18:00_CBA季后赛半决赛_北京北汽vs山西汾酒_连睿 闫宇峰 杨健 2
 http://8.138.8.12:35455/migu/953134075.m3u8?migutoken=55016b6f6776b664dfa085e7ea7c9a032ae7329c5a6115e289aaf679929c591ac6039437225c4867a65ce32a9b1a6f27dc281cb3cfc981319c7322fd3d56b32673f3082c00cb3013a8365404
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/5a49fc90-e34e-4dfd-9556-3e3895a3fd78.png" group-title="CBA", 05/02 19:25_CBA季后赛半决赛_北京北汽vs山西汾酒_谭成国
 http://8.138.8.12:35455/migu/953134191.m3u8?migutoken=9569a67e2da915cc3f1fe86eaf4636e196bef923f19f24fceed4e350616f8f35b986e78696ef87f915835b0ccddce5bde8dae2d6252e0949ccf38fbeb48c155bc99238a42b14442e8788690f
