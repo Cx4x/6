@@ -53,7 +53,10 @@ http://8.138.8.12:35455/migu/953142736.m3u8?migutoken=f2295e702f835757b6344b19b0
 http://8.138.8.12:35455/migu/953142719.m3u8?migutoken=6a333b28a7b9253405c0a580c01cab3957e0d91c582a0380b61c5782a1712c46ff28f20c45a771f96f7a4bf773ac965cb83d3cb2b12c9692c7c423c447f5a4b9c7cb7f55549f88d38653cda6
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 05/03 23:50_意甲联赛_莱切 vs 那不勒斯_梁祥宇 马延峰
 http://8.138.8.12:35455/migu/953143308.m3u8?migutoken=9fc15a9762bb43231239cd145594320261ccf0b30e5facf739f1b9ca965326740b6404326428ae37c83fe39c65f84a179a6dc819174033c34d419e3f37f6efd9977060cf1db6f248b933b08d
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/04 00:15_英超联赛_阿森纳 vs 伯恩茅斯_苏东 徐阳 林梦鸽
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/04 00:15_英超联赛_阿森纳 vs 伯恩茅斯_苏东 徐阳 林梦鸽 1
+https://feijing-xzbonlinepull.bszb.me/live/202_3595866_1.m3u8?txSecret=dd35e3c33dddfc3014ae2521e143fc8a&txTime=68167d3b
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/04 00:15_英超联赛_阿森纳 vs 伯恩茅斯_苏东 徐阳 林梦鸽 2
 http://8.138.8.12:35455/migu/953143051.m3u8?migutoken=3f764873cb595b2114c200bf8220cadbf0bd9393e034545a2821ca50e51e8ea3579d5e39460c95f98ec5708811671aa7f7e4497bd06b3a99144fd9b6ca8211d2affd5c64bc3b9b8c96c0608f
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/04 00:20_西甲联赛_拉斯帕尔马斯 vs 瓦伦西亚_周楚雄
 http://8.138.8.12:35455/migu/953142774.m3u8?migutoken=f727ac62d0f19d428549bb4f7969ecc60bacf7f872a210afe03cbbd0f4cfe0dcba45f4e6901c3fd5738dcde8412b4fb0a75c50c342289ceec743f17401eaa6048f31f54a19b4ede003f913e9
