@@ -67,7 +67,9 @@ http://8.138.8.12:35455/migu/953142818.m3u8?migutoken=a06a0872e4181e8144383ad168
 http://8.138.8.12:35455/migu/953159244.m3u8?migutoken=f6fe1fb495a51cc84b51074bd6a1b5c77aa276794f50d723f2d01e1d4576926ccbeb8cc8aeefbf8013c46ca29137a0b0187855d758201449a40c48f2f28b265ec53eeb37736749ba11100305
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 05/04 02:30_意甲联赛_国际米兰 vs 维罗纳_刘腾 贺宇
 http://8.138.8.12:35455/migu/953143389.m3u8?migutoken=4cdc4f5c6637bbd68956d2a95a0ca7ce54fb77b9cf489a63730180cc1ba772375c486c71f139627ca62d93a8e4f07ac0b1e451b7736644fb2be1ef193965dc440a37621aee8f551ded218180
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/04 02:45_西甲联赛_巴拉多利德 vs 巴塞罗那_张昊泽 李欣
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/04 02:45_西甲联赛_巴拉多利德 vs 巴塞罗那_张昊泽 李欣 1
+https://feijing-xzbonlinepull.bszb.me/live/202_3600013_1.m3u8?txSecret=9b061a159b4f01c2a4f805a0932380e5&txTime=6816a06a
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/04 02:45_西甲联赛_巴拉多利德 vs 巴塞罗那_张昊泽 李欣 2
 http://8.138.8.12:35455/migu/953142821.m3u8?migutoken=ef81c02252943d77ea4da0722776e0fd10bda2a42fe01599faf18ce60a3cbf881a15cb7d6c8738e39ac527c571546f0466c02120a3fa38904e5cd7d8fed67ecca66caa28c9f5121fa022d579
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 05/04 02:55_法甲联赛_圣埃蒂安 vs 摩纳哥_邵煊
 http://8.138.8.12:35455/migu/953142876.m3u8?migutoken=4c2bd64d36862569059c41553a681acd3d70cc1bd30ffb935b29a652f074089cdda449a03588c62a6bef171cbf3c5a272caf7929968fda959c9ea5765ea782a2ef7c99cd27e3253835fa3127
