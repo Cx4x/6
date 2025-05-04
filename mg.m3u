@@ -135,7 +135,9 @@ http://8.138.8.12:35455/migu/953143101.m3u8?migutoken=322ccf6a58241ae95c99c9a0de
 http://8.138.8.12:35455/migu/953143047.m3u8?migutoken=0a2a8dc48dfa390405338fe51bbbfd41873e27cac66240aed620ad19a5ab2353a007e153a569964acd0dd43c05c78265ad20a53a9b574617837452621ca41836a6a9d553433b0802a54c898f
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 05/04 23:05_法甲联赛_欧塞尔 vs 勒阿弗尔_乔迁
 http://8.138.8.12:35455/migu/953142986.m3u8?migutoken=2420964a9370d9f0232a95a04db0a3fd44e35b9d8f1ddf24dbbfb26c7cf08d9d7813e022750df1e0f86e4c8718feaafb333522c6ef8a3b941878c404036978e365610cdce1914c97cab91516
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/04 23:10_英超联赛_切尔西 vs 利物浦_詹俊 张路 李子琪
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/04 23:10_英超联赛_切尔西 vs 利物浦_詹俊 张路 李子琪 1
+https://feijing-xzbonlinepull.bszb.me/live/202_3596453_1.m3u8?txSecret=4ae77a669b80b78a514766f9cb717558&txTime=6817c0a6
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/04 23:10_英超联赛_切尔西 vs 利物浦_詹俊 张路 李子琪 2
 http://8.138.8.12:35455/migu/953143650.m3u8?migutoken=51a4f25c88b0b4a2fcfb1db780311c5d4ea2a7faa8a6fe99914a3a853c454eaed3e754626fbc431718bf3e1c6346cc5b7fedfe4ad341a5039ee07914455a9caf9000f8b90aaa7904d60fa843
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/04 23:20_英超联赛_切尔西 vs 利物浦_陈渤胄
 http://8.138.8.12:35455/migu/953143776.m3u8?migutoken=6ee34c11b7b8892f41f08048da38752f7d7cec9d57a9eec1c2fc793e06501a21e85f10faf8f39fdc013337d3434745df02ff87f97e11e8f0e81523f0a18acb87241bf3593d15a96a9946cbe4
