@@ -98,7 +98,9 @@ http://8.138.8.12:35455/migu/953137204.m3u8?migutoken=63b14e1b61106b49789aadca67
 http://8.138.8.12:35455/migu/953137326.m3u8?migutoken=db0d799f31430673fcd9601ea3f647e84c2642a78f01f8daea51643499022f4d76de4ad03cc0797ffc9bc02615514b2c18619a11e56f4476219ba5322d7b1f34ef5d5447499be8e236ff2f45
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 05/04 19:20_中甲联赛_石家庄功夫 vs 广东广州豹_解说
 http://8.138.8.12:35455/migu/953137253.m3u8?migutoken=3f551a222d38070cac8644a055eacc618ec9526a2ba2796cffd1e1e78f5d5027cc3a393162a52b14c1e117611ae80679083a5013e1b8f1810f1a89b792191d04670ba61cd75b8ab9e6e35b89
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/04 19:45_西甲联赛_皇家马德里 vs 塞尔塔_鹿中原 王宇
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/04 19:45_西甲联赛_皇家马德里 vs 塞尔塔_鹿中原 王宇 1
+https://feijing-xzbonlinepull.bszb.me/live/202_3600003_1.m3u8?txSecret=de5d8c671e23fd6680bd010ccaf7a506&txTime=68178fa7
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/04 19:45_西甲联赛_皇家马德里 vs 塞尔塔_鹿中原 王宇 2
 http://8.138.8.12:35455/migu/953142924.m3u8?migutoken=30a3040418da0edfec5e1752577abdf4bdc62b57069e888e06568aec0ec3bd68378f5ba82e6b20bbb39d4b43189dfb49101bb8a2e93f34fa86421c8f047f121f68ff20aabd471ad8974bd926
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 05/04 20:00_AL vs TES_AL vs TES_官方解说
 http://8.138.8.12:35455/migu/953118469.m3u8?migutoken=4dfbd584dc6b088a21dffa4d619d3bd7a4c813734485fbd26f7b0047d8ffa503be994a65dd1509f8850e022e318aff237a9a39b7281b1349c103e92f2a4430d3af5e49900f3cbe7065d27f9d
