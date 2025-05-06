@@ -54,7 +54,9 @@ http://8.138.8.12:35455/migu/953140621.m3u8?migutoken=94602d1fcda49bf83c94e4d9f7
 http://8.138.8.12:35455/migu/953140589.m3u8?migutoken=15965a739b3baaddedca114ef6d00d3a6519007960d83e23ab6aa200f96f522847c54bbb44cd931722f964821b34fea953a15c918242f30fe0af8c4e420c3100e0d85d4c5fb47e3c7a74d255
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 05/06 16:30_JDG vs WE_JDG vs WE_官方解说
 http://8.138.8.12:35455/migu/953295890.m3u8?migutoken=be811736bdff89c2b192507b83ad0508d42c985bcc31186e0212d3580beeb94d429ce73abe9124f96b98cca07d6b8696a0bc45d842a6667f090a6a55602a224721aa58850d4243ad88c41ff9
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/06 18:45_中超联赛_梅州客家 vs 上海申花_袁甲 李毅
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/06 18:45_中超联赛_梅州客家 vs 上海申花_袁甲 李毅 1
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/06 18:45_中超联赛_梅州客家 vs 上海申花_袁甲 李毅 2
 http://8.138.8.12:35455/migu/953144544.m3u8?migutoken=ddd2ed10b04972ff4390dc960876637f4419d8f00c4e265098fc6ad9fc657c7a60df2a9a5c6c5168f0fa1c3799f88f36863a87506623a0e9a8797e535583a0cbe65a31e6b857b45394ec9790
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/06 18:45_中超联赛_梅州客家 vs 上海申花_赛场原声
 http://8.138.8.12:35455/migu/953144628.m3u8?migutoken=2cd00d8d018ae1cafe3a6c835f82d7dd523054ff1a89ab6586773b05bbe12f5ec9b28b1a396a2445a4ec462913ca71b4de1603c3374809d6ba2e6db10b5531ca111fd060efbcb3f6781f63a1
@@ -64,7 +66,9 @@ http://8.138.8.12:35455/migu/953140748.m3u8?migutoken=1fda59d95216dc28d252c68913
 http://8.138.8.12:35455/migu/953140711.m3u8?migutoken=aa8a6506f4ad77f31a843f5d297bde7036d8f17f0b4700a793310297e9ba66d8205c40519cd6123a1bac0b10cd588758fefa23b27b91238ca0c3366ed71a025cacb382bc4a4a3662e68142d8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 05/06 19:20_中乙联赛_贵州筑城竞技vs泉州亚新_解说
 http://8.138.8.12:35455/migu/953140647.m3u8?migutoken=84e951fdc0e05b451b3955f765e1015af4a6ed1d9979807c0e2f6a7940102adb421a79f41f227fd966ea5d3f5db0591ed85bf7a0f35b84a6d4d7a906dea9965dbff79b0911556e0a0142716a
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/06 19:20_中超联赛_青岛西海岸 vs 深圳新鹏城_石庆圣 于海
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/06 19:20_中超联赛_青岛西海岸 vs 深圳新鹏城_石庆圣 于海 1
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/06 19:20_中超联赛_青岛西海岸 vs 深圳新鹏城_石庆圣 于海 2
 http://8.138.8.12:35455/migu/953144640.m3u8?migutoken=5f680d8695d8897ecddeee3cb3c3f4f7e0076ee9e48e15aedc1ef59608560c3aed0a6d9db57f7cd755f5c292ddd1385a815864cd8a0804b9fb047b92376f9e27ef17682823fc8bcc2c57b409
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 05/06 19:20_中超联赛_青岛西海岸 vs 深圳新鹏城_赛场原声
 http://8.138.8.12:35455/migu/953144703.m3u8?migutoken=3c7b05910f6fa2739c09a255409371cb804299da89c29145e7221e731a8be65e4772796e6e48a1065b4cac81768507ab673af30dee8a279e34946b2dcd6267799d8360ae4a5743c28c08f495
