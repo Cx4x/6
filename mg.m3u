@@ -100,14 +100,17 @@ http://sport.pendy.dpdns.org/migu/953386408?token=p9H0C3iCIwMheXsU-S2zNXTV-ujZ2E
 http://sport.pendy.dpdns.org/migu/953387128?token=p9H0C3iCIwMheXsU-S2zNXTV-ujZ2EMEBodNFGRhGSc
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05月08日09:30-NBA季后赛-掘金VS雷霆-英文原声
 http://sport.pendy.dpdns.org/migu/953387057?token=p9H0C3iCIwMheXsU-S2zNXTV-ujZ2EMEBodNFGRhGSc
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 05月08日16:30-TT vs FPX-TT vs FPX-官方解说
-http://sport.pendy.dpdns.org/migu/953296647?token=p9H0C3iCIwMheXsU-S2zNXTV-ujZ2EMEBodNFGRhGSc
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 05月08日17:00-WTA罗马站女单第二轮：大坂直美出战、斯瓦泰克PK科恰雷托-大坂直美出战、斯瓦泰克PK科恰雷托-清流播出
-http://sport.pendy.dpdns.org/migu/953210623?token=p9H0C3iCIwMheXsU-S2zNXTV-ujZ2EMEBodNFGRhGSc
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 05月08日19:00-斯诺克元老世锦赛Day2：吉米·怀特、达赫迪登场-吉米·怀特、达赫迪登场-清流播出
-http://sport.pendy.dpdns.org/migu/953442729?token=p9H0C3iCIwMheXsU-S2zNXTV-ujZ2EMEBodNFGRhGSc
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 05月08日20:00-TES vs NIP-TES vs NIP-官方解说
-http://sport.pendy.dpdns.org/migu/953296844?token=p9H0C3iCIwMheXsU-S2zNXTV-ujZ2EMEBodNFGRhGSc
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 05/08 16:30_TT vs FPX_TT vs FPX_官方解说
+http://8.138.8.12:35455/migu/953296647.m3u8?migutoken=e0c4b4558495262a87521497a598ec2238234c3175c8312658fa48fd4e9842fc5e8990e71cae38c6fea052783bc2cba0dd74d33f286383f2c998a940c29550a1e4e600d8725b6251c3e7182f
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 05/08 17:00_斯瓦泰克横扫晋级 保利尼接场_斯瓦泰克横扫晋级 保利尼接场_清流播出
+http://8.138.8.12:35455/migu/953210623.m3u8?migutoken=ad962033a11d57c4918448a1b6b3dbd87c7bc5b0390a242aea2a965672e745874c727d1c2065daf7fa631ba68ee7cce6e9e3f552f9118fe310166d3f23f2c10daba11a0f95c63fe9e9abaa9f
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 05/08 19:00_达赫迪登场 阿尔菲·伯登晋级_达赫迪登场 阿尔菲·伯登晋级_清流播出
+http://8.138.8.12:35455/migu/953442729.m3u8?migutoken=2673e58563d0ca34d04887b5878fb0fd24bcf5c2e7a6aeaa209c80daa8b3b4773d1d6ec3fa84af5651a7dae57bbd20608ec08bc6fc8507fa79ef90baeb3969f389a9a3be4e013f45f4c15bc0
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/1/12/1000000010091065c93e.png" group-title="LPL", 05/08 19:05_TES vs NIP_TES vs NIP_官方解说
+http://8.138.8.12:35455/migu/953296844.m3u8?migutoken=6cdf066182ff8dac4ae44545933f7ad9b4d6ce3fb9694d4a4d6010d4b9813663b22d8c7da8d391ba424875e8eda075a3ffbe58e155456b276f116981a4b252083c97548cb8a5e4c0a0dc6757
+
+
+
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05月09日08:30-NBA季后赛-勇士VS森林狼-姜帆 苏群 李根
 http://sport.pendy.dpdns.org/migu/953387855?token=p9H0C3iCIwMheXsU-S2zNXTV-ujZ2EMEBodNFGRhGSc
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05月09日08:30-NBA季后赛-勇士VS森林狼-拜月宁
