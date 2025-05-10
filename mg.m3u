@@ -84,7 +84,10 @@ http://8.138.8.12:35455/migu/953488182.m3u8?migutoken=d2e0f0029db8ba2f299a6119c0
 http://8.138.8.12:35455/migu/953488136.m3u8?migutoken=6fae85958348b4a9112363073c7dc8c6c1d1b9eee74289cef186275fcbca9a4b3a8a980c9e1d4eeb4960351edda6fd5cb93b3e5f816b453b8d41f751a9db96e7d5aa9e0a6b41358a5993cee2
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 05/11 02:50_法甲联赛_兰斯 vs 圣埃蒂安_乔迁
 http://8.138.8.12:35455/migu/953488093.m3u8?migutoken=d68a58452f80cf7c4a77c55fab36177b73e335379448691cd8c166f033f23465c4bf9a4bd1df291497164c0fc85bcedaf8387ece35515a78dd3e18ed6d616b8f3764af346b6b2b67d6ee822b
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/11 03:25_NBA季后赛_凯尔特人VS尼克斯_邵化谦 季孟年
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/11 03:25_NBA季后赛_凯尔特人VS尼克斯_邵化谦 季孟年 1
+http://8.138.8.12:35455/txsport/100000:10042400213/303257/1385187500.m3u8?txtoken=1e26d6415ae5ed7bc3d99b0fa7080161860d7ef6b307260280a052d4c8626926865a4816051f1449628a2640db361e7267390534215547cb2fe3dd4f8aa2b2fcbd610d0bd2c9a7f7b194ed3c8bb11a6035a928ce85020af951ad139cfd1e1565285fa03d2dcf65ca6bafdeb993eaaffa5208d765c127e8d59a306bee16
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/11 03:25_NBA季后赛_凯尔特人VS尼克斯_邵化谦 季孟年 2
 http://8.138.8.12:35455/migu/953537323.m3u8?migutoken=7df8e02232b5a87c69ce8fd96bde115cae9a8a8d7d3474e436a77736421a6963fa67b206ed18e0b898d499090583bfa71c3cc0ea768cd3fde31e956bf54996867eec4fb8cb640599cf50bb25
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/11 03:25_NBA季后赛_凯尔特人VS尼克斯_英文原声
 http://8.138.8.12:35455/migu/953387351.m3u8?migutoken=dcf8e92fc679f24e5c1af9d49482f793d360c4c70a3d50d1c55dec2edf0cb779586160a85db94e2123f42fd2bb39f09a2177f5adbc05ba85477d42bae62b1e9ea95e6dea46516c99f1167f46
@@ -102,7 +105,10 @@ http://8.138.8.12:35455/migu/953484006.m3u8?migutoken=9ef1432ebd826e0e17ba810cc3
 http://8.138.8.12:35455/migu/953484136.m3u8?migutoken=8a1130eea795444e0949ab588d9bbf892aa91c834dd4407810b8340bb2f91d8ed0a1e9566ec4118401accb9750e64fc26a00008faf1beb71ada302880162966023241e702bd76ed255526a77
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" group-title="马拉松系列赛", 05/11 06:50_大连马拉松、杭州女子半马等5场比赛_大连马拉松、杭州女子半马等5场比赛_马拉松系列赛: 2025于都半程马拉松
 http://8.138.8.12:35455/migu/953484227.m3u8?migutoken=4067ac82360851d4487306d471b2c5de0aa9073fdc5cca3ec5769cb1a7427bc99415d7d427e67ff66e9ba825ff1b8861caa2101c14f0d5508ea56babec8144dfb8b7e44355b79cfaf6487e38
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/11 08:00_NBA季后赛_森林狼VS勇士_庄宁宇 陈正昊 徐咏
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/11 08:00_NBA季后赛_森林狼VS勇士_庄宁宇 陈正昊 徐咏 1
+http://8.138.8.12:35455/txsport/100000:10042400233/303258/1769971200.m3u8?txtoken=5c2adb344d0823238b287b73627d430761923dd6cdd189539ff3b3ee0495735380e7f130d0b4f84b14afc0b1d7c273a00be2c8be1b059301547c862b05b743036fcab01605a520565d21fe174a4fc3a719633a30dbf779aabe3276cd678daf30a88df7a6e200aca67e875942813a7575ed549979d7c5402282bf90877c
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/11 08:00_NBA季后赛_森林狼VS勇士_庄宁宇 陈正昊 徐咏 2
 http://8.138.8.12:35455/migu/953387776.m3u8?migutoken=eaeac90e1a6a824e659864ea1265089fd9490fe38b26dcf82db3c5efa36b7e74bf55da7bd5afbdb2b9b5eac91eb8b5798cc992790721c0a3fdf8ac70d0f0cb0122a0350c7f9898204db73bc2
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/11 08:25_NBA季后赛_森林狼VS勇士_邢晨
 http://8.138.8.12:35455/migu/953387679.m3u8?migutoken=bd06b0d8a4c223eaa46b617dbefe2cfa5ff4d5b384c7e727b7cf1390f1fdebee94179a26ee3005b313c3e4538e7d5b005d9cd0a1f05da3fb3f6225d86edeb798bcfeed22a0164db9d6921029
