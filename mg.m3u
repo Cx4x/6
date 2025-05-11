@@ -178,11 +178,15 @@ http://8.138.8.12:35455/migu/953487634.m3u8?migutoken=05032232ee9eabd8c858b36e55
 http://8.138.8.12:35455/migu/953488449.m3u8?migutoken=eaf276b69512ca89ef333ff66fe6697845513f12ea2af90cdd1f50850cf12b046a6f11f2efda6d3e58bfef175a028565dd06560f92d815569bfc82fae8eea6faa383daa6ab65f72f403e4146
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 05/11 21:15_德甲联赛_勒沃库森 vs 多特蒙德_涂远 马延峰
 http://8.138.8.12:35455/migu/953488251.m3u8?migutoken=d7f6379d1e81ff8a4154f701d98c46c31cfc9e857cf78561ce89d4159c36b31ec2bd479e76e009bc807a70025edd4b86ab099a7b9b21cb4d993dffb9a4ad47df25ca2dcd3ba4d69d4367e453
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/11 21:55_西甲联赛_巴塞罗那 vs 皇家马德里_梁祥宇 李欣
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/11 21:55_西甲联赛_巴塞罗那 vs 皇家马德里_梁祥宇 李欣 1
+https://feijing-xzbonlinepull.bszb.me/live/202_3616120_1.m3u8?txSecret=24eb932e475a21b0bb4a064dd13a779c&txTime=6820e984
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/11 21:55_西甲联赛_巴塞罗那 vs 皇家马德里_梁祥宇 李欣 2
 http://8.138.8.12:35455/migu/953487576.m3u8?migutoken=82f5af914cbe91e403cce77183cab17544c469162a93daa45cafb950cc16c3bd0b984e6c843e0eba4b0ee0d7df88653e38d69452ef5d3b9772541684c4e4324442dc3b0ad66f17c3369c3b81
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/11 23:10_英超联赛_利物浦 vs 阿森纳_詹俊 张路 林梦鸽
+
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/11 23:10_英超联赛_利物浦 vs 阿森纳_詹俊 张路 林梦鸽 1
 http://8.138.8.12:35455/migu/953487996.m3u8?migutoken=9dd9fe984544f71f0a445f771cd635b265c2c1636f8294f28c2315d566c7ee938b02f8f053f3331e30759cc766aec782bd5a52fd388617a38b6b6389234f0ccb35fab3849eb002e57abe0c05
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/11 23:15_英超联赛_利物浦 vs 阿森纳_詹俊 张路 林梦鸽
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/11 23:15_英超联赛_利物浦 vs 阿森纳_詹俊 张路 林梦鸽 2
 http://8.138.8.12:35455/migu/953487954.m3u8?migutoken=d1fcbbae2c5849e1cf52b89fb51f2bdca8b0aabd5e25289c6cbf5fa49a11e3ff651224cc3d135651a2b6403c5ab0beb228860f70eb1275d75c6ba49b5b2b1ae7509772ccf8a7b3d7280c7edc
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/11 23:20_英超联赛_利物浦 vs 阿森纳_江忠德
 http://8.138.8.12:35455/migu/953487929.m3u8?migutoken=e169d631638017d901601a364b9f3191a3aa872d990f9e8151e5e552466cc2ba2400ba1a1993a90025c51e2fd30a6d2488cb189a5b1790b496cc6a9a69048b6de873a026a136ca23b97dd658
