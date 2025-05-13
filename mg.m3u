@@ -8,11 +8,17 @@ http://8.138.8.12:35455/migu/953210657.m3u8?migutoken=978274a99148fee381164ca6b9
 http://8.138.8.12:35455/migu/953487810.m3u8?migutoken=0e98ec85ab6d6630fb9640dc289550976dbc8f2f4b65f4a6378805ab44b6d8e3b9ff061af3b87aa80b05f765098776d317c2e590b2a6dde24df8b8ba181bec7383b47e57a46268bb46df9253
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 05/14 03:20_西甲联赛_塞维利亚 vs 拉斯帕尔马斯_李霄
 http://8.138.8.12:35455/migu/953487880.m3u8?migutoken=68ef85475d21351f2f473740590179cfa923430a4145008b2289471a5ca90bf25e3d7fb0625abd4915963814878d808ca093cf3eafae0e802f5c86b9bd8092029b0f1a9f2e1b5ee75b8abfe5
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/14 06:45_NBA季后赛_步行者VS骑士_孙博 季孟年 裴优
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/14 06:45_NBA季后赛_步行者VS骑士_孙博 季孟年 裴优 1
+http://8.138.8.12:35455/txsport/100000:10042400205/303400/1385227600.m3u8?txtoken=d79ec8638a8c4330c19baf959ffef334701353d4d600448d63c731eddd4f24756ee34ad4b416d9a7b3bb070223a0de0e44f4c8f0e30a53ac71aa25473b07eebbb0cd56dbb872986963a6228d45a7c4ce43fac9e3296239ea5666458cc3ca352e64a0340a0ad957d4a0843a1d7a330bab0deb1aaa76f217d04cf312218c
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/14 06:45_NBA季后赛_步行者VS骑士_孙博 季孟年 裴优 2
 http://8.138.8.12:35455/migu/953684563.m3u8?migutoken=2b6935dd78d5d514a871769d5a6a7d0851488084563c4cde652f78637f5fd23d271b5a5af3d514dac6d23098f4d859e50165c4ebeee45c4e0bdd60c1b23135a98c730356cfb2ba0b0451f77c
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/14 06:45_NBA季后赛_步行者VS骑士_英文原声
 http://8.138.8.12:35455/migu/953684550.m3u8?migutoken=26ea35e085249ff895fb8f56132ff0f5dab5267df964e77c8167b61e0899f00315a9c27c309a16a97f69a3c381d92e1019ea3e6135a32f12b53bf929958398211737f12e5d222a49f2f78ec1
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/14 09:00_NBA季后赛_掘金VS雷霆_李天宇 刘家成 张兆旭
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/14 09:00_NBA季后赛_掘金VS雷霆_李天宇 刘家成 张兆旭 1
+http://8.138.8.12:35455/txsport/100000:10042400225/303401/1385227700.m3u8?txtoken=a3bb1750b5e89f0998eebb9f1ab82cc65f3055e9ca1f6745418b1bf677a4eafb300f221e89f246c9472b0cb9ef8cf44e8727192da7ac3db84c86644b2fe31de5343124c74478735b2172a290898383a822cb679e4d762baf0759c462e2855fec86f5e9083d0a3e26b797e6d6c7ed7acc66fdf668a5d6519927d9bfccb0
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/14 09:00_NBA季后赛_掘金VS雷霆_李天宇 刘家成 张兆旭 2
 http://8.138.8.12:35455/migu/953684614.m3u8?migutoken=9fdab9945ef73b236edeec9dc7a048f2fed2614119194a2d67a58f0975aad2ff89ed66b2d017e2249c690f157532dfce04fb21859e9d344ca95a53fd546aea739e189ffd86ffb126a3c216c9
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/14 09:25_NBA季后赛_掘金VS雷霆_英文原声
 http://8.138.8.12:35455/migu/953684576.m3u8?migutoken=131af7b81e99feef8729419005e674f595ea1a7795aee4f95b9912d30459b2715d8e7fc1e82f885b2f78ef343f518fbb1ed0150dbb142590140505b96e6771fed4298ccac72ff12717be6406
