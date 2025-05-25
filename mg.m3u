@@ -130,7 +130,7 @@ http://47.108.202.208:35455/migu/954056574.m3u8?migutoken=50dc92e3d93a1e69980cf0
 http://47.108.202.208:35455/migu/954056471.m3u8?migutoken=459896daa03ae874d1994ee8ab919c628fd05ba98b0483a791127a23b3223dcfd7e1bc1d6b5a4a493cb708453784858b27524f3e78e2aa612c9f3faac7fb24017e3626047c4da7db49e1cf23
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/25 22:45_英超联赛_诺丁汉森林 vs 切尔西_娄一晨 刘越
 http://47.108.202.208:35455/migu/954058001.m3u8?migutoken=d2159a32fb3c0650d1d45ee0581d9ffceb4af96ccf8cc33335c54c280a3a538ea16d04cffd13beb2cd30cacaa3308ece37815d804fadc04901b2d900181dd9378c0c68d002b19ee9124e1143
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/25 22:50_英超联赛_诺丁汉森林 vs 切尔西_吴桐
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/25 22:50_英超联赛_纽卡斯尔联vs埃弗顿
 http://47.108.202.208:35455/migu/954057857.m3u8?migutoken=30accd11e3ef59b582b8db39f0aa31e2d1b1e4350c8b291c40d0ab205eb0fc3183e82fb3371aa23e67646ebf465910e71f477020ddd8d8818f9112cadf7ce6a4dce4695840e78feaa38272db
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/25 22:45_英超联赛_南安普敦 vs 阿森纳_颜强 徐阳
 http://47.108.202.208:35455/migu/954058103.m3u8?migutoken=778a3b39eefae094152588dcf8e327ec81b113a813f57d27d2dfb0214d4787afd5fe23878cbf39a6d93d666aa52dc6219484cec83f920d51aa3f5b56ea7ba2756f8f68e509f2a41c1f0f5775
@@ -146,7 +146,9 @@ http://47.108.202.208:35455/migu/954057334.m3u8?migutoken=b7776d83e55b9803211729
 http://47.108.202.208:35455/migu/954057390.m3u8?migutoken=d589360cb2669ab9318b7b77891f1d08fdde3d0147dd4ebd17339abc14c8652c59161b43e225e3334fdab7e390d5d3d4b65f56c7d75c612b3dea4c7f8fea931a267e58ceb153e3e3bf4da008
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 05/25 22:45_英超联赛_利物浦 vs 水晶宫_詹俊 张路 李子琪
 http://47.108.202.208:35455/migu/954057197.m3u8?migutoken=90315125436649c8fe4709e54fe9b77b2478f5c4d0adbd4446a26a597ebae50222b71f9b250e4e8c2d1d051013edef669787971fd1cbda8941536307884ad7da75bf7812e66d7987dd3bc105
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-05-25 22:45_英超_富勒姆vs曼城_高季敏 刘勇 
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-05-25 22:45_英超_富勒姆vs曼城_高季敏 刘勇 1
+http://47.108.202.208:35455/migu/954056574.m3u8?migutoken=50dc92e3d93a1e69980cf0dd5227dfdb889cb54cf8b428f5e672d2c7c7b68301815cf717cda273f79f506789ff013e54de192635f52abcb41149f37a2e0d94905b75f1edc4fff52fe5e368fd
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-05-25 22:45_英超_富勒姆vs曼城_高季敏 刘勇 2
 https://pullkgq.15qctz.com/sport/202_3640541_1.m3u8?auth_key=1748185733-0-0-f43200178191ef4733f5935dcfc5db86
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-05-25 22:45_英超_富勒姆vs曼城_English Commentary 
 http://47.108.202.208:35455/iqiyi/4140083/1922490725089223.m3u8?iqytoken=b9862c3ec791e933505b06d0883c5a3c5018037fb605c4d89922fa600adb33cfb64b8d1946d02f1705c7529d41556a5b5938034263fd545b5b6c5af0cabfe74f83ffef5ae01887c2e658675199f9f6e5146b00c60b6e4ffc698a377c206db78036caea7b72544d2f5e347f0494f62365f2995b7ff5a0bb828bca14a4b7d6638b7f39ef1a850a1aef165cf1ae53d0ffbfabb2b62526ef3781d0c34f874f9948998d5d7be42820b4f38f
