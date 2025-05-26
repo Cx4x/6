@@ -10,7 +10,10 @@ http://8.138.8.12:35455/migu/954146845.m3u8?migutoken=c4b6eb975925271d9863211305
 http://8.138.8.12:35455/migu/954146804.m3u8?migutoken=7e3a55a9a98713b00bb94c2d8f27e03c68ee52fe51a4de888452c48c3f5ec8165d7e9813294384f55aec79247c54310194d7e4e6e02c0f99702982018a102532a81fab51d49d1e21e4af57a9
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 05/27 02:20_德甲升降级附加赛_艾禾斯堡vs海登海姆_王子睿
 http://8.138.8.12:35455/migu/954053437.m3u8?migutoken=9011519747d850360a6a845c8fa2fc0b99de2e49d793324fc7bf01ceb5a20d2b0fa3789f8fe0671cada5307067cd31dbd7f8cfbe5a31067435ddaff9c934979f51697b2e571474a5cbba5184
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/27 08:00_NBA季后赛_雷霆VS森林狼_庄宁宇 刘家成 陈正昊
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/27 08:00_NBA季后赛_雷霆VS森林狼_庄宁宇 刘家成 陈正昊1
+http://8.138.8.12:35455/txsport/100000:10042400314/306753/1385463700.m3u8?txtoken=0cb8e396b3686171ccabb9b269627b2b0aa096ad6d92afb54f01055ebc885049ff1675141a4eed180bcfd733c77b78c14e5a08123a52dfb2ec82ac58eb2629ee6c9ec357e6afad755b1144af9dca5e1f36506df4515f71bc37d49f20e5f763e87f40d44d9e926d11bab9f399aa0820c77969d185d3709b0d85570aefa2
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/27 08:00_NBA季后赛_雷霆VS森林狼_庄宁宇 刘家成 陈正昊2
 http://8.138.8.12:35455/migu/954170527.m3u8?migutoken=442b913837aa1054fd1b30584d9a9e1a7d770fee7df2b762ed62199ada647ede98ff9fffe44df0896a85541af07a4d099f820f0b4a912dd500e594aa011889b19591ec81fbbecf05ac8f912d
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 05/27 08:25_NBA季后赛_雷霆VS森林狼_罗森
 http://8.138.8.12:35455/migu/954170491.m3u8?migutoken=b06e06a199b27edb1050f1f2cf97829c71b23fb39becdab99d9692cb11ac652b655709e0926b6e1a782420b5b01382e2fabc135235b71b69fea2958ef1308a5cc110c52f0fcb6264b2e306cd
