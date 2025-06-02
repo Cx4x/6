@@ -1,13 +1,14 @@
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00_F1西班牙站_F1西班牙大奖赛正赛_邱超 钱力源
-http://47.108.202.208:35456/txsport/100360:2100120/306770/1770244600.m3u8?txtoken=2da7b79150c272bb6c1160ec885d02f6aaa049303ce1ff64f53012019ed2a595ccba94c1c7dbc88fe644c8b57455577e5924d95e9c324c3ed778eb2a334bd3938c84f094a670ef52c4985465892ae2c4a96e8aaf2fa95bcdd1f3dc0bd36c752c886af7b6af6c78f2a9a67ca72d813c5c6d4f9af460d3ab36feeabbc02c
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00_F1西班牙站_F1西班牙大奖赛正赛_车载镜头
-http://47.108.202.208:35456/txsport/100360:2100120/306770/1770244700.m3u8?txtoken=5a8c67fea34ac91f9f1a31fbcde633b32798c78a52ff02a40cfe192f537c97283602de39b12800fb86fc33410b36ec8fcf027a27af214c238b93a28b97dc4019f783de9fce263c1f8e0fed2644a26ab348bbbee4f49ce083c6bf2520ce023b85f149faa1ba0c2ebaf8e3377d0106ef6eaeb920f745952a6882b3f9b67d
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00_F1西班牙站_F1西班牙大奖赛正赛_圈速信息
-http://47.108.202.208:35456/txsport/100360:2100120/306770/1385467200.m3u8?txtoken=6cce90e2faf3af470895458ccb438d8e9e5024601339eae9f1cda1fb54b3ebbd84969acbdb8bd83bdc7f474314ef4a5f7c13508d5bcdcef8869c339550b589bab82fb0451e47352e430e814cd6715091faf1bd47dac53f8528931b5dae32ec9d44eb43021930e3e6db497d39f92ddc464e6bbe8dec3034e18140434071
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00_F1西班牙站_F1西班牙大奖赛正赛_车手位置
-http://47.108.202.208:35456/txsport/100360:2100120/306770/1770244800.m3u8?txtoken=190aefa67ffad3014b4962e23c9c2c0bae375b1658906e37d7d8bc0297ec055e4785bb050bc0989ad3bdc70a2c29fd5df840fbab05b4025ca48e6367634eeff290ca1c9964266b5f7b01bd2744685d38ab294e6b8ef63be8e08379b27767d5114b723cafa458448cea5a5110e59b8e68177281e71832dce0e69c251532
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00_F1西班牙站_F1西班牙大奖赛正赛_维修区
-http://47.108.202.208:35456/txsport/100360:2100120/306770/1385467300.m3u8?txtoken=3ba3efccc7d00cb1b225dc3a779061e9a4ad584f6343b393bc454f81cc3cacc42c92fb5d4b4056c013c10578a93f61b4b356311fb2daa9e8a010ca0101084ab3136cb6e1274c8a1235572924a7b3c34562e88d8a4d183da27087514dc0749d8f5381a1d2990210493db93ab3a542a476eb0bedfab3a25dd6f299590741
+#EXTINF:-1 group-title="F1西班牙站",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00-F1西班牙站-F1西班牙大奖赛正赛 邱超 钱力源
+http://sport.pendy.dpdns.org/txevent/100360:2100120?token=tbKPSVV9tKg7avyun7WkY5RYZv8ssPuOR_U43McqwV7icQxibxTik8FF-hs3QL9cf54GzJMhlpSZuCUvIICFa6FROg9Y9-KMN1Iw6pV48ztmuFWCkvpYC_tdJyxSG7wx&auth=
+#EXTINF:-1 group-title="F1西班牙站",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00-F1西班牙站-F1西班牙大奖赛正赛 车载镜头
+http://sport.pendy.dpdns.org/txevent/100360:2100120?token=tbKPSVV9tKg7avyun7WkY5RYZv8ssPuOR_U43McqwV7icQxibxTik8FF-hs3QL9cf54GzJMhlpSZuCUvIICFa6FROg9Y9-KMN1Iw6pV48ztmuFWCkvpYC_tdJyxSG7wx&auth=
+#EXTINF:-1 group-title="F1西班牙站",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00-F1西班牙站-F1西班牙大奖赛正赛 圈速信息
+http://sport.pendy.dpdns.org/txevent/100360:2100120?token=tbKPSVV9tKg7avyun7WkY5RYZv8ssPuOR_U43McqwV7icQxibxTik8FF-hs3QL9cf54GzJMhlpSZuCUvIICFa6FROg9Y9-KMN1Iw6pV48ztmuFWCkvpYC_tdJyxSG7wx&auth=
+#EXTINF:-1 group-title="F1西班牙站",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00-F1西班牙站-F1西班牙大奖赛正赛 车手位置
+http://sport.pendy.dpdns.org/txevent/100360:2100120?token=tbKPSVV9tKg7avyun7WkY5RYZv8ssPuOR_U43McqwV7icQxibxTik8FF-hs3QL9cf54GzJMhlpSZuCUvIICFa6FROg9Y9-KMN1Iw6pV48ztmuFWCkvpYC_tdJyxSG7wx&auth=
+#EXTINF:-1 group-title="F1西班牙站",-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1西班牙站", 2025-06-01 21:00:00-F1西班牙站-F1西班牙大奖赛正赛 维修区
+http://sport.pendy.dpdns.org/txevent/100360:2100120?token=tbKPSVV9tKg7avyun7WkY5RYZv8ssPuOR_U43McqwV7icQxibxTik8FF-hs3QL9cf54GzJMhlpSZuCUvIICFa6FROg9Y9-KMN1Iw6pV48ztmuFWCkvpYC_tdJyxSG7wx&auth=
+
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100020.png" group-title="WNBA常规赛", 2025-06-02 06:00:00_WNBA常规赛_西雅图风暴 vs 拉斯维加斯王牌_丁楠
 http://47.108.202.208:35456/txsport/100020:11022500043/307005/1770300000.m3u8?txtoken=fae165f0916da8bb0e8c4ceda82c5fbeb7d5d272aaccda5f8de7211cf7965d120a58bd3fc5f1dc633d9d8767cd3821503b7aac841eaed8c3c1dc288393b24b3eb52d288f1e22db87789e58da426e86b458971e6ced1dc59e9e424d5a9e771bc9c02f4b36b6015db13d9143aff01aea64840a9669f86408bc46a7a79191
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100020.png" group-title="WNBA常规赛", 2025-06-02 06:00:00_WNBA常规赛_西雅图风暴 vs 拉斯维加斯王牌_英文原声 
