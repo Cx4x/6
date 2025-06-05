@@ -32,8 +32,10 @@ http://8.138.8.12:35456/migu/954822545.m3u8?migutoken=d8f902a2bce951bd74bd25e07f
 http://8.138.8.12:35456/migu/954818884.m3u8?migutoken=53bddd4595f3aa2b6c3c89f5af45b4f04e3616dd10c2af586ebab6660745055e670df7d6cd856f78a9514239d5758d585ec1989367bebf3e791022cc8426f9874e53e42c45d3de8d751c56a3
 
 
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/11/13/6D8K2PUKIOTP.png" group-title="世预亚", 06/05 20:45_世预亚第三阶段_印度尼西亚 vs 中国_解说
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/11/13/6D8K2PUKIOTP.png" group-title="世预亚", 06/05 20:45_世预亚第三阶段_印度尼西亚 vs 中国_解说 1
 http://8.138.8.12:35456/iqiyi/4146386/2431063872531323.m3u8?iqytoken=286e2e730314066e31ee80c375a90abdb96e6782b5a704295b9ffffa3843710ea7b9973c002b1e36a8ea6d11af2189251cd4d19bc499c2c8be975d4ca5b11c7bde967d2a29ed5387f3c905ffedad7f56a4fad5e67f5339f36a03573de6aa84f650ffd6788698a4760c6040dfb5ecf08d591bcf7c64b522a436d98da9782329f34870c892506998e870d337970b479dde7d0071f360fb07d190ff8d57e95605e05ef8b209520ff8d395
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/11/13/6D8K2PUKIOTP.png" group-title="世预亚", 06/05 20:45_世预亚第三阶段_印度尼西亚 vs 中国_解说 2
+http://8.138.8.12:35456/migu/954815669.m3u8?migutoken=46d7639ccca90138f4a5790f9f15b334916cf04ef6c70d166c88a665bcecd967739853a1a8bcbca19253423835b2bc67e0d3c1dc134579733b81db83cc05a13fd540410fe4bb60aa48de23fa
 
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/11/13/6D8K2PUKIOTP.png" group-title="世预亚", 06/05 21:35_世预亚第三阶段_印度尼西亚 vs 中国_江忠德
 http://8.138.8.12:35456/migu/954815666.m3u8?migutoken=309d85af3c5cf89b2de1c7ae873a26108dfb7c332b11d6d863b725cd33f5e518ed4201906a59b2c603ed755d9f74ac4d2e6b1e5bcbcfb840885e8b1bd7ba3e64b27266a626ba603aef6638df
