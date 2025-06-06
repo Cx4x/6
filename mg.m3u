@@ -30,7 +30,10 @@ http://8.138.8.12:35456/migu/954815762.m3u8?migutoken=2f1dcddda6d88d746b67fa9fd0
 http://8.138.8.12:35456/migu/954815779.m3u8?migutoken=c73aadc381161dde08ebc6b556da0ed44c6f4013591b2fe4ecba452a61eb1f3f31b39039648e3ea2bcaf8d09cd7bafdd503dd12d9815f0c1fe6cd378a5b31cdcc55395b202d5664b9e338b52
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/11/13/6D8K2PUKIOTP.png" group-title="世预亚", 06/06 02:05_世预亚第三阶段_朝鲜 vs 吉尔吉斯斯坦_鹿中原
 http://8.138.8.12:35456/migu/954815748.m3u8?migutoken=a0db92dd573bd10334390cf9f54e4fa2ba62e6096230bf6f7432eeb75760c66c215deaa0a38dadd531e2ac896989d13e2799656521a2bb254ff3e50c1ba54d234693ef18e26bc2b078e667f8
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06/06 07:25_NBA总决赛_步行者VS雷霆_杨健 曾凡博 刘家成
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06/06 07:25_NBA总决赛_步行者VS雷霆_杨健 曾凡博 刘家成 1
+http://8.138.8.12:35456/txsport/100000:10042400401/307305/1770382500.m3u8?txtoken=d55f94ac14d12c57d8c9c5d3db33cfd69bf52ad2182bbb2af20a4dbe9256dd22ff65f6b2e4d22ca1aaeecc41e927a8dd5db88c44b43ce1fe5ca6d82315e210b3e46013a6f40ea22310a8e067a90fad9d8b64507c58f583e2a802b4d746e92bea27c85d3fb852b54bbfed8fe8f31f2f519d08649b499ae534b8c84f2985
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06/06 07:25_NBA总决赛_步行者VS雷霆_杨健 曾凡博 刘家成 2
 http://8.138.8.12:35456/migu/954827394.m3u8?migutoken=a6a8b51cfd9d3fba005a6e51a5555ae9f21b3911829e0ecd1a2c89b5ab91b277a73caafa1957a77c55415b35ae3557e9aaa6f12ee8aa2d223ed0acf7948716301081e4d140620ae6dac6975e
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06/06 08:20_NBA总决赛_步行者VS雷霆_蔡凯臣 陈正昊 金佳悦
 http://8.138.8.12:35456/migu/954827711.m3u8?migutoken=f57ac971f76ca0f15eed8fb22d957a1f026dbe31bc0013e7f9f5aab2566d12d3d7e2742a6d9ef500187fd6d3fa28ad229623119f2e85ea35102a2b6e151ba28ba468970e4f4fb73c6f6948f8
