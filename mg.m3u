@@ -1,50 +1,143 @@
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-胡小凡 王多多
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06/15 18:00_梅尔滕斯2-0鲁塞夺得冠军_梅尔滕斯2-0鲁塞夺得冠军_赛场原声
+http://yc.myds.me:35455/migu/954832846.m3u8?migutoken=25fb35b636d331b33f90d5428916b27ed2535f59a7b29f64643d633399f81c2cfc1c029e78168885dc832b0a40fe63904bdee97ea431a10789e84d1399268830e12d87b280e63b8e6889ff55
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06/15 18:00_梅尔滕斯2-0鲁塞夺得冠军_梅尔滕斯2-0鲁塞夺得冠军_英文原声
+http://yc.myds.me:35455/migu/954832853.m3u8?migutoken=145a0b2c999469010076e9e1b68b914555ecd4b5bbbcd703a41dd9e4fbb542f3ba15825278ef0fd0083e5af92ae27b735c592298810bfcd16f35f561367986e5549ca456388800edf1a0ad19
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="中乙", 06/15 18:50_中乙联赛_山东泰山B队vs兰州陇原竞技_解说
+http://yc.myds.me:35455/migu/955243587.m3u8?migutoken=1596643f10291edff0557834efac1ee054361555ea4f80db963594363768cd711f727c9a6fb51bd745425291a435f00a6dfb4e0de507f7c4c38b35a24cb198204f23a6faf227a17028a730fc
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png" group-title="江苏城市足球联赛", 06/15 18:50_江苏城市足球联赛_连云港队vs苏州队_解说
+http://yc.myds.me:35455/migu/955239151.m3u8?migutoken=7b65f4912d482728016c0a3560ce0e4d2b6e0a76861e2ff8ae25ad8e21ac5c6b78123c457a20fa065c3688e2407b6f31db9d243d74b6e7357863ac2a93792874536d666cb33fd26575ab07ab
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="NBA经典赛事", 06/15 19:00_11-12赛季总决赛 热火vs雷霆G3_11-12赛季总决赛 热火vs雷霆G3_张泽欣
+http://yc.myds.me:35455/migu/955288642.m3u8?migutoken=8b9a3e6a72f8e3da1dabfc8859aecf1a8a318987888fd98c294a7cae4d0f0e6ff584ac3bc25c7fae6940e8edc80a82dd9dcb628ff15432a2dcb67a611a4d48e5c9b6d4e6641abcf222e3a46e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/4/30/100000001269106157ff.jpg" group-title="国青男篮国际挑战赛", 06/15 19:25_国青男篮国际挑战赛_中国U19男篮vs美国青年队_金哲豪
+http://yc.myds.me:35455/migu/954962918.m3u8?migutoken=af9f222146ef0a464856e71b478a8bd8b20acc0d4b33804210fb561e36338f6a78ff5dba561c5653c9c8a9f7cdd1329e969fae6cbd512beb5010db8f8bb0199c35a9d616d107ebce739f8d7f
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/4/30/100000001269106157ff.jpg" group-title="国青男篮国际挑战赛", 06/15 19:25_国青男篮国际挑战赛_中国U19男篮vs美国青年队_清流播出
+http://yc.myds.me:35455/migu/954962903.m3u8?migutoken=6759cfda8cf9f360878ad88349f09c99ccd138746418773ad1a16607ac1e2bcdf575a798cf44610c1aa3b277ec931dc3aaf6a76273fc276c112e3a3cbc744a3c370f6f449da6f626da7ae687
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06/15 19:20_中甲联赛_深圳青年人 vs 石家庄功夫_解说
+http://yc.myds.me:35455/migu/955158952.m3u8?migutoken=ee25c857750284f922fa7ee4503fab4d1f87e76c9c229899600739a5d9b14298c303255ac71e247ca452e35e53096facf17345b4eb88b6a349ce79bc1c0ef0f754a9d939e6f7f7a50b0fbc82
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06/15 19:20_中甲联赛_定南赣联 vs 南京城市_解说
+http://yc.myds.me:35455/migu/955158859.m3u8?migutoken=85ce10b6320031ce16b1cb78c85689af5cc01c279536a8a9a8b4ae5694073d73e355f983ac47f56511597c493f215677b5ac357b4dcdefacb91a9476523b1593ab0cbf69a8a894ebda24a3bb
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06/15 19:20_中甲联赛_青岛红狮 vs 陕西联合_解说
+http://yc.myds.me:35455/migu/955158670.m3u8?migutoken=90baa2f97570cb8104b2a7466527a08adc4a9b9e6c4cb015bfd83e1d63a407b364fac1a99a18d042f722d6f46e6e407c92434873d7d90b37b889cc3aa8547bcaa36afcc1fdbb3110ada1be0e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 06/15 19:20_中甲联赛_广东广州豹 vs 苏州东吴_解说
+http://yc.myds.me:35455/migu/955158486.m3u8?migutoken=edc3f12ffe1ca2fcb03685c83db1580115d42dd8d5e02e8d79faa178183020b871bee33f3882ac4e18c03575199f663a41c41ef52215d9c8e4ad758ed0ba89d5c78d67cb6b9a40f739b07c61
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/7/100000001096106672dc.png" group-title="中国女篮系列热身赛", 06/15 19:10_中国女篮系列热身赛_中国vs波黑_吕程
+http://yc.myds.me:35455/migu/955143553.m3u8?migutoken=e48331732dbdd966d3f25c779566e593c52bb4f6023bd74af38d34d9879938d2a1a67545c1cf2201f1e01cdcb98875f28831b002f145233f61449bcefda9598a1325746862601054b03b2a3d
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/7/100000001096106672dc.png" group-title="中国女篮系列热身赛", 06/15 19:10_中国女篮系列热身赛_中国vs波黑_清流播出
+http://yc.myds.me:35455/migu/955143518.m3u8?migutoken=18faa859d7c9ef09062fc0a2dd9ba6567dbaa6e8d538dbb25a5fceb8810d468b08708cba0bb1335731bfd0b67861f6ea5b45554ec602398a929cc6b8754504f12913105a6134829a990c5aa0
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/12/100000001282106a4194.png" group-title="江苏城市足球联赛", 06/15 19:20_江苏城市足球联赛_无锡队vs常州队_解说
+http://yc.myds.me:35455/migu/955239199.m3u8?migutoken=1c91004017dddf9f52dd06b24677228024781d99ed7c30ee8e51d350161f2eb53b9ccc691bc0905184adda1e39661ea4a4a545e6ba3d9b03aaef44dd8a350a4c44739620a872c200986b8c06
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06/15 19:20_刷新PB！吕沁遥200米蛙泳夺冠_刷新PB！吕沁遥200米蛙泳夺冠_清流播出
+http://yc.myds.me:35455/migu/955243658.m3u8?migutoken=e6dc40ad749eeeca53b470444a47bc77b38a0bb5a32cac4d4e8bfc1e3498aab496c1b0355b70bd3931e6eabece498235d643817840cbbc98f495f5a33e4e8781410e7930634c3d30142f0b85
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/8b5679b1-dc37-4f9d-be40-6388c42c3851.png" group-title="KPL", 06/15 20:00_重庆狼队 vs 广州TTG_重庆狼队 vs 广州TTG_官方解说
+http://yc.myds.me:35455/migu/954936645.m3u8?migutoken=d322f017cbe6d8b3e77e7431a81215b38727b668cd844d21e04880fd45c74f0b86718e7148c5c86afdd16ababe3318bd881a281f2bc89cd4f038d30bac917e18f45fd0b9da8147ea21144838
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06/15 20:00_温瑞博2-4杜达 范姝涵0-4袁嘉楠_温瑞博2-4杜达 范姝涵0-4袁嘉楠_周泽昊
+http://yc.myds.me:35455/migu/954958049.m3u8?migutoken=989250dec64a1d89108ae1d0b4487e9f9f45409918c28ed633124f91c7f7c0c5e3e24a2c7f2b2786be5c0d395cb49fb85638a9a704d5a15cd42557eafec25c80aa685133ce0b905dd65f6d55
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06/15 20:00_温瑞博2-4杜达 范姝涵0-4袁嘉楠_温瑞博2-4杜达 范姝涵0-4袁嘉楠_1号桌
+http://yc.myds.me:35455/migu/954957948.m3u8?migutoken=7a2e5fb067581b597fa004edea86e3065e9f79daca69346ef5dc57da8e8d1257f6b8ff56c2bc10b7e50cc62ee89a305fcf10e624db108c986f95cfc2f5caae6a5d53456702aa3c7b496bba61
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT", 06/15 20:00_温瑞博2-4杜达 范姝涵0-4袁嘉楠_温瑞博2-4杜达 范姝涵0-4袁嘉楠_英文解说
+http://yc.myds.me:35455/migu/954958021.m3u8?migutoken=eb7dad1e3df876e074768d5bd2d59edd48940f07d954e8a44602f65c2f5ea4d37f83106e1c1a358a12b16bb1ff509f20535a7b27ddd403efd9c51fb1821bcad8f76df1354b35b683a35d1658
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06/15 19:50_全运会男篮附加赛-湖北96:87新疆_全运会男篮附加赛-湖北96:87新疆_李天宇
+http://yc.myds.me:35455/migu/955267452.m3u8?migutoken=e4bf8ecbee761d6f2d4d18e2b5a76a358df5502c138c2256fecc2f895d422c4a5b8fd792b2c92676e79f56c7e9d28b4413292ec5546dcffd7d4a040a5c2e50b29244e33b5faacd6ac547b354
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06/15 19:50_全运会男篮附加赛-湖北96:87新疆_全运会男篮附加赛-湖北96:87新疆_现场原声
+http://yc.myds.me:35455/migu/955267429.m3u8?migutoken=56163ffe89945fec67ab16632804585e1c4bd54ca67dab45196feafdc97a0e6cc4d3e58692c6a90cfcc25e07b1dc6b23f3606e9d5b4cb17197117cd615228416bfea99dd029f7f7d7065fc9e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06/15 20:30_玛利亚女王杯夺冠_玛利亚女王杯夺冠_单文强 邱超
+http://yc.myds.me:35455/migu/954833139.m3u8?migutoken=9e83858704e0bb06847c4b8cf218e456b7bec6cb05cf65c57bd248850578d28d04dadce8bddee0e72a70645633d628592f2476949fda02653d29c6e09852f9b3f8ee54fd9f7f2cbd3a948b5f
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06/15 20:00_玛利亚女王杯夺冠_玛利亚女王杯夺冠_赛场原声
+http://yc.myds.me:35455/migu/954832758.m3u8?migutoken=bf35ec8861ab8ba7026d84cd637bbea1f83c55654c9ad249e34c6fb3ba400717ccf04326ed688d4a2a64116566a93c9aa3bfe82e267b52d987a9ad0ab45ce286954eb028c9786ce4c31c56ee
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06/15 20:00_玛利亚女王杯夺冠_玛利亚女王杯夺冠_英文原声
+http://yc.myds.me:35455/migu/954832808.m3u8?migutoken=b618ff26240ba25745f4d45e26f47b897b10b60f9ff0d5cd6b66e4d4ca041e555d38cc78973bffde0264d2d1c7bc7feafd13bb70637add458ef0708ec85a9a8f774ab7e98b68529f875e99f4
+
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-胡小凡 王多多
 http://119.36.194.123:32432/migu/955274561?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-智能文字解说
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-智能文字解说
 http://119.36.194.123:32432/migu/955238827?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-赛场原声
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-赛场原声
 http://119.36.194.123:32432/migu/955238760?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-胡小凡 王多多
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-胡小凡 王多多
 http://119.36.194.123:32432/migu/955238938?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 06月16日01:00-西甲升降级附加赛-米兰德斯vs奥维耶多-李霄
-http://119.36.194.123:32432/migu/955270146?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-李欣 黄健翔 李子琪
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-李欣 黄健翔 李子琪
 http://119.36.194.123:32432/migu/955274613?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-智能文字解说
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-智能文字解说
 http://119.36.194.123:32432/migu/955238155?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-赛场原声
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-赛场原声
 http://119.36.194.123:32432/migu/955238041?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-李欣 黄健翔 李子琪
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-李欣 黄健翔 李子琪
 http://119.36.194.123:32432/migu/955238182?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-鲁靖明
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-鲁靖明
 http://119.36.194.123:32432/migu/955274641?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-智能文字解说
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-智能文字解说
 http://119.36.194.123:32432/migu/955238438?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-赛场原声
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-赛场原声
 http://119.36.194.123:32432/migu/955270860?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-鲁靖明
+#EXTINF:-1 group-title="世俱杯",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-鲁靖明
 http://119.36.194.123:32432/migu/955238393?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月16日09:30-2025年全国夏季游泳锦标赛第五场-男子50仰等多项预赛-清流播出
-http://119.36.194.123:32432/migu/955243668?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔弗戈 vs 西雅图海湾人-周楚雄
-http://119.36.194.123:32432/migu/955274691?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔弗戈 vs 西雅图海湾人-智能文字解说
-http://119.36.194.123:32432/migu/955238793?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔弗戈 vs 西雅图海湾人-赛场原声
-http://119.36.194.123:32432/migu/955270778?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔弗戈 vs 西雅图海湾人-周楚雄
-http://119.36.194.123:32432/migu/955238773?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月16日17:30-全运会男篮附加赛-全运会男篮附加赛-吉林vs新疆-邵化谦
-http://119.36.194.123:32432/migu/955267477?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月16日17:30-全运会男篮附加赛-全运会男篮附加赛-吉林vs新疆-现场原声
-http://119.36.194.123:32432/migu/955267510?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06月16日19:30-2025年全国夏季游泳锦标赛-女子50自等多项决赛-清流播出
-http://119.36.194.123:32432/migu/955243684?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月16日20:00-全运会男篮附加赛-全运会男篮附加赛-河南vs湖北-王冠证
-http://119.36.194.123:32432/migu/955267573?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06月16日20:00-全运会男篮附加赛-全运会男篮附加赛-河南vs湖北-现场原声
-http://119.36.194.123:32432/migu/955267520?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月16日22:00-WTA柏林站第一日-WTA柏林站第一日-赛场原声
-http://119.36.194.123:32432/migu/955222661?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
-#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06月16日22:00-WTA柏林站第一日-WTA柏林站第一日-英文原声
-http://119.36.194.123:32432/migu/955236923?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/15 23:45_世俱杯小组赛_拜仁慕尼黑 vs 奥克兰城_胡小凡 王多多
+http://yc.myds.me:35455/migu/955274561.m3u8?migutoken=437b7f3a399dccf49cf1dd3e89eacff45f898fe82336cbcaf9d5379513a7b38962cb46dd600fb30adb66fa6eb131173622ebb172bc5745479a89fd5d30ce2bace152c9b0f140d99b9cd01a83
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/15 23:45_世俱杯小组赛_拜仁慕尼黑 vs 奥克兰城_智能文字解说
+http://yc.myds.me:35455/migu/955238827.m3u8?migutoken=a8a2f1fde31dbcf265e96fc4afa04061c7f494b070570a85604cb84803ad1ac55c27ea4d14f46911ce069a7dc247e7c63bb7e8f65935b4496413ed0d2c8e1d2aaa0b5df9bcd8a72e9809fc8d
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/15 23:45_世俱杯小组赛_拜仁慕尼黑 vs 奥克兰城_赛场原声
+http://yc.myds.me:35455/migu/955238760.m3u8?migutoken=4ea7de995db12c44728a1664b60bb9fb7495a18b6a498c6f7ed39b3baf1e9bfeb6b5b2d349c4ae7f05914f9b8ef7fd26443fd35d6af2f4306a63049997078c3e467654e8a8b25cb03bd90e49
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/15 23:45_世俱杯小组赛_拜仁慕尼黑 vs 奥克兰城_胡小凡 王多多
+http://yc.myds.me:35455/migu/955238938.m3u8?migutoken=5b89a55aa2ab39dd5f8deeec03b0cda096d290e8a697977bb4cd16aadfef97b94881e1f08ef4feedc35f34f1a2f94d3ae8b441e98556b80a34d73ab11c504e238d45da2df2cf2572960726b7
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 06/16 00:50_西甲升降级附加赛_米兰德斯vs奥维耶多_李霄
+http://yc.myds.me:35455/migu/955270146.m3u8?migutoken=4cd001715f7edca12fd6f947ea52e5f7531e0975d1b416170a041e3b28f14186b1b69f34ec1a17856d7688c29a6d8a8b3773d4152b99f1498260628337b72855676b468022585762da991ada
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 02:00_世俱杯小组赛_巴黎圣日耳曼 vs 马德里竞技_李欣 黄健翔 李子琪
+http://yc.myds.me:35455/migu/955274613.m3u8?migutoken=8889f4641332f2c4f538aa358ce75a9882add8f7116417ec36265bdd31e9721855a5009b944b473e85740a018fc0bffe029ed1dd16b3d312a67e65a1b7f98a19e97d86c1b6eb734039a26cd7
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 02:45_世俱杯小组赛_巴黎圣日耳曼 vs 马德里竞技_智能文字解说
+http://yc.myds.me:35455/migu/955238155.m3u8?migutoken=074f8c10d29f02d2b8806adeda25545afdde2ff43aef30ec1aac51df370c68b1ac6fd1549162c5801168545085162edccf0720fa204be02142cb548f35be5f94b6cefc7d5736d4ad8755d963
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 02:45_世俱杯小组赛_巴黎圣日耳曼 vs 马德里竞技_赛场原声
+http://yc.myds.me:35455/migu/955238041.m3u8?migutoken=906336fc1863868c7264b58d1ea9a5e43d33e9d7ae60b649b2b5dbffaad87d223e234de87840c0e3cfa4bd14e2a963138dab2c3526279a807f36602c394f80f6dd7038d320912bd9c387825c
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 02:00_世俱杯小组赛_巴黎圣日耳曼 vs 马德里竞技_李欣 黄健翔 李子琪
+http://yc.myds.me:35455/migu/955238182.m3u8?migutoken=42656efb651bd155c5dcb362400a85497fd6b2ba04756c5308a8f37952c32e2333fff9342cec267b7ab756f0a8add3a73a2269459b1dddc7bcc29bd86a837a3a8e44ca4fcdf9665a9514cd42
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 05:45_世俱杯小组赛_帕尔梅拉斯 vs 波尔图_鲁靖明
+http://yc.myds.me:35455/migu/955274641.m3u8?migutoken=47a2d95abcba69c296a253077af3b0c649d15d0f2032b7818650203391e9e16edfaa61255d971fe50c7dc54a17b9520e42e01916520a2c79146fbe74ac15f4f92d3f6f0078b9a835750b113b
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 05:45_世俱杯小组赛_帕尔梅拉斯 vs 波尔图_智能文字解说
+http://yc.myds.me:35455/migu/955238438.m3u8?migutoken=b729eaf509ef4d1f438cee63140dfd8018e85d5da195d54fce97ee360d490050ec6a038f0d86744168633bde9f17bffaa013d15dfbed5f334a937fd0d699e945b82c1a47c43c6723ea4c7ce7
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 05:45_世俱杯小组赛_帕尔梅拉斯 vs 波尔图_赛场原声
+http://yc.myds.me:35455/migu/955270860.m3u8?migutoken=7c3ee91670f222eeb3fbdcae30550eca9ff9371167f88ab962514758aa0684f9f24b1ce054df881112d86e154ccb4e4f8d62545f3922b9a36d0f90cbc909f937e2e2edc49f83a797d6903ac3
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 05:45_世俱杯小组赛_帕尔梅拉斯 vs 波尔图_鲁靖明
+http://yc.myds.me:35455/migu/955238393.m3u8?migutoken=5da4cfb5fd2e2621449c1600485a095ca3cb33480f4219b5c0cce2e7f0392c239a6df76d514405e9795679ca234eb5bd026e49b185b21eddc661f9ab312d84f29e1a4a9260633413ebdf5239
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06/16 09:20_男子50仰等多项预赛_男子50仰等多项预赛_清流播出
+http://yc.myds.me:35455/migu/955243668.m3u8?migutoken=60a946c6ac394abe7d79185c9f4b00859206787a3a1add91d1739e216c45af35708c694a9979e1515d59e86e60d737e50cb0b0441662f99054d5904b574979e98da513ec46e183f28caa8f61
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 09:45_世俱杯小组赛_博塔弗戈 vs 西雅图海湾人_周楚雄
+http://yc.myds.me:35455/migu/955274691.m3u8?migutoken=a4d906961571d71d5b4f67942a7c67e193522f882dda9d8f4579d7ec4fef1110e73201426adb25d7994f52d8c0e9b9591e41c6a642b7901c807442cd929e66f8e94f95cba71660285821e1ca
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 09:45_世俱杯小组赛_博塔弗戈 vs 西雅图海湾人_智能文字解说
+http://yc.myds.me:35455/migu/955238793.m3u8?migutoken=8a23d33539e179cb7a712d1ecb3cefae0b1dadf4b5c79fc1b1f239660acbb38c7418431aba04552a165ef1e0165edb6c3997a48361ca6b1b991d2c67410392b993b3ab970765aa12bb6b9291
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 09:45_世俱杯小组赛_博塔弗戈 vs 西雅图海湾人_赛场原声
+http://yc.myds.me:35455/migu/955270778.m3u8?migutoken=c06e6b0c6b3b39fc1094227420ef71dcb287763cf1b01fe8ece9c03c0ba4f3981131c41908f828b3c54d0b6712fb2159a4c4440ec5c90eb14878092c23203d747229a0acf27698d78079dff1
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 09:45_世俱杯小组赛_博塔弗戈 vs 西雅图海湾人_周楚雄
+http://yc.myds.me:35455/migu/955238773.m3u8?migutoken=037c16fee06670307dfb40c56b8784d3887ac847400e3b95135e218c9af4905d919f9a76ad4e00cdb6c8de455b5d710c39abda3576275a74e1cf44592f998d4f6dc2869462be30b0c7f53851
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/02/13/6CF1HE3KHV6Q.png" group-title="NBA", 06/16 09:55_《NBA周刊》NBA总决赛G5特别节目_《NBA周刊》NBA总决赛G5特别节目_清流播出
+http://yc.myds.me:35455/migu/955297763.m3u8?migutoken=db744004cfcb074731a23c9667d8ffe1fd71d9e74077c205dc04a41bc15dd755792ba3eba47042a334c034775cd26dd66141666251d7c7c4d9427f928e808051f10b450643686835f1e3e253
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06/16 17:20_全运会男篮附加赛-吉林vs新疆_全运会男篮附加赛-吉林vs新疆_邵化谦
+http://yc.myds.me:35455/migu/955267477.m3u8?migutoken=6e8b1fbd681f1ac37a679ba134747fe0e51b17fcd14bc26633976ef58226fbadb74dd5a782117e745b851fcfe7b014d56bf0dd531e4065fcbb8dcd58489b8173f6a19876deed27de2b2a8955
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06/16 17:20_全运会男篮附加赛-吉林vs新疆_全运会男篮附加赛-吉林vs新疆_现场原声
+http://yc.myds.me:35455/migu/955267510.m3u8?migutoken=b83fb6f21fd8cfa09dac13d8d6bac09f807aefaae14c4967043a79a0e2bfdde27fdea8c21f70deda754d894b6149e8bcd1033b107e00a3af7bf788fa5d4cdf80915397ee0780f338fd8ed200
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/8/985164a0-1f05-4397-bf24-481207678231.png" group-title="NBA经典赛事", 06/16 19:00_99-00赛季总决赛 步行者vs湖人G6_99-00赛季总决赛 步行者vs湖人G6_陈鑫隆
+http://yc.myds.me:35455/migu/955288662.m3u8?migutoken=3ba965c6239436eb21545004c7ea2a38c61ef3706a2cccfbf96d1a68374f62f8f590e1696da8014f063f24236507e5ec3be20ecb452ccc5564ace1cdb4ce5c31f24e6403dfc5fdd80027d821
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06/16 19:20_女子50自等多项决赛_女子50自等多项决赛_清流播出
+http://yc.myds.me:35455/migu/955243684.m3u8?migutoken=7de20c4df8b5f149436aa410246b06d796cd86cfb084ae04296d09d94d292f2f17f026fdb3a1e442321962e3b626416a8c4fa005daeeac36f1995348725f5f81df1e83979db9fea3c6500ba0
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06/16 19:50_全运会男篮附加赛-河南vs湖北_全运会男篮附加赛-河南vs湖北_王冠证
+http://yc.myds.me:35455/migu/955267573.m3u8?migutoken=2bee45126da88762c5ee3d6d9c029840f2af9de3871b20e2540f3ae4ccf0c1bc89994c56e4fd2b98eeeed77418f65177b4c5cd6ea2699cc56d873c3a5a045f28f7cf811b9e44332bf9bcc65a
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/5/100000001281106b27f9.png" group-title="全运会男篮资格赛", 06/16 19:50_全运会男篮附加赛-河南vs湖北_全运会男篮附加赛-河南vs湖北_现场原声
+http://yc.myds.me:35455/migu/955267520.m3u8?migutoken=81430dfc24277cc6b4d2f52a7a1eb9dec21b811bcc91af6ae08f9755ee1626c4dd191f0bcaf13bc6ff2a4397897258b451f9af86e048c2205496abe186f0789c972a61e1783172ae305e782f
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06/16 22:00_WTA柏林站第一日_WTA柏林站第一日_赛场原声
+http://yc.myds.me:35455/migu/955222661.m3u8?migutoken=55cd9d296e638e17cd2b43b1bdacfc58e10d4fe70952735d674978febff11ca4f2d2d2322922edfa15de5e4371988f2864dc32455b8f2466f6c9e79badaa331866bb39f4534c851ce5fdc403
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 06/16 22:00_WTA柏林站第一日_WTA柏林站第一日_英文原声
+http://yc.myds.me:35455/migu/955236923.m3u8?migutoken=3bfbaf8c636065a423b07eb8e1afed5eaab6e383973f1ff74e81da379f796eaba8db5bed8dbaa638b69b9f1e6082efa37b5aa63c8ac0d8041e3d47c38654665371cd1db49028c8d7d9a96034
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/17 02:00_世俱杯小组赛_切尔西 vs 洛杉矶_颜强 徐阳 林梦鸽
+http://yc.myds.me:35455/migu/955274725.m3u8?migutoken=6e0a7594195cecc79b701d60c49a659b9d5d623f977806f428c40f2ee87236c1e31dd3127abcb126ee911905fa8a908bd165e7bbde88d87ada168ee16f5c7f87282379150e76ad57467bc366
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/17 02:45_世俱杯小组赛_切尔西 vs 洛杉矶_智能文字解说
+http://yc.myds.me:35455/migu/955238400.m3u8?migutoken=e5e4cc6f76a062458fee6d4343b66ecd3c1d4eb8f5d15a5420c5ef1e8b475500338bf89d19edfc3fda9d9881843b9c6c9c4d33acc379ac689ddb7497b05a16567bd2a9cb925efaa5178b995c
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/17 02:45_世俱杯小组赛_切尔西 vs 洛杉矶_赛场原声
+http://yc.myds.me:35455/migu/955271136.m3u8?migutoken=8ebb358b6778828a0e8589c06d4623bf34b2f191db441f00576cd0528684f8a27d7930549327c7680dbf34d8556f00d9ba609b60d88dcf0c074a4b7524760c0aae888423eeb04b7d08b3ad05
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/17 02:00_世俱杯小组赛_切尔西 vs 洛杉矶_颜强 徐阳 林梦鸽
+http://yc.myds.me:35455/migu/955238189.m3u8?migutoken=854005e3b3316a41d979d54850a54e767b4d6c5c338b058e924862efe8897515d889e194ffba2daa058c4985650dd09697240810de63d56ecac74016fbfd49738f970fc097beeb3e4cd4e15d
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/17 05:45_世俱杯小组赛_博卡青年 vs 本菲卡_盛斌
+http://yc.myds.me:35455/migu/955274753.m3u8?migutoken=ecb22c796e874ee0d8cddbec289b35ad81261e8b696d0b8ff9516f063990c564f2e1335eccd9b5cfce78cdbc5a8646c68a56681f1c17f8143f670c84df2e56e22f976342a0b21c8a88a47cdc
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/17 05:45_世俱杯小组赛_博卡青年 vs 本菲卡_智能文字解说
+http://yc.myds.me:35455/migu/955238759.m3u8?migutoken=e64fb2f4173b06c8a1ff46e5c18b7791c2fd876ca0a6a5c34e7060b823f2483fc6673934598a2675f27bb9fd296741ae59bfa264407fbb406b1f04e4951846e1f37dd2ef29c79bb06bc76d1e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/17 05:45_世俱杯小组赛_博卡青年 vs 本菲卡_赛场原声
+http://yc.myds.me:35455/migu/955271195.m3u8?migutoken=f5854a56d3296ee7bf9a66a83a33c7526950b8bfa0d4548607ac3ebd14f2ff42363f61f04dea32c45d8c06b611be311486cb09aace47828bfbddd3e6215fd8891fb567df9e70faf81d759529
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/17 05:45_世俱杯小组赛_博卡青年 vs 本菲卡_盛斌
+http://yc.myds.me:35455/migu/955238836.m3u8?migutoken=035626c6f5e1dcc3fcecda1f00615490a4710eb2596f051739db735d73afc47b3ba04922fea97d183379f22ad73b6f8e6f51de750bc733da68e4c053bf05f63625fa403bfae2acbcf8fb6e92
