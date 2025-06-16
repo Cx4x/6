@@ -74,6 +74,14 @@ http://yc.myds.me:35455/migu/955270860.m3u8?migutoken=f9a9217daf571ae9b79135bb27
 http://yc.myds.me:35455/migu/955238438.m3u8?migutoken=c29f758489e57b4d027c928f10a83bb6faf1cec36463b96368841e633742a91116d4e256cb21d01d684c26fe3dfff59b123f2d2746626154bff5ee00e91fc8117e4127ceb9b69d4b961853a1
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/8/23/1000000012161068d62a.png" group-title="全国夏季游泳锦标赛", 06/16 09:20_男子50仰等多项预赛_男子50仰等多项预赛_清流播出
 http://yc.myds.me:35455/migu/955243668.m3u8?migutoken=3d99e4bef5ae6c23d80ccd65c5b1149a057ed2154176ac000b8cc6650712d33414839ae24c48094a8ba1c9f74a71122df29735a5c62f556652cced692c9a5a64891979acdff39ce7ddfb0642
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔弗戈 vs 西雅图海湾人-周楚雄
+http://119.36.194.123:32432/migu/955274691?token=FhgKh_MBEovHHuBDWQamnvRN3ZYNt1L7hLrHT7eKvguQzSifYGvVtQ-xbm_NlZgwSOCFSvkW_L3G1PHUl3Q38w&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔弗戈 vs 西雅图海湾人-智能文字解说
+http://119.36.194.123:32432/migu/955238793?token=FhgKh_MBEovHHuBDWQamnvRN3ZYNt1L7hLrHT7eKvguQzSifYGvVtQ-xbm_NlZgwSOCFSvkW_L3G1PHUl3Q38w&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔弗戈 vs 西雅图海湾人-赛场原声
+http://119.36.194.123:32432/migu/955270778?token=FhgKh_MBEovHHuBDWQamnvRN3ZYNt1L7hLrHT7eKvguQzSifYGvVtQ-xbm_NlZgwSOCFSvkW_L3G1PHUl3Q38w&auth=
+#EXTINF:-1 group-title="咪咕体育",-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔弗戈 vs 西雅图海湾人-周楚雄
+http://119.36.194.123:32432/migu/955238773?token=FhgKh_MBEovHHuBDWQamnvRN3ZYNt1L7hLrHT7eKvguQzSifYGvVtQ-xbm_NlZgwSOCFSvkW_L3G1PHUl3Q38w&auth=
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 09:45_世俱杯小组赛_博塔弗戈 vs 西雅图海湾人_周楚雄
 http://yc.myds.me:35455/migu/955274691.m3u8?migutoken=f2ec4d09b37df25548f9eb5af40d66e69ec8ff86ca49ddb98ebf5c0c67bec3f84b00184d1a61cfb4dd18a144bf64a207d1df8bac8b97c58e7ca50a1033ec57273c97f81f6dbb59735d3453a4
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06/16 09:45_世俱杯小组赛_博塔弗戈 vs 西雅图海湾人_智能文字解说
