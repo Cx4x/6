@@ -1,10 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="2025-07-08 10:32:08" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="列表更新时间",2025-07-08 10:32:08
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="温网", 2025-07-07 18:00:00_温网_温网第8比赛日 4号球场
 http://iptv.hn.cn:1258/txsport/100002:20255286/342044/1387783600.m3u8?txtoken=0c823c396ffa9c9ffffa87432f4ac595685bca78d2bd5dd1b05a5f023f4e5692006cf419638ebe659b200b0150d857db2eaa23a2457f681a32f002a87fcb5f66f567eeb50ad7af42113cca1299a1462c8e55d7ca9e5282e6b31f3dde6020b1b0d5ad6128322cec9f04eca90db9e5421c2311930142a50d35e47e0686e7
 #EXTINF:-1 tvg-logo="" group-title="温网", 2025-07-07 18:00:00_温网_温网第8比赛日 5号球场
