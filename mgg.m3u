@@ -1,10 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="2025-07-08 10:31:07" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="列表更新时间",2025-07-08 10:31:07
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/6/10000000084510615b8e.jpg" group-title="东亚杯", 07/07 18:00_东亚杯_韩国 vs 中国_娄一晨 刘越 邵凌霄
 http://iptv.hn.cn:1258/migu/956037962.m3u8?migutoken=05cd61816a92b710835e5c252629adb2079f899e3b7b3cee88c6b951082fc0a773b973312bc946e98f896d544f4918ba4903c81ce2423b417b43cbc2075130e7d60c7f598ef7f34f59e5d2e48a
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/6/10000000084510615b8e.jpg" group-title="东亚杯", 07/07 18:50_东亚杯_韩国 vs 中国_清流播出
