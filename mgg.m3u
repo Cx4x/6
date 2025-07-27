@@ -170,8 +170,10 @@ http://one.loiey.top:55488/migu/956546593.m3u8?migutoken=90d41cfe40dc70c1a4cae06
 http://one.loiey.top:55488/migu/956504269.m3u8?migutoken=4364af7620200971266f4c4b27fee3efbf257824d7cd008b583d5a45eb55a1fb7d900d1e0014e922039926d5469d4ac57e2bef99bd31f6c6bd7da066f11643a4c4de5db9ef681926a329097f
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/25/100000001221106f665b.jpg" group-title="福建闽港澳台“同心杯”篮球邀请赛", 07/27 19:25_福建闽港澳台“同心杯”篮球邀请赛_澳门昊骏篮球队vs香港汉友篮球队_解说
 http://one.loiey.top:55488/migu/956620461.m3u8?migutoken=db62e581c1a725209fc7fb88b88743f3be4e6f3516ad0558b178567a785d6c26dbbed1450673233773d7f78058f9c130e103e9c390d319393b7b7c4c8f79daad7f71e129535b45e3edb0152f
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 07/27 19:00_中超联赛_上海申花 vs 河南_李欣 李壮飞 林梦鸽
-http://one.loiey.top:55488/migu/956561807.m3u8?migutoken=6eaa8eee7f8064fe733a5f029c93571c57ac96eb4966d7e98997197b0bbbf3fadb4fc99e505978906812cae2497963662582258b1f6b1324f09d9f0f4bbfb9d16cb701e8dd9c4410865bc366
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 07/27 19:00_中超联赛_上海申花 vs 河南_李欣 李壮飞 林梦鸽 1
+http://one.loiey.top:55488/migu/956561807.m3u8?migutoken=2e77170c0defad6d12634863b23f746316b7e95e02fcc93901ff268b9eb615a555b3935f22dad453956dbc9f7ffe39c419a4657113bd88749cf80fe95947c4a80e445375e0f9325f183bf52365
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 07/27 19:00_中超联赛_上海申花 vs 河南_李欣 李壮飞 林梦鸽 2
+https://live1.dktq4q.com/live/57605309_f1851dfcffb400a0324e7eeb74dda4a5_nsd.m3u8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 07/27 19:20_中超联赛_上海申花 vs 河南_赛场原声
 http://one.loiey.top:55488/migu/956561726.m3u8?migutoken=919423645800e338f4f38744145bb22d9cfee84c522ab3469a27d491bd788be16bb697eebd1814a43ba4fe42642f42169b15243b3e7516b48f806a6a3674062cceac2bce970feb457b7f8e2d
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 07/27 19:20_中超联赛_浙江 vs 武汉三镇_鹿中原 王伟
