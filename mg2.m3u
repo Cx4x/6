@@ -1,10 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="2025-08-03 02:27:01" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2025-08-03 02:27:01
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/18/1000000012941069da17.png" group-title="全国少年体操U系列锦标赛", 08/02 18:00_11-12 岁组舞蹈测验_11-12 岁组舞蹈测验_清流播出
 http://one.loiey.top:55488/migu/956429832.m3u8?migutoken=2799d56464687f972e79f1d6ea63267549a9a29e16bccfe816809426c3a3567519c4e38d8601f22fc3a8fd46094e9bb3ec7333da89de9d853188868f3433c5b11e72ecf0db398a2e6954a0b8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="中甲", 08/02 18:50_中甲联赛_上海嘉定汇龙 vs 南京城市_解说
