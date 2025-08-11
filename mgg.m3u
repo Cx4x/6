@@ -1,10 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="2025-08-11 17:31:04" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2025-08-11 17:31:04
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/08/07/6UOBLDMJ9AAG.png" group-title="广东省足球超级联赛", 08/10 18:30_珠海聚杰VS惠州红树林港_珠海聚杰VS惠州红树林港_2025广东省足球超级联赛: 珠海聚杰VS惠州红树林港
 http://one.loiey.top:55488/migu/956926667.m3u8?migutoken=ec8201bfbb6e21a9f70a6fb519f34c28ff3912677bd2b673a12e965b316af0a69cc895cebc283fda0f1fe172ee525153f90577351ce06b0b7596d60b7289e818f185e20844357e802d93a24d
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/08/07/6UOBLDMJ9AAG.png" group-title="广东省足球超级联赛", 08/10 18:30_广州豹VS惠州澳朗_广州豹VS惠州澳朗_2025广东省足球超级联赛: 广州豹VS惠州澳朗
@@ -169,7 +162,10 @@ http://one.loiey.top:55488/migu/956889770.m3u8?migutoken=53f56d83100040ab6eacc78
 http://one.loiey.top:55488/migu/957000891.m3u8?migutoken=494a69b904f03c660a76e87619784bd6710413600db24de75d7467335dec8e101fe1c6c85c6ef08b874a772ee6e5d448a06157d08bf4e858122b09a92b9fe7a9fd1ee3d8579a171612a808b1
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/30/100000001299106d61f1.png" group-title="世运会", 08/11 18:55_武术散打第二比赛日女子、男子半决赛_武术散打第二比赛日女子、男子半决赛_赛场原声
 http://one.loiey.top:55488/migu/957000514.m3u8?migutoken=130fdb09db3f122a979ac98a405932001f07159eb8cc8deb1bb1fa700c08ff4e957acfa9b60e3e52cc89f72506e506ce50450bc1e6ab1c983a534ae7fff19a808976a666c35c466fe965eb46
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/8/5/100000000485106c88f1.png" group-title="男篮亚洲杯", 08/11 18:50_男篮亚洲杯1/4决赛资格赛_中国台北vs约旦_孔德昕
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/8/5/100000000485106c88f1.png" group-title="男篮亚洲杯", 08/11 18:50_男篮亚洲杯1/4决赛资格赛_中国台北vs约旦_孔德昕 1
+http://one.loiey.top:55488/txsport/160001:125103/344217/1388935300.m3u8?txtoken=d871a1fabef23673076cdc02227c3fbba9c28b9b6855c61f0cbd609a7c1f8c074b9771c749c8e5043547c89ac40db92cb425fb2785b6bb10f89199cecdea1f9a2d13008e7435aa93d975862d44254581619f8ced797af94ba3f25d86ac96889b4f9d24ed396c53843c17484aa478397501d94275b3abcf9ea7c1c8845f
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/8/5/100000000485106c88f1.png" group-title="男篮亚洲杯", 08/11 18:50_男篮亚洲杯1/4决赛资格赛_中国台北vs约旦_孔德昕 2
 http://one.loiey.top:55488/migu/957042696.m3u8?migutoken=cbf92d3e7f34f3b0cf2f28e1c0f8f2fe0691cb8a2474ed5721f7ddd12fe343ee0951229a2534c655e46ee9953d24ec30ab6deddfc2547f531005648008e3bd143aea583b7df60231c26de33f
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/8/5/100000000485106c88f1.png" group-title="男篮亚洲杯", 08/11 18:50_男篮亚洲杯1/4决赛资格赛_中国台北vs约旦_现场原声
 http://one.loiey.top:55488/migu/957044738.m3u8?migutoken=9cc82541de7c4e816e0cdbe619e30cdffcc25da51e92a18254df64406340a48e77691e8363bcbbb5675b92684d54db7a822cbebc95d289761906b20233cf10d11c17419f88fcb07270dfba10
