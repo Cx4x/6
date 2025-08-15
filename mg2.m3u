@@ -84,10 +84,13 @@ http://hmjnas.drdjhmj.top:35455/migu/957173229.m3u8?migutoken=5e590739b9debf74df
 http://hmjnas.drdjhmj.top:35455/migu/957167050.m3u8?migutoken=c306d9effdea0acccbcdd59825ad601c15031da1b3033b116c968c9759f03575cbd0c520c04086fc804d532b51cbcdbddaafa3759be9aa93e27c461ba76b559d97b1279ad04370ec0b5bbe120e
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯", 08/16 02:30_意大利杯第一轮_莱切 vs 史泰比亚_赛场原声
 http://hmjnas.drdjhmj.top:35455/migu/957167065.m3u8?migutoken=6da8952cea5865844fb7355e2d9370348723442ec9393d4c4811d989069624b9deea8d161097d2134b880b0b64df024612bc727291120c2048e8518b59203e72d3f82d199b1163281800519642
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/16 03:00_英超联赛_利物浦 vs 伯恩茅斯_詹俊 张路 李子琪 1
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/16 03:00_英超联赛_利物浦 vs 伯恩茅斯_詹俊 张路 李子琪 {线路1}
 http://hmjnas.drdjhmj.top:35455/migu/957172143.m3u8?migutoken=0bc10d77344d44ac690dc4803e9cb06d7b5422ef5dbf63c8aadccbe4d8c0369a9aabb72b23314563858811b409ec305ce7bf9a568b5c308f5363ff18419fc845347b203136d82aa4f5e321d14e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/16 03:00_英超联赛_利物浦 vs 伯恩茅斯_詹俊 张路 李子琪 2
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/16 03:00_英超联赛_利物浦 vs 伯恩茅斯_詹俊 张路 李子琪 {线路2}
 https://migu.188766.xyz/play?migutoken=976e06139b55ba6b72dd7ce7625be3b7&id=xHh%2FCImGTjLz0pcVrj8Eq0SDQCe6xYOYod091Q5xYTu1KtsXgO0QzMwJ5rkG69fpeWF%2BhHn3wItxkKdbCuCzxWZfMb1NCrEKM0MLUoP%2Fs4njCRUj5NAVkVXiJ55DHKyAp8IvArA3sa0zZNhwJfpuLYtw%2F%2BOg%2Bgbwwe7xiBrYbkQPuY4boq5Y5dmN8rRM8ASorSfn58vMBdX5PUHPNs6xUPinUtiJTECSZljslv2Cz3M%3D&name=KX1R3qVEA9GOaI9qqXqFLdjOwxIpL80WQ2Or4WkUs5%2FGFFF%2BaTVKhUeFbhGudv8OUdkmUtm2SPQH%2BQnOwA8hy5kTJ%2BFJ2J%2Fms41mfkflxwnIlP0WU0Ma5DrJFZktxGM4
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/16 03:00_英超联赛_利物浦 vs 伯恩茅斯_詹俊 张路 李子琪 {线路3}
+http://iptv.hn.cn:1258/migu/957172143.m3u8?migutoken=8ff08562c5357dc79078112fa6c47d50b1d9ae7bb1e25b258f689fdce1d13a70081d2d35727160b211d11d6a46f9f9b60c7489841a2e668936aa71ae81de58d82c9f6fa25d41608a189690dddc
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/16 03:00_英超联赛_利物浦 vs 伯恩茅斯_智能字幕
 http://hmjnas.drdjhmj.top:35455/migu/957207692.m3u8?migutoken=4f973c7588a44fbe4c61f4b85587a65df67f8f4ce43170a9517ba0e8ce084e5fb187b58ffb8c60a9f31aaecf01c9982559fdfff311d59282ca13eb7b5aaf589b2f617dd4914e081fbc921a7274
