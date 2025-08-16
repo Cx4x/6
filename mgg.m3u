@@ -180,7 +180,13 @@ http://one.loiey.top:55488/migu/957170235.m3u8?migutoken=7d6f1c08cfece14fa82b471
 http://one.loiey.top:55488/migu/957162225.m3u8?migutoken=951ce8d7e5be7d8e342a9710f6043901497dfe1bfda8c27abecc057af043460cf3840b4225cd8312ea157a4f1d81f4837cf9244b0a3f75e86ff46580e5585328389e5fe97afb71816f585910
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 08/16 18:45_中超联赛_长春亚泰 vs 梅州客家_赛场原声
 http://one.loiey.top:55488/migu/957162294.m3u8?migutoken=08985bb37f2d28ec1e9cd3f8741745f751d8ac5f6ab4248c50210286fbd04ca85205b7fe15c96081961045a11ade13d502303fd1326412434aca586f0b9b6acd79a9852663e1090d325d06cf
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 08/16 18:30_中超联赛_青岛西海岸 vs 北京国安_李欣 董路 李子琪
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 08/16 18:30_中超联赛_青岛西海岸 vs 北京国安_李欣 董路 李子琪 1
+https://live3.dktq4q.com/live/57605353_25690162e36bb2f8811c7053e062141f_nsd.m3u8
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 08/16 18:30_中超联赛_青岛西海岸 vs 北京国安_李欣 董路 李子琪 2
+https://migu.188766.xyz/play?migutoken=5b5d5c6bd1161616d111c5cafa13ac63&id=naeA2hIpnXYAclkOjqI7l4piWtRhNjxsi6athluXEK%2FlZgF0OcCtFRNzHQdQeYiXiJNOKH%2BDRBnLfhjgV0Ctg3jk%2FKOfHlUU6XgjZD33c8o7%2FNXTu1DAI3p%2FY89CtWzVigk%2BzsuIL8UKN57LNZHz4VLfhi8KqlaXPXP9S%2Bm%2FDTZQOaTaqYk4op9nKoCxLugs0fle2%2FZUHmPSp9cOKKfS7rpqYAQB%2FUoyrtEaheGNUA8%3D&name=S2dk%2Buq4R%2Ft9jIYAaeU8UIImp3AiXrOIfydjacKfrwiD47QsSYc8rDpJDSNX%2BH6SzZqNdQe15Dus61X020tRXS8UfBrCWnYG2cqhkEiWamb6t0K8WSa9U%2F3WqaD9RG0U2kY0CQxovVdniSJi%2BUjpyw%3D%3D
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 08/16 18:30_中超联赛_青岛西海岸 vs 北京国安_李欣 董路 李子琪 3
 http://one.loiey.top:55488/migu/957207552.m3u8?migutoken=79831ada0444fe919e479e9420587168547b2ceb9da6918d78fed5b40b1925b4c8df395bb047170fb47661d4f6545e19ecfcae3521671500d7d95b8d82d6247fcaa187d2a99224d864cbb83a
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 08/16 19:00_中超联赛_青岛西海岸 vs 北京国安_娄一晨 刘越 孙蕊
 http://one.loiey.top:55488/migu/957163056.m3u8?migutoken=d9fd05a443f190de31824fd403d4fbb0204a85ee8413b5384cd68c2bf3c64bf9ed46c2effd3621614b9a69a3fdffb87cadbfac910bd766dedd721518641ac135583efa9769ca84c91658f313
