@@ -150,8 +150,16 @@ http://one.loiey.top:55488/migu/957420515.m3u8?migutoken=b1015bf59a0ea9aff4a8639
 http://one.loiey.top:55488/migu/957420556.m3u8?migutoken=db61842ab0356b7845b18aab8ad8c9822bfbbdf8853ca2da2a083b4ee2937ef89b5bd7931e4f327a2616369c731c626c5be7b5c476c02a31dc82dbe22f50fe4f1f180efc6a995b5a5071c0bf
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/8/15/1000000013101069b2be.png" group-title="武汉城市足球超级联赛", 08/23 19:00_第2轮 东湖高新区vs武昌区_第2轮 东湖高新区vs武昌区_2025武汉城市足球超级联赛: 汉超第2轮 东湖高新区vs武昌区
 http://one.loiey.top:55488/migu/957420632.m3u8?migutoken=5af01b21a37659a19a144d51cd2d26ebc82b8adfa68d9abc535a9f639142aa91001446b4a3de193154f584dbb9f1f6fa18ae9c599b5c24737018115444653a85668293768d036a949a2a0718
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/23 19:00_英超联赛_曼城 vs 托特纳姆热刺_詹俊 张路 林梦鸽
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/23 19:00_英超联赛_曼城 vs 托特纳姆热刺_詹俊 张路 林梦鸽 1
+http://222.186.41.26:35455/migu/957485175.m3u8?migutoken=dc3c65f68a5c6949e19ded9452f0bc07cfd28fcf38508afffd23c191aeea4eb80e0ef7beb912cd8abee5906c4828351a2d03449683b731987252759ab8a4d194a665d935a09d2325bcf9acb279
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/23 19:00_英超联赛_曼城 vs 托特纳姆热刺_詹俊 张路 林梦鸽 2
 http://one.loiey.top:55488/migu/957485122.m3u8?migutoken=e25c76ebbd60543b8eeb1cb3b5454968c4dd041a0a00c8ed1223f0063f73d8a0599139a53d321a72b34f70f7fab1eb6b203a886ca8ea4afd0114e33898d8be8f0356eae6388fc7feb2de5dcb
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/23 19:00_英超联赛_曼城 vs 托特纳姆热刺_詹俊 张路 林梦鸽 3
+http://dmggg.tyzb.fun:26355/migu/957485175.m3u8?migutoken=8c2ed2b18dadc73beae05037c9728bca19210fe294ef235cc3465e99032cda451eeb864a94d6d3ed8ea76ebfd5d6602f02c3ca5c4e66bfa5324234932275f67fdddbeb926137534abd39f06d66
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/23 19:15_英超联赛_曼城 vs 托特纳姆热刺_赛场原声
 http://one.loiey.top:55488/migu/957485568.m3u8?migutoken=ad043d233cc796fd38dc18b9f92fac860ef93297f60dbbea21bc4fb2043c1b27144e97543e9b4016dafdb005a9dfc4a55c17f7b52aa1df661e7d9d642b64ce2463a5963522aa318745a81513
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/23 19:15_英超联赛_曼城 vs 托特纳姆热刺_江忠德
