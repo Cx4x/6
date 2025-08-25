@@ -64,12 +64,20 @@ http://one.loiey.top:55488/migu/957487017.m3u8?migutoken=2aa8444183fc6ff92e46b58
 http://one.loiey.top:55488/migu/957485021.m3u8?migutoken=63952369d407d350d127995edd43a13e5cfbbdf0cdfab65b95a668f2172b1faf9427a89b2eb10b87e9e1d39799e78c72e98c52b899ca6cab7a0719f4932811e350fe427de8dcc309e1d46a52
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 08/26 02:30_意甲联赛_国际米兰 vs 都灵_赛场原声
 http://one.loiey.top:55488/migu/957485061.m3u8?migutoken=79135eba7b8f8fc8bb609de7b5b66c9a136ade6fe3230a3b6fe3462af21fa7b8c3ab70ad6f5a865a7225fd34f60eed5cc551c2a3f61a447bea3f327c0c8f0640d74412f1f334b7ad45e1faa5
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/26 02:30_英超联赛_纽卡斯尔联 vs 利物浦_詹俊 张路 李子琪
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/26 02:30_英超联赛_纽卡斯尔联 vs 利物浦_詹俊 张路 李子琪 1
+http://222.186.41.26:35455/migu/957485464.m3u8?migutoken=db0230ccff85887edbe1f08687b19057a95e4d85927611eabe93632594fa1b424d316db6471738a7d1cf156d890379d4363f3000479487bf52d28939093742e541934f4cb919e13a05b888478f
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/26 02:30_英超联赛_纽卡斯尔联 vs 利物浦_詹俊 张路 李子琪 2
 http://one.loiey.top:55488/migu/957485464.m3u8?migutoken=59e963f5ada0a310153dc869c73b379ba61877d634392d3c064bb41bf71011fc45dc6de5a27694b47a60e6e4bd8d1b8385b305c42b7db98017b1396e0c0b1e7762b504a9ab51b92e4e67b424
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/26 02:30_英超联赛_纽卡斯尔联 vs 利物浦_詹俊 张路 李子琪 3
+http://dmggg.tyzb.fun:26355/migu/957485855.m3u8?migutoken=b400a782cc8216eb3713f955e264f344bd09e0ead1363892f70e9ae62e650f9b8bd284cdcd995081dbfaff7defe05c1dc95c3e0cf6074c0d951e3538df197e4489be74dce6e87f5b9c2abd070a
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/26 02:30_英超联赛_纽卡斯尔联 vs 利物浦_詹俊 张路 李子琪 4
+http://one.loiey.top:55488/migu/957485855.m3u8?migutoken=16050800d5869015105d33386f308ad0b6822957384e204e1410c1c4a3752727825f55b81b68f40e4218ea06580668412c20d04e2107c85c38780a77a3b0980c035d90f6cd62e2a3582944a1
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/26 02:45_英超联赛_纽卡斯尔联 vs 利物浦_赛场原声
 http://one.loiey.top:55488/migu/957485792.m3u8?migutoken=7152a2f71bd373cd6ff8adaa809fc7317d12294499a97312605f3ac3a11ae3eb452628c17ef7ee447eac56630a7ecf1efaf26d68a04503a769207ecb4d6e9ccba32ebea94b4aa41ad6db4ae1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/26 02:30_英超联赛_纽卡斯尔联 vs 利物浦_詹俊 张路 李子琪
-http://one.loiey.top:55488/migu/957485855.m3u8?migutoken=16050800d5869015105d33386f308ad0b6822957384e204e1410c1c4a3752727825f55b81b68f40e4218ea06580668412c20d04e2107c85c38780a77a3b0980c035d90f6cd62e2a3582944a1
+
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 08/26 03:15_西甲联赛_塞维利亚 vs 赫塔费_兰子非
 http://one.loiey.top:55488/migu/957487074.m3u8?migutoken=2a5076e5883f62ac98ffe850304c04dd8ae3f09c4771dd5635de2b435db783517f4b100720cb194c66d3d08815e77622668a9206fb7da08d0ff62aac80ac7b1c501b7c3795a4901229217abd
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 08/26 03:15_西甲联赛_塞维利亚 vs 赫塔费_赛场原声
