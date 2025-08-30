@@ -287,7 +287,7 @@ http://h.20191209.xyz:5888/migu/957665190.m3u8?migutoken=52e26d9338a3b5aefa6be56
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:30_英超联赛_托特纳姆热刺 vs 伯恩茅斯_颜强 徐阳 1
 http://h.20191209.xyz:5888/migu/957664958.m3u8?migutoken=c8cd73fa9ba3d68945f138bcea635efd3160c25c053acdd1a72d8d2313a5b340f68f152c64d47eecf0d2f65f47440dad1a18de5c17db9adc9c876b2234177dfcc248ba626e5ec9363e382bde
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:30_英超联赛_托特纳姆热刺 vs 伯恩茅斯_颜强 徐阳 2
-http://222.186.41.26:35455/migu/957664958.m3u8?migutoken=93ddeb40672fc9c0340553e892fb480c6ca875ed8ddc584151fa53af88dc85b7300842ebf85eba9a71e71b4f0a04e50eb900c0092a73bed4d53e385dbcc41315b931ade77822044dc4cf01c7b9
+http://222.186.41.26:35455/migu/957664958.m3u8?migutoken=653da9540d3708ed2c91f7b90fec454ec1fe1083a3eeab0253319c4c772d285de239d9a73e585ae352d8a994948ea5c0ad2e2ec1bdc32ce1764cf5757e6686346c852d5fc77b3588ae89c178
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:45_英超联赛_托特纳姆热刺 vs 伯恩茅斯_赛场原声
 http://h.20191209.xyz:5888/migu/957664976.m3u8?migutoken=0a3a5a68595abce174bb8e5cb4e70d6ac15ecfe15e367528d0febb0585c50b35106748d0fc06a4d6d9218afb74334f0fbf3db2b1e62c6d7581c304d291b4c4f0620d4be5770fef900be9785c
@@ -302,14 +302,16 @@ http://h.20191209.xyz:5888/migu/957664862.m3u8?migutoken=8a2e060a2263a3d9e38ab36
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:45_英超联赛_桑德兰 vs 布伦特福德_赛场原声
 http://h.20191209.xyz:5888/migu/957671301.m3u8?migutoken=cc9c2abe4199b338cacc65424155e8a727f1c5b24ae6f81fd9dc82e4762f97201469c2869697ecde470ebac4e43609e22d0b7766bd31c1ef025d9650b96db4546b341f276b0895559f8b4736
 
-
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:30_英超联赛_曼联 vs 伯恩利_娄一晨 刘越 邵凌霄 1
-http://h.20191209.xyz:5888/migu/957664809.m3u8?migutoken=55fc894c9e1fdd9aa2ae266cab3022531e82344da46e4fd014043dfb7a67c97b0f526f424cd6d9f0caf417d5173a5402196ca9dff2d0b8b855522140e1df94e889705ca614a4c64901b5b20b
+https://play.livewithhy.com/live/sd-6MuT7JwYEL67ToxLJ9.m3u8?txSecret=0033acd7e27061dcc1ba99acdab3a76a&txTime=68B40E98
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:30_英超联赛_曼联 vs 伯恩利_娄一晨 刘越 邵凌霄 2
+http://h.20191209.xyz:5888/migu/957664809.m3u8?migutoken=55fc894c9e1fdd9aa2ae266cab3022531e82344da46e4fd014043dfb7a67c97b0f526f424cd6d9f0caf417d5173a5402196ca9dff2d0b8b855522140e1df94e889705ca614a4c64901b5b20b
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:30_英超联赛_曼联 vs 伯恩利_娄一晨 刘越 邵凌霄 3
 http://222.186.41.26:35455/migu/957664809.m3u8?migutoken=32c3adf0243afaa84dbb6d011532f354ce169e0e5226bc336e8b2c8f4bf77a8dcd46ff1512c1ffdf86907732e98cacc548282da297ace47cb005a254c530d7d7b81a18b082929eed59a2a07c
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:30_英超联赛_曼联 vs 伯恩利_娄一晨 刘越 邵凌霄 3
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:30_英超联赛_曼联 vs 伯恩利_娄一晨 刘越 邵凌霄 4
 http://dmggg.tyzb.fun:26355/migu/957664809.m3u8?migutoken=b0c615e438270d18ccedce22d0b480c21dc42853c58760e39c6fdf03124069ed368e68e19c35e633eb1082cba51fc7c882ecf8d62f928f59fa4f63e23d7a61fec0cc75d394e543a681d27ab7
+
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 08/30 21:45_英超联赛_曼联 vs 伯恩利_赛场原声
 http://h.20191209.xyz:5888/migu/957664458.m3u8?migutoken=00d0c751a8f1f38acd85b501fc533722937661df5653b28826975b46fc1d4bc7394dfd9ab90db0650d126a53518c662624e8c4e8ed36c7c9608f992697f2ed6ada38e03943f709265765628e
