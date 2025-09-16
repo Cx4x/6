@@ -1,5 +1,37 @@
 #EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育",9月16日17:50亚精英赛_江原FCvs上海申花_1
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="亚冠精英",9月16日17:50亚精英赛_江原FCvs上海申花_1
 https://bf.njscwh.com/live/sd-1-4405772.m3u8?txSecret=c4365de19ee803fd492a77013c276f9a&txTime=68c9359f
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育",9月16日17:50亚精英赛_江原FCvs上海申花_2
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="亚冠精英",9月16日17:50亚精英赛_江原FCvs上海申花_2
 https://pullkgq721.qmuiw.com/live/hd-en-1-4405772.m3u8?auth_key=1758017040-0-0-799d687418ce85661e1c2e45447663d0
+
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/16 20:00_亚冠精英联赛阶段_武里南联 vs 柔佛新山_刘焕
+http://222.186.41.26:35455/migu/958052922.m3u8?migutoken=948d6643b7598c1af1d5dc30924ca2cd1a4678728bccba2447d81c86d92accf2bb7f21f68c4fee66847e3b102c8f1c4815314c3672bc4afb88012fe074d732f1c6f7c9009e7fe00cc4e29a31
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/16 20:00_亚冠精英联赛阶段_武里南联 vs 柔佛新山_赛场原声
+http://222.186.41.26:35455/migu/958052907.m3u8?migutoken=75c6e5bf25dd657d20f260225f1bcc0dcd39cd71113cb8923e4e3b49d31e512454b6e355c20c575317d706f853827b6a4b4335de8f439c980ff63b140a1d0ac50caa0b515db7cf503941e1fe
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/16 21:30_亚冠二级小组赛_莫亨巴根 vs Ahal_王子睿
+http://222.186.41.26:35455/migu/958052956.m3u8?migutoken=ecd0042a5b7fd9479a518f487af96d595013c1288a8d0489084b796b38d1fbe5ab26db187ad48f1a73f2b1dc8181cbad91c25934345ffb198d3b8dd79959abf5c5e464463fd1944b032fbbea
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/16 21:30_亚冠二级小组赛_莫亨巴根 vs Ahal_赛场原声
+http://222.186.41.26:35455/migu/958052941.m3u8?migutoken=aff6f3ce6beb93eb80475c00a5586fdd02341016c945fa12004b2d852735f251033adc4fcd948340df347ce61dac1cc6cc7d0a81db23a0eaad342ac8d415304e8891a8b88babb7a171c1531d
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/16 23:45_亚冠精英联赛阶段_迪拜国民 vs 大不里士拖拉机_涂远
+http://222.186.41.26:35455/migu/958052974.m3u8?migutoken=a786ffdceca66095fac7a52e20c31d7ee9e2f70aed67db6ba4a3706036588b5aa83a29b54220016755f928df4226752314b99cb24cfc8cae02a0d7a8b8ead33a089a7f6481fa6ba9de1f165d
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/16 23:45_亚冠精英联赛阶段_迪拜国民 vs 大不里士拖拉机_赛场原声
+http://222.186.41.26:35455/migu/958052969.m3u8?migutoken=2d5dc50f808ca3df5df73a5b7f959c1cecba205dc66b5a98185109dfbff312ec09dfa13fd4dea84351317f9b8a6430089751b88a6a176528bf5457fa5db6a9c74f97f913d7dbcd3e96e1e945
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/17 02:00_赵心童、罗伯逊出战 傅家俊PK卡特_赵心童、罗伯逊出战 傅家俊PK卡特_1号桌
+http://222.186.41.26:35455/migu/958021404.m3u8?migutoken=231c91cf01ff4a0849081d7fee39996f17c57f6c0851d3a26461cec2feafe1400f8872ffbad900845a195f322ff685ca843255807290073c64874fb85d20d409563527aefa941cc78cda215d
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/17 04:00_赵心童、罗伯逊出战 傅家俊PK卡特_赵心童、罗伯逊出战 傅家俊PK卡特_朱蒙
+http://222.186.41.26:35455/migu/958021472.m3u8?migutoken=4d0e0aeaf49d0667583f7a1626f316382c79ad68cac698e0b56468aede280f70cf710f58173a2887a11df35a1b9e40b4e3d1c0667342919b573d8f9681e6644bb89699cf5b103f6ea5dc7462
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/17 02:00_赵心童、罗伯逊出战 傅家俊PK卡特_赵心童、罗伯逊出战 傅家俊PK卡特_2号桌
+http://222.186.41.26:35455/migu/958021417.m3u8?migutoken=c94dc8fdabcea0c3a8fd4c0bec24c8fa322d2174bc5ee6aa6376fd47f24289b4a64568306cb00a22153b014e5ed8116dd5d108dc8b9296adf2cebb3ffaf82f27a965d56be114c286c7047ab0
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/17 02:00_赵心童、罗伯逊出战 傅家俊PK卡特_赵心童、罗伯逊出战 傅家俊PK卡特_3号桌
+http://222.186.41.26:35455/migu/958021448.m3u8?migutoken=59d7ed99372c7c73432825a4b7f31479dae60aec87743b9b4aba0a477324bf7d235f7f263a759d1561f177c779cff72942305163ad7f52e2b11719325b1791edba2ca593c76cf17c57b4785e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/17 02:00_赵心童、罗伯逊出战 傅家俊PK卡特_赵心童、罗伯逊出战 傅家俊PK卡特_4号桌
+http://222.186.41.26:35455/migu/958021463.m3u8?migutoken=89ca394abf4d204dde98dd7de010c56e13ec9854f450a93a60d5ab8e1d337610a6cf098426ff658233f651afd458c5ce57bf015fb484c538ac3d8aeb3670b293bbf78dcdfc619ef01fb78453
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 02:00_亚冠精英联赛阶段_利雅得新月 vs 杜海勒_吴桐
+http://222.186.41.26:35455/migu/958052442.m3u8?migutoken=56b4d892cf5c38a5144f212c8aaccd879c422ed3491bb655194560f9665b0dbcebdfd240cee9714bf95dbb12448802a2391dc469bab2da8cf2f0d3b310c5e3eadedfa22385ef188ddbd0e7af
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 02:00_亚冠精英联赛阶段_利雅得新月 vs 杜海勒_赛场原声
+http://222.186.41.26:35455/migu/958052416.m3u8?migutoken=f1623e71b53e69ab903810eb74b2bca87b424c12e7886b868316a4755316d8b66f9e42761e3e9912f83f063b1d60f6471539aa5c9d3d8e1a2da86038b445ce73c03e0a862c1f7e04ef98ae2e
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 02:00_亚冠二级小组赛_艾尔胡塞因 vs 伊斯法罕钢铁_张天翼
+http://222.186.41.26:35455/migu/958052502.m3u8?migutoken=ca504206f2edd6228108da5d218787d7fe6e8bc1d68974e4ed4c088750224df0fa8a12cd7f51c692dbc1700cd3d74a578e0f994d35a176e4215b28c131e7be6abb344194dbc15744077961fd
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 02:00_亚冠二级小组赛_艾尔胡塞因 vs 伊斯法罕钢铁_赛场原声
+http://222.186.41.26:35455/migu/958052469.m3u8?migutoken=a4de3d730f54deafc82e2842b2b1d21ee4acde239e6025859a7abee054d1062460dab4fa61b83f51a20430f8ad24185ec6d8c71726616169625c0dc7a8779cc5f7dd14e80543142a74230ba3
