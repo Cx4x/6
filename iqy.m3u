@@ -5,8 +5,11 @@ https://bf.njscwh.com/live/sd-1-4405772.m3u8?txSecret=c4365de19ee803fd492a77013c
 https://pullkgq721.qmuiw.com/live/hd-en-1-4405772.m3u8?auth_key=1758017040-0-0-799d687418ce85661e1c2e45447663d0
 
 
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-09-16 20:10_亚精英赛_武里南联vs柔佛新山_English Commentary 
-http://222.186.41.26:35455/iqiyi/4405745/3720144389782323.m3u8?iqytoken=81c271e072262ec8e84041776521be99f67c12f692903bc27c5e0a96f37f35420ecaba2fa3c6210251b64ecee0887b379a1a63b1e66d640b2089e5adc5062767ec4081838610d5c8420529fc1aae79a05889a45d0e925bfa494964d209dfce73a0a6f338ede60d185853471538d00822c160535e90cb4f8b06ce146e47ef15ef12a13c7a5c3d8a6c66f30771234e28a13800c76d51a4f89e4f3739760eea825f34acf3ec337e6290aa96c9fbe3120ae30e
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/16 20:00_亚冠精英联赛阶段_武里南联 vs 柔佛新山_
+https://live1.dktq4q.com/live/63014323_ef5f710c65c93920aff9540da39d8645_nsd.m3u8
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/16 20:00_亚冠精英联赛阶段_武里南联 vs 柔佛新山_
+https://bf.njscwh.com/live/sd-1-4405745.m3u8?txSecret=5cecb755e78e9e2880bf4c6ad8e0f838&txTime=68c95477
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-09-16 21:40_亚冠二级_莫亨巴根vs阿哈尔_English Commentary 
 http://222.186.41.26:35455/iqiyi/4405612/5024466058150723.m3u8?iqytoken=5c559b1b2469a6ab8e2c8026d748bb55930202c59e9d4921ec106f8d85bc37c339bcacf29a27d7f4cfdf1e9eeac123447a55d160531cf48fabcf7fc2c79598312f98778138206ac4db5d6c7405aca18a62f96260cffea02c8c2a5add6e03b5a0f0dfb5c08683f58543fde54de8cbc24b62e4f2a5409db4812052de1da1d8e613890f3ede5a3e10a51cd1321953cf4460bf4cd87515eccc632d195fbb22e89a893d60df352878e5fd14db17eb118e50bb5e
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧青联.png" group-title="欧青联", 2025-09-16 21:55_欧青联_皇家马德里U19vs马赛U19_熊广硕 
