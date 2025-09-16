@@ -1,38 +1,27 @@
 #EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 00:35_欧冠_毕尔巴鄂vs阿森纳_梁森童 高季敏 
-https://live1.dktq4q.com/live/63369671_063157d6dd6b8b4a6ab9d9a0e6101b90_nsd.m3u8
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 00:35_欧冠_毕尔巴鄂vs阿森纳_陈文森 
-https://v4-4189b4b42431826a3b9f8009cbaba21a.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4415302.m3u8?sub_m3u8=true&txTime=68c98d5a&edge_slice=true&txSecret=3d609a2a3b54c59c5b5b2d1e5a983e20&user_session_id=c74d4d428ea6b87f3e81a6ca2d2a903c
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 00:35_欧冠_毕尔巴鄂vs阿森纳_English Commentary 
-https://live1.dktq4q.com/live/63369671_063157d6dd6b8b4a6ab9d9a0e6101b90_nsd.m3u8
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 00:40_欧冠_埃因霍温vs圣吉罗斯_肖天宇 
-https://live1.dktq4q.com/live/63369669_798cdac19ca27c934937b32e07e36b92_nsd.m3u8
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 00:40_欧冠_埃因霍温vs圣吉罗斯_English Commentary 
-https://live1.dktq4q.com/live/63369669_798cdac19ca27c934937b32e07e36b92_nsd.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-09-17 02:10_亚冠二级_胡塞因vs塞帕罕_English Commentary 
-http://222.186.41.26:35455/iqiyi/4405603/4973929609743223.m3u8?iqytoken=e609130fa12d588101dc8b5ec78b85577d9e00e3e499d3b60ca09c7f076c8450339a2786d9d970ea89d55c4af500794c69480d6e9f45cb3c71b92e27a2edd3aa57473794fb9f136389743bd56950f4cbf41cc61ee1c99f8e04eb1798b05266c03e25d7509b556830faed93a6768ea439264053e26ec683fabdd581d2975bab1d02ab10cf188e6712aa8d97a5de3cca83c2e96b009d78f2fb678eb23b2cf1f5e94df6744b853ffc59fd0c59ce773c3d26a9
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-09-17 02:10_亚精英赛_利雅得新月vs杜海勒_赵海宸 
-http://222.186.41.26:35455/iqiyi/4405713/8003710016512123.m3u8?iqytoken=670f09ab9b04a504103116e91c2e6856a12d2c62387944411054f2105f59110109b1468904f4c65f0c1024240ff1df7c4ee183eff145daa38509150c0f2867ea701558a143d44a7d65ed93023c170a034a363691f2c6f7f4e909ab05c8877d18dc788197a0f64389865df0f50af4821be956b44cd602da82e83a70564ebec16e9fb7413cf8157483ffbe009e2b7c1808d394f06bb5c42d77b72c1c54529dbd56b20b69cc9d214c35de880b7596ef0a40a0
+https://bf.njscwh.com/live/sd-1-4405713.m3u8?txSecret=10ac93ecdc31adf6ed7cdbaa8cfb19de&txTime=68c9aaa9
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-09-17 02:10_亚精英赛_利雅得新月vs杜海勒_English Commentary 
-http://222.186.41.26:35455/iqiyi/4405713/5318860924242023.m3u8?iqytoken=3796728f0b611e31cd710bb9043367fe79d58c657129cd45c50e2ab389477d97fd615dbbd5854590856f1ae66e60ed8995ccfb92ebad5a0af81fa98e64973571605653d408fe5ba1dac82ba21b2fbed163d762359d40d61ca19ca110eaf2282f8a7e8321b13d6bce88a97c41b948b8b0d6074b1155198764bdc78b0c87f3d2ca532d9c7ad4adcbe058d2e389d469cd3293d2adc57d28a4ebf61b74df94111ccd861ae89f7c4772c301494042e5b658cf01
+https://live1.dktq4q.com/live/63014425_2abae1e2ece08fc5708699c06f17cefb_nsd.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 02:45_欧冠_尤文vs多特蒙德_于鑫淼 孟洪涛 程思钦 
-http://222.186.41.26:35455/iqiyi/4415363/1886393261944123.m3u8?iqytoken=993478b76429593aebec9abb73a250ffaa61d8f31f39e77939ef8967fd8079ac0332a44d85ce3edbeca3a9a07faa4ab24ce1ed46dc1cdb9775b008314ab1f91e7f5d7108f1656098f30163141e4c34a72c50dc94ac5a6a621cc324a42499cf14dda80a6b3dbaae0c884c6fbc97a2da6bc99339d0d3abfde5f4b2e4a30e067ed1be81a06bee433700e32150ecdb9fcad2b39e4374c2c9c522e3fe44d33d51cee0f72fa9d3469b35b6efb86d17b015210b19
+https://play.livewithhy.com/live/sd-6MvXMfc5Kxm443Z4YM.m3u8?txSecret=9d11f4271a9a07166bef87c4fe979bab&txTime=68CABECE
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 02:45_欧冠_尤文vs多特蒙德_English Commentary 
-http://222.186.41.26:35455/iqiyi/4415363/1344931314752123.m3u8?iqytoken=704839c0cbd899c3eb5714ea8c7c010254646c2c37a9b78bc468b1827d5120b202f292aa1fc84ee04003862eeacf8d6dd52bc99eef54dcd3de203e3d98410e6a572b9cce16094569ed089f25d370b88b23186ddf38ed6a1be853f192e0a3436a77f2084391697968d14d4a04ee737877e53fc24bde30db79e2f62f1603f0e187720ab95293150ca99e4912279dd1b1d42ceb3b977ea989bc4f354f577e7021db543acbe83b9b8f17c4c67c012b9a6f9e24
+https://play.livewithhy.com/live/sd-6MvXMfc5Kxm443Z4YM.m3u8?txSecret=9d11f4271a9a07166bef87c4fe979bab&txTime=68CABECE
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 02:45_欧冠_皇马vs马赛_金相凯 董方卓 朱迟蕊 
-http://222.186.41.26:35455/iqiyi/4415419/3691266419268123.m3u8?iqytoken=f8eaf2c9f1fde35a01b97022a54cfe0e26b1051e509cf20e901c698b46442c01a4856d8a91e124a14ed7187221101afcaa48219d9d6f8d868ea752d497f9f8d280daa686e36b843863dc8235d40e44a42586bf176625ebbcbf00d6bb81e69871451c6c7a3b1d8ea8a6b3a45b689fca539d44cb82387d49c03921d49060b9a2eae34bbb18f7ba1b4ffa7096aa62acbf2f9dc7fe780727f1074e74a40f3330634eac142919a6d853f9415a6b00816ea01316
+https://play.livewithhy.com/live/sd-6MvXMfcpJoepoh4AmK.m3u8?txSecret=bf5f040e0c4a0cfdded614d2cdc14250&txTime=68CABEAF
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 02:45_欧冠_皇马vs马赛_English Commentary 
-http://222.186.41.26:35455/iqiyi/4415419/6803669908345223.m3u8?iqytoken=42dbee414c4f25d5f152bc4b6df268227892959cc69cfdcb8f703de68d2dad9f2dacbc2f1f18438b34d9c5437f005b60dc796ce132d63582b5809305d93e2749d4db3ccfa1650e26de48153ad268c2ca64c9483dd0d58285c46c5fdc27a5cf4ee351971402136cf05b6b66c040819804567b30e1d1049890389d7a64f44fd3cd8e9c3e4f55ad73ae7d2266a409252e73cd7422863ef96b86543d5d366307f085d469659b0eed0e3d953f7895b2d8f4c988
+https://play.livewithhy.com/live/sd-6MvXMfcpJoepoh4AmK.m3u8?txSecret=bf5f040e0c4a0cfdded614d2cdc14250&txTime=68CABEAF
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 02:55_欧冠_本菲卡vs卡拉巴克_熊广硕 
-http://222.186.41.26:35455/iqiyi/4415328/5942143787913323.m3u8?iqytoken=743d75a0314776290b9c52cfc227b278e6d28b7459b25c62ccadff008600abf2fd2dbb1056b6fc6b5b8ec02298861392d91bd13050d9e3f167dac8d03056ff02f89b125b95f198a55520fda14402d918d8ca59c3efd2a4b12860365173050e890a180160be8a5e0e330dc206c572844786a3e5e4d154e57b24d9d7736164c59ffd03148da0b2914df1e0d3bc3b9789d5efb6e85f82be43b2af4312c77df8c7dfd13ad733f38c9660b7b173dafd3828c8f7
+https://bf.njscwh.com/live/sd-1-4415328.m3u8?txSecret=b596814134e600f8583f2d6c62f73622&txTime=68c9b4a0
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 02:55_欧冠_本菲卡vs卡拉巴克_English Commentary 
-http://222.186.41.26:35455/iqiyi/4415328/6971322570514023.m3u8?iqytoken=6d69629b1416c66169cf96786d9a12eb17ca7bd31c9d775e4c2a9187bcae7e0ac7b61fc8e55011b834ed218203c3100f7e55a7f14fbf92f8dca31ef85b7d36f43967a77a85f270d1981f178780189e930d0a11a73709d269fb188b5296540ad0dce7153335eab317808ba0b08254d686aa32f08ee10e0c9cb012dd89752c086bc3bbdee489f928a8a7e78cf446ec5658e10dd17465c099fc506548588b445a8097ed7581287c03cabfa3f273d22c674b8a
+https://bf.njscwh.com/live/sd-1-4415328.m3u8?txSecret=b596814134e600f8583f2d6c62f73622&txTime=68c9b4a0
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 02:55_欧冠_热刺vs比利亚雷亚尔_高季敏 
-http://222.186.41.26:35455/iqiyi/4415436/5827434071690523.m3u8?iqytoken=3ac043c479816bded52c0835690dabb14563437550c6140fefa7e13f6e3e90de08f4aa4b230d4299c38690dd210177ae0e5812d3dc942df33b492cab7fb9daa16dbf5c04bebb36716cd0c6fd015dbd72aef12b6d09512ab767c60f4088d51f8e5ed328bf13c1e2a805a983f0e2f7cc558db9038c6f553c1b6531f6b14a21418e93122de5c8cf1553bf7323619bc28b1250110a8869ca8391681b19e8d5ec9f7733d94d2c1298241ef970dff13d54f5ce06
+https://pull.chaojiumq.com/live/hd-en-1-4415436.m3u8?txSecret=7f12528374f6392391ad0ad324f5bb4f&txTime=68c99eee
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-17 02:55_欧冠_热刺vs比利亚雷亚尔_English Commentary 
-http://222.186.41.26:35455/iqiyi/4415436/5300411109756423.m3u8?iqytoken=2cae8b57a37a5adb24b45e9354549739ac49401777e26f82a918b9ebb87a867391584d65ede5f1d964d3787e5db436773fab776ceb8dae7eeef0b2440a6c52fb900c4d29023959b4be3b5954c3286a99ad5f251b4d2b1bd02f24079b74d2fe6c5b953da1cd85a1efa2993e1ca877dc8a09b96637ed2bf8e1a42f790ca5bd3765a2aa80979c77043822dfcfd0febcaa727529b3b61bbf1a5890f0fa27d5a9d80e7a96c0c4c7e61ab7b6236a209b011cf9ce
+https://pull.chaojiumq.com/live/hd-en-1-4415436.m3u8?txSecret=7f12528374f6392391ad0ad324f5bb4f&txTime=68c99eee
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/比利简金杯.png" group-title="比利简金杯", 2025-09-17 17:00_比利简金杯_比利·简·金杯深圳总决赛1/4决赛-西班牙vs乌克兰_英文解说 
 http://222.186.41.26:35455/iqiyi/1200041153/8153715030028123.m3u8?iqytoken=39296c31eb45ac0adaa49722acdd2eadfb3d43780e6febb9241c62c5e8e4b289fd054c4e70dbd521b1f79a0bf2ab16a475e8f705331205357872f72ad480f784552f25531675538196450ab0991943c61bb18ff7d1faa496a4a7b7e89fd5876c53783d5743df037420ab7240a70d9f0009ac326b0aeea736a5c21a75323ce649e6bec83d23ab38ccc1e1da959879056eb66e0c27d639c2224ce6a5c9a4c16bc02c963c6c5c87b4cb3ad93b99a4e78a8560
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-09-17 17:55_亚冠二级_大阪钢巴vs东方_侯嘉晨 
