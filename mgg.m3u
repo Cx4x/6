@@ -1,19 +1,5 @@
 #EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/18 02:00_32进16轮次_32进16轮次_1号桌
-http://222.186.41.26:35455/migu/958022721.m3u8?migutoken=b54cdf2aa0e035bff01bcbd61581a98cad71dab9c2c76e46a32f513f60d6f6d1f3e69815821ab0c66613b4dd249fce47d56618dbf2718cec4cfe4279a0bb2ef2698c316f11d733df7cf4f454
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/18 02:00_32进16轮次_32进16轮次_2号桌
-http://222.186.41.26:35455/migu/958022757.m3u8?migutoken=a35cf6ac21201875d61e65687221392d7d8de358de8fdf16da7765154609aa065ac4f78ddeea2f171446c2f3b7fbf550735e1255fc018f476fcbb4ab330941e5bec310a7aa6fe8a6879f74db
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/18 02:00_32进16轮次_32进16轮次_3号桌
-http://222.186.41.26:35455/migu/958022804.m3u8?migutoken=e8047f4e96dba55f735e4ab8d47735103a20d8f7bd199ce9267b0489ba40b674be4f235297404a11669eba0e65e2b9f0fe24d6970aa22801910125619414339a146ed1505e5571544f472640
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/18 02:00_32进16轮次_32进16轮次_4号桌
-http://222.186.41.26:35455/migu/958022836.m3u8?migutoken=8986d4365add0de6ab2acfcfeb5bd6bceeb151e5a44fb94fb7f7fa33a3ef99405e40d502fe202c9f3031880459ad5a121ba39131da012686630b636e2d1f162f08a081ff56710b68972064ee
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/18 02:00_32进16轮次_32进16轮次_解说
-http://222.186.41.26:35455/migu/958022881.m3u8?migutoken=73880ccddf9d57055f554c973811c38b952a9436328a767f4466d92922eda12d0e87ba661bd14c5694b164c4624daf83c576362cde14deb9ef1d2363309b4174f83b46e9d309d661176b8112
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/18 02:00_亚冠二级小组赛_利雅得胜利 vs 伊提洛尔_刘畅
-http://222.186.41.26:35455/migu/958052448.m3u8?migutoken=dcc271b829b1c292067e9a2ca366a1f65dc9c41aeed6aeeb060168a10117a9941cd9bebbfee92e9d4afb4a573c08e6ba49705c1ef20a06b15ef61455bf77a23df381fb02eb519772e1746f9b
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/18 02:00_亚冠二级小组赛_利雅得胜利 vs 伊提洛尔_赛场原声
-http://222.186.41.26:35455/migu/958052439.m3u8?migutoken=4a02c02d3176a5ed32449b8617bbd0e3ad3bd137ea81873290da8d092cbfad50f4099bddda80889a532e09a346bdc5277faf12a91f584c5e63ba62b20c4da3d84bf6dd759ceb5b08ff6b090c
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/18 02:00_亚冠二级小组赛_穆哈拉克 vs 维达特_吴子越
-http://222.186.41.26:35455/migu/958052422.m3u8?migutoken=7f6e9f456b2ae6ec9decdd3c87cadae0efe39f99d9d6ec0d37e79c4aeb0e4e29747a2ab9e3af3c81269a5efd19a6e4b9f27f49c49da804633c764f7693a2980e75c32d133d5b69aabdf4dca0
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/18 02:00_亚冠二级小组赛_穆哈拉克 vs 维达特_赛场原声
-http://222.186.41.26:35455/migu/958052409.m3u8?migutoken=530135ad95148d5e7545da16375ef2eeb0673088adb0a1dd93fa05ba890baa4cdad70df1465a5e33dea56c9c56c0a100c15b970448021e52f18f2d4669dfc59fde4b10b339e41153cc5050b6
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-09-18 02:10_亚冠二级_利雅得胜利vs杜尚别独立_汤宪博 
+https://live1.dktq4q.com/live/63009049_bfe33279e3543780d604a3abd5320afc_nsd.m3u8
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-09-18 02:10_亚冠二级_利雅得胜利vs杜尚别独立_English Commentary 
+https://live.bbapcall.com/live/sd-1-4405616.m3u8?txSecret=282f519dbdfad9d3d80d8d63c6f658c9&txTime=68CB23B5
