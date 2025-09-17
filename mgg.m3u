@@ -1,31 +1,4 @@
 #EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_石庆圣 李彦 姚安妮1
-https://pullkgq721.qmuiw.com/live/hd-en-1-4405729.m3u8?auth_key=1758111510-0-0-04bba20104522edeb4b191b4c5b62e79
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_石庆圣 李彦 姚安妮2
-https://bf.njscwh.com/live/sd-1-4405729.m3u8?txSecret=a3c6b51d7cc710af02cbc3fe5abc2477&txTime=68caa544
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_赛场原声
-https://live1.dktq4q.com/live/63014327_1178e791783baeeaf5cb6916dc605020_nsd.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 20:00_亚冠二级小组赛_南定 vs 拉查布里府_盛斌
-http://222.186.41.26:35455/migu/958052824.m3u8?migutoken=b78a2435a6fe36a9f966df8fa4b6fb9e96cd20138ee212605f439d5fd86c4ba043b6d04f9fbde656ccdf90b29f3da1a3dff1eb4515edd4eb546e6e18be49e1843e987582207e91cda6e2dc9c
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 20:00_亚冠二级小组赛_南定 vs 拉查布里府_赛场原声
-http://222.186.41.26:35455/migu/958052771.m3u8?migutoken=d2329abf1abc22301df46672675dbca17af29b10447f40ec62d6643e9dd43d836729b368698d9634b5d50d1a9c5fb0001a8504011ef9685ae5640cf64ce855c9e0ac802767ef17fb8ccd80da
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 21:30_亚冠二级小组赛_Goa vs 艾尔扎拉_张天翼
-http://222.186.41.26:35455/migu/958052919.m3u8?migutoken=9d1925dd61ad7706230e39fd64db0484ccf0a7085fa5be4feeda6d474183395b0637292367302f5b34f126b5d81c910d53cb1ef877082d4215f59cae767316dd8dd513e01ccdf8ba76155884
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 21:30_亚冠二级小组赛_Goa vs 艾尔扎拉_赛场原声
-http://222.186.41.26:35455/migu/958052892.m3u8?migutoken=004b65a982d4e1fae06da56631326032642ba5345854d94ecc65c981b67b92837018ce392a8488e51e53524caea8871d83bbc41692cf145940b56b6a3010f20ee884224d257ecfff48383948
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 21:30_亚冠二级小组赛_阿卡达格 vs 安迪扬_周楚雄
-http://222.186.41.26:35455/migu/958052858.m3u8?migutoken=b799d727ecf6c2e2a581e1fd40d07f43dd5d5b96f6f864353fbdd26bcb08b58d5f5b6044a3947bf29be36c3f302748340a5fa8995017189ce1ee54e4b846fff7eab211881161e712fa3ed3d6
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 21:30_亚冠二级小组赛_阿卡达格 vs 安迪扬_赛场原声
-http://222.186.41.26:35455/migu/958052846.m3u8?migutoken=6070add399ba0560377103f30a4c04049a9a4acd6efe1f3de04a12029443ada0ae7fe547049a9251f47be4c014cef98e05997d2644b9cf13dc6ca10f7bf13885545e38a808a78e0d5ee4281e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 23:45_亚冠二级小组赛_艾尔艾利 vs 哈列迪亞_乔迁
-http://222.186.41.26:35455/migu/958052998.m3u8?migutoken=0384504315766793eb4334555bfaa9291897a10fc3406c92c3085b792ada632c4a515adb19c7e3f56d1bf0304d1621b47274d104c58f6efc0a6b2a9f3aaf9af7eff2bb7a6d8c3c79fc1946a7
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 23:45_亚冠二级小组赛_艾尔艾利 vs 哈列迪亞_赛场原声
-http://222.186.41.26:35455/migu/958052979.m3u8?migutoken=fbf701582e3ddb2b181e6a61861e40b07402c35ab5d099acf08900e1a70fd61d0bec5063df64f59a7163d0d51afa0d436b41ff8345fa230c30b2f18fd251f9aeb8d04e496874d94f79a231ce
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 23:45_亚冠二级小组赛_阿尔瓦斯尔 vs 德黑兰独立_鹿中原
-http://222.186.41.26:35455/migu/958052961.m3u8?migutoken=483c6c6187ecdfc3cccc51925c66bd17d772943cb109143700d8f1abe25f52597b585e369d0fc934d23e71505935a9cbbf187ac52788053f02ea7632aa571659f9aecbf1ed14201e015313c7
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 23:45_亚冠二级小组赛_阿尔瓦斯尔 vs 德黑兰独立_赛场原声
-http://222.186.41.26:35455/migu/958052947.m3u8?migutoken=124d204556ebcf2cc316430a55b92f0e7379fdf5d5537cd0249a9dff7f8141d44ab67c3f37b4e280946a0f116f63a392c751e4778e4350a4075d9615a77244bc7cba5c236c821f1f548cd534
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/18 02:00_32进16轮次_32进16轮次_1号桌
 http://222.186.41.26:35455/migu/958022721.m3u8?migutoken=b54cdf2aa0e035bff01bcbd61581a98cad71dab9c2c76e46a32f513f60d6f6d1f3e69815821ab0c66613b4dd249fce47d56618dbf2718cec4cfe4279a0bb2ef2698c316f11d733df7cf4f454
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/18 02:00_32进16轮次_32进16轮次_2号桌
