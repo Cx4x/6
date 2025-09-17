@@ -1,32 +1,11 @@
 #EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-09-17 17:55_亚精英赛_蔚山HDvs成都蓉城_张学洋 
-https://play.livewithhy.com/live/hd-zh-6MvXc3quMqW55aTRbK.m3u8?txSecret=6d00fe9b2a0d58ba6f216ad2ee239f2b&txTime=68CB9158
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-09-17 17:55_亚精英赛_蔚山HDvs成都蓉城_English Commentary 
-https://live1.dktq4q.com/live/63014325_861c1baeede1dbca68531948f30796f7_nsd.m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 17:45_亚冠二级小组赛_大阪钢巴 vs 香港东方_刘洋
-http://222.186.41.26:35455/migu/958052646.m3u8?migutoken=4a1ef99610412cf5c493847a8daa825caa7a703180125af7d311403362f7c05641512ca29dfbdce7f8e25c2894cf0eb261228f311f9871bd6559b7d96a193ddc2689cea3f7c04a232d8acbc9
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 17:45_亚冠二级小组赛_大阪钢巴 vs 香港东方_赛场原声
-http://222.186.41.26:35455/migu/958052605.m3u8?migutoken=5b60ea3528c3a8ab0cfd587b01b9b9ed4b97499d41b811723e4d122ec927666479d75b5f48a89f1e956d4a0cfeab6b34ee8c2338eed79974c96488905bdf8c89629e9243bc091dea0c20359e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 09/17 17:50_深圳赛区 淘汰赛及决赛_深圳赛区 淘汰赛及决赛_蔡凯臣
-http://222.186.41.26:35455/migu/958023642.m3u8?migutoken=1c1d8d13682de31cd9e59bfd297234368a228729ccc29584b96ecef4b537d68625e9f599c9584c799af9096ddef74424ace07c86b10b228ba67896628873665fdec045e9107602436e87f728
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/5/100000001093106c8064.png" group-title="全国女子篮球锦标赛", 09/17 19:25_全国女子篮球锦标赛_赣州赣星vs厦门白鹭_清流播出
-http://222.186.41.26:35455/migu/957927500.m3u8?migutoken=4856dc3944c464598764f892efee4f0caa526e09845274a75e448068a6b31959ddf0e7065a8290faa562de7bc7e9a399eb6e3b030eae98b15b79ccb5d319c9a7ee705db03de3023c12e169f2
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/5/100000001093106c8064.png" group-title="全国女子篮球锦标赛", 09/17 19:25_全国女子篮球锦标赛_浙江稠州银行vs新疆天山_清流播出
-http://222.186.41.26:35455/migu/957927512.m3u8?migutoken=d9c4279eca754df9b78e0b1819deb0f8a032a78e3812c4728d62ef25bd39c531bb677b7ce15b60f7ace3076d390008cf37e582db595a33483fccef7492fca0c112fbb6b23b41f310280adf7f
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png" group-title="NBL", 09/17 19:00_NBL总决赛G2_香港金牛 VS 长沙电信勇胜_解说
-http://222.186.41.26:35455/migu/957995685.m3u8?migutoken=c89fc4a839a08cd105d58181d8be92e3dd446a3912324a509919fc563a7823bc28cdbc296108b36682e4e215be7f389ba3f520c1ea2d5e34eb6a4f271157ef96a2d0561d63dca1c85a577d68
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png" group-title="NBL", 09/17 19:00_NBL总决赛G2_香港金牛 VS 长沙电信勇胜_清流播出
-http://222.186.41.26:35455/migu/957995756.m3u8?migutoken=f1973f4c900771b01c1bdba4f4b509834dcdc86c2167a1c66572480f014782b1f21c52f866ec76d9effd25c9e23b5087a1aa491a389b5c9c771c4d0262146ce4fce0c5d567ded0624d833a64
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="浙江省城市篮球联赛城市争霸赛", 09/17 19:30_金华VS庆元_金华VS庆元_2025浙江省城市篮球联赛: 金华VS庆元
-http://222.186.41.26:35455/migu/958175094.m3u8?migutoken=af87eac7dbb17cddaa7af396331b1d5a58b8cc6762ac9d095e56d3154ef97d0e7215e20d1d4d0ac244660b31df4a92c5b74eb0ad6473fa8706f64ed5187049b4ddb4299dd387e7085c9dcabb
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/7/100000001096106672dc.png" group-title="中国女篮系列热身赛", 09/17 19:20_中国女篮系列热身赛_中国vs西班牙尤文图特_连睿
-http://222.186.41.26:35455/migu/958175781.m3u8?migutoken=906bdeb5e8b2e3bed8ee556c64a100755eae859f10f67383fc91cea8a05a7f80a82b049030766ad2b74f85045d0319b5b201cb139bc15cf606a3e1ef1e8395e04c85b84ce1f5bed6ccff0a80
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/7/100000001096106672dc.png" group-title="中国女篮系列热身赛", 09/17 19:20_中国女篮系列热身赛_中国vs西班牙尤文图特_清流播出
-http://222.186.41.26:35455/migu/958175744.m3u8?migutoken=314e0b6d512b4c8a49f6e3e75b58f036086b6382bbea4c673d95c5f450c6887d96cee70053079450092e0dee1474ad6992e3fac538ea6afb555eeefed4817df80f17011992084dcb7abd3fa7
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_石庆圣 李彦 姚安妮
-http://222.186.41.26:35455/migu/958052679.m3u8?migutoken=1902149e4b23ee640442690440a2f2d41fa14a16cd48a39917849f83c9cd3c49e4c4a04866db03292700a426590e23be2b9fc2360861d9064b6c693cf26b636a1d76383296611fc8a46c5c59
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_石庆圣 李彦 姚安妮1
+https://pullkgq721.qmuiw.com/live/hd-en-1-4405729.m3u8?auth_key=1758111510-0-0-04bba20104522edeb4b191b4c5b62e79
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_石庆圣 李彦 姚安妮2
+https://bf.njscwh.com/live/sd-1-4405729.m3u8?txSecret=a3c6b51d7cc710af02cbc3fe5abc2477&txTime=68caa544
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_赛场原声
-http://222.186.41.26:35455/migu/958052752.m3u8?migutoken=3f4b82fb349c9f12085ad2f00ec58461bab1ade055ba66e4196cc17987f62b44567cb8c414999be213f57fbdf880a2a8de6db353cb0819862a39f0c9c625516c40b12a166c51778f59834e99
+https://live1.dktq4q.com/live/63014327_1178e791783baeeaf5cb6916dc605020_nsd.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 20:00_亚冠二级小组赛_南定 vs 拉查布里府_盛斌
 http://222.186.41.26:35455/migu/958052824.m3u8?migutoken=b78a2435a6fe36a9f966df8fa4b6fb9e96cd20138ee212605f439d5fd86c4ba043b6d04f9fbde656ccdf90b29f3da1a3dff1eb4515edd4eb546e6e18be49e1843e987582207e91cda6e2dc9c
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/17 20:00_亚冠二级小组赛_南定 vs 拉查布里府_赛场原声
