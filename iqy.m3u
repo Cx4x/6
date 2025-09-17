@@ -1,14 +1,11 @@
 #EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-09-17 17:55_亚精英赛_蔚山HDvs成都蓉城_张学洋 
-https://play.livewithhy.com/live/hd-zh-6MvXc3quMqW55aTRbK.m3u8?txSecret=6d00fe9b2a0d58ba6f216ad2ee239f2b&txTime=68CB9158
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-09-17 17:55_亚精英赛_蔚山HDvs成都蓉城_English Commentary 
-https://live1.dktq4q.com/live/63014325_861c1baeede1dbca68531948f30796f7_nsd.m3u8
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_石庆圣 李彦 姚安妮1
+https://pullkgq721.qmuiw.com/live/hd-en-1-4405729.m3u8?auth_key=1758111510-0-0-04bba20104522edeb4b191b4c5b62e79
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_石庆圣 李彦 姚安妮2
+https://bf.njscwh.com/live/sd-1-4405729.m3u8?txSecret=a3c6b51d7cc710af02cbc3fe5abc2477&txTime=68caa544
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="亚冠精英", 09/17 20:00_亚冠精英联赛阶段_上海海港 vs 神户胜利船_赛场原声
+https://live1.dktq4q.com/live/63014327_1178e791783baeeaf5cb6916dc605020_nsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-09-17 20:00_亚精英赛_上海海港vs神户胜利船_金相凯 刘勇 
-http://222.186.41.26:35455/iqiyi/4405729/1018449814731823.m3u8?iqytoken=ceec327c159588fddbb2a7b82c9d2cc9fc1e2d623752e0b278bb315f9ed8e70370c58d1d2b8753ab132d24f3b6381aeb30df673ce1e7dc9887d81adb8997ac1a7a3444612dcb1e3c1b62142ab9dbe7f9d83b54cad780e60d581e68c434c4becefc75c29464591ff0e928973f00943bcd9de5df9797dec2f45fb171f095264164ab39b29b5177793ad56c5ef23454c031bbaf208ed2d7daabe173f0c992bd0c3c39876d3864c4e10abca1172532a2fdcd07
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚精英赛.png" group-title="亚精英赛", 2025-09-17 20:00_亚精英赛_上海海港vs神户胜利船_English Commentary 
-http://222.186.41.26:35455/iqiyi/4405729/1612052542035523.m3u8?iqytoken=a2e08ec0a88a0c05774773696ebef0a3309e64870acf6a1b64c5220375abc27e5011524189c95ac29b84a9ff5e8be29cddcbf690ee4bbe1511acababbe86ed08ed6699a66e2832100cbe9e308eac58e0c62b8a9bc863f0e1d988655205e4f2ac0786afc42791baf9bd80ec4d73c011d3845822b09307798ce3cbff7b91c4f47cd91b6e4ff0dab93325e6acc2fcd2c49c8b691f8a478b3243cdb04bce242cf7f303fafe572c4e539a423150912bce9da186
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-09-17 20:10_亚冠二级_南定绿钢vs拉查武里_English Commentary 
 http://222.186.41.26:35455/iqiyi/4405644/6713025167556323.m3u8?iqytoken=ebb8883b1215bbd0d14efca9cc2f272b0b624459d64f17b469e06450d56af16f4cd8c09d1fcb61e64297b1f55b69af7724b9138f143000f955b677b12de15ca0514d3557b9fe517d18b25046c8511608cdc70b6f1fe560fed2bd3748add4d73af74fe10bd6b6417e1eb044b227dea004302c99fc0f32193157f76027ba4166c07f8f7f59d3ce75f5db9b0142fe5faeb437d7bbabc83527e2b76c654efaac0b1f4c4405b9c919791fd0f5243a47031d9af5
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-09-17 21:40_亚冠二级_阿卡达格vs安迪江_English Commentary 
