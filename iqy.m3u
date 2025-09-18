@@ -1,30 +1,19 @@
 #EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 00:40_欧冠_布鲁日vs摩纳哥_陈瑞阳 
-https://live1.dktq4q.com/live/63369693_883ee79251d51061c5ba8854636d145f_h1080p.m3u8
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 00:40_欧冠_布鲁日vs摩纳哥_English Commentary 
-https://play.livewithhy.com/live/hd-zh-6MvXMfc4zV24hSv1hX.m3u8?txSecret=c41da069571ac7fe3cc4cb80f3e53d83&txTime=68CD41C4
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 00:40_欧冠_哥本哈根vs勒沃库森_高季敏 
-https://live1.dktq4q.com/live/63369695_355701f1f13b776c698203cadef71038_h1080p.m3u8
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 00:40_欧冠_哥本哈根vs勒沃库森_English Commentary 
-https://live.bbapcall.com/live/sd-1-4415350.m3u8?txSecret=aca40628dbe00cf80a790d8b3b160bdb&txTime=68CC6722
-
-
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 02:45_欧冠_曼城vs那不勒斯_刘畅 王楚淇 朱迟蕊 
-http://one.loiey.top:55488/iqiyi/4415377/5131956281737723.m3u8?iqytoken=6288cc8481049905afb13a4d3de55b4b9fa04b995d896ddda0ad946fd8af603938d1d9def4db4881a7087e85c7e35c09d922a659a11d414b8bb70a688cd7df3cc134a8f1759675484fb67b23938441c3aaf57f80fe0a17bba3d42b941e98766b3611e1d5827a919066ecc3577550cf013e2cd8bbb000fc67fe3eec5b5926fd7d9ae0ffae5b809389edea9e13d05855d976e69e481f8722648f60174076295ec11d4e3ed30d9904661705f1e3a6c3b177a0
+https://live1.dktq4q.com/live/63369699_0ffd4c2ded5183840f3bc6c64d21e6c7_h1080p.m3u8
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 02:45_欧冠_曼城vs那不勒斯_English Commentary 
-http://one.loiey.top:55488/iqiyi/4415377/5317256592555123.m3u8?iqytoken=261fada2150feddcfde94b2020a23a695bce8a875fc1058066e33f7b54c4341d01a1f7bad2dd1159aada070065429b50e020883e0bd922d75e6ef8c03d7f2bcfc4eb16b55a1bcad1b1dfe795c29de6e99e329b346b6d7b1cd73c9f21a3a5996a8c3d7faaabbdb2ba2562c12588130fdf92f028d1393890ed7d2c70930aa112395003b792c35610394980ef41ef64b86113537c672323618ed342ff19a443850ff2121e8c13ce20a9c95e0ed5faaebf7741
+https://bf.njscwh.com/live/sd-1-4415377.m3u8?txSecret=3c331840adea13ea9076a28b73d4ad4f&txTime=68cc5735
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 02:45_欧冠_纽卡斯尔联vs巴萨_于鑫淼 梁祥宇 程思钦 
-http://one.loiey.top:55488/iqiyi/4415392/2639626992930623.m3u8?iqytoken=42420243136cea62731c888aa8653f26412ced87629f5b019fe455d36c7f48a63e617fbba9e2663c0dd87dc1bfcd80c552269a252bfee5ac27b6a88ad656d49ba4350093cde179efd76491d24fa27666995fa9f390dccb2e59699f5c2985fe29355b74f528207fff8be9764a406d3c1fe181f05149b87aada0f182bb2e017e28e47f113fdeb7217955aa3ad4d9ba64119af7ef48ecf32444f3c2df6d0a404692c7dae12c2bf228e63d0b5fc966cab7e518
+https://bf.njscwh.com/live/sd-1-4415392.m3u8?txSecret=56783cddf50af15691e10fb50acba3b2&txTime=68cc5749
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 02:45_欧冠_纽卡斯尔联vs巴萨_陈文森 
-http://one.loiey.top:55488/iqiyi/4415392/6515692369013323.m3u8?iqytoken=a3038aeef7d238b7af9d4a5ef3f48e08b24c5df9698901563114cf9833a48cd440ba4d9d49ad6767bda12b926bf149f88623a6e9210ef92e2600ce105e416ad106a332b9e7c4ad944461870d193acfe432113def0b13a1eb2ec3a07392b42846e908a8ae45b7d74f79448c8d6cd7bea885f3756eaded36f974c896d27e609e8b1fd1b4f22a15b45fe48af8b0753c70e77e99d91a722a73c0dcac6278f57c62e4e5eeae4652b8d4797b80c64f527dd245a4
+https://spgdctyunct.inter.71edge.com/tslive/l1/c63_ssports_20250919_d5sj3shs_720p_chst1_ts_t4/fjBN6gPwxr9lAZueHlpROnNm35pQkTRKpu38IjwhglSr77ZXT4py2NCdpsPg5MfSCVgFUtNYc0ogvqX9qTFGkaqVLnPI-Qpxw4tkDkUdrJyxjdpSFa7NiHbKJINpcjqD7h2Un5aKUGpCE1507FKUZ0jD_XMhpMwf0w7s-PsLMU3bxoxM-WCuhXn8XxEhVWRQGhZecR5j6wlCgjL_aRJy5FrXSIZlZ8Zh-UBYvmpGkAY5imTs4fr10CU8ubkf86j-NsDFXjSa7EdkyC7PQ9Xthg/15a1987171976cfbbb240cce801aab2b7/c63_ssports_20250919_d5sj3shs_720p_chst1_ts_t4.m3u8?key=0e04ab0af63527c969e78fda8f1c8ffd1&dis_t=1758222337&uuid=75481168-1995e37c6a1-3ef&qdpv=3&qd_bid=4&qd_sft=0&mss=1&pv=0.1&cpt=0
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 02:45_欧冠_纽卡斯尔联vs巴萨_English Commentary 
-http://one.loiey.top:55488/iqiyi/4415392/5724756843199923.m3u8?iqytoken=ee0ddfb0b2bcdbc7dbefa38498c15c60c6c634c5a504987ad55822590116b2d885980d02002f630d12630195557b98ce163a30f73fb5e4a707c181d338f3d187e3ab14c3224cb69a7c5ef830e515f0aa188ee2b45e630383576dd84feec163044557d2c5c290e7ce764cbf60232b23038c1353f1ca6d62ca0d14184f15fbe42663dda471909a74df3cf0c672ff05f05f539e71612aba72ecca638195a24c10c14f81cb29d03bc067302cd19e9e03915d53
+https://live2.dktq4q.com/live/63369701_df393fec24571ba747c678915f5fea2c_h1080p.m3u8
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 02:55_欧冠_法兰克福vs加拉塔萨雷_王正坤 
-http://one.loiey.top:55488/iqiyi/4415347/3115311340630923.m3u8?iqytoken=457edb54e85d57ee20a2f86054e3589fab2182ab8e0ed5a8420becb8a12bfdc0f6a9bcb325fc87e65a7535b9ae8f22647d41ced973c3c161f7c4529e5087be85026bf7db780b9e39878fdd82cc99b5174857ce7e1b1ba0619170b43a53dff8587cba80f027ca416949434709e8222d5a9ef033e579098d0d486f3e1975ecbe4de995042399824200bd82b0e5f360aa990293930485cbb47bc50adfbf8031884ae3ded839beb7086b2cbc1da70fda4ad41d
+https://play.livewithhy.com/live/hd-zh-6MvXMfc4ziCwvKsWcu.m3u8?txSecret=8a55d984e1c84a7607ccd4712a21bc84&txTime=68CD616F
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 02:55_欧冠_法兰克福vs加拉塔萨雷_English Commentary 
-http://one.loiey.top:55488/iqiyi/4415347/1204552291402823.m3u8?iqytoken=a0ceabb90c9a861e8ed2e5a736a4ab7747036619562c3acdedae5fdd52740e458dbef2a20b5542268ca732b0915b6a551b7aca89589e9e344dbb9853a9b9ec2bd1d16e0ad31d757ab5b61584f31ef8b77d53466305082ebe5c3c9560891d285f7648f878777d91745ba3a612e1120c377753458f605e57b55d371cce8d8ed7025bf4bea52413cff5aba67a076417b0c26cf5e4bdf6d3f2393fd8bdc52783c9b8cbb70d1709bfef8496ef26d8e85031c179
+
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 02:55_欧冠_葡萄牙体育vs凯拉特_陈扬 
-http://one.loiey.top:55488/iqiyi/4415430/2077308733705623.m3u8?iqytoken=736d6cd78c5e4cb059ca375a27a54839696c5d27a71d75dbd544a6b172eff18ab7fb9f819642d3aa04e698a5dc48154093edaf6d46f6b951d06f41e73ec841a4cd95b7d3da16a0e64461114e7262c10e7565a35ad79d4187e7ac6c780deb14f1be5283610c12a641b9a2ac739f4b2878a214f57cda549c6278b44ccd560f48f52650633186a9025165e9c22910d6cdbf5a58e920fb9e9c18b8019bef9694b9b6e5d25492dd06ab2633c6fc58b4d6005eb1
+https://spgdctyunct.inter.71edge.com/tslive/l1/c68_ssports_20250919_4sg5lg43_720p_chst1_ts_t4/4ge9_I7YyqUdJ0KEjPmC1YFKRoMORshKQvrcP7_XJ7MIKJCxF3GiNjak0lde5bXjbrVe6SQnYWPqomQrSDAjGMS4HK63NZO0CWjz1IaBPwMKPYX_nNqkeoazXCvIdYicRXIKc6olLBbw5q2Oh_Et3e5TIGE2LkvLv7JaHC-BPXWZ5zjYnQBzSnCj_QwZt7EfeIXKwpmEYqND1tBLWGWN_EI4w9z_CRHI-F3VvXRFcDXRXBa7ot6hTIEMr_BySs5YScxYTuCTVEJsq1UU9GWhpw/11b2544b3e4a1150f6219a6e3c6b61892/c68_ssports_20250919_4sg5lg43_720p_chst1_ts_t4.m3u8?key=0b6b9a3cd11e2687374ab556034e76192&dis_t=1758222436&uuid=75481168-1995e394860-3fe&qdpv=3&qd_bid=4&qd_sft=0&mss=1&pv=0.1&cpt=0
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-09-19 02:55_欧冠_葡萄牙体育vs凯拉特_English Commentary 
-http://one.loiey.top:55488/iqiyi/4415430/1577559410579323.m3u8?iqytoken=3fbb1f91f7be2fb7deec79e638ce356fb1970ba7dfc598b282dd7ab8428bdae3e673da77bc3e04fb21fe0b604ce5e7a678e63739d00689df7b95b395e5c947f7882c69b3261983b6ecd9e72ad90f204126713b3e67383e2709b063b113ceb782080ef9e859ac65988ce88a1b332ea4d5a4630b3ecc90aa0eb90849f6e8a79811d5ffce214d7af960b944238bbf09eb86ad33b5513503c27a9419b057b45487c4736b631143ed491b69bed4fea71cabebf0
+
