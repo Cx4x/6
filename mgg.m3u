@@ -1,5 +1,75 @@
 #EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-09-18 02:10_亚冠二级_利雅得胜利vs杜尚别独立_汤宪博 
-https://live1.dktq4q.com/live/63009049_bfe33279e3543780d604a3abd5320afc_nsd.m3u8
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-09-18 02:10_亚冠二级_利雅得胜利vs杜尚别独立_English Commentary 
-https://live.bbapcall.com/live/sd-1-4405616.m3u8?txSecret=282f519dbdfad9d3d80d8d63c6f658c9&txTime=68CB23B5
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日17:00-2025斯诺克英格兰公开赛32进16：丁俊晖、肖国栋、吴宜泽出战-多场重磅对决！丁俊晖、吴宜泽出战-1号桌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9D1vRHUwPTCo4PP5DNGofC4
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日17:00-2025斯诺克英格兰公开赛32进16：丁俊晖、肖国栋、吴宜泽出战-多场重磅对决！丁俊晖、吴宜泽出战-柏林
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NZBcorlbNEej-F6u9f7jAM
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日17:00-2025斯诺克英格兰公开赛32进16：丁俊晖、肖国栋、吴宜泽出战-多场重磅对决！丁俊晖、吴宜泽出战-2号桌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CzuDTYt9Tyed-h6WxmPMg4
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日17:00-2025年比利简金杯总决赛Day2：西班牙VS乌克兰-西班牙VS乌克兰-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OuUOs4GTHmp0_P7UroQRak
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日17:00-2025年比利简金杯总决赛Day2：西班牙VS乌克兰-西班牙VS乌克兰-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9C7wZsFNCrfZrqPjfp2KTv8
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日18:00-亚冠精英联赛阶段-蔚山HD vs 成都蓉城-袁甲 杨晨 李子琪
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9P-PSKgQKk3fzIDsseJlRm4
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日18:00-亚冠精英联赛阶段-蔚山HD vs 成都蓉城-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J36DgfXGfDtlhwTAa3dV5U
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日18:00-亚冠二级小组赛-大阪钢巴 vs 香港东方-刘洋
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Flj_TZ8wlIzQbpaNyT38qs
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日18:00-亚冠二级小组赛-大阪钢巴 vs 香港东方-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OcVG5s5SS6d3ONY5UQxrFc
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日19:00-《白大拿挑战者系列赛》第九季第6周-《白大拿挑战者系列赛》第九季第6周-陈瑞阳
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BqZ8Jue3ZPJpndkCR_LvDA
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日19:30-NBL总决赛G2-香港金牛 VS 长沙电信勇胜-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EDQ4rUHEd8LYDH4BurW530
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日19:30-NBL总决赛G2-香港金牛 VS 长沙电信勇胜-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HKMF0HCIPtVYdnzNSqFw5Y
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日19:30-中国女篮系列热身赛-中国vs西班牙尤文图特-连睿
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Mo3WxRYntOVgeDIiFChNHY
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日19:30-中国女篮系列热身赛-中国vs西班牙尤文图特-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Gv49USIDCHX567xMK3A8lA
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日20:15-亚冠精英联赛阶段-上海海港 vs 神户胜利船-石庆圣 李彦 姚安妮
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Da56apDgozD7UCp9kB1EcI
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日20:15-亚冠精英联赛阶段-上海海港 vs 神户胜利船-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DdJDxnN18OA13K3tyC847k
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日20:15-亚冠二级小组赛-南定 vs 拉查布里府-盛斌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Oyu6PtkWNkjYeXTcygndzM
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日20:15-亚冠二级小组赛-南定 vs 拉查布里府-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Jm-ycO3b_FF6o-MzOELR54
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日21:45-亚冠二级小组赛-Goa vs 艾尔扎拉-张天翼
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KmDgkvoVD-gvdaoOf6jhh4
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日21:45-亚冠二级小组赛-Goa vs 艾尔扎拉-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MSZWdJmgff2ECWbCzF7K3Q
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日21:45-亚冠二级小组赛-阿卡达格 vs 安迪扬-周楚雄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KRxUyigbi6QI949QlqAX94
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月17日21:45-亚冠二级小组赛-阿卡达格 vs 安迪扬-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KwZAYo7XM7pzw1m8b3jxaw
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日00:00-亚冠二级小组赛-艾尔艾利 vs 哈列迪亞-乔迁
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LkS4W8UXbzSpyRvsrMb6Jo
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日00:00-亚冠二级小组赛-艾尔艾利 vs 哈列迪亞-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L8GXZA0HQNApF1hsixJKwo
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日00:00-亚冠二级小组赛-阿尔瓦斯尔 vs 德黑兰独立-鹿中原
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GOy2GjdAMO2wNqiiph1_Po
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日00:00-亚冠二级小组赛-阿尔瓦斯尔 vs 德黑兰独立-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CDy288y5JmiYfzkjCCDoSs
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日02:00-2025斯诺克英格兰公开赛32进16：斯佳辉范争一出战 4:00赵心童PK利索夫斯基-斯佳辉范争一出战 4点赵心童PK小斯基-1号桌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JnIkqHujlA8k3GIEYxMUmA
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日02:00-2025斯诺克英格兰公开赛32进16：斯佳辉范争一出战 4:00赵心童PK利索夫斯基-斯佳辉范争一出战 4点赵心童PK小斯基-2号桌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NDlyKlBYLx23I5cFkA6eMA
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日02:00-2025斯诺克英格兰公开赛32进16：斯佳辉范争一出战 4:00赵心童PK利索夫斯基-斯佳辉范争一出战 4点赵心童PK小斯基-3号桌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PXNU4qwRSLOrmqgvdiZLlc
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日02:00-2025斯诺克英格兰公开赛32进16：斯佳辉范争一出战 4:00赵心童PK利索夫斯基-斯佳辉范争一出战 4点赵心童PK小斯基-4号桌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Nvj21478ebb3__bZ5ofX7Q
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日02:00-2025斯诺克英格兰公开赛32进16：斯佳辉范争一出战 4:00赵心童PK利索夫斯基-斯佳辉范争一出战 4点赵心童PK小斯基-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KMb3_HUqwSVWRF6Vu0W-VQ
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日02:15-亚冠二级小组赛-利雅得胜利 vs 伊提洛尔-刘畅
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AhXZfBCasGYPzk-v3Jy0uM
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日02:15-亚冠二级小组赛-利雅得胜利 vs 伊提洛尔-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FvNitXNyWONkWRCt4BkpA8
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日02:15-亚冠二级小组赛-穆哈拉克 vs 维达特-吴子越
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O44leXPGTFqqQSBiyopOnk
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日02:15-亚冠二级小组赛-穆哈拉克 vs 维达特-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AEr1bWvmK2UHxp3e8Pbj4I
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日10:00-2025年比利简金杯总决赛Day3：哈萨克斯坦VS美国、日本VS英国-哈萨克斯坦VS美国 日本VS英国-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KhO_CWOgJXHX_X4m9y-6rI
+#EXTINF:-1,tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕体育",09月18日10:00-2025年比利简金杯总决赛Day3：哈萨克斯坦VS美国、日本VS英国-哈萨克斯坦VS美国 日本VS英国-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H5mqT83h0VUVPksFQndrlk
