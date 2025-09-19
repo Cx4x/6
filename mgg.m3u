@@ -1,64 +1,13 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/100000001327106850a5.png" group-title="比利简金杯", 09/19 17:00_半决赛：意大利VS乌克兰_半决赛：意大利VS乌克兰_赛场原声
-http://dmggg.tyzb.fun:26355/migu/958172707.m3u8?migutoken=e47cae6dcafa3d1e4715341c70b7d225288e565660c9abe0ce18eba81e6c98f6a40d04e3694071a01bf8b3cc4fe937ac7ddd2644b9a0ba597648aae8b4abeb69e4369938306580fb909e1645
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/100000001327106850a5.png" group-title="比利简金杯", 09/19 17:00_半决赛：意大利VS乌克兰_半决赛：意大利VS乌克兰_英文原声
-http://dmggg.tyzb.fun:26355/migu/958172757.m3u8?migutoken=9bc7d382b0aa0b53c07fdda57407a1f14bcdf9252a9ecc3d6015964414040f1530e93e951cfaf90cb8bab2599ce99b70331f6f435b4c24b36c55c9fd3768e9d81b5620dbfbe833195869e9d1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/19 16:55_国际篮联洲际杯_NBA发展联盟联队vs伊拉瓦拉老鹰_解说
-http://dmggg.tyzb.fun:26355/migu/958199590.m3u8?migutoken=7ef8c36039b40528a79ef63e47ed1833925e6c295b7e28a7af654146cf616e171824858658e0b28cb012c285e9833e54c5d508fae77f173f6aa0e544fdaf3defbe4d39b386405fd471082777
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/19 16:55_国际篮联洲际杯_NBA发展联盟联队vs伊拉瓦拉老鹰_现场原声
-http://dmggg.tyzb.fun:26355/migu/958199607.m3u8?migutoken=52a5afeb680b6648455d21cdbf432abbbcc218f9f41a39b7208ee11b989b3607c84eea9883b3439a91e8099332eecb9146bfcf2a29e8000f2a15dd28ff7f218e5a2a6c4f668fdb529d783ec7
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:05_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_官方解说
-http://dmggg.tyzb.fun:26355/migu/958226805.m3u8?migutoken=55dc32a5148bd32a072ac29a51596e02ae399c2c1e60dbdc6df6e1aff2b28537746c69fa3af5b7de69ead63254d42f4baa3cd278da07319a959330c6aa3e2cc7147d9024e593aba568e9f7c0
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:05_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_清流
-http://dmggg.tyzb.fun:26355/migu/958226822.m3u8?migutoken=97a7016f62825a9dc27300640646c0f1452f606d847ce64d27faad1dcc9d9d9be9bb73dcfb2f83e3476e962c890264bfcb04a118ef991a8a4ca8dac5ad7b75178efc8d6ea67897eef0742f2a
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角1
-http://dmggg.tyzb.fun:26355/migu/958226841.m3u8?migutoken=77a41e90304240658a3b00b1def806d8f2ed357cfad7bf21b5d4cf1925019da2d8be2b47d02a0088354a540fb39d52b1207ca0cfd467bf1bc2abe027db017ed17c2caaf21b9204a98e259ef9
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角2
-http://dmggg.tyzb.fun:26355/migu/958226851.m3u8?migutoken=f3a4a1aad1a52077f23f6d86549773ccbffbc7f1fa53ea64ec0510ec8c32c73fae97283c2ecba14784dc5534cea0b8b4d18729a60a199673318cd57e7bd2680de90acaac7a45fab6dd9e2375
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角3
-http://dmggg.tyzb.fun:26355/migu/958226867.m3u8?migutoken=81c0c3c735d3571ad5272d46201b993d5002100d214e901abefd797636b0cc714195b8cf2a6f8e5ed9b5dd12ab79acedf61e3ed58b65c792782f7ed1e7c8f57e036b2e6a1f8bdb4c0a2264dd
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角4
-http://dmggg.tyzb.fun:26355/migu/958226887.m3u8?migutoken=7b01c31e7e2b7412424798ea5016e52cfec6d60de69da94a91f453a129036e7475fc43a7fb39b888ec6f54ee1f0b6f576401c3f8aec1653f6b2659b5c55605ad9c465647028df63d4064eabb
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角5
-http://dmggg.tyzb.fun:26355/migu/958226917.m3u8?migutoken=66158d0c7445cb5adf941ebd86af70cee12457a177237f01d63b3a1b4c23e32095c8e5a376eb28449d19129134517b52036ee2dbfe76bc97443fbe45a616ab86734cd201eca4d144ae17dfde
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_地图流
-http://dmggg.tyzb.fun:26355/migu/958226925.m3u8?migutoken=33c9ceac2d1312b146d6dfb850dd6a2abf8c32916aff481ef4dded6680f9ce9ad19e889a3ff68eda0b72d9808368751edf9c407d0f0a49de5e2aeb81a503c2fcaac706eb8c614b1821a4f9a6
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/7/12/100000000843106a4f61.jpg" group-title="世界田径锦标赛", 09/19 18:15_朱亚明、粟文三级跳远争奖牌_朱亚明、粟文三级跳远争奖牌_2025年世界田径锦标赛-女子标枪预赛等
-http://dmggg.tyzb.fun:26355/migu/958277017.m3u8?migutoken=7ffa1cc5c3778e4c65040b21fe0efcb1ea3716649b2e21e798a8300cf6d20467496e8370a84d9c05e55e1ac34815492f7e8f68025a9e15f5f5df23576d9bdcddb24d5644ad9cfaa2b0f2d5a1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 19:00_周跃龙大战布雷切尔 塞尔比出战_周跃龙大战布雷切尔 塞尔比出战_1号桌
-http://dmggg.tyzb.fun:26355/migu/958023277.m3u8?migutoken=b9c4715b97087e316aee0ff0e98843bfd97a869d1365f1c272c5a59f825a27a4d9171eebfcb76cbe20226d9fe478cea9c3509ca2ba8b5ee774167cc9f22ab9f58a12ebb8b3d930f756261ade
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 21:00_周跃龙大战布雷切尔 塞尔比出战_周跃龙大战布雷切尔 塞尔比出战_2号桌
-http://dmggg.tyzb.fun:26355/migu/958023326.m3u8?migutoken=aaacffc32471bee747ff14e0223dfec5378b2e0550f3d11e94d9802d51d361c57bd3c44b094d7f3e0a81cd948a40ba83ea22baf53f01ab4eaa818b2ab9db2cebf2c7e605765201040eca5261
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 19:00_周跃龙大战布雷切尔 塞尔比出战_周跃龙大战布雷切尔 塞尔比出战_解说
-http://dmggg.tyzb.fun:26355/migu/958023348.m3u8?migutoken=f9057ed62e7b9be48e53e2edc5ba5c17003c87d3c9ed61632a9949148870746136fd8c5297411c0a3ef7ced1a32de048a58317d13f48e08fc894e1ab9df93d9560dd96c24a054e875a8816c1
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 21:00_周跃龙大战布雷切尔 塞尔比出战_周跃龙大战布雷切尔 塞尔比出战_柏林
-http://dmggg.tyzb.fun:26355/migu/958244766.m3u8?migutoken=6a08b3707265087d4f658c88187e3722935fc9792b3ac80ae4957f09848c6d3c3304ec80c113fa8882f8213588565eef426e2be18b8d7cf4048fedf682000363cc3f49cdebda10fa4df96bbd
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/11/100000001123106aab38.png" group-title="国际大体联足球世界杯", 09/19 18:55_国际大体联足球世界杯_上法兰西综合理工大学vs北京师范大学_清流播出
-http://dmggg.tyzb.fun:26355/migu/958073293.m3u8?migutoken=04b35962ceeed44f99ea113580e51b90f8b37739f7d02fed0525227f114734f89e736c231497bdb2d83b17e5b2fced3396ae953e502c67fd4162ebfa7598b4d63bcc499f7a4c4a721a8a9d62
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/5/100000001093106c8064.png" group-title="全国女子篮球锦标赛", 09/19 19:25_全国女子篮球锦标赛_新疆天山vs河南豫光金铅_清流播出
-http://dmggg.tyzb.fun:26355/migu/957927600.m3u8?migutoken=dc1bdf68beb0dd20307ab2c1a37c38d2bc9590ee21cbc380fe6491991ddb6fc6b54575dcdd7fd93fb4a65a0fd26179af044905440fe5100d402b69bb1dcbf63c26deafb42e25dd63221d0e11
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png" group-title="NBL", 09/19 19:00_NBL总决赛G3_香港金牛 VS 长沙电信勇胜_解说
-http://dmggg.tyzb.fun:26355/migu/957995726.m3u8?migutoken=9caf80a0e07b6568a3b88d4d6f827685456bcee5d189b2bba21b4d0a273318700a744e1fe9caa521737b24cab448b74168601b42ec285574b64148650b459ad11b37298a7e3a3f3f93d1656b
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png" group-title="NBL", 09/19 19:00_NBL总决赛G3_香港金牛 VS 长沙电信勇胜_清流播出
-http://dmggg.tyzb.fun:26355/migu/957995769.m3u8?migutoken=182bf9561f413f2a49d6cb6e9d79fb485ebff3ec44a0f6ac15a5017046d554e33a634429713d0ae3fcf984d714a3c89582287280f7a93bc9a3f6deca951efa0b8f8a6471f86b91d536c5ff1f
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛", 09/19 19:30_波多罗斯卡vs郑钦文_波多罗斯卡vs郑钦文_邱超
-http://dmggg.tyzb.fun:26355/migu/958072309.m3u8?migutoken=7615c1845e268b31abb82dd2972fa3109c15c35cc12522f09ac56e5e4c466e80379fe641c6a375de890cd4b29b6a01c243b51940d02eeaf4e7b526755ce23e7e9c86e7873f9116421df0368a
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="浙江省城市篮球联赛城市争霸赛", 09/19 19:30_余姚VS嘉兴经开区_余姚VS嘉兴经开区_2025浙江省城市篮球联赛: 余姚VS嘉兴经开区
-http://dmggg.tyzb.fun:26355/migu/958175114.m3u8?migutoken=59fa7f20ea80d9495327e363bf1b079da8ea488b99584c443ddc20079b41ae6d2c75e59ef8b24c61a0c16751cbb410c30cb48cd25c57314d55b61aead3f000fe8e7223605a10782db4a07784
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="浙江省城市篮球联赛城市争霸赛", 09/19 19:30_台州VS温州_台州VS温州_2025浙江省城市篮球联赛: 台州VS温州
-http://dmggg.tyzb.fun:26355/migu/958175131.m3u8?migutoken=28b78ce803291071baa9cc269faa5cd784cb8085ae76d57418e26bd53250607d807114c477e714c648a5a64c1c1288449e0570d09f61b8549c3f5409b686df838359aada1e93e259ec631b1a
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/16/1000000013301068b8e2.png" group-title="贵阳城市足球邀请赛", 09/19 18:00_贵阳市vs泸州市_贵阳市vs泸州市_解说
-http://dmggg.tyzb.fun:26355/migu/958211676.m3u8?migutoken=dea787d6c6cc869562a168dbdd86201b1428ab3b40f08128ab2a4cfa552e1dbc02c80a0809a71437108916072187d04fd92b3afe77c3c38c7761a33bec6427be77624f9e0ea9aaa0d86de0cb
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 09/19 19:20_中超联赛_武汉三镇 vs 河南_孙雨轩 徐云龙
-http://dmggg.tyzb.fun:26355/migu/958234613.m3u8?migutoken=176f9d8b517e91b9ac6b51c771b3435967432c31d359594d4d05ebe1afbf67d27ab4ed23353014ffea3d7f7dc872869f2a84d0422e8b32c94da09733d58960f2b4f208746f57db68e2133940
+https://live1.dktq4q.com/live/57605417_964c566fa3e82eb6e379fd895ba78cb1_h1080p.m3u8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 09/19 19:20_中超联赛_武汉三镇 vs 河南_赛场原声
-http://dmggg.tyzb.fun:26355/migu/958234594.m3u8?migutoken=eac5015e3a3154bf0dd20df1b5a907490e05fc465ea1eba751f700429d314deba53b3d2c096297cca5b913456de998ea5ce963ab6a2ffdfa919e016b688fdd779a1b580f773906683f34fb6e
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/4/100000001316106bfe97.png" group-title="湖南省足球联赛", 09/19 19:30_湖南省足球联赛_岳阳vs邵阳_清流播出
-http://dmggg.tyzb.fun:26355/migu/958176661.m3u8?migutoken=ff9acedbbd11e4d8c2b9b7fec18c49a761e381d52a8ee64f77b0b7aa93e441573f9beb47c40ff7527d4ef4f8e6b232e918b3c1f4654a869e120d492d3dd19ad4e9d99acc0f352c41af25c16b
+https://bf.njscwh.com/live/sd-1-4279409.m3u8?txSecret=b4bd95ac31c3d010a48b5d17289e7f38&txTime=68cd414b
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 09/19 19:30_中超联赛_云南玉昆 vs 大连英博_李欣 董路
-http://dmggg.tyzb.fun:26355/migu/958234673.m3u8?migutoken=91b10fa16c2ea2b615c83af0df5f6f22b7a94a59849aa6a72f103bafb306f9a1b7d99e81c7d960b0ee35d8552cef34c74551d8ab5ea8745fed1bc6c16618afb3742be77ea6b0cc6674a4cbc5
+https://live1.dktq4q.com/live/57605411_50c87d0f8b15b9a87e8841273528a5b7_h1080p.m3u8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 09/19 19:45_中超联赛_云南玉昆 vs 大连英博_赛场原声
-http://dmggg.tyzb.fun:26355/migu/958234659.m3u8?migutoken=bf4c1d50fe7f6c1c3c0aa26086f4fbfd3110d13b0079afca556085cc352f0a85d29bea25333146165866bf307a0510f20745331a7469b4ee40fcfe1e745e7c78f89deaba6d8cd595631bd9e6
+https://live.bbapcall.com/live/sd-1-4279403.m3u8?txSecret=89b4c31b3d5a596142a6f81f4fa4649d&txTime=68CD562C
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/19 19:55_国际篮联洲际杯_阿尔阿赫利vs宇都宫皇者_解说
 http://dmggg.tyzb.fun:26355/migu/958199622.m3u8?migutoken=8897436cf81e6264ea32f953927fffb60069adfdd2ab2cd37cb5aead2e60abcf7c53d387b4156e99baa96250d42aa85e01178b52da18809b63a37056cab6679a5218c5181a2b5b94c7e27ced
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/19 19:55_国际篮联洲际杯_阿尔阿赫利vs宇都宫皇者_现场原声
