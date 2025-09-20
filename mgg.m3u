@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="🌟温馨提示🌟",开球五分钟后再刷新配置即可！
 https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="🌟开球五分钟后再刷新配置即可！🌟",开球五分钟后再刷新配置即可！
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="🌟开球五分钟后刷新配置🌟",开球五分钟后刷新配置
 https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
 
 
@@ -52,8 +52,10 @@ http://dmggg.tyzb.fun:26355/migu/958257684.m3u8?migutoken=4e96dd71021ea27dbaad5d
 http://dmggg.tyzb.fun:26355/migu/958257678.m3u8?migutoken=99032f237ced3a1f21b6df41646d12e6a8c6c4312922077be402273c10094f32691090a6eeca9fe0fa9da68d0a5517db7c7ce8efbe0071824ce5cfcb5ee872ff033baf46882cb7e1a6c279d1
 
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/20 00:30_英超联赛_曼联 vs 切尔西_詹俊 张路
-http://dmggg.tyzb.fun:26355/migu/958258310.m3u8?migutoken=de469cf78478b7d31f81b374cd32736d67fe8710897ba35ffa27b9ba8a958df3afb078c7a56929e1ea6f5fa17ffcdc353ca1d0c1999026af05faf56ebb01ecbee3025b13309229e12525795c
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/20 00:30_英超联赛_曼联 vs 切尔西_詹俊 张路 1
+https://play.livewithhy.com/live/hd-zh-6MuT7JwXZDpDGhNZzu.m3u8?txSecret=116986ee6259c90021120ebe11e9a904&txTime=68CFCED4
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/20 00:30_英超联赛_曼联 vs 切尔西_詹俊 张路 2
+https://pull.chaojiumq.com/live/hd-en-1-4343179.m3u8?txSecret=ecf575e6c1374fefffeb13209016b47c&txTime=68cecd7f
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/21 00:30_英超联赛_曼联 vs 切尔西_赛场原声
 http://dmggg.tyzb.fun:26355/migu/958258526.m3u8?migutoken=7c5c1298d4c3c1c62f2f08deccc57e91f647d77c73f8ee99204c61d6c873ddf2b686ca76d9c7b917618bd5237cbf145bde8353624244263eb0b01ad5399cbe32deddfb4b9d504ed20d4c930c
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/21 00:30_英超联赛_曼联 vs 切尔西_江忠德
@@ -62,8 +64,7 @@ http://dmggg.tyzb.fun:26355/migu/958258483.m3u8?migutoken=2cb4d4d4dab580f5e7c6bb
 http://dmggg.tyzb.fun:26355/migu/958258444.m3u8?migutoken=cb09c4072bf1e6efcbce269235a3608bc957ba2c74ab5b4c32de18ca0174495dc9e7aebdf52806a89cd1e0935ac151b4ce80879a0819ff45af615b027f4f86ae46be75d410e728293df81ad3
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/21 00:30_英超联赛_曼联 vs 切尔西_陈渤胄
 http://dmggg.tyzb.fun:26355/migu/958258512.m3u8?migutoken=cd436ed296e4f96fa328d0d42fb7ab25bf0a0176c0fd7a2ffe6034f15912bd07d4dd5b32fe0ee011f8b6cede3f7067b59b8bf506927807fe1846c3431b56187897e78e79263081815ce461ea
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/20 00:30_英超联赛_曼联 vs 切尔西_詹俊 张路 程思钦
-http://dmggg.tyzb.fun:26355/migu/958258465.m3u8?migutoken=b57cbdd16ce07f06cd59e03a3f96b69d4281dfefc4af94b6d326499b417d7e4c2dc829e749a3a367d8e86dd1e1cec3ab7ad69930f630586a26854d710c4bde28d95faea77ab5b2fb9fd1c26f
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/21 00:20_英超联赛_曼联 vs 切尔西_英文解说
 http://dmggg.tyzb.fun:26355/migu/958263753.m3u8?migutoken=bf371a97f5a277abba472ab21860219bef16f55b0430ed2d894e56473881466cb930a968ea4ed18d313abf15ebb1d789e23104813ac236e4532063b9ba104fe24d6a058a798de0d41026e209
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/21 00:30_西甲联赛_比利亚雷亚尔 vs 奥萨苏纳_张天翼
