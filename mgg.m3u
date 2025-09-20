@@ -57,12 +57,12 @@ http://dmggg.tyzb.fun:26355/migu/958258035.m3u8?migutoken=052dc5c2d93d70329a8735
 http://dmggg.tyzb.fun:26355/migu/958023510.m3u8?migutoken=cbd682dcfa6c0b313f63f560d303b4ec451a7b9515cd241cd37a75f56066ab2b6d69db5ae8c2c919b874b341a281aeedeeb55d5e7f76de047c0faa0ab9a5ecf14afeb4c22df0eaf537eb3204
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/21 02:00_半决赛_半决赛_解说
 http://dmggg.tyzb.fun:26355/migu/958023522.m3u8?migutoken=46ed160576c19f1edf235275acf25877dbea9b97a382ddfebe01f0764c89d145e56f1ae30d61faf40140de2892d9dd5e2189e7e349e9154d0247c1ee51152a6c99894e5c0865a072cb269624
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 09/21 02:15_意甲联赛_乌迪内斯 vs AC米兰_石庆圣 李彦
-http://dmggg.tyzb.fun:26355/migu/958257870.m3u8?migutoken=d170a4eca25b6f2b390cbc840b66291d0cccc618168ac39a6ef8892c42e706f6eacdcab5ddae1adc60152f3d67ce2cd3087492fc5d0128d6a5ae9c563638f32d53509b9ebe93db80fa9980a8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 09/21 02:15_意甲联赛_乌迪内斯 vs AC米兰_石庆圣 李彦
-http://dmggg.tyzb.fun:26355/migu/958257935.m3u8?migutoken=81c3b6769ac397ca7cef58cd34f3c9d9f9b3abf121288b6775b7f2f1132dd30b0e9b2ece5d53ef9fc09079c30abab5489b4c98b665eeb92be456d338b73a84095342a2b7998df00afc67b923
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 09/21 02:15_意甲联赛_乌迪内斯 vs AC米兰_石庆圣 李彦 1
+https://live1.dktq4q.com/live/61060761_d6846ac0d99329aeb1ea5d79d913b1f9_h1080p.m3u8
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 09/21 02:15_意甲联赛_乌迪内斯 vs AC米兰_石庆圣 李彦 2
+https://play.livewithhy.com/live/hd-zh-6MuSNj13PAKDw5DSXP.m3u8?txSecret=3f6314dd4d02b85f87cf1c6dc32d1a33&txTime=68D000E4
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 09/21 02:30_意甲联赛_乌迪内斯 vs AC米兰_赛场原声
-http://dmggg.tyzb.fun:26355/migu/958257788.m3u8?migutoken=890104f72c1d736be16cbbeb548f70b69e1dea0890a876e6ad438fc6cd626e48d7c26e5a0b6233db1c5fb78b2084c7c38f271bfc477e0c3d9366ef04be8a58a043622d4bed7f94813adce9b8
+https://hls.suanzsd6.com/hd-en-6MuSNj13PAKDw5D7su.m3u8?txSecret=786208baab7baa14ba7669f4dde4a906&txTime=68D039EC
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/21 02:30_英超联赛_富勒姆 vs 布伦特福德_刘畅 徐阳
 http://dmggg.tyzb.fun:26355/migu/958258601.m3u8?migutoken=4835f694b66101ce2ca1277bdddb3fe3297f88fec863ff5b913c1a9405d962b4194068616991511a9a5641974acc4b258bbf125b603570993e421a427ad9300d5b7f63d816cf03b16094b693
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/04/6UR3SKL0H06H.png" group-title="英超", 09/21 02:45_英超联赛_富勒姆 vs 布伦特福德_赛场原声
