@@ -1,11 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="🌟温馨提示！🌟",开球五分钟后再刷新配置即可！
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="🌟注意比赛时间🌟",开球五分钟后再刷新配置即可！
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="🌟开球五分钟后刷新配置🌟",开球五分钟后刷新配置
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/100000001335106a4fe4.png" group-title="亚洲棒球锦标赛", 09/22 18:30_中国vs巴基斯坦_中国vs巴基斯坦_清流播出
 http://111.170.172.135:3579/migu06.index.php?id=958305772
