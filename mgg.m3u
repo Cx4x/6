@@ -1,135 +1,35 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/100000001335106a4fe4.png" group-title="亚洲棒球锦标赛", 09/23 18:30_中国台北vs韩国_中国台北vs韩国_清流播出
-http://111.170.172.135:3579/migu06.index.php?id=958305806
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/100000001335106a4fe4.png" group-title="亚洲棒球锦标赛", 09/23 18:30_日本vs巴基斯坦_日本vs巴基斯坦_清流播出
-http://111.170.172.135:3579/migu06.index.php?id=958305798
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛", 09/23 18:55_文山卫星赛 半决赛及决赛_文山卫星赛 半决赛及决赛_清流播出
-http://111.170.172.135:3579/migu06.index.php?id=957604812
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="ATP", 09/23 19:00_穆塞蒂PK塔比洛争冠_穆塞蒂PK塔比洛争冠_赛场原声
-http://111.170.172.135:3579/migu06.index.php?id=958178575
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="ATP", 09/23 19:00_穆塞蒂PK塔比洛争冠_穆塞蒂PK塔比洛争冠_英文原声
-http://111.170.172.135:3579/migu06.index.php?id=958178626
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛", 09/23 19:30_辛纳vs阿尔卡拉斯_辛纳vs阿尔卡拉斯_邱超 刘钟鸣
-http://111.170.172.135:3579/migu06.index.php?id=958072384
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="ATP", 09/23 19:30_布勃里克PK鲁瓦耶争冠_布勃里克PK鲁瓦耶争冠_赛场原声
-http://111.170.172.135:3579/migu06.index.php?id=958169391
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="ATP", 09/23 19:30_布勃里克PK鲁瓦耶争冠_布勃里克PK鲁瓦耶争冠_英文原声
-http://111.170.172.135:3579/migu06.index.php?id=958204006
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="浙江省城市篮球联赛", 09/23 19:30_富阳VS普陀_富阳VS普陀_浙江省城市篮球联赛: 富阳VS普陀
-http://111.170.172.135:3579/migu06.index.php?id=958386654
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯", 09/23 22:45_意大利杯第二轮_卡利亚里 vs 弗洛辛诺内_张昊泽
-http://111.170.172.135:3579/migu06.index.php?id=958257716
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯", 09/23 22:45_意大利杯第二轮_卡利亚里 vs 弗洛辛诺内_赛场原声
-http://111.170.172.135:3579/migu06.index.php?id=958379523
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯", 09/24 00:15_意大利杯第二轮_乌迪内斯 vs 巴勒莫_鲁靖明
-http://111.170.172.135:3579/migu06.index.php?id=958257808
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯", 09/24 00:15_意大利杯第二轮_乌迪内斯 vs 巴勒莫_赛场原声
-http://111.170.172.135:3579/migu06.index.php?id=958379577
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/24 00:45_西甲联赛_西班牙人 vs 瓦伦西亚_孙雨轩
-http://111.170.172.135:3579/migu06.index.php?id=958257561
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/24 00:45_西甲联赛_西班牙人 vs 瓦伦西亚_赛场原声
-http://111.170.172.135:3579/migu06.index.php?id=958257521
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/24 00:45_西甲联赛_毕尔巴鄂竞技 vs 赫罗纳_李霄
-http://111.170.172.135:3579/migu06.index.php?id=958257510
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/24 00:45_西甲联赛_毕尔巴鄂竞技 vs 赫罗纳_赛场原声
-http://111.170.172.135:3579/migu06.index.php?id=958257492
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/24 02:00_2025斯诺克英国公开赛 Day2凌晨场_2025斯诺克英国公开赛 Day2凌晨场_1号桌
-http://111.170.172.135:3579/migu06.index.php?id=958309579
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/24 02:00_2025斯诺克英国公开赛 Day2凌晨场_2025斯诺克英国公开赛 Day2凌晨场_2号桌
-http://111.170.172.135:3579/migu06.index.php?id=958309585
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/24 02:00_2025斯诺克英国公开赛 Day2凌晨场_2025斯诺克英国公开赛 Day2凌晨场_3号桌
-http://111.170.172.135:3579/migu06.index.php?id=958309588
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/24 02:00_2025斯诺克英国公开赛 Day2凌晨场_2025斯诺克英国公开赛 Day2凌晨场_4号桌
-http://111.170.172.135:3579/migu06.index.php?id=958309594
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯", 09/24 02:45_意大利杯第二轮_AC米兰 vs 莱切_石庆圣
-http://111.170.172.135:3579/migu06.index.php?id=958257850
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯", 09/24 02:45_意大利杯第二轮_AC米兰 vs 莱切_赛场原声
-http://111.170.172.135:3579/migu06.index.php?id=958379619
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/24 03:15_西甲联赛_塞维利亚 vs 比利亚雷亚尔_李霄
-http://111.170.172.135:3579/migu06.index.php?id=958257817
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/24 03:15_西甲联赛_塞维利亚 vs 比利亚雷亚尔_赛场原声
-http://111.170.172.135:3579/migu06.index.php?id=958257796
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/24 03:15_西甲联赛_莱万特 vs 皇家马德里_刘畅 孙雷
-http://111.170.172.135:3579/migu06.index.php?id=958257638
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/24 03:15_西甲联赛_莱万特 vs 皇家马德里_赛场原声
-http://111.170.172.135:3579/migu06.index.php?id=958257604
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/24 03:15_西甲联赛_莱万特 vs 皇家马德里_刘畅 孙雷
-http://111.170.172.135:3579/migu06.index.php?id=958257701
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/1000000013371069b0c7.jpg" group-title="京山网球公开赛",09/24 10:30_2025京山网球公开赛Day5_2025京山网球公开赛Day5_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=cvjVDiraAKB6nWgESZoXBCMrkUgteP2S0S0_gQG29751gluPetll9S-5K1ry_lAfdbReDfpPHnCMQYukAGd8xFK9eju6RunQLDOCoiY4XRA&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/24 11:00_张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_钻石球场（清流）
-http://frees.dfkj.live/migu/index.m3u8?auth=p3fByDjBeeSHPmUA1-STR557wOczTbWC_QuTiTuGNh-_9QsMccIV7QCYi6i5aTUio7ibp5DJFnRfJweoz8kqtZX-zHg3yykXmZ1n3p9f2_g&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/24 11:00_张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_钻石球场（4K清流）
-http://frees.dfkj.live/migu/index.m3u8?auth=sWCOTGvL8qAgiO7Kn6zFb003wXPr_-61FBScYbKecIf7wBSAlAVuVVUr33DBq0r1z7WbO0_Fa0bit8mUtx5WVwiHDE_NCtRr2dfo3dHhNQ4&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/24 11:00_张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_莲花球场（清流）
-http://frees.dfkj.live/migu/index.m3u8?auth=h9wqULIhWUC78uBbiOC2esC2QZm8s5UgbNXPavf3_h5ockyHXUmt7tE0RunttNIKf_3nHQvJU0JADQ1a1MDAD3gvR_V3RTOU8rrqh4ozuME&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/24 11:00_张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_莲花球场（4K清流）
-http://frees.dfkj.live/migu/index.m3u8?auth=S-eFN8l3T04d12_15IjCPIlQQp8J3YWcenhMSv_gYzK-THTYwjT3NjgOHahNMVPU8auS7rK4Arcj0J0exB_-84D5yepyChi-em3xiASJNbk&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/24 11:00_张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_映月球场（清流）
-http://frees.dfkj.live/migu/index.m3u8?auth=do9HmxB1yXJggGiulgQ2Vo_Br_LApfC6x2O1NhuoglW0lgwXYqDQalBop1e68UrtLblLxUJDvzfklAoKvUDqc5bLqJNhyO7aWiaCw7HHJ9Y&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/24 11:00_张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_单文强
-http://frees.dfkj.live/migu/index.m3u8?auth=dip6FFH274YSSVFibXpBrMFh7UG5UMGmBM920vwrvair2SmUfc9xBnFaNSveYqeqd2peTJ7o0B8EaA9HOnfya5xrlKrp2DB-Sk90F3Q6Ouo&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/100000001335106a4fe4.png" group-title="亚洲棒球锦标赛",09/24 12:30_巴基斯坦vs菲律宾_巴基斯坦vs菲律宾_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=OQi7qGyYx7bHouIoGfxOu4zZ3d342i2vUUlOe37HHtLoz9XT8H5jmpLyPm1ZJzXUWgXqTyrcCjS1Hk_10MDlnqAN980Gyaj-k0yNIaQZFgc&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/100000001335106a4fe4.png" group-title="亚洲棒球锦标赛",09/24 12:30_韩国vs巴勒斯坦_韩国vs巴勒斯坦_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=6gRPXh_PRFt4C63_DpuZJlW7QaSpOo9AJv2frXd_q3JiaFRtxBdARG_s58imMPjeh-mDt-qVBtcXNbgWDdNTVP-jK70VONFjqrxFMr1ob-I&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/24 14:00_张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_布拉德球场（清流）
-http://frees.dfkj.live/migu/index.m3u8?auth=oMC2FIKE_7szNPpN4zftre1BbHhSXPNWiUBv6EV4XKnqgShPLkljB4kH7oqizoLMHxBPbe4QUz_N_BUi51VWhwdkMnWitSL59sKebhyk6bU&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/3/10000000117810627118.jpg" group-title="乒乓球经典赛事",09/24 14:00_【赛事放映厅】重温WTT中国大满贯：孙颖莎VS王曼昱_孙颖莎再现极致攻防问鼎女单_赛事重温
-http://frees.dfkj.live/migu/index.m3u8?auth=Mr2cmoQYWsHVG0zUxtIvzeGqBT2_rP0QZmfO8RpmuSIV2lVob7bKeHNWj39vk7XlCLAmB3ILzDHTTvNW1Pa1m3gpFRAnGSQfgUEXjekfygU&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/24 15:00_张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_李宁
-http://frees.dfkj.live/migu/index.m3u8?auth=_ZROAsBinQLU11lxpFDYBQBRDCbFKWWFxWHa-LKJ15mL8dQALyqSjyCxdUOAlXrvqpAI9WK6AFfQEaD1ayYJ1MsQVAmjC-h8RsMjHqeQlf4&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/24 17:00_塞尔比VS刘宏宇 吴宜泽迎战卡特_塞尔比VS刘宏宇 吴宜泽迎战卡特_1号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=HJPs0bYNkjmxbJI4rZtJk5ATFjw5SeYh76FOhKbGd_mkRrdHiqXOn0IQ9sF4bMGPXKi5-P98O5gCF7vl5vbfQ_zrdmQfPpfvW8epYtZVbdM&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/24 17:00_塞尔比VS刘宏宇 吴宜泽迎战卡特_塞尔比VS刘宏宇 吴宜泽迎战卡特_2号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=BabqC3SebI2BscpG6QSeNSHd_Emth5_0TJ1ZKYAvRBEnFZ7NtDxOJ-NGCRWAB7mMdCyO7fOPuXl8eSV45yhJYwnnFc1Pc9PYB7LZVdGN2M0&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/24 17:00_塞尔比VS刘宏宇 吴宜泽迎战卡特_塞尔比VS刘宏宇 吴宜泽迎战卡特_3号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=KsA-du3hJAgGQqWF5BKmDa3o_DhKg0XH2hv-GyCfKrF8KuU8m6cr3z3wSNlsYjx1UJlYb2SYsTdCvTh_I5Z5N0knkehQrC3mWzs06wh__4I&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/24 17:00_塞尔比VS刘宏宇 吴宜泽迎战卡特_塞尔比VS刘宏宇 吴宜泽迎战卡特_4号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=QrNcXPGa2UlQI3rGibMMVjLABTzghlCNQeFvRuYKYZwvYy0ZcycuVaduhn_r9mRgU9b6ygaEs-sIRlJtbZ3rbyiY5NNV13xDynzLW8tBSoU&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/100000001335106a4fe4.png" group-title="亚洲棒球锦标赛",09/24 18:30_中国台北vs中国香港_中国台北vs中国香港_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=eIppAFhccL9An5p4iBzSR7aSPL_tW6NoIKK5l_jj8fAWynN-BGVpHRid_11aejvgaL3TAnuq_kIiu1pBVas73Wf3RUeqKw99DfEbj9Xc5Ko&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/100000001335106a4fe4.png" group-title="亚洲棒球锦标赛",09/24 18:30_日本vs中国_日本vs中国_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=FTfD5g36fbb9yT-q3iHTFGwU5iD3ap7ZhOQ8Z_AX5N9O1qvveMjIV6XH5hlpA0cRWTer7EbMlkaH35JrE-cHBcwx99ViL2RrDPjoYOdfdaM&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/23/100000001339106e5473.png" group-title="无人机竞速世界杯",09/24 18:30_2025 年无人机竞速世界杯（上海站）第一日_2025 年无人机竞速世界杯（上海站）第一日_上海站
-http://frees.dfkj.live/migu/index.m3u8?auth=aGlsU-RdMyevjcuemcaTXwLNiDNw8IitNCfRf2mYFbeD4NYidsio_7-POAaZwELXQo7auRzbDJr-TKAEnyYHYf-aLobRvZVojVGjWVH-NGw&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/12/11/6M7K7K6STEBI.png" group-title="UFC白大拿挑战者系列赛",09/24 19:00_《白大拿挑战者系列赛》第九季第7周_《白大拿挑战者系列赛》第九季第7周_陈瑞阳
-http://frees.dfkj.live/migu/index.m3u8?auth=dfbDwGzqK0iQ9aJ6nuW9EUgWTW0oC2ZODD2nS0aj-alFrGp5rOBnBd_7oA5X4e-x61NmFwKD2uxOIyxBpWToG-s554ms9YDDwnvtj8_47V0&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="浙江省城市篮球联赛",09/24 19:30_宁波VS苍南_宁波VS苍南_浙江省城市篮球联赛: 宁波VS苍南
-http://frees.dfkj.live/migu/index.m3u8?auth=At6wSL6B4Zk_XV1AQYlj6-i6iKfTQldSpysrm8uRdDYwTO4-_1-vGzU0qUhSlL_W8d9A-Esqe11Eov5oaWUqs_smpuQWxCPLEilumg3ijjc&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/23/100000001340106011c4.png" group-title="全国匹克球锦标赛",09/24 19:30_“李宁杯”全国匹克球锦标赛开幕式_“李宁杯”全国匹克球锦标赛开幕式_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=KeZNk1GfARHeNQCycHWKdGXI7czD40hDiPzgVWE-nNTUjxb_V-T3DiWESgVbBdVu5YmwG-jHZgE1xnuSltntW_Z9RDbRQoAwCwWPuxxLNVI&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/24 20:00_塞尔比VS刘宏宇 吴宜泽迎战卡特_塞尔比VS刘宏宇 吴宜泽迎战卡特_解说
-http://frees.dfkj.live/migu/index.m3u8?auth=x3RH0F4Abrapxq5eWH3hXACcCb8Xuo2p1g7Uwyb8fNih9pObHaExS2b2OqAPZs-h9PRzcHfxBvc06ZXzVavqRiTmJFIxGUI6kybMQsd4NEk&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/24 22:45_意大利杯第二轮_帕尔马 vs 斯佩齐亚_刘腾
-http://frees.dfkj.live/migu/index.m3u8?auth=cvOh417qL52mFrdKnhdr1cCZDLrk3WUviZKEIvoWXcaRPNR7gJfduj1XKIMWc6l1m9OfwdV_l4LBrVZbnSmfEz6Yx057EOdwdRdt3QwWh7Q&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/24 22:45_意大利杯第二轮_帕尔马 vs 斯佩齐亚_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=UcPmfauNHeh1A59DXOCp7aTP3PGWVbU_KYy6hSDLEQZX-LAekWAD7BGjG5aRPdAeGlcYrw1B2rjDYtpEn1k0NnwtIguU-zpCZvvmxavKSVU&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/25 00:15_意大利杯第二轮_维罗纳 vs 威尼斯_刘焕
-http://frees.dfkj.live/migu/index.m3u8?auth=_YMwwGwe8NhhCK09lXVBfFiwupeNnXOJIbhhEouhByfvRJfgGwJSnvCFKfEDL7uuQJHwhbVnEQ7z1Ai7xA07tIcKlFY6Pv_skkEb2cgbPMc&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/25 00:15_意大利杯第二轮_维罗纳 vs 威尼斯_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=VSTIZg8WO7x64_1QrdQp31kw8-WVlFep3tOq7xT8a0EUdoPqGSQSb_B5G_BjDuFuPXbI_2DJ1JH62b6-QYconSawsWr0YYgwdl86LoWD84E&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 00:45_西甲联赛_赫塔费 vs 阿拉维斯_唐晖
-http://frees.dfkj.live/migu/index.m3u8?auth=Je870p04m_971rm0lpIB4YPCLNaCWT--r0TGupBLZTgu6KvDZ0QBREcGRslvE-IDGFJhbKWEB5nQFWB2CbJSg3Cnk8g69nm5LBabwmvfbdU&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 00:45_西甲联赛_赫塔费 vs 阿拉维斯_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=iIqO9VDKjH8GyBjtKD-xbeeGeHWl1J1yzHzyPIOMd1TM1uaU0mRHL9C46wX4_isAXWbVvxTWGI5jgr5Q8js8i4P32k0asNrpBp-hjnnhvxg&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 02:00_32进16_32进16_1号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=Ac0NeBImYEfRHto7bUhCpidv8XOVaghcqYbp5R6s08VTfpmUhfUDSF9wOjXt-VvLR_2BSM-SVa-PZNhfkJtbzd5qB8dbpukTLSca4hkGTHE&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 02:00_32进16_32进16_2号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=49ggxBEsaLOIVlbt1kAEEPRMUTlnLwwohzZOph-ic2wT41qpZ0ZvhuNAPT1Divbd5nci6_uFNAZ0fszCpfFtkpQn_sFfWBcMOgA_xWKWAU0&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 02:00_32进16_32进16_3号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=wE90ly99kCuSQl4qsYRnxRfOG3mfNj_6Yh1KTpDgXcuF-VziqultaS__hiYm99qqY12AhT6JOnd8c5IKGvWs392sCY2ZyJbIrADmWnXnkyM&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 02:00_32进16_32进16_4号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=VEU8rB-WFyo1km0Hip5MPG2_ku79KjejWaz7oQNmJP6yWUT6XHwxEQaQIieQjELhYNSBrbuhFiDcOiMHZZcO2WQPStHvGUj3Je0tTvb_vUs&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/25 02:45_意大利杯第二轮_科莫 vs 萨索洛_张天翼
-http://frees.dfkj.live/migu/index.m3u8?auth=8lNnHcoaWQxZTMOwoYm1bWSjjg8qMx9eeNY9XzgFqbSNhj0PS0slN_dSsXqgmaRjppN7enq6c5YUWiqZATruukmc6eti5wsp6xc1j-jOVEg&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/25 02:45_意大利杯第二轮_科莫 vs 萨索洛_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=vFKECcu2XZNLiu6LHUkr2EBAyH8cdFobT4y9tz-Hgk1OMB_TpzYBhOdV14ia2ORGwvtUfnKGdueL9KkAVg-QPyAB3i-fWlrmgf7TD8OU08g&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 03:15_西甲联赛_马德里竞技 vs 巴列卡诺_鹿中原 王宇
-http://frees.dfkj.live/migu/index.m3u8?auth=x00qgph63i645c7UoVA3DA6ga-Kjh0i6Qh4iN4u4MXUUGGs4K-eyt9SXJAf8yjnWYGtMcFgFW_PoUTDxZ3a0tZEYYeQb3o_OwcetYiCkUQs&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 03:15_西甲联赛_马德里竞技 vs 巴列卡诺_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=ET-z6I9gamSBza2gmnvjt0lcpaBte8q3gQ8tFGHFZGN1dXjiVjWMjFzjYscjO67VJAgHaaI3dAD5MAJA57a6U4t6tdXfPF0kLCJik3c8Jhw&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 03:15_西甲联赛_皇家社会 vs 马略卡_兰子非
-http://frees.dfkj.live/migu/index.m3u8?auth=0wLFvFwAGTr_oLLRM5AiCs7Ho6knbuHhxnf6yHoC-f6kohrr4Kwk0RF-O0R4U1XwDkfevmq9Bvn67q2AT4QwR-sTe6acoQfIeEdpRGK6w0I&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 03:15_西甲联赛_皇家社会 vs 马略卡_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=hHhRDyyYelwBd3fdFqJkPHXQ0_JLc-PoQ1We3peOtzMpzTHF0IT7ToB4UfOq2PvwyJMpYDk8GdImkXuqdUrfWpGMe0Dpe9qVy74miAOGaTQ&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="🌟央视卫视-①🌟",CCTV-1 综合
+https://migu.188766.xyz/?migutoken=ef76469d562e6b046408838201834c05&id=CCTV1&type=yy
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="🌟央视卫视-①🌟",CCTV-2 财经
+https://migu.188766.xyz/?migutoken=6d57adb358995effded16cf5d81e7b88&id=CCTV2&type=yy
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV3.png" group-title="🌟央视卫视-①🌟",CCTV-3 综艺
+https://migu.188766.xyz/?migutoken=6affbe7dc60d31c30820e80984cf9d0e&id=CCTV3&type=yy
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4.png" group-title="🌟央视卫视-①🌟",CCTV-4 中文国际
+https://migu.188766.xyz/?migutoken=1b357d0eb07834ceb7414a538e250829&id=CCTV4&type=yy
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5.png" group-title="🌟央视卫视-①🌟",CCTV-5 体育
+https://migu.188766.xyz/?migutoken=99b0e83fa2caf7eafce8db90abeeea3b&id=CCTV5&type=yy
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5+.png" group-title="🌟央视卫视-①🌟",CCTV-5+ 体育赛事
+https://migu.188766.xyz/?migutoken=fd86419324130805fdc9a46fd521c498&id=CCTV5p&type=yy
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV6.png" group-title="🌟央视卫视-①🌟",CCTV-6 电影
+https://migu.188766.xyz/?migutoken=0852bf4646dd8a751de02b2ae50caa41&id=CCTV6&type=yy
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV7.png" group-title="🌟央视卫视-①🌟",CCTV-7 国防军事
+https://migu.188766.xyz/?migutoken=325c7ee1e7bd40612087f7e0e11a9ac4&id=CCTV7&type=yy
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV8.png" group-title="🌟央视卫视-①🌟",CCTV-8 电视剧
+https://migu.188766.xyz/?migutoken=9fab49247d499dddc36d97342cd016eb&id=CCTV8&type=yy
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV9.png" group-title="🌟央视卫视-①🌟",CCTV-9 纪录
+https://migu.188766.xyz/?migutoken=988e4665905aa9be2f2be70dba22f65e&id=CCTV9&type=yy
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV10.png" group-title="🌟央视卫视-①🌟",CCTV-10 科教
+https://migu.188766.xyz/?migutoken=66fbb9e9fb62003c7934281d15d89971&id=CCTV10&type=yy
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV11.png" group-title="🌟央视卫视-①🌟",CCTV-11 戏曲
+https://migu.188766.xyz/?migutoken=52962648db442198c8de1515cc03c12e&id=CCTV11&type=yy
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV12.png" group-title="🌟央视卫视-①🌟",CCTV-12 社会与法
+https://migu.188766.xyz/?migutoken=65fbef490feed0a85fca1f7384727537&id=CCTV12&type=yy
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV13.png" group-title="🌟央视卫视-①🌟",CCTV-13 新闻
+https://migu.188766.xyz/?migutoken=569bc865cc3a6caf262fedcd0b68334d&id=CCTV13&type=yy
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV14.png" group-title="🌟央视卫视-①🌟",CCTV-14 少儿
+https://migu.188766.xyz/?migutoken=9bfcd2b9262d78c6cc98f653685a1b5c&id=CCTV14&type=yy
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV15.png" group-title="🌟央视卫视-①🌟",CCTV-15 音乐
+https://migu.188766.xyz/?migutoken=572bb4a932d25e21fa8cd7af204df5ae&id=CCTV15&type=yy
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV17.png" group-title="🌟央视卫视-①🌟",CCTV-17 农业农村
+https://migu.188766.xyz/?migutoken=98acaa27af22ac6d450d215b475dc39d&id=CCTV17&type=yy
