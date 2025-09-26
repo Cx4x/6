@@ -1,121 +1,273 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/100000001335106a4fe4.png" group-title="亚洲棒球锦标赛",09/24 18:30_中国台北vs中国香港_中国台北vs中国香港_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=eIppAFhccL9An5p4iBzSR7aSPL_tW6NoIKK5l_jj8fAWynN-BGVpHRid_11aejvgaL3TAnuq_kIiu1pBVas73Wf3RUeqKw99DfEbj9Xc5Ko&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/100000001335106a4fe4.png" group-title="亚洲棒球锦标赛",09/24 18:30_日本vs中国_日本vs中国_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=FTfD5g36fbb9yT-q3iHTFGwU5iD3ap7ZhOQ8Z_AX5N9O1qvveMjIV6XH5hlpA0cRWTer7EbMlkaH35JrE-cHBcwx99ViL2RrDPjoYOdfdaM&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/23/100000001339106e5473.png" group-title="无人机竞速世界杯",09/24 18:30_2025 年无人机竞速世界杯（上海站）第一日_2025 年无人机竞速世界杯（上海站）第一日_上海站
-http://frees.dfkj.live/migu/index.m3u8?auth=aGlsU-RdMyevjcuemcaTXwLNiDNw8IitNCfRf2mYFbeD4NYidsio_7-POAaZwELXQo7auRzbDJr-TKAEnyYHYf-aLobRvZVojVGjWVH-NGw&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/12/11/6M7K7K6STEBI.png" group-title="UFC白大拿挑战者系列赛",09/24 19:00_《白大拿挑战者系列赛》第九季第7周_《白大拿挑战者系列赛》第九季第7周_陈瑞阳
-http://frees.dfkj.live/migu/index.m3u8?auth=dfbDwGzqK0iQ9aJ6nuW9EUgWTW0oC2ZODD2nS0aj-alFrGp5rOBnBd_7oA5X4e-x61NmFwKD2uxOIyxBpWToG-s554ms9YDDwnvtj8_47V0&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="浙江省城市篮球联赛",09/24 19:30_宁波VS苍南_宁波VS苍南_浙江省城市篮球联赛: 宁波VS苍南
-http://frees.dfkj.live/migu/index.m3u8?auth=At6wSL6B4Zk_XV1AQYlj6-i6iKfTQldSpysrm8uRdDYwTO4-_1-vGzU0qUhSlL_W8d9A-Esqe11Eov5oaWUqs_smpuQWxCPLEilumg3ijjc&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/23/100000001340106011c4.png" group-title="全国匹克球锦标赛",09/24 19:30_“李宁杯”全国匹克球锦标赛开幕式_“李宁杯”全国匹克球锦标赛开幕式_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=KeZNk1GfARHeNQCycHWKdGXI7czD40hDiPzgVWE-nNTUjxb_V-T3DiWESgVbBdVu5YmwG-jHZgE1xnuSltntW_Z9RDbRQoAwCwWPuxxLNVI&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/24 20:00_塞尔比VS刘宏宇 吴宜泽迎战卡特_塞尔比VS刘宏宇 吴宜泽迎战卡特_解说
-http://frees.dfkj.live/migu/index.m3u8?auth=x3RH0F4Abrapxq5eWH3hXACcCb8Xuo2p1g7Uwyb8fNih9pObHaExS2b2OqAPZs-h9PRzcHfxBvc06ZXzVavqRiTmJFIxGUI6kybMQsd4NEk&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/24 22:45_意大利杯第二轮_帕尔马 vs 斯佩齐亚_刘腾
-http://frees.dfkj.live/migu/index.m3u8?auth=cvOh417qL52mFrdKnhdr1cCZDLrk3WUviZKEIvoWXcaRPNR7gJfduj1XKIMWc6l1m9OfwdV_l4LBrVZbnSmfEz6Yx057EOdwdRdt3QwWh7Q&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/24 22:45_意大利杯第二轮_帕尔马 vs 斯佩齐亚_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=UcPmfauNHeh1A59DXOCp7aTP3PGWVbU_KYy6hSDLEQZX-LAekWAD7BGjG5aRPdAeGlcYrw1B2rjDYtpEn1k0NnwtIguU-zpCZvvmxavKSVU&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/25 00:15_意大利杯第二轮_维罗纳 vs 威尼斯_刘焕
-http://frees.dfkj.live/migu/index.m3u8?auth=_YMwwGwe8NhhCK09lXVBfFiwupeNnXOJIbhhEouhByfvRJfgGwJSnvCFKfEDL7uuQJHwhbVnEQ7z1Ai7xA07tIcKlFY6Pv_skkEb2cgbPMc&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/25 00:15_意大利杯第二轮_维罗纳 vs 威尼斯_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=VSTIZg8WO7x64_1QrdQp31kw8-WVlFep3tOq7xT8a0EUdoPqGSQSb_B5G_BjDuFuPXbI_2DJ1JH62b6-QYconSawsWr0YYgwdl86LoWD84E&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 00:45_西甲联赛_赫塔费 vs 阿拉维斯_唐晖
-http://frees.dfkj.live/migu/index.m3u8?auth=Je870p04m_971rm0lpIB4YPCLNaCWT--r0TGupBLZTgu6KvDZ0QBREcGRslvE-IDGFJhbKWEB5nQFWB2CbJSg3Cnk8g69nm5LBabwmvfbdU&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 00:45_西甲联赛_赫塔费 vs 阿拉维斯_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=iIqO9VDKjH8GyBjtKD-xbeeGeHWl1J1yzHzyPIOMd1TM1uaU0mRHL9C46wX4_isAXWbVvxTWGI5jgr5Q8js8i4P32k0asNrpBp-hjnnhvxg&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 02:00_32进16_32进16_1号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=Ac0NeBImYEfRHto7bUhCpidv8XOVaghcqYbp5R6s08VTfpmUhfUDSF9wOjXt-VvLR_2BSM-SVa-PZNhfkJtbzd5qB8dbpukTLSca4hkGTHE&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 02:00_32进16_32进16_2号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=49ggxBEsaLOIVlbt1kAEEPRMUTlnLwwohzZOph-ic2wT41qpZ0ZvhuNAPT1Divbd5nci6_uFNAZ0fszCpfFtkpQn_sFfWBcMOgA_xWKWAU0&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 02:00_32进16_32进16_3号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=wE90ly99kCuSQl4qsYRnxRfOG3mfNj_6Yh1KTpDgXcuF-VziqultaS__hiYm99qqY12AhT6JOnd8c5IKGvWs392sCY2ZyJbIrADmWnXnkyM&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 02:00_32进16_32进16_4号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=VEU8rB-WFyo1km0Hip5MPG2_ku79KjejWaz7oQNmJP6yWUT6XHwxEQaQIieQjELhYNSBrbuhFiDcOiMHZZcO2WQPStHvGUj3Je0tTvb_vUs&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/25 02:45_意大利杯第二轮_科莫 vs 萨索洛_张天翼
-http://frees.dfkj.live/migu/index.m3u8?auth=8lNnHcoaWQxZTMOwoYm1bWSjjg8qMx9eeNY9XzgFqbSNhj0PS0slN_dSsXqgmaRjppN7enq6c5YUWiqZATruukmc6eti5wsp6xc1j-jOVEg&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/4/19/10000000076810647c0c.png" group-title="意大利杯",09/25 02:45_意大利杯第二轮_科莫 vs 萨索洛_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=vFKECcu2XZNLiu6LHUkr2EBAyH8cdFobT4y9tz-Hgk1OMB_TpzYBhOdV14ia2ORGwvtUfnKGdueL9KkAVg-QPyAB3i-fWlrmgf7TD8OU08g&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 03:15_西甲联赛_马德里竞技 vs 巴列卡诺_鹿中原 王宇
-http://frees.dfkj.live/migu/index.m3u8?auth=x00qgph63i645c7UoVA3DA6ga-Kjh0i6Qh4iN4u4MXUUGGs4K-eyt9SXJAf8yjnWYGtMcFgFW_PoUTDxZ3a0tZEYYeQb3o_OwcetYiCkUQs&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 03:15_西甲联赛_马德里竞技 vs 巴列卡诺_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=ET-z6I9gamSBza2gmnvjt0lcpaBte8q3gQ8tFGHFZGN1dXjiVjWMjFzjYscjO67VJAgHaaI3dAD5MAJA57a6U4t6tdXfPF0kLCJik3c8Jhw&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 03:15_西甲联赛_皇家社会 vs 马略卡_兰子非
-http://frees.dfkj.live/migu/index.m3u8?auth=0wLFvFwAGTr_oLLRM5AiCs7Ho6knbuHhxnf6yHoC-f6kohrr4Kwk0RF-O0R4U1XwDkfevmq9Bvn67q2AT4QwR-sTe6acoQfIeEdpRGK6w0I&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲",09/25 03:15_西甲联赛_皇家社会 vs 马略卡_赛场原声
-http://frees.dfkj.live/migu/index.m3u8?auth=hHhRDyyYelwBd3fdFqJkPHXQ0_JLc-PoQ1We3peOtzMpzTHF0IT7ToB4UfOq2PvwyJMpYDk8GdImkXuqdUrfWpGMe0Dpe9qVy74miAOGaTQ&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/23/100000001339106e5473.png" group-title="无人机竞速世界杯",09/25 09:00_2025年无人机竞速世界杯（上海站）第二日_2025年无人机竞速世界杯（上海站）第二日_上海站
-http://frees.dfkj.live/migu/index.m3u8?auth=2OFHzwx5lqRg--8EKliGrH7_AYKh6E_LPb-i2vDTWeFhb2RYSni6f7VOmaODOA1fxFW-l12gxXMkC4ydCdDF9ggBd7TLmjmQEDU0_SD_2yY&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT",09/25 11:00_徐海东领衔出战 周恺、徐奕冲正赛_徐海东领衔出战 周恺、徐奕冲正赛_周冠达
-http://frees.dfkj.live/migu/index.m3u8?auth=njLCi8amN1SZtIhMsZu2289mYYJH4LyHovJuohKt1b-Ks52Fype-1KcGgMlaFURXWaTnNVotn-4LzQ3RJwNAALg1NqXODP_rERpOJKvZc8I&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT",09/25 11:00_徐海东领衔出战 周恺、徐奕冲正赛_徐海东领衔出战 周恺、徐奕冲正赛_2号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=k4pXFUw-wWUepurU0YT2wijbxqCNWdGeddHdDGTP-x57EvCcEg4fJ4O5BpxKu3tlBxIipjy061m6B0XIc4GqjAtwJ6zlEhigQlwaCOCpdAM&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT",09/25 11:00_徐海东领衔出战 周恺、徐奕冲正赛_徐海东领衔出战 周恺、徐奕冲正赛_3号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=Ij-7X0A3wJBvOC4fBOYNhLPbkzCPFrlZejFjY8ta5RE2eWvhwlIfj9o4IMPYR9yJ8uO3cLm0qyhKxFDvvxABU3SB-LVovafBjabZaSyXC30&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT",09/25 11:00_徐海东领衔出战 周恺、徐奕冲正赛_徐海东领衔出战 周恺、徐奕冲正赛_4号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=6kmHi_6gnrMvWRw9I7F76owaeaRI4lYONOL0_kitb9tib2xkkSpM4hOyl3Ae55n8jCOwTa7NtFBbAxMzZWIinwrsfJL89t0nR__6hOjuoDM&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT",09/25 11:00_徐海东领衔出战 周恺、徐奕冲正赛_徐海东领衔出战 周恺、徐奕冲正赛_狂欢Yeah
-http://frees.dfkj.live/migu/index.m3u8?auth=C6r_GEjXKegW4fFwfy2Wy26BgFKkBrvPWNNOKXBlV0DCXq9R7oxvAF1jJWW_idiVQrQzbMKKtXJrixUY198YQb8UMyzZ4Qxg0zyq26D3CHo&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/19/1000000013371069b0c7.jpg" group-title="京山网球公开赛",09/25 11:00_2025京山网球公开赛Day6_2025京山网球公开赛Day6_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=XVjwQdIRGELndhyIir2cctefVXqRw4OVkb5A9AqUeVDSTyeVI5xPZ8E_yplgQlqi8XD_FdpKF3ORxWfGVBNPcr2PcNFbqmmSomsJ_vnrs6A&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_钻石球场清流
-http://frees.dfkj.live/migu/index.m3u8?auth=9dUPczbvoETNtDO1zj3N9pri-E8lCOodyZeJwuTFLQ_UGUYj23Mverz6boXodf1yJhyho1Cf0AXrAuBlH82imNuhawxINaEbHRA_fDjyoV4&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_钻石球场4K清流
-http://frees.dfkj.live/migu/index.m3u8?auth=sGEXauNxuXlWggfF-MaJ4goYp3OWDpcdLp8lB-xmNxm7P4UwXKto-MCP_fg-Ab3g9dEQzEDlyyiR5rk1xM4jmrceVPr5Q4pOVIyQjSa-8dE&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_莲花球场清流
-http://frees.dfkj.live/migu/index.m3u8?auth=qT-F_R_cb7GrpSTlr_Xv-YOuQktRCpskjWPezzY4hzQP3prLwfnhkdnv4K4RSHS1zHooaRMcPddeZ68Daae24m1srAfG1b45o_lEFVOvkYA&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_莲花球场4K清流
-http://frees.dfkj.live/migu/index.m3u8?auth=jWB_WdBCUq3Af8pofLGCkTLp7fhL56sih0mw7_YQqGgT4L4G3B3cvrXAE4HnkNtJeNlL4SSRhDPtR2sjryQ0Weh7siL54JVNLRVhoBE2eCM&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_映月球场清流
-http://frees.dfkj.live/migu/index.m3u8?auth=7FSTRz2Awm54v16bxcBk-YFShfUJfhF5r9BzGW59n7hc_C38NT9NjFMEo5tg3BEV_WbLmD_3vImmB1O-C8NGxglSTmFo9rhxc00ojGX_Ku4&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_布拉德球场清流
-http://frees.dfkj.live/migu/index.m3u8?auth=OjJ_-p47EwcKmqtfzcl9TIhBwBKMZ90wX4pgN4SCB65TUVmBbhemQy2_XOPIeoh90goFY3DTyHAMsvvL0Vta84C0RffPwRC1eajL4oEZN3Y&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_3号球场清流
-http://frees.dfkj.live/migu/index.m3u8?auth=VSSIzgXc1unss4DkNj6ruuvB2GUepexXjev70jV8YJW4bKX_-lt_He6Ll1kLycgrZdkHiI-Z3snxdiNRtIA4wnSx1faZldkuvO5_rJcKYLE&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_5号球场清流
-http://frees.dfkj.live/migu/index.m3u8?auth=jxnBbg36am9JuY7DEgN43-Kw0EbbVq79akaBfMOCPBniKJZwDD5M8GKMblwxZyi-RyIXqs7mIjH-LyKyX26N93MoyfnrlR2qGGl6TOz4IIo&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_单文强
-http://frees.dfkj.live/migu/index.m3u8?auth=M0nwIDCkMexpU24aa_XFGK5OCopdzz3exyqWWgMczjFeZf6ss0bJRDqh1MTGDIjs1A3ypo1Q_Lc6lltUkeSA2pDuTiVBYqTHr2vqc13PeOY&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_蔡凯臣
-http://frees.dfkj.live/migu/index.m3u8?auth=FQIShWsi1_SeXs76Tu0dblvVeHLe-q9LYNWO3nDGDHmFYAhqA_cwJFMWrBMjXmTp-pF0t8ar6qdIkMaZG_OYsvvOlRSDyeqiJKLCLH10A0M&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 11:30_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=Rlnhx3difdpMxLaIHEeWSbDYM0imx6VQO_DY3M-1xk6jF9XnNKXtubaobB85tJLb_eHSmaVscVkF-PoPd66ocUeKMqE1oIxzk0k5gJgOq3Q&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛",09/25 12:50_德清赛区第3站 小组赛第一轮及第二轮_德清赛区第3站 小组赛第一轮及第二轮_清流播出
-http://frees.dfkj.live/migu/index.m3u8?auth=WEEaghhCRFgbIQq3AuSkE2rUpmwnD4RoYWD6zIFZQ5c1odlgZfH5NrLCY-plnGNIdfExTIOPORj2CHvojFY3-tg1pf5hZoEVL238ZZpHcjo&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/11/100000001123106aab38.png" group-title="国际大体联足球世界杯",09/25 13:55_国际大体联足球世界杯_上海体育大学VS北京师范大学_官方信号
-http://frees.dfkj.live/migu/index.m3u8?auth=ewyCX2BflWJpiZM_GqM6tAKnui8htfuVXkAork_Em0mHhbTULNHTTISJIe3_PlLHvYqzvjnHjghTih8tdfk8TJP2kUm0mb3crSO6tymewH4&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/11/100000001123106aab38.png" group-title="国际大体联足球世界杯",09/25 13:55_国际大体联足球世界杯_拉瓦尔大学VS圣卡塔琳娜南部大学_官方信号
-http://frees.dfkj.live/migu/index.m3u8?auth=keMDmjpS_HGsIPa5e4YKmcBjb7o425iRspign-9EBx_hXXb_bbscs_BFiDEMtIfIkZJQ8dR9faxxknvCQxFO8ReFwqgB6rOMMIC9WZ0Gr5A&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 14:30_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_乔迁
-http://frees.dfkj.live/migu/index.m3u8?auth=m7TzIRN3zHmbvaGKSv3bOGVZZ7gxU4_KYxpeUJjEVAm2MroLEASDai-8qepalfIDRasK5TXHNFlGebPXnCyNGR_OjiWU7vlsATVzbe6zHk8&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/8/15/1000000013101069b2be.png" group-title="武汉城市足球超级联赛",09/25 14:55_高校组 华中科技大学vs武汉理工大学_高校组 华中科技大学vs武汉理工大学_2025汉超高校组第1轮 华中科技大学vs武汉理工大学
-http://frees.dfkj.live/migu/index.m3u8?auth=dh_lM_0XxvqpuF6B2F91xEXr5uZLLC4Uv7pzbzWDqmCEQUL-t6sequtAvkf02ulN-Vnp4RPPnf1iT5aJFdgQ6TTwPnEuqKPdSihydiWxcic&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 17:30_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_邱超
-http://frees.dfkj.live/migu/index.m3u8?auth=6xy8QmtNtqVg5PrzcS5G2zpiURbp8a8-7i1VSbJ92zfq0g3x3ZqCdTmgQsOXCWBSfnnysPDgRKaPSE-jlZYmo9Cv_b0IJa_uym8edwAErRs&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT",09/25 18:00_袁励岑冲击正赛 李和宸对决饭冢_袁励岑冲击正赛 李和宸对决饭冢_小马哥
-http://frees.dfkj.live/migu/index.m3u8?auth=zjpWpK925fX21G75EIPE1xvp6b-kL9AelC12hQC11soBTg_wz_gEhFqengTMGUnvepSzcD_5y-9NKALwFd4O5vkYqzuBOR3IUFwQPpTgwuQ&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT",09/25 18:00_袁励岑冲击正赛 李和宸对决饭冢_袁励岑冲击正赛 李和宸对决饭冢_2号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=9Cye4hgTCIAnwYlbpGp58qfGjtC8ObRfrY2AdzfclJdL8Ba5RO_Jug-O1yeMrh6iYwdc0JqVG47wy2D0MfbZw-9gvaEuK5lpOkS5UXmLnlU&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT",09/25 18:00_袁励岑冲击正赛 李和宸对决饭冢_袁励岑冲击正赛 李和宸对决饭冢_3号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=yRTcOpYQQWeRtVoEluc6ONRChCUwWZSXQJZ_6ZN0f960z3iXzZBES4DlSKunRw4lJN4ktCjQTVWZYIPbRzMh8_wpeHajfTor7a3XMDjmHHo&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/20/6LVBHPS7NQ3F.png" group-title="WTT",09/25 18:00_袁励岑冲击正赛 李和宸对决饭冢_袁励岑冲击正赛 李和宸对决饭冢_4号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=AFc_vQ8I9v5cXlknZ3kJhkHyP8hnmV8MepDJFUSt86nlezrQIhoBa0vN5VS1AzVoy-4sPvBRHtlKApjPZ1xkdL0XKd0KIUrLS2rOHcTU1Tk&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/4/1000000005511065bb48.jpg" group-title="超三联赛",09/25 18:50_德清赛区第3站 小组赛第三轮_德清赛区第3站 小组赛第三轮_张俊卿
-http://frees.dfkj.live/migu/index.m3u8?auth=_nXQ_sFuy80TkkM8tar-FYEhVghN2KliotQBoCu_JOU7W4r_7423G-aA_j8RjV_l_Ere63zB8CsSbqvBLwAw7tAxJNEb9U6oPgLtUNH8KHY&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 19:00_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_李宁
-http://frees.dfkj.live/migu/index.m3u8?auth=WrwAHKlcFNKhZiPadXt6LjUVd7oB4LwIm80DgzhXcVR4YUmlF4QBWtvrjN4UFmw0itmNy9oew1TWiw1_j1bMu0yPXGhZHWD4U4lbs1kkYds&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="浙江省城市篮球联赛",09/25 19:30_绍兴VS嘉兴_绍兴VS嘉兴_浙江省城市篮球联赛: 绍兴VS嘉兴
-http://frees.dfkj.live/migu/index.m3u8?auth=Rvt22SuC2CcLrETbT5OF0t6SCHDmk54M7CoTJyKsPqHtILjIguNE_yPjtFtWaLwXeKQ2c-8nnxZtdYqykkUFh1X7b4vH_t8YSDg038ixy0o&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 20:00_威廉姆斯PK艾伦 张安达VS肖国栋_威廉姆斯PK艾伦 张安达VS肖国栋_1号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=YZ4moJnnb0RFmstGiyVA6pQ9ulYS5SyfwvvlG245aGk4Pc62E6gOvABhm5EPwekCCR-eP2eRQsiRy2_nZtP770XlGbz9tXSCI4NKLZBypak&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 20:00_威廉姆斯PK艾伦 张安达VS肖国栋_威廉姆斯PK艾伦 张安达VS肖国栋_2号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=R_kwAu-8uDL60RjI_h3J0AUjvtYQ8tkuUHrT7OypMkIjonPngSHkingF1eN4Fc1zit3pFvIZhM6kJWDKPC3mg2UiW2FmYarhxqwL0CzdAMc&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 20:00_威廉姆斯PK艾伦 张安达VS肖国栋_威廉姆斯PK艾伦 张安达VS肖国栋_3号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=YQ7a_dl1LNL6FXlmDgnxtjri0c7e707XCnS-d0hClLLNf1wB3yh7vBmboaQASGdyAiI6ZZGAKUSOaOZB38duq2nrPoPYLCqR94zq34t9q54&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 20:00_威廉姆斯PK艾伦 张安达VS肖国栋_威廉姆斯PK艾伦 张安达VS肖国栋_4号桌
-http://frees.dfkj.live/migu/index.m3u8?auth=Ly_d4oK4fG5MGYsbfuy1tGUqR6NaXBjI_lON92KTQxuomJhdND2mIQAmGBIIEIS57KQMQGaYMVj7p25Dt3DE0cLTNp4_YMRD5hNnyrRpQCg&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克",09/25 20:00_威廉姆斯PK艾伦 张安达VS肖国栋_威廉姆斯PK艾伦 张安达VS肖国栋_朱峰立
-http://frees.dfkj.live/migu/index.m3u8?auth=TcOwttZKuGn2z1W153ZoKjcLp9eUp7S6rBCm9wRgdJw5eHXQ5ZyEdezMxukPuoVDyWqaTFFpzqclvx6bPWhFDdbgbpq5gqigvKo6oEeOBY4&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛",09/25 20:30_中国六金花出战 张之臻、辛纳登场_中国六金花出战 张之臻、辛纳登场_李宁
-http://frees.dfkj.live/migu/index.m3u8?auth=B7u70ddUyBUGQMg8pJZ7vn8lJ1a_hOhDGUa_BuqMa6c1RPbQFQhqHz2AaXE9qOVxMPVNSwo7SyHRFhH81_jKNrhm8Iwpf5uRNquND55U1UE&token=2d1jT0&q=a2a1aade0d92d21406a6645cc0432873
+#EXTM3U
+#EXTINF:-1,tvg-id="[意大利杯] 09月26日00:30 热那亚 vs 恩波利 涂远" tvg-name="[意大利杯] 09月26日00:30 热那亚 vs 恩波利 涂远" tvg-logo="https://epg.112114.xyz/logo/09月26日00:30热那亚VS恩波利涂远.png" group-title="咪咕体育",[意大利杯] 09月26日00:30 热那亚 vs 恩波利 涂远
+http://migu.lifit.uk/migu.php?id=958258044&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[意大利杯] 09月26日00:30 热那亚 vs 恩波利 赛场原声" tvg-name="[意大利杯] 09月26日00:30 热那亚 vs 恩波利 赛场原声" tvg-logo="https://epg.112114.xyz/logo/09月26日00:30热那亚VS恩波利赛场原声.png" group-title="咪咕体育",[意大利杯] 09月26日00:30 热那亚 vs 恩波利 赛场原声
+http://migu.lifit.uk/migu.php?id=958379746&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[西甲] 09月26日01:30 奥萨苏纳 vs 埃尔切 周楚雄" tvg-name="[西甲] 09月26日01:30 奥萨苏纳 vs 埃尔切 周楚雄" tvg-logo="https://epg.112114.xyz/logo/09月26日01:30奥萨苏纳VS埃尔切周楚雄.png" group-title="咪咕体育",[西甲] 09月26日01:30 奥萨苏纳 vs 埃尔切 周楚雄
+http://migu.lifit.uk/migu.php?id=958258258&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[西甲] 09月26日01:30 奥萨苏纳 vs 埃尔切 赛场原声" tvg-name="[西甲] 09月26日01:30 奥萨苏纳 vs 埃尔切 赛场原声" tvg-logo="https://epg.112114.xyz/logo/09月26日01:30奥萨苏纳VS埃尔切赛场原声.png" group-title="咪咕体育",[西甲] 09月26日01:30 奥萨苏纳 vs 埃尔切 赛场原声
+http://migu.lifit.uk/migu.php?id=958258246&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[斯诺克] 09月26日02:00 肖国栋2-4麦克吉尔 雷佩凡1-4老马 2号桌" tvg-name="[斯诺克] 09月26日02:00 肖国栋2-4麦克吉尔 雷佩凡1-4老马 2号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日02:00肖国栋24麦克吉尔雷佩凡14老马2号桌.png" group-title="咪咕体育",[斯诺克] 09月26日02:00 肖国栋2-4麦克吉尔 雷佩凡1-4老马 2号桌
+http://migu.lifit.uk/migu.php?id=958309464&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[斯诺克] 09月26日02:00 肖国栋2-4麦克吉尔 雷佩凡1-4老马 4号桌" tvg-name="[斯诺克] 09月26日02:00 肖国栋2-4麦克吉尔 雷佩凡1-4老马 4号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日02:00肖国栋24麦克吉尔雷佩凡14老马4号桌.png" group-title="咪咕体育",[斯诺克] 09月26日02:00 肖国栋2-4麦克吉尔 雷佩凡1-4老马 4号桌
+http://migu.lifit.uk/migu.php?id=958309619&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[意大利杯] 09月26日03:00 都灵 vs 比萨 乔迁" tvg-name="[意大利杯] 09月26日03:00 都灵 vs 比萨 乔迁" tvg-logo="https://epg.112114.xyz/logo/09月26日03:00都灵VS比萨乔迁.png" group-title="咪咕体育",[意大利杯] 09月26日03:00 都灵 vs 比萨 乔迁
+http://migu.lifit.uk/migu.php?id=958258096&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[意大利杯] 09月26日03:00 都灵 vs 比萨 赛场原声" tvg-name="[意大利杯] 09月26日03:00 都灵 vs 比萨 赛场原声" tvg-logo="https://epg.112114.xyz/logo/09月26日03:00都灵VS比萨赛场原声.png" group-title="咪咕体育",[意大利杯] 09月26日03:00 都灵 vs 比萨 赛场原声
+http://migu.lifit.uk/migu.php?id=958379772&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[西甲] 09月26日03:30 皇家奥维耶多 vs 巴塞罗那 张昊泽 李欣" tvg-name="[西甲] 09月26日03:30 皇家奥维耶多 vs 巴塞罗那 张昊泽 李欣" tvg-logo="https://epg.112114.xyz/logo/09月26日03:30皇家奥维耶多VS巴塞罗那张昊泽李欣.png" group-title="咪咕体育",[西甲] 09月26日03:30 皇家奥维耶多 vs 巴塞罗那 张昊泽 李欣
+http://migu.lifit.uk/migu.php?id=958258313&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[西甲] 09月26日03:30 皇家奥维耶多 vs 巴塞罗那 赛场原声" tvg-name="[西甲] 09月26日03:30 皇家奥维耶多 vs 巴塞罗那 赛场原声" tvg-logo="https://epg.112114.xyz/logo/09月26日03:30皇家奥维耶多VS巴塞罗那赛场原声.png" group-title="咪咕体育",[西甲] 09月26日03:30 皇家奥维耶多 vs 巴塞罗那 赛场原声
+http://migu.lifit.uk/migu.php?id=958258282&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[西甲] 09月26日03:30 皇家奥维耶多 vs 巴塞罗那 张昊泽 李欣" tvg-name="[西甲] 09月26日03:30 皇家奥维耶多 vs 巴塞罗那 张昊泽 李欣" tvg-logo="https://epg.112114.xyz/logo/09月26日03:30皇家奥维耶多VS巴塞罗那张昊泽李欣.png" group-title="咪咕体育",[西甲] 09月26日03:30 皇家奥维耶多 vs 巴塞罗那 张昊泽 李欣
+http://migu.lifit.uk/migu.php?id=958258354&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 2号桌" tvg-name="[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 2号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00陈俊菘迎开门红朱梓予力克简彤娟2号桌.png" group-title="咪咕体育",[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 2号桌
+http://migu.lifit.uk/migu.php?id=958205388&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 3号桌" tvg-name="[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 3号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00陈俊菘迎开门红朱梓予力克简彤娟3号桌.png" group-title="咪咕体育",[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 3号桌
+http://migu.lifit.uk/migu.php?id=958205397&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 4号桌" tvg-name="[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 4号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00陈俊菘迎开门红朱梓予力克简彤娟4号桌.png" group-title="咪咕体育",[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 4号桌
+http://migu.lifit.uk/migu.php?id=958205405&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 狂欢Yeah" tvg-name="[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 狂欢Yeah" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00陈俊菘迎开门红朱梓予力克简彤娟狂欢YEAH.png" group-title="咪咕体育",[WTT] 09月26日11:00 陈俊菘迎开门红 朱梓予力克简彤娟 狂欢Yeah
+http://migu.lifit.uk/migu.php?id=958389612&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[京山网球公开赛] 09月26日11:00 2025京山网球公开赛Day7 清流播出" tvg-name="[京山网球公开赛] 09月26日11:00 2025京山网球公开赛Day7 清流播出" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00京山网球公开赛DAY7清流播出.png" group-title="咪咕体育",[京山网球公开赛] 09月26日11:00 2025京山网球公开赛Day7 清流播出
+http://migu.lifit.uk/migu.php?id=958293031&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 钻石球场4K清流" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 钻石球场4K清流" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战钻石球场4K清流.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 钻石球场4K清流
+http://migu.lifit.uk/migu.php?id=958479983&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 蔡凯臣" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 蔡凯臣" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战蔡凯臣.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 蔡凯臣
+http://migu.lifit.uk/migu.php?id=958497079&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 3D全真视角" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 3D全真视角" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战3D全真视角.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 3D全真视角
+http://migu.lifit.uk/migu.php?id=958502748&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 单文强" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 单文强" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战单文强.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 单文强
+http://migu.lifit.uk/migu.php?id=958497360&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 莲花球场4K清流" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 莲花球场4K清流" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战莲花球场4K清流.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 莲花球场4K清流
+http://migu.lifit.uk/migu.php?id=958480112&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 乔迁" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 乔迁" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战乔迁.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 乔迁
+http://migu.lifit.uk/migu.php?id=958497277&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 映月球场清流" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 映月球场清流" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战映月球场清流.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 映月球场清流
+http://migu.lifit.uk/migu.php?id=958480183&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 钻石球场清流" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 钻石球场清流" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战钻石球场清流.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 钻石球场清流
+http://migu.lifit.uk/migu.php?id=958479870&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 莲花球场清流" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 莲花球场清流" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战莲花球场清流.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 莲花球场清流
+http://migu.lifit.uk/migu.php?id=958480054&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 布拉德球场清流" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 布拉德球场清流" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战布拉德球场清流.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 布拉德球场清流
+http://migu.lifit.uk/migu.php?id=958480226&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 3号球场清流" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 3号球场清流" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战3号球场清流.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 3号球场清流
+http://migu.lifit.uk/migu.php?id=958480264&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 4号球场清流" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 4号球场清流" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战4号球场清流.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 4号球场清流
+http://migu.lifit.uk/migu.php?id=958480332&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 5号球场清流" tvg-name="[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 5号球场清流" tvg-logo="https://epg.112114.xyz/logo/09月26日11:00小布出战王欣瑜、张帅上演德比战5号球场清流.png" group-title="咪咕体育",[中国网球公开赛] 09月26日11:00 小布出战 王欣瑜、张帅上演德比战 5号球场清流
+http://migu.lifit.uk/migu.php?id=958480295&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[亚洲棒球锦标赛] 09月26日12:30 中国香港 vs 巴基斯坦 清流播出" tvg-name="[亚洲棒球锦标赛] 09月26日12:30 中国香港 vs 巴基斯坦 清流播出" tvg-logo="https://epg.112114.xyz/logo/09月26日12:30中国香港VS巴基斯坦清流播出.png" group-title="香港",[亚洲棒球锦标赛] 09月26日12:30 中国香港 vs 巴基斯坦 清流播出
+http://migu.lifit.uk/migu.php?id=958305745&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[亚洲棒球锦标赛] 09月26日12:30 中国 vs 韩国 清流播出" tvg-name="[亚洲棒球锦标赛] 09月26日12:30 中国 vs 韩国 清流播出" tvg-logo="https://epg.112114.xyz/logo/09月26日12:30中国VS韩国清流播出.png" group-title="咪咕体育",[亚洲棒球锦标赛] 09月26日12:30 中国 vs 韩国 清流播出
+http://migu.lifit.uk/migu.php?id=958305753&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[全国匹克球锦标赛] 09月26日13:00 “李宁杯”全国匹克球锦标赛 第一日 清流播出" tvg-name="[全国匹克球锦标赛] 09月26日13:00 “李宁杯”全国匹克球锦标赛 第一日 清流播出" tvg-logo="https://epg.112114.xyz/logo/09月26日13:00“李宁杯”全国匹克球锦标赛第一日清流播出.png" group-title="咪咕体育",[全国匹克球锦标赛] 09月26日13:00 “李宁杯”全国匹克球锦标赛 第一日 清流播出
+http://migu.lifit.uk/migu.php?id=958433084&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[武汉城市足球超级联赛] 09月26日15:00 高校组 武昌职业学院vs华中师范大学 清流" tvg-name="[武汉城市足球超级联赛] 09月26日15:00 高校组 武昌职业学院vs华中师范大学 清流" tvg-logo="https://epg.112114.xyz/logo/09月26日15:00高校组武昌职业学院VS华中师范大学清流.png" group-title="咪咕体育",[武汉城市足球超级联赛] 09月26日15:00 高校组 武昌职业学院vs华中师范大学 清流
+http://migu.lifit.uk/migu.php?id=958510051&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[武汉城市足球超级联赛] 09月26日15:00 高校组 武汉城市职业学院vs江汉大学 清流" tvg-name="[武汉城市足球超级联赛] 09月26日15:00 高校组 武汉城市职业学院vs江汉大学 清流" tvg-logo="https://epg.112114.xyz/logo/09月26日15:00高校组武汉城市职业学院VS江汉大学清流.png" group-title="咪咕体育",[武汉城市足球超级联赛] 09月26日15:00 高校组 武汉城市职业学院vs江汉大学 清流
+http://migu.lifit.uk/migu.php?id=958510105&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[武汉城市足球超级联赛] 09月26日15:00 高校组 武汉体育学院vs武汉大学 2025武汉城市足球超级联赛: 高校组 武汉体育学院vs武汉大学" tvg-name="[武汉城市足球超级联赛] 09月26日15:00 高校组 武汉体育学院vs武汉大学 2025武汉城市足球超级联赛: 高校组 武汉体育学院vs武汉大学" tvg-logo="https://epg.112114.xyz/logo/09月26日15:00高校组武汉体育学院VS武汉大学武汉城市足球超级联赛:高校组武汉体育学院VS武汉大学.png" group-title="咪咕体育",[武汉城市足球超级联赛] 09月26日15:00 高校组 武汉体育学院vs武汉大学 2025武汉城市足球超级联赛: 高校组 武汉体育学院vs武汉大学
+http://migu.lifit.uk/migu.php?id=958510134&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[无人机竞速世界杯] 09月26日15:30 2025 年无人机竞速世界杯（上海站）第三日 上海站" tvg-name="[无人机竞速世界杯] 09月26日15:30 2025 年无人机竞速世界杯（上海站）第三日 上海站" tvg-logo="https://epg.112114.xyz/logo/09月26日15:30年无人机竞速世界杯（上海站）第三日上海站.png" group-title="上海",[无人机竞速世界杯] 09月26日15:30 2025 年无人机竞速世界杯（上海站）第三日 上海站
+http://migu.lifit.uk/migu.php?id=958416042&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日16:30 孙颖莎、王楚钦、雨果、迪亚兹出席 周冠达 侯英超 周雨" tvg-name="[WTT] 09月26日16:30 孙颖莎、王楚钦、雨果、迪亚兹出席 周冠达 侯英超 周雨" tvg-logo="https://epg.112114.xyz/logo/09月26日16:30孙颖莎、王楚钦、雨果、迪亚兹出席周冠达侯英超周雨.png" group-title="咪咕体育",[WTT] 09月26日16:30 孙颖莎、王楚钦、雨果、迪亚兹出席 周冠达 侯英超 周雨
+http://migu.lifit.uk/migu.php?id=958420072&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日16:30 孙颖莎、王楚钦、雨果、迪亚兹出席 清流" tvg-name="[WTT] 09月26日16:30 孙颖莎、王楚钦、雨果、迪亚兹出席 清流" tvg-logo="https://epg.112114.xyz/logo/09月26日16:30孙颖莎、王楚钦、雨果、迪亚兹出席清流.png" group-title="咪咕体育",[WTT] 09月26日16:30 孙颖莎、王楚钦、雨果、迪亚兹出席 清流
+http://migu.lifit.uk/migu.php?id=958420153&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[国际柔联柔道大奖赛] 09月26日17:00 女子组：-48公斤级、-52公斤级、-57公斤级决赛；男子组：-60kg、-66kg决赛 现场原声" tvg-name="[国际柔联柔道大奖赛] 09月26日17:00 女子组：-48公斤级、-52公斤级、-57公斤级决赛；男子组：-60kg、-66kg决赛 现场原声" tvg-logo="https://epg.112114.xyz/logo/09月26日17:00女子组：48公斤级、52公斤级、57公斤级决赛；男子组：60KG、66KG决赛现场原声.png" group-title="咪咕体育",[国际柔联柔道大奖赛] 09月26日17:00 女子组：-48公斤级、-52公斤级、-57公斤级决赛；男子组：-60kg、-66kg决赛 现场原声
+http://migu.lifit.uk/migu.php?id=958450926&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球.png" group-title="咪咕体育",[CBA] 无标题 篮球公园对话廖三宁！见证金牛卫冕 篮球公园
+http://migu.lifit.uk/migu.php?id=958479005&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中超] 09月26日18:00 上海申花 vs 梅州客家 梁祥宇 黄健翔 姚安妮" tvg-name="[中超] 09月26日18:00 上海申花 vs 梅州客家 梁祥宇 黄健翔 姚安妮" tvg-logo="https://epg.112114.xyz/logo/09月26日18:00上海申花VS梅州客家梁祥宇黄健翔姚安妮.png" group-title="上海",[中超] 09月26日18:00 上海申花 vs 梅州客家 梁祥宇 黄健翔 姚安妮
+http://migu.lifit.uk/migu.php?id=958452117&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中超] 09月26日18:00 上海申花 vs 梅州客家 赛场原声" tvg-name="[中超] 09月26日18:00 上海申花 vs 梅州客家 赛场原声" tvg-logo="https://epg.112114.xyz/logo/09月26日18:00上海申花VS梅州客家赛场原声.png" group-title="上海",[中超] 09月26日18:00 上海申花 vs 梅州客家 赛场原声
+http://migu.lifit.uk/migu.php?id=958452077&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 小马哥" tvg-name="[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 小马哥" tvg-logo="https://epg.112114.xyz/logo/09月26日18:00杨屹韵VS高桥·朱丽叶徐海东出战小马哥.png" group-title="咪咕体育",[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 小马哥
+http://migu.lifit.uk/migu.php?id=958420259&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 2号桌" tvg-name="[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 2号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日18:00杨屹韵VS高桥·朱丽叶徐海东出战2号桌.png" group-title="咪咕体育",[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 2号桌
+http://migu.lifit.uk/migu.php?id=958205412&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 3号桌" tvg-name="[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 3号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日18:00杨屹韵VS高桥·朱丽叶徐海东出战3号桌.png" group-title="咪咕体育",[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 3号桌
+http://migu.lifit.uk/migu.php?id=958205428&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 4号桌" tvg-name="[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 4号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日18:00杨屹韵VS高桥·朱丽叶徐海东出战4号桌.png" group-title="咪咕体育",[WTT] 09月26日18:00 杨屹韵vs高桥·朱丽叶 徐海东出战 4号桌
+http://migu.lifit.uk/migu.php?id=958205434&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[超三联赛] 09月26日18:00 德清赛区第3站 淘汰赛及决赛 蔡凯臣" tvg-name="[超三联赛] 09月26日18:00 德清赛区第3站 淘汰赛及决赛 蔡凯臣" tvg-logo="https://epg.112114.xyz/logo/09月26日18:00德清赛区第3站淘汰赛及决赛蔡凯臣.png" group-title="咪咕体育",[超三联赛] 09月26日18:00 德清赛区第3站 淘汰赛及决赛 蔡凯臣
+http://migu.lifit.uk/migu.php?id=958449416&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[国际大体联足球世界杯] 09月26日18:00 保利斯塔大学VS乔伊杜卡利大学 清流播出" tvg-name="[国际大体联足球世界杯] 09月26日18:00 保利斯塔大学VS乔伊杜卡利大学 清流播出" tvg-logo="https://epg.112114.xyz/logo/09月26日18:00保利斯塔大学VS乔伊杜卡利大学清流播出.png" group-title="咪咕体育",[国际大体联足球世界杯] 09月26日18:00 保利斯塔大学VS乔伊杜卡利大学 清流播出
+http://migu.lifit.uk/migu.php?id=958480712&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[国际大体联足球世界杯] 09月26日18:00 发展研究大学VS格拉纳达大学 清流播出" tvg-name="[国际大体联足球世界杯] 09月26日18:00 发展研究大学VS格拉纳达大学 清流播出" tvg-logo="https://epg.112114.xyz/logo/09月26日18:00发展研究大学VS格拉纳达大学清流播出.png" group-title="咪咕体育",[国际大体联足球世界杯] 09月26日18:00 发展研究大学VS格拉纳达大学 清流播出
+http://migu.lifit.uk/migu.php?id=958480716&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[亚洲棒球锦标赛] 09月26日18:30 日本 vs 中国台北 清流播出" tvg-name="[亚洲棒球锦标赛] 09月26日18:30 日本 vs 中国台北 清流播出" tvg-logo="https://epg.112114.xyz/logo/09月26日18:30日本VS中国台北清流播出.png" group-title="咪咕体育",[亚洲棒球锦标赛] 09月26日18:30 日本 vs 中国台北 清流播出
+http://migu.lifit.uk/migu.php?id=958305769&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[亚洲棒球锦标赛] 09月26日18:30 巴勒斯坦 vs 菲律宾 清流播出" tvg-name="[亚洲棒球锦标赛] 09月26日18:30 巴勒斯坦 vs 菲律宾 清流播出" tvg-logo="https://epg.112114.xyz/logo/09月26日18:30巴勒斯坦VS菲律宾清流播出.png" group-title="咪咕体育",[亚洲棒球锦标赛] 09月26日18:30 巴勒斯坦 vs 菲律宾 清流播出
+http://migu.lifit.uk/migu.php?id=958305761&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中乙] 09月26日19:00 广西恒宸vs海门珂缔缘 解说" tvg-name="[中乙] 09月26日19:00 广西恒宸vs海门珂缔缘 解说" tvg-logo="https://epg.112114.xyz/logo/09月26日19:00广西恒宸VS海门珂缔缘解说.png" group-title="咪咕体育",[中乙] 09月26日19:00 广西恒宸vs海门珂缔缘 解说
+http://migu.lifit.uk/migu.php?id=958480807&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中甲] 09月26日19:30 佛山南狮 vs 广西平果 解说" tvg-name="[中甲] 09月26日19:30 佛山南狮 vs 广西平果 解说" tvg-logo="https://epg.112114.xyz/logo/09月26日19:30佛山南狮VS广西平果解说.png" group-title="咪咕体育",[中甲] 09月26日19:30 佛山南狮 vs 广西平果 解说
+http://migu.lifit.uk/migu.php?id=958440832&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中甲] 09月26日19:30 青岛红狮 vs 石家庄功夫 解说" tvg-name="[中甲] 09月26日19:30 青岛红狮 vs 石家庄功夫 解说" tvg-logo="https://epg.112114.xyz/logo/09月26日19:30青岛红狮VS石家庄功夫解说.png" group-title="咪咕体育",[中甲] 09月26日19:30 青岛红狮 vs 石家庄功夫 解说
+http://migu.lifit.uk/migu.php?id=958440773&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中甲] 09月26日19:30 南通支云 vs 陕西联合 解说" tvg-name="[中甲] 09月26日19:30 南通支云 vs 陕西联合 解说" tvg-logo="https://epg.112114.xyz/logo/09月26日19:30南通支云VS陕西联合解说.png" group-title="陕西",[中甲] 09月26日19:30 南通支云 vs 陕西联合 解说
+http://migu.lifit.uk/migu.php?id=958440717&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球.png" group-title="浙江",[浙江省城市篮球联赛] 09月26日19:30 永康VS衢州 浙江省城市篮球联赛: 永康VS衢州
+http://migu.lifit.uk/migu.php?id=958386696&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球.png" group-title="浙江",[浙江省城市篮球联赛] 09月26日19:30 长兴VS丽水 浙江省城市篮球联赛: 长兴VS丽水
+http://migu.lifit.uk/migu.php?id=958386749&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中超] 09月26日19:35 北京国安 vs 大连英博 苏东 徐阳 李子琪" tvg-name="[中超] 09月26日19:35 北京国安 vs 大连英博 苏东 徐阳 李子琪" tvg-logo="https://epg.112114.xyz/logo/09月26日19:35北京国安VS大连英博苏东徐阳李子琪.png" group-title="北京",[中超] 09月26日19:35 北京国安 vs 大连英博 苏东 徐阳 李子琪
+http://migu.lifit.uk/migu.php?id=958452216&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中超] 09月26日19:35 北京国安 vs 大连英博 赛场原声" tvg-name="[中超] 09月26日19:35 北京国安 vs 大连英博 赛场原声" tvg-logo="https://epg.112114.xyz/logo/09月26日19:35北京国安VS大连英博赛场原声.png" group-title="北京",[中超] 09月26日19:35 北京国安 vs 大连英博 赛场原声
+http://migu.lifit.uk/migu.php?id=958452165&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[湖南省足球联赛] 09月26日19:38 常德vs张家界 清流播出" tvg-name="[湖南省足球联赛] 09月26日19:38 常德vs张家界 清流播出" tvg-logo="https://epg.112114.xyz/logo/09月26日19:38常德VS张家界清流播出.png" group-title="湖南",[湖南省足球联赛] 09月26日19:38 常德vs张家界 清流播出
+http://migu.lifit.uk/migu.php?id=958506330&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中超] 09月26日20:00 上海海港 vs 武汉三镇 娄一晨 刘越 魏欣怡" tvg-name="[中超] 09月26日20:00 上海海港 vs 武汉三镇 娄一晨 刘越 魏欣怡" tvg-logo="https://epg.112114.xyz/logo/09月26日20:00上海海港VS武汉三镇娄一晨刘越魏欣怡.png" group-title="上海",[中超] 09月26日20:00 上海海港 vs 武汉三镇 娄一晨 刘越 魏欣怡
+http://migu.lifit.uk/migu.php?id=958501113&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中超] 09月26日20:00 上海海港 vs 武汉三镇 4K赛场原声" tvg-name="[中超] 09月26日20:00 上海海港 vs 武汉三镇 4K赛场原声" tvg-logo="https://epg.112114.xyz/logo/09月26日20:00上海海港VS武汉三镇4K赛场原声.png" group-title="上海",[中超] 09月26日20:00 上海海港 vs 武汉三镇 4K赛场原声
+http://migu.lifit.uk/migu.php?id=958501150&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中超] 09月26日20:00 浙江 vs 成都蓉城 袁甲 李欣 林梦鸽" tvg-name="[中超] 09月26日20:00 浙江 vs 成都蓉城 袁甲 李欣 林梦鸽" tvg-logo="https://epg.112114.xyz/logo/09月26日20:00浙江VS成都蓉城袁甲李欣林梦鸽.png" group-title="浙江",[中超] 09月26日20:00 浙江 vs 成都蓉城 袁甲 李欣 林梦鸽
+http://migu.lifit.uk/migu.php?id=958452354&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中超] 09月26日20:00 浙江 vs 成都蓉城 赛场原声" tvg-name="[中超] 09月26日20:00 浙江 vs 成都蓉城 赛场原声" tvg-logo="https://epg.112114.xyz/logo/09月26日20:00浙江VS成都蓉城赛场原声.png" group-title="浙江",[中超] 09月26日20:00 浙江 vs 成都蓉城 赛场原声
+http://migu.lifit.uk/migu.php?id=958452336&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[斯诺克] 09月26日20:00 马叔PK塞尔比 穆迪出战 1号桌" tvg-name="[斯诺克] 09月26日20:00 马叔PK塞尔比 穆迪出战 1号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日20:00马叔PK塞尔比穆迪出战1号桌.png" group-title="咪咕体育",[斯诺克] 09月26日20:00 马叔PK塞尔比 穆迪出战 1号桌
+http://migu.lifit.uk/migu.php?id=958309636&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[斯诺克] 09月26日20:00 马叔PK塞尔比 穆迪出战 2号桌" tvg-name="[斯诺克] 09月26日20:00 马叔PK塞尔比 穆迪出战 2号桌" tvg-logo="https://epg.112114.xyz/logo/09月26日20:00马叔PK塞尔比穆迪出战2号桌.png" group-title="咪咕体育",[斯诺克] 09月26日20:00 马叔PK塞尔比 穆迪出战 2号桌
+http://migu.lifit.uk/migu.php?id=958309652&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[斯诺克] 09月26日20:00 马叔PK塞尔比 穆迪出战 柏林" tvg-name="[斯诺克] 09月26日20:00 马叔PK塞尔比 穆迪出战 柏林" tvg-logo="https://epg.112114.xyz/logo/09月26日20:00马叔PK塞尔比穆迪出战柏林.png" group-title="咪咕体育",[斯诺克] 09月26日20:00 马叔PK塞尔比 穆迪出战 柏林
+http://migu.lifit.uk/migu.php?id=958309664&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[斯诺克] 09月27日02:00 1/4决赛：墨菲、希金斯出战" tvg-name="[斯诺克] 09月27日02:00 1/4决赛：墨菲、希金斯出战" tvg-logo="https://epg.112114.xyz/logo/09月27日02:001/4决赛：墨菲、希金斯出战.png" group-title="咪咕体育",[斯诺克] 09月27日02:00 1/4决赛：墨菲、希金斯出战
+http://migu.lifit.uk/migu.php?id=958309679&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[德甲] 09月27日02:30 拜仁慕尼黑 vs 不来梅" tvg-name="[德甲] 09月27日02:30 拜仁慕尼黑 vs 不来梅" tvg-logo="https://epg.112114.xyz/logo/09月27日02:30拜仁慕尼黑VS不来梅.png" group-title="咪咕体育",[德甲] 09月27日02:30 拜仁慕尼黑 vs 不来梅
+http://migu.lifit.uk/migu.php?id=958482153&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[法甲] 09月27日02:45 斯特拉斯堡 vs 马赛" tvg-name="[法甲] 09月27日02:45 斯特拉斯堡 vs 马赛" tvg-logo="https://epg.112114.xyz/logo/09月27日02:45斯特拉斯堡VS马赛.png" group-title="咪咕体育",[法甲] 09月27日02:45 斯特拉斯堡 vs 马赛
+http://migu.lifit.uk/migu.php?id=958482460&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[西甲] 09月27日03:00 赫罗纳 vs 西班牙人" tvg-name="[西甲] 09月27日03:00 赫罗纳 vs 西班牙人" tvg-logo="https://epg.112114.xyz/logo/09月27日03:00赫罗纳VS西班牙人.png" group-title="咪咕体育",[西甲] 09月27日03:00 赫罗纳 vs 西班牙人
+http://migu.lifit.uk/migu.php?id=958482712&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[无人机竞速世界杯] 09月27日10:00 2025年无人机竞速世界杯（上海站）第四日" tvg-name="[无人机竞速世界杯] 09月27日10:00 2025年无人机竞速世界杯（上海站）第四日" tvg-logo="https://epg.112114.xyz/logo/09月27日10:00年无人机竞速世界杯（上海站）第四日.png" group-title="上海",[无人机竞速世界杯] 09月27日10:00 2025年无人机竞速世界杯（上海站）第四日
+http://migu.lifit.uk/migu.php?id=958416003&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[乌鲁木齐城市足球联赛] 09月27日11:00 水磨沟区VS经开区（头屯河区）" tvg-name="[乌鲁木齐城市足球联赛] 09月27日11:00 水磨沟区VS经开区（头屯河区）" tvg-logo="https://epg.112114.xyz/logo/09月27日11:00水磨沟区VS经开区（头屯河区）.png" group-title="咪咕体育",[乌鲁木齐城市足球联赛] 09月27日11:00 水磨沟区VS经开区（头屯河区）
+http://migu.lifit.uk/migu.php?id=958175363&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月27日11:00 男女单打资格赛1/16决赛" tvg-name="[WTT] 09月27日11:00 男女单打资格赛1/16决赛" tvg-logo="https://epg.112114.xyz/logo/09月27日11:00男女单打资格赛1/16决赛.png" group-title="咪咕体育",[WTT] 09月27日11:00 男女单打资格赛1/16决赛
+http://migu.lifit.uk/migu.php?id=958400953&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[京山网球公开赛] 09月27日11:00 2025京山网球公开赛Day8" tvg-name="[京山网球公开赛] 09月27日11:00 2025京山网球公开赛Day8" tvg-logo="https://epg.112114.xyz/logo/09月27日11:00京山网球公开赛DAY8.png" group-title="咪咕体育",[京山网球公开赛] 09月27日11:00 2025京山网球公开赛Day8
+http://migu.lifit.uk/migu.php?id=958293084&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中国网球公开赛] 09月27日11:00 中国网球公开赛正赛Day4" tvg-name="[中国网球公开赛] 09月27日11:00 中国网球公开赛正赛Day4" tvg-logo="https://epg.112114.xyz/logo/09月27日11:00中国网球公开赛正赛DAY4.png" group-title="咪咕体育",[中国网球公开赛] 09月27日11:00 中国网球公开赛正赛Day4
+http://migu.lifit.uk/migu.php?id=958480381&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[亚洲棒球锦标赛] 09月27日12:30 巴勒斯坦 vs 巴基斯坦" tvg-name="[亚洲棒球锦标赛] 09月27日12:30 巴勒斯坦 vs 巴基斯坦" tvg-logo="https://epg.112114.xyz/logo/09月27日12:30巴勒斯坦VS巴基斯坦.png" group-title="咪咕体育",[亚洲棒球锦标赛] 09月27日12:30 巴勒斯坦 vs 巴基斯坦
+http://migu.lifit.uk/migu.php?id=958305777&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[亚洲棒球锦标赛] 09月27日12:30 中国台北 vs 中国" tvg-name="[亚洲棒球锦标赛] 09月27日12:30 中国台北 vs 中国" tvg-logo="https://epg.112114.xyz/logo/09月27日12:30中国台北VS中国.png" group-title="咪咕体育",[亚洲棒球锦标赛] 09月27日12:30 中国台北 vs 中国
+http://migu.lifit.uk/migu.php?id=958305786&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[全国匹克球锦标赛] 09月27日13:00 “李宁杯”全国匹克球锦标赛 第二日" tvg-name="[全国匹克球锦标赛] 09月27日13:00 “李宁杯”全国匹克球锦标赛 第二日" tvg-logo="https://epg.112114.xyz/logo/09月27日13:00“李宁杯”全国匹克球锦标赛第二日.png" group-title="咪咕体育",[全国匹克球锦标赛] 09月27日13:00 “李宁杯”全国匹克球锦标赛 第二日
+http://migu.lifit.uk/migu.php?id=958433115&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中甲] 09月27日15:00 延边龙鼎 vs 重庆铜梁龙" tvg-name="[中甲] 09月27日15:00 延边龙鼎 vs 重庆铜梁龙" tvg-logo="https://epg.112114.xyz/logo/09月27日15:00延边龙鼎VS重庆铜梁龙.png" group-title="重庆",[中甲] 09月27日15:00 延边龙鼎 vs 重庆铜梁龙
+http://migu.lifit.uk/migu.php?id=958440969&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[四川省城市足球联赛] 09月27日15:00 广安板楯蛮队 VS 达州川汉子队" tvg-name="[四川省城市足球联赛] 09月27日15:00 广安板楯蛮队 VS 达州川汉子队" tvg-logo="https://epg.112114.xyz/logo/09月27日15:00广安板楯蛮队VS达州川汉子队.png" group-title="四川",[四川省城市足球联赛] 09月27日15:00 广安板楯蛮队 VS 达州川汉子队
+http://migu.lifit.uk/migu.php?id=958252665&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[四川省城市足球联赛] 09月27日15:00 内江重龍酒队 VS 资阳中国牙谷队" tvg-name="[四川省城市足球联赛] 09月27日15:00 内江重龍酒队 VS 资阳中国牙谷队" tvg-logo="https://epg.112114.xyz/logo/09月27日15:00内江重龍酒队VS资阳中国牙谷队.png" group-title="四川",[四川省城市足球联赛] 09月27日15:00 内江重龍酒队 VS 资阳中国牙谷队
+http://migu.lifit.uk/migu.php?id=958252707&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[四川省城市足球联赛] 09月27日15:00 甘孜州有机牦牛队 VS 德阳重装队" tvg-name="[四川省城市足球联赛] 09月27日15:00 甘孜州有机牦牛队 VS 德阳重装队" tvg-logo="https://epg.112114.xyz/logo/09月27日15:00甘孜州有机牦牛队VS德阳重装队.png" group-title="四川",[四川省城市足球联赛] 09月27日15:00 甘孜州有机牦牛队 VS 德阳重装队
+http://migu.lifit.uk/migu.php?id=958252761&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[四川省城市足球联赛] 09月27日15:30 雅安貊貊队 VS 乐山味道非常队" tvg-name="[四川省城市足球联赛] 09月27日15:30 雅安貊貊队 VS 乐山味道非常队" tvg-logo="https://epg.112114.xyz/logo/09月27日15:30雅安貊貊队VS乐山味道非常队.png" group-title="四川",[四川省城市足球联赛] 09月27日15:30 雅安貊貊队 VS 乐山味道非常队
+http://migu.lifit.uk/migu.php?id=958252679&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中乙] 09月27日16:00 广东铭途vs兰州陇原竞技" tvg-name="[中乙] 09月27日16:00 广东铭途vs兰州陇原竞技" tvg-logo="https://epg.112114.xyz/logo/09月27日16:00广东铭途VS兰州陇原竞技.png" group-title="广东",[中乙] 09月27日16:00 广东铭途vs兰州陇原竞技
+http://migu.lifit.uk/migu.php?id=958480824&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中乙] 09月27日16:00 上海海港富盛经开vs泉州亚新" tvg-name="[中乙] 09月27日16:00 上海海港富盛经开vs泉州亚新" tvg-logo="https://epg.112114.xyz/logo/09月27日16:00上海海港富盛经开VS泉州亚新.png" group-title="上海",[中乙] 09月27日16:00 上海海港富盛经开vs泉州亚新
+http://migu.lifit.uk/migu.php?id=958480832&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中乙] 09月27日16:00 昆明城星vs江西庐山" tvg-name="[中乙] 09月27日16:00 昆明城星vs江西庐山" tvg-logo="https://epg.112114.xyz/logo/09月27日16:00昆明城星VS江西庐山.png" group-title="江西",[中乙] 09月27日16:00 昆明城星vs江西庐山
+http://migu.lifit.uk/migu.php?id=958480838&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[乌鲁木齐城市足球联赛] 09月27日16:00 乌鲁木齐县VS达坂城区" tvg-name="[乌鲁木齐城市足球联赛] 09月27日16:00 乌鲁木齐县VS达坂城区" tvg-logo="https://epg.112114.xyz/logo/09月27日16:00乌鲁木齐县VS达坂城区.png" group-title="咪咕体育",[乌鲁木齐城市足球联赛] 09月27日16:00 乌鲁木齐县VS达坂城区
+http://migu.lifit.uk/migu.php?id=958175387&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[广东省城市足球超级联赛] 09月27日16:00 梅州强民VS顺德东方" tvg-name="[广东省城市足球超级联赛] 09月27日16:00 梅州强民VS顺德东方" tvg-logo="https://epg.112114.xyz/logo/09月27日16:00梅州强民VS顺德东方.png" group-title="广东",[广东省城市足球超级联赛] 09月27日16:00 梅州强民VS顺德东方
+http://migu.lifit.uk/migu.php?id=958175384&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[广东省城市足球超级联赛] 09月27日16:00 深圳藝品高VS珠海聚杰" tvg-name="[广东省城市足球超级联赛] 09月27日16:00 深圳藝品高VS珠海聚杰" tvg-logo="https://epg.112114.xyz/logo/09月27日16:00深圳藝品高VS珠海聚杰.png" group-title="广东",[广东省城市足球超级联赛] 09月27日16:00 深圳藝品高VS珠海聚杰
+http://migu.lifit.uk/migu.php?id=958175408&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[国际柔联柔道大奖赛] 09月27日17:00 女子组：-63公斤级、-70公斤级决赛；男子组：-73kg、-81kg决赛" tvg-name="[国际柔联柔道大奖赛] 09月27日17:00 女子组：-63公斤级、-70公斤级决赛；男子组：-73kg、-81kg决赛" tvg-logo="https://epg.112114.xyz/logo/09月27日17:00女子组：63公斤级、70公斤级决赛；男子组：73KG、81KG决赛.png" group-title="咪咕体育",[国际柔联柔道大奖赛] 09月27日17:00 女子组：-63公斤级、-70公斤级决赛；男子组：-73kg、-81kg决赛
+http://migu.lifit.uk/migu.php?id=958450933&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中超] 09月27日18:00 长春亚泰 vs 青岛海牛" tvg-name="[中超] 09月27日18:00 长春亚泰 vs 青岛海牛" tvg-logo="https://epg.112114.xyz/logo/09月27日18:00长春亚泰VS青岛海牛.png" group-title="咪咕体育",[中超] 09月27日18:00 长春亚泰 vs 青岛海牛
+http://migu.lifit.uk/migu.php?id=958452520&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中乙] 09月27日18:00 泰安天贶vs武汉三镇B队" tvg-name="[中乙] 09月27日18:00 泰安天贶vs武汉三镇B队" tvg-logo="https://epg.112114.xyz/logo/09月27日18:00泰安天贶VS武汉三镇B队.png" group-title="咪咕体育",[中乙] 09月27日18:00 泰安天贶vs武汉三镇B队
+http://migu.lifit.uk/migu.php?id=958480852&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[WTT] 09月27日18:00 男女单打资格赛1/8决赛" tvg-name="[WTT] 09月27日18:00 男女单打资格赛1/8决赛" tvg-logo="https://epg.112114.xyz/logo/09月27日18:00男女单打资格赛1/8决赛.png" group-title="咪咕体育",[WTT] 09月27日18:00 男女单打资格赛1/8决赛
+http://migu.lifit.uk/migu.php?id=958400969&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[亚洲棒球锦标赛] 09月27日18:30 菲律宾 vs 中国香港" tvg-name="[亚洲棒球锦标赛] 09月27日18:30 菲律宾 vs 中国香港" tvg-logo="https://epg.112114.xyz/logo/09月27日18:30菲律宾VS中国香港.png" group-title="香港",[亚洲棒球锦标赛] 09月27日18:30 菲律宾 vs 中国香港
+http://migu.lifit.uk/migu.php?id=958305794&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[亚洲棒球锦标赛] 09月27日18:30 日本 vs 韩国" tvg-name="[亚洲棒球锦标赛] 09月27日18:30 日本 vs 韩国" tvg-logo="https://epg.112114.xyz/logo/09月27日18:30日本VS韩国.png" group-title="咪咕体育",[亚洲棒球锦标赛] 09月27日18:30 日本 vs 韩国
+http://migu.lifit.uk/migu.php?id=958305805&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中甲] 09月27日19:00 上海嘉定汇龙 vs 广东广州豹" tvg-name="[中甲] 09月27日19:00 上海嘉定汇龙 vs 广东广州豹" tvg-logo="https://epg.112114.xyz/logo/09月27日19:00上海嘉定汇龙VS广东广州豹.png" group-title="上海",[中甲] 09月27日19:00 上海嘉定汇龙 vs 广东广州豹
+http://migu.lifit.uk/migu.php?id=958441273&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中甲] 09月27日19:00 苏州东吴 vs 南京城市" tvg-name="[中甲] 09月27日19:00 苏州东吴 vs 南京城市" tvg-logo="https://epg.112114.xyz/logo/09月27日19:00苏州东吴VS南京城市.png" group-title="咪咕体育",[中甲] 09月27日19:00 苏州东吴 vs 南京城市
+http://migu.lifit.uk/migu.php?id=958441191&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中甲] 09月27日19:00 辽宁铁人 vs 定南赣联" tvg-name="[中甲] 09月27日19:00 辽宁铁人 vs 定南赣联" tvg-logo="https://epg.112114.xyz/logo/09月27日19:00辽宁铁人VS定南赣联.png" group-title="辽宁",[中甲] 09月27日19:00 辽宁铁人 vs 定南赣联
+http://migu.lifit.uk/migu.php?id=958441079&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[广东省城市足球超级联赛] 09月27日19:00 广东蜀地红VS清远恒大足校" tvg-name="[广东省城市足球超级联赛] 09月27日19:00 广东蜀地红VS清远恒大足校" tvg-logo="https://epg.112114.xyz/logo/09月27日19:00广东蜀地红VS清远恒大足校.png" group-title="广东",[广东省城市足球超级联赛] 09月27日19:00 广东蜀地红VS清远恒大足校
+http://migu.lifit.uk/migu.php?id=958175426&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[广东省城市足球超级联赛] 09月27日19:00 广州豹（梯队）VS吴川青年" tvg-name="[广东省城市足球超级联赛] 09月27日19:00 广州豹（梯队）VS吴川青年" tvg-logo="https://epg.112114.xyz/logo/09月27日19:00广州豹（梯队）VS吴川青年.png" group-title="广东",[广东省城市足球超级联赛] 09月27日19:00 广州豹（梯队）VS吴川青年
+http://migu.lifit.uk/migu.php?id=958175444&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中甲] 09月27日19:30 深圳青年人 vs 大连鲲城" tvg-name="[中甲] 09月27日19:30 深圳青年人 vs 大连鲲城" tvg-logo="https://epg.112114.xyz/logo/09月27日19:30深圳青年人VS大连鲲城.png" group-title="咪咕体育",[中甲] 09月27日19:30 深圳青年人 vs 大连鲲城
+http://migu.lifit.uk/migu.php?id=958441664&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[英超] 09月27日19:30 布伦特福德 vs 曼联" tvg-name="[英超] 09月27日19:30 布伦特福德 vs 曼联" tvg-logo="https://epg.112114.xyz/logo/09月27日19:30布伦特福德VS曼联.png" group-title="咪咕体育",[英超] 09月27日19:30 布伦特福德 vs 曼联
+http://migu.lifit.uk/migu.php?id=958482181&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中乙] 09月27日19:30 成都蓉城B队vs山东泰山B队" tvg-name="[中乙] 09月27日19:30 成都蓉城B队vs山东泰山B队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:30成都蓉城B队VS山东泰山B队.png" group-title="山东",[中乙] 09月27日19:30 成都蓉城B队vs山东泰山B队
+http://migu.lifit.uk/migu.php?id=958480862&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[中乙] 09月27日19:30 温州俱乐部中胤vs杭州临平吴越" tvg-name="[中乙] 09月27日19:30 温州俱乐部中胤vs杭州临平吴越" tvg-logo="https://epg.112114.xyz/logo/09月27日19:30温州俱乐部中胤VS杭州临平吴越.png" group-title="咪咕体育",[中乙] 09月27日19:30 温州俱乐部中胤vs杭州临平吴越
+http://migu.lifit.uk/migu.php?id=958480885&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[江西省城市足球超级联赛] 09月27日19:30 上饶VS抚州" tvg-name="[江西省城市足球超级联赛] 09月27日19:30 上饶VS抚州" tvg-logo="https://epg.112114.xyz/logo/09月27日19:30上饶VS抚州.png" group-title="江西",[江西省城市足球超级联赛] 09月27日19:30 上饶VS抚州
+http://migu.lifit.uk/migu.php?id=958229745&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[江西省城市足球超级联赛] 09月27日19:30 赣州VS南昌" tvg-name="[江西省城市足球超级联赛] 09月27日19:30 赣州VS南昌" tvg-logo="https://epg.112114.xyz/logo/09月27日19:30赣州VS南昌.png" group-title="江西",[江西省城市足球超级联赛] 09月27日19:30 赣州VS南昌
+http://migu.lifit.uk/migu.php?id=958229766&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[浙江省城市篮球联赛] 09月27日19:30 温州VS余姚" tvg-name="[浙江省城市篮球联赛] 09月27日19:30 温州VS余姚" tvg-logo="https://epg.112114.xyz/logo/09月27日19:30温州VS余姚.png" group-title="浙江",[浙江省城市篮球联赛] 09月27日19:30 温州VS余姚
+http://migu.lifit.uk/migu.php?id=958386772&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[浙江省城市篮球联赛] 09月27日19:30 嘉兴经开区VS诸暨" tvg-name="[浙江省城市篮球联赛] 09月27日19:30 嘉兴经开区VS诸暨" tvg-logo="https://epg.112114.xyz/logo/09月27日19:30嘉兴经开区VS诸暨.png" group-title="浙江",[浙江省城市篮球联赛] 09月27日19:30 嘉兴经开区VS诸暨
+http://migu.lifit.uk/migu.php?id=958386797&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[浙江省城市篮球联赛] 09月27日19:30 舟山VS杭州" tvg-name="[浙江省城市篮球联赛] 09月27日19:30 舟山VS杭州" tvg-logo="https://epg.112114.xyz/logo/09月27日19:30舟山VS杭州.png" group-title="浙江",[浙江省城市篮球联赛] 09月27日19:30 舟山VS杭州
+http://migu.lifit.uk/migu.php?id=958386821&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[江苏城市足球联赛] 09月27日19:35 连云港队vs镇江队" tvg-name="[江苏城市足球联赛] 09月27日19:35 连云港队vs镇江队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:35连云港队VS镇江队.png" group-title="江苏",[江苏城市足球联赛] 09月27日19:35 连云港队vs镇江队
+http://migu.lifit.uk/migu.php?id=955239596&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[江苏城市足球联赛] 09月27日19:35 淮安队vs徐州队" tvg-name="[江苏城市足球联赛] 09月27日19:35 淮安队vs徐州队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:35淮安队VS徐州队.png" group-title="江苏",[江苏城市足球联赛] 09月27日19:35 淮安队vs徐州队
+http://migu.lifit.uk/migu.php?id=955239636&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[江苏城市足球联赛] 09月27日19:35 扬州队vs盐城队" tvg-name="[江苏城市足球联赛] 09月27日19:35 扬州队vs盐城队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:35扬州队VS盐城队.png" group-title="江苏",[江苏城市足球联赛] 09月27日19:35 扬州队vs盐城队
+http://migu.lifit.uk/migu.php?id=955239656&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[江苏城市足球联赛] 09月27日19:35 苏州队vs常州队" tvg-name="[江苏城市足球联赛] 09月27日19:35 苏州队vs常州队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:35苏州队VS常州队.png" group-title="江苏",[江苏城市足球联赛] 09月27日19:35 苏州队vs常州队
+http://migu.lifit.uk/migu.php?id=955239670&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[江苏城市足球联赛] 09月27日19:35 无锡队vs南通队" tvg-name="[江苏城市足球联赛] 09月27日19:35 无锡队vs南通队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:35无锡队VS南通队.png" group-title="江苏",[江苏城市足球联赛] 09月27日19:35 无锡队vs南通队
+http://migu.lifit.uk/migu.php?id=955239688&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[江苏城市足球联赛] 09月27日19:35 南京队vs宿迁队" tvg-name="[江苏城市足球联赛] 09月27日19:35 南京队vs宿迁队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:35南京队VS宿迁队.png" group-title="江苏",[江苏城市足球联赛] 09月27日19:35 南京队vs宿迁队
+http://migu.lifit.uk/migu.php?id=955239735&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[四川省城市足球联赛] 09月27日19:35 攀枝花攀钢钢铁勇士队 VS 凉山好医生队" tvg-name="[四川省城市足球联赛] 09月27日19:35 攀枝花攀钢钢铁勇士队 VS 凉山好医生队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:35攀枝花攀钢钢铁勇士队VS凉山好医生队.png" group-title="四川",[四川省城市足球联赛] 09月27日19:35 攀枝花攀钢钢铁勇士队 VS 凉山好医生队
+http://migu.lifit.uk/migu.php?id=958252688&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[四川省城市足球联赛] 09月27日19:35 宜宾长江首城队 VS 自贡灯城燊龙队" tvg-name="[四川省城市足球联赛] 09月27日19:35 宜宾长江首城队 VS 自贡灯城燊龙队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:35宜宾长江首城队VS自贡灯城燊龙队.png" group-title="四川",[四川省城市足球联赛] 09月27日19:35 宜宾长江首城队 VS 自贡灯城燊龙队
+http://migu.lifit.uk/migu.php?id=958252748&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[四川省城市足球联赛] 09月27日19:35 广元剑门雄关队 VS 绵阳九洲长虹队" tvg-name="[四川省城市足球联赛] 09月27日19:35 广元剑门雄关队 VS 绵阳九洲长虹队" tvg-logo="https://epg.112114.xyz/logo/09月27日19:35广元剑门雄关队VS绵阳九洲长虹队.png" group-title="四川",[四川省城市足球联赛] 09月27日19:35 广元剑门雄关队 VS 绵阳九洲长虹队
+http://migu.lifit.uk/migu.php?id=958252777&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[湖南省足球联赛] 09月27日19:38 衡阳vs岳阳" tvg-name="[湖南省足球联赛] 09月27日19:38 衡阳vs岳阳" tvg-logo="https://epg.112114.xyz/logo/09月27日19:38衡阳VS岳阳.png" group-title="湖南",[湖南省足球联赛] 09月27日19:38 衡阳vs岳阳
+http://migu.lifit.uk/migu.php?id=958506336&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[湖南省足球联赛] 09月27日19:38 娄底vs怀化" tvg-name="[湖南省足球联赛] 09月27日19:38 娄底vs怀化" tvg-logo="https://epg.112114.xyz/logo/09月27日19:38娄底VS怀化.png" group-title="湖南",[湖南省足球联赛] 09月27日19:38 娄底vs怀化
+http://migu.lifit.uk/migu.php?id=958506352&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[湖南省足球联赛] 09月27日19:38 益阳vs郴州" tvg-name="[湖南省足球联赛] 09月27日19:38 益阳vs郴州" tvg-logo="https://epg.112114.xyz/logo/09月27日19:38益阳VS郴州.png" group-title="湖南",[湖南省足球联赛] 09月27日19:38 益阳vs郴州
+http://migu.lifit.uk/migu.php?id=958506431&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[湖南省足球联赛] 09月27日19:38 永州vs湘西" tvg-name="[湖南省足球联赛] 09月27日19:38 永州vs湘西" tvg-logo="https://epg.112114.xyz/logo/09月27日19:38永州VS湘西.png" group-title="湖南",[湖南省足球联赛] 09月27日19:38 永州vs湘西
+http://migu.lifit.uk/migu.php?id=958506477&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[西甲] 09月27日20:00 赫塔费 vs 莱万特" tvg-name="[西甲] 09月27日20:00 赫塔费 vs 莱万特" tvg-logo="https://epg.112114.xyz/logo/09月27日20:00赫塔费VS莱万特.png" group-title="咪咕体育",[西甲] 09月27日20:00 赫塔费 vs 莱万特
+http://migu.lifit.uk/migu.php?id=958482639&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[斯诺克] 09月27日20:00 半决赛" tvg-name="[斯诺克] 09月27日20:00 半决赛" tvg-logo="https://epg.112114.xyz/logo/09月27日20:00半决赛.png" group-title="咪咕体育",[斯诺克] 09月27日20:00 半决赛
+http://migu.lifit.uk/migu.php?id=958309705&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[意甲] 09月27日21:00 科莫 vs 克雷莫纳" tvg-name="[意甲] 09月27日21:00 科莫 vs 克雷莫纳" tvg-logo="https://epg.112114.xyz/logo/09月27日21:00科莫VS克雷莫纳.png" group-title="咪咕体育",[意甲] 09月27日21:00 科莫 vs 克雷莫纳
+http://migu.lifit.uk/migu.php?id=958482508&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[德甲] 09月27日21:30 海登海姆 vs 奥格斯堡" tvg-name="[德甲] 09月27日21:30 海登海姆 vs 奥格斯堡" tvg-logo="https://epg.112114.xyz/logo/09月27日21:30海登海姆VS奥格斯堡.png" group-title="咪咕体育",[德甲] 09月27日21:30 海登海姆 vs 奥格斯堡
+http://migu.lifit.uk/migu.php?id=958482229&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[德甲] 09月27日21:30 圣保利 vs 勒沃库森" tvg-name="[德甲] 09月27日21:30 圣保利 vs 勒沃库森" tvg-logo="https://epg.112114.xyz/logo/09月27日21:30圣保利VS勒沃库森.png" group-title="咪咕体育",[德甲] 09月27日21:30 圣保利 vs 勒沃库森
+http://migu.lifit.uk/migu.php?id=958482387&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[德甲] 09月27日21:30 沃尔夫斯堡 vs RB莱比锡" tvg-name="[德甲] 09月27日21:30 沃尔夫斯堡 vs RB莱比锡" tvg-logo="https://epg.112114.xyz/logo/09月27日21:30沃尔夫斯堡VSRB莱比锡.png" group-title="咪咕体育",[德甲] 09月27日21:30 沃尔夫斯堡 vs RB莱比锡
+http://migu.lifit.uk/migu.php?id=958482426&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[德甲] 09月27日21:30 美因茨 vs 多特蒙德" tvg-name="[德甲] 09月27日21:30 美因茨 vs 多特蒙德" tvg-logo="https://epg.112114.xyz/logo/09月27日21:30美因茨VS多特蒙德.png" group-title="咪咕体育",[德甲] 09月27日21:30 美因茨 vs 多特蒙德
+http://migu.lifit.uk/migu.php?id=958482338&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[英超] 09月27日22:00 曼城 vs 伯恩利" tvg-name="[英超] 09月27日22:00 曼城 vs 伯恩利" tvg-logo="https://epg.112114.xyz/logo/09月27日22:00曼城VS伯恩利.png" group-title="咪咕体育",[英超] 09月27日22:00 曼城 vs 伯恩利
+http://migu.lifit.uk/migu.php?id=958482523&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[英超] 09月27日22:00 利兹联 vs 伯恩茅斯" tvg-name="[英超] 09月27日22:00 利兹联 vs 伯恩茅斯" tvg-logo="https://epg.112114.xyz/logo/09月27日22:00利兹联VS伯恩茅斯.png" group-title="咪咕体育",[英超] 09月27日22:00 利兹联 vs 伯恩茅斯
+http://migu.lifit.uk/migu.php?id=958482558&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[英超] 09月27日22:00 水晶宫 vs 利物浦" tvg-name="[英超] 09月27日22:00 水晶宫 vs 利物浦" tvg-logo="https://epg.112114.xyz/logo/09月27日22:00水晶宫VS利物浦.png" group-title="咪咕体育",[英超] 09月27日22:00 水晶宫 vs 利物浦
+http://migu.lifit.uk/migu.php?id=958482825&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[英超] 09月27日22:00 切尔西 vs 布赖顿" tvg-name="[英超] 09月27日22:00 切尔西 vs 布赖顿" tvg-logo="https://epg.112114.xyz/logo/09月27日22:00切尔西VS布赖顿.png" group-title="咪咕体育",[英超] 09月27日22:00 切尔西 vs 布赖顿
+http://migu.lifit.uk/migu.php?id=958482046&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[西甲] 09月27日22:15 马德里竞技 vs 皇家马德里" tvg-name="[西甲] 09月27日22:15 马德里竞技 vs 皇家马德里" tvg-logo="https://epg.112114.xyz/logo/09月27日22:15马德里竞技VS皇家马德里.png" group-title="咪咕体育",[西甲] 09月27日22:15 马德里竞技 vs 皇家马德里
+http://migu.lifit.uk/migu.php?id=958482551&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
+#EXTINF:-1,tvg-id="[法甲] 09月27日23:00 洛里昂 vs 摩纳哥" tvg-name="[法甲] 09月27日23:00 洛里昂 vs 摩纳哥" tvg-logo="https://epg.112114.xyz/logo/09月27日23:00洛里昂VS摩纳哥.png" group-title="咪咕体育",[法甲] 09月27日23:00 洛里昂 vs 摩纳哥
+http://migu.lifit.uk/migu.php?id=958482543&userId=266480067&userToken=nlpsEE6C7B0160BDFEE0020B
