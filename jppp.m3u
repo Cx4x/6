@@ -768,4 +768,10 @@ https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1,tvg-id="MBC-여수" tvg-name="MBC-여수" tvg-logo="https://epg.112114.xyz/logo/MBC여수.png" group-title="🌟韩国频道🌟",MBC-여수
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
+#EXTINF:-1,tvg-id="NBA-TV" tvg-name="NBA-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="其他频道",NBA-TV
+http://proxpanel.pro/doncarlos1970@yahoo.com/RT2tPtNgkb/885
+#EXTINF:-1,tvg-id="NBA-TV" tvg-name="NBA-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/657px-WWE_Logo.svg.png" group-title="其他频道",WWE
+http://proxpanel.pro/doncarlos1970@yahoo.com/RT2tPtNgkb/828
+
+
 
