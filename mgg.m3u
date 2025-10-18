@@ -11,10 +11,7 @@ http://111.170.172.135:35455/txsport/100000:10012500071/348867/1390909300.m3u8?t
 http://111.170.172.135:35455/txsport/100000:10012500066/348868/1775543300.m3u8?txtoken=67ba39efa74af09bdb00013697deb44d578d4f7b7fcf0c7b24957447430dab8a409c8094e1d96adb1fdb623fa25bd98618620307df777260ac0ea64ad35b1f6acba676b7f35b9f13ef06385aca35741491b4aea9ed99de3445f0a7a32f232daab32bbfd081ffb6a8bb2e52f293b8b1e287b925280a6a285f022e0a9562
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季前赛", 2025-10-18 07:30:00_NBA季前赛_尼克斯 vs 黄蜂_英文原音
 http://111.170.172.135:35455/txsport/100000:10012500066/348868/1390909400.m3u8?txtoken=99e24d176b51d16539b72249694306de7342449c82c6a28b22b8e4022469b9d9fd79d40a042aa4507d6b7d52d6dc65333d8468d2bd18cb8ee63f65aca9b3b6450285327b21bfd98953d10f5429fa6e2cf1872dcd337adfdecdad22e0e5a4b6e5a09de447b16d4ee05de5801c7d53115112f3b7e99935678649fb89fc07
-#EXTINF:-1 tvg-logo="" group-title="赛车", 2025-10-18 07:50:00_赛车_2025赛季MotoGP澳大利亚大奖赛排位赛_邱超
-http://111.170.172.135:35455/txsport/100002:20256441/348629/1775507600.m3u8?txtoken=89a5b291568414c064850c7146332fe9e916ea2237ce620bdebf6b17a3f274476ca851290b49613268b492e876c66d048437e99821c415c671bbd5576bc6efe4a93bc70b4b1aa3ea3a2b5bb223616085cce9427ff049cacd226eb6d33ed325f74dc8289feb5fbca7ec81e7fcbfefc3c6ebeff6f62942f66e13ff6c6f14
-#EXTINF:-1 tvg-logo="" group-title="赛车", 2025-10-18 07:50:00_赛车_2025赛季MotoGP澳大利亚大奖赛排位赛_英文原音
-http://111.170.172.135:35455/txsport/100002:20256441/348629/1390871500.m3u8?txtoken=b64540847994f05f7c04795efd7905f64c3006edb340a098544274636edc4bdcdf7332ccb6bc6bb5a7465d35a4d96b7bb1870927b64b2bc061b05eff99a5bedd00bd61599f7dd807467c23eb0372cc0cfd5565f6e3e56fef33f8ea46c0d9746c119175552fb0994f3d839665c3752023f5a227f9a265a4c3ced916caf2
+
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季前赛", 2025-10-18 08:00:00_NBA季前赛_热火 vs 灰熊_郑诚
 http://111.170.172.135:35455/txsport/100000:10012500006/348869/1390909500.m3u8?txtoken=2ea5574d09a01e0e17a567d38eb0098ddbd128b3fd610179e90a31e83b392634f891540964f72b2e5592964c1934a1e12dc8abc3ecc355764770d8b58c7d67f97f4d79342a0a96a7e1f9b29cb7ca6e40132b12e9fb4d2192eafc26914d191657dd1f7cac012a59e5d3ff71c45f5c36880c32c8fbad0485a9e3d467eeea
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季前赛", 2025-10-18 08:00:00_NBA季前赛_热火 vs 灰熊_英文原音
@@ -27,27 +24,621 @@ http://111.170.172.135:35455/txsport/100000:10012500067/348871/1775543500.m3u8?t
 http://111.170.172.135:35455/txsport/100000:10012500068/348870/1775543400.m3u8?txtoken=2172096148b8e68f3979cc41bf99ae91f7e714a39c5335b435e5d9c5996d4a17badd1c2a46f6d3d956cafebed6f8e4176aec6663b31bf25c0798e373a49c3f2d0d44eb3aaeded5623c795e6227b2c1eac49b1a87c2c8f08153bc7748558c294708054666adfc7962ba34189b05dfeb9725990371d475fa267ff41e4357
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季前赛", 2025-10-18 08:00:00_NBA季前赛_马刺 vs 步行者_英文原音
 http://111.170.172.135:35455/txsport/100000:10012500068/348870/1390909700.m3u8?txtoken=c5687d13b10ab04f5b53461fb2466340eaf61622499c44ba5787d5270517fcee02182d71308ded081b3aca7977046baa697d2ae92d7db3ab3c36a18d34cd0cfe1bba8367431711a2a8f3cbd3f32a668c884c69bc9762328ac98b1eaf5098855692bfa19ac512bebb7119a5baed075513de3aeecb68f76ad9bc404d1ead
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100084.png" group-title="NYBO小组赛", 2025-10-18 09:00:00_NYBO小组赛_赛威篮球U12 vs 大庆奥林U12
-http://111.170.172.135:35455/txsport/100084:2104779/349496/1391015800.m3u8?txtoken=498f6462cb00bf823cd08d55d11d9b6eca5308c3bb603441da15969ec2a09834cd4468a002167aa060a52fccdd21ae1e44f8abebfca70087dd05a9a20d3b13aa28b111d0324da5497295421b2c7f9e434cd61e2f4ab6bf16fc587fe3333b0984f7617caa03091b66f393269e97dba5e84bc752e6709e3a5687a0422bfa
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100084.png" group-title="NYBO小组赛A组", 2025-10-18 09:00:00_NYBO小组赛A组_我赛尔黄岐小星星红队 vs 超星体育小熊猫
-http://111.170.172.135:35455/txsport/100084:2105628/349495/1775655300.m3u8?txtoken=adf62f3539b4aa4ed22fc307dff180bdc0839e79fc193baba80d63606116831e1cc5fb3e974b9c4f6ded5d8d87747258593e374cf28ec1421a50b57ca6c2100d38e94de1d586812f8b441f6297c87f24b485757935e89cda1220838e122949314011a9b2b0953e98ba8907d9bfeaa640f5e5d6b2f417eb3bfe788b0d07
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100084.png" group-title="NYBO小组赛A组", 2025-10-18 09:00:00_NYBO小组赛A组_超扬体育U8 vs 启梦闪电队
-http://111.170.172.135:35455/txsport/100084:2105657/349497/1775655500.m3u8?txtoken=4b6702e1041b182c7cad0a7ff632916beca5c50ded77709a21442f39c61b3ad21fe79a7645fb56a793b3f4c6698da2c274f4d48d385ba11e22e379e1916ca6329a3e1f8e109800a5edb3933425ff4e02fc45277fbb8a8955b532987f4e6be268a0e3896797f800dfce94866cf59326654c675058746f30c7bd113ad954
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100084.png" group-title="NYBO小组赛", 2025-10-18 09:30:00_NYBO小组赛_东体体育u10 vs 大庆奥林U11
-http://111.170.172.135:35455/txsport/100084:2104806/349498/1391016100.m3u8?txtoken=51f2b32d3290bb2e49481063ae5cd6a859ae8c01319e5ac0f6104bb633e2f23877a6959a32e902e830ed7b9c70190d34991c199e9e75c9a20a7ec890387cb6df453e6d516c6f3e92b638904a267b757d0263eff6b2f7e26c1a2991a5265db1c7170fe3d6878a0982f677ad5240a520eecbc8bbc39d9fb0537143c1ef9e
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100082.png" group-title="SCBA小组赛B组", 2025-10-18 10:00:00_SCBA小组赛B组_宁波大学男篮 vs 重庆师范大学男篮
-http://111.170.172.135:35455/txsport/100082:2099033/349503/1775655900.m3u8?txtoken=528c8a9ad22c5c3ae2b64ddf4a180931b41c764399e6d9f23ab50c6963363aabe5cc282938789372eafc7061a98ad1689bd19a72b4c089e2ade2a6747f22b4aa27acfd0542d898cc2664962873d6c2fa333e301a17a1ebb85e7a53052bcef1f436acc312e257782c8dd4e888c0042a000006a7e836df3e0133f7b336e3
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100082.png" group-title="SCBA小组赛B组", 2025-10-18 10:00:00_SCBA小组赛B组_青海民族大学男篮 vs 西北民族大学男篮
-http://111.170.172.135:35455/txsport/100082:2099036/349502/1391016200.m3u8?txtoken=b106bed2df6482266e7eddc98e36ec39c843656244a6752eb28f0a4146d91cb783e99fe33e2f26b9f378ac90aafe182f4729ac830e394a64721c93dd32c2575ed5c4d1cd568ff99208676a6522280e757903a4a5255793c035677d3a25d8ee929296ce20674f572d1b4d50bfb6738d59303e6ec6bd30f5fa605a855f62
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100084.png" group-title="NYBO小组赛", 2025-10-18 10:00:00_NYBO小组赛_芜湖鑫梦 vs xk-刺客
-http://111.170.172.135:35455/txsport/100084:2105520/349504/1391016300.m3u8?txtoken=7d78fd7c6076791d11fd6aeca3c692c097ce55b63e801ec7b851df93c3ba47f80b16c9767265728ab934eb745610e5bbe8c117f991ef5892332f3033dfc794a7e0c4e879ee96ad9c2454d0a6ed56e4343149dab438556254e646734ad4dc266f0e3a996d1b5ee7428639057b4b69f9a7c326bf683fb3c4c95d91a7bdaa
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季前赛", 2025-10-18 10:00:00_NBA季前赛_勇士 vs 快船_孔祥宇 李克 辰辰
-http://111.170.172.135:35455/txsport/100000:10012500069/348872/1390909900.m3u8?txtoken=0d057dea54c9203a462a75ef337dd95502283afb80e8361d6655a92df4c7c9217dd87d90001e5d41b35340155d64519d4f49ae3463d7b508b03b0cd01c9f37d1fcbb26ed48e546fcd1a51b41a1e7281f3271c6d4cbdaf8f215c815ec3d47aaf5c9cebb6a662b361f3acb72ce92e8b5282b95f6ed8b4ded0a4c681eb831
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季前赛", 2025-10-18 10:00:00_NBA季前赛_勇士 vs 快船_英文原音
-http://111.170.172.135:35455/txsport/100000:10012500069/348872/1390910000.m3u8?txtoken=f2751a6eddf389dfe3457512bb1a277127efacbd973e8095dabb3deb1f1a40b7a530d52a87b2539c2410bddd41526b4afdc2d60b7aef5d3a8f15a25d956c44544f663dcbd80d8795b99344c03eed619a67301e17d0b737849149e198aba66d8092b7bf0cbb200a26db79514750c9be210cd5d3ed931fa0fc98f2c556f3
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100084.png" group-title="NYBO小组赛A组", 2025-10-18 10:10:00_NYBO小组赛A组_超星体育小熊猫 vs Campus迷你黑豹
-http://111.170.172.135:35455/txsport/100084:2105921/349507/1391016700.m3u8?txtoken=e5a3a0742ce74f3bda78fb87956418cee75e4ebc50b69841de38551122ff4646f5db2b094d55e9b48a5ea206df712190021e5daa9b1f6ded7afa4d5c60b118e14570e8998ffd70f3199806bc2ff2c5f9894694433398fc9403f6fe0c49344ccecfcb2f10c0f65ce21ec75e6c757cb7fdc93638575920ea337375366779
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季前赛", 2025-10-18 10:30:00_NBA季前赛_湖人 vs 国王_彭磊 王仕鹏 果果
-http://111.170.172.135:35455/txsport/100000:10012500007/348874/1775543700.m3u8?txtoken=8958593126964cc01bd8dd0963c83d2d02cbbdf1471205ab79a4a0f80304f58e28eb701a1228280a91eb108b8a6ffd3c95a12b251ed27a2d213622dd62809c6453a39c77e5ca4c535e9b240309f63005d21bf899a3f2fd03f8d65e2d56d74f0c5217bcc028d6d6da6425bcb140fac26413d63cce69eaab6b7294d56519
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA季前赛", 2025-10-18 10:30:00_NBA季前赛_湖人 vs 国王_英文原音
-http://111.170.172.135:35455/txsport/100000:10012500007/348874/1775543800.m3u8?txtoken=98ae709ad63dbe1af528bd5ec416dc7fa7510fdce4162d64e5856296fdfc6bd69632a765c84977e0ff581d2632c8d71a7831531f8ea6b04e99ee7ff5547e3f1a531cd5d11cb060a5736a419c0ef120d6262254feacca6e07b62aacfbcfa42ed4b10fde6af2665a63319bf4b5f7f848e01a096b23fc10e26a2c06c77440
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日15:30-资阳中国牙谷队 VS 宜宾长江首城队-资阳中国牙谷队 VS 宜宾长江首城队-25/26赛季四川省城市足球联赛: 资阳中国牙谷队 VS 宜宾长江首城队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MQIOCetCco6dhteTx6WlP0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日16:00-中超联赛-深圳新鹏城 vs 北京国安-李欣 董路 邵凌霄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9P01-WbYMtbOYc07VxWKESo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日16:00-中超联赛-深圳新鹏城 vs 北京国安-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ItClUjegI0uq5Ih8Wo9bB8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日16:00-交叉赛 沙区代表队vs达坂城代表队-交叉赛 沙区代表队vs达坂城代表队-2025乌鲁木齐城市足球联赛交叉赛: 交叉赛 B1------A2
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JiYEz5e15Ke5ersxcBSreg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日16:00-全国女子篮球锦标赛-山东赤水河酒vs武汉盛帆黄鹤-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J4iACtvIxLn0B8SiYPz1JE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日18:00-FISE国际滑板街式精英赛-男子专业组-FISE国际滑板街式精英赛-男子专业组-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GdBRgvZrVweoRdL1kyaMO4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:00-中甲联赛-大连鲲城 vs 重庆铜梁龙-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ASpLbNopmAaW3dAyBnL3oU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:00-中甲联赛-苏州东吴 vs 广东广州豹-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9P0P-EUxXpTb4zAqDdgqe9A
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:00-8进4单败淘汰-解说-8进4单败淘汰-解说-2025独牙传奇中式九球大师赛: 8进4单败淘汰-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EV-KFmo3x0k2OCXS-K5Evw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:00-8进4单败淘汰一号台-8进4单败淘汰一号台-2025独牙传奇中式九球大师赛: 8进4单败淘汰一号台
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Pr2W22NOTIBWYTUm4Y3OCA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:00-8进4单败淘汰二号台-8进4单败淘汰二号台-2025独牙传奇中式九球大师赛: 8进4单败淘汰二号台
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GPYM6XflSijJ3KOsMGO_hA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:00-8进4单败淘汰三号台-8进4单败淘汰三号台-2025独牙传奇中式九球大师赛: 8进4单败淘汰三号台
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Pi9ALJFhz0haGtMwY2akaE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:00-8进4单败淘汰四号台-8进4单败淘汰四号台-2025独牙传奇中式九球大师赛: 8进4单败淘汰四号台
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NBgo8exwL38NL-rh_gUiiM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:00-超三联赛-超三联赛 季后赛四分之一决赛及附加赛小组赛-蔡凯臣 李嘉伟
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DO19NgjF2Vsyr-Em9WPmcA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:00-汉超第8轮 黄陂区vs江夏区-汉超第8轮 黄陂区vs江夏区-2025赛季武汉城市足球超级联赛：汉超第8轮 黄陂区vs江夏区
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H8sPtB3XJXqfH0JBF03Kp4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:30-中甲联赛-石家庄功夫 vs 深圳青年人-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ES7doGSStr3OzbssbwkPPw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:30-英超联赛-诺丁汉森林 vs 切尔西-詹俊 张路 林梦鸽
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ksi0oF3Z0F3QVViTdoTOmI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:30-英超联赛-诺丁汉森林 vs 切尔西-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Kbj9FgNpkgL6Hm2JviHloI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:30-英超联赛-诺丁汉森林 vs 切尔西-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9G0MocyfcL3jMXxK4MH2L4o
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:30-英超联赛-诺丁汉森林 vs 切尔西-清流播出9
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PzidEq9BY7c9M141MM2cJc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:30-庆元VS舟山-庆元VS舟山-2025浙江省城市篮球联赛: 庆元VS舟山
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L_lAtTl83HBkvByAv8XXgs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:30-湖州VS嘉兴经开区-湖州VS嘉兴经开区-2025浙江省城市篮球联赛: 湖州VS嘉兴经开区
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PRDdjL04fC4n3aVtL_M-Qc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:30-金华VS温州-金华VS温州-2025浙江省城市篮球联赛: 金华VS温州
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O8uiZ6bMYOtXtDeYL1Fd2k
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:30-全国女子篮球锦标赛-江苏南钢vs四川远达美乐-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Mob6H6MVLueQNNyF1jJEIM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:35-中超联赛-浙江 vs 山东泰山-石庆圣 李彦
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CbF5mQwTTG2onwAAj0FbXc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:35-中超联赛-浙江 vs 山东泰山-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LzXo7npCz4CKxY0Qdb33uw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:35-泸州窖香队 VS内江重龍酒队-泸州窖香队 VS内江重龍酒队-25/26赛季四川省城市足球联赛: 泸州窖香队 VS内江重龍酒队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EzsZtGmrRcPc52vEH1oZv4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:35-阿坝州雪山雄鹰队 VS 绵阳九洲长虹队-阿坝州雪山雄鹰队 VS 绵阳九洲长虹队-25/26赛季四川省城市足球联赛: 阿坝州雪山雄鹰队 VS 绵阳九洲长虹队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ODga1wRAjLHOtNbyHn5dAQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:35-广元剑门雄关队 VS德阳重装队-广元剑门雄关队 VS德阳重装队-25/26赛季四川省城市足球联赛: 广元剑门雄关队 VS德阳重装队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EeFF2dUyPPL49_ReObWbdE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:35-江苏城市足球联赛半决赛-南京队vs泰州队-官方解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O6B90ukciHHR9dx-dcpb8g
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:38-湖南省足球联赛-衡阳vs湘西-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IzHzPj4Z0JXW4-xKHTVUUc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:38-湖南省足球联赛-常德vs邵阳-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EJ-nrOsw7C7qVeEvV8jasY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日19:38-湖南省足球联赛-怀化vs永州-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AxbQcvV7idjiHcSFj_SVcA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日20:00-中超联赛-云南玉昆 vs 天津津门虎-刘腾 张辛昕
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KKnDeKBa_b1ORb0yQxajss
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日20:00-中超联赛-云南玉昆 vs 天津津门虎-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AyjWS7XyfhAS-BzTcganMg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日20:00-西甲联赛-塞维利亚 vs 马略卡-梁祥宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NkoVdgeLzI_C8G2pIfsxxs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日20:00-西甲联赛-塞维利亚 vs 马略卡-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ERa0fmdIJa-RbGpECdz6vo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日20:08-湖南省足球联赛-娄底vs益阳-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PTDonZ7AkhTqyJviQpK2KQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日20:20-FISE人字坡狂欢赛·滑板-男子专业组-FISE人字坡狂欢赛·滑板-男子专业组-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ItmQuUT85fyTsXCz7MMjCI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:00-意甲联赛-比萨 vs 维罗纳-谭逸雄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9M53IBV2s1-5I1bwb54KeIw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:00-意甲联赛-比萨 vs 维罗纳-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PBxLWGrGAmo8U8_HADqG34
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:00-意甲联赛-莱切 vs 萨索洛-乔迁
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JIFjO_ctIIoTjqm3jVmVNM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:00-意甲联赛-莱切 vs 萨索洛-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MdQR0YfwIVn1iWgkklyCV0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-海登海姆 vs 不来梅-周楚雄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AX1fOpot2bFKv00ULs0p1I
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-海登海姆 vs 不来梅-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JDnXhF6kUjBdCkZ3NkU_9k
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-沃尔夫斯堡 vs 斯图加特-刘洋
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O9VA9n7ZNPjjyf3HTUWRPk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-沃尔夫斯堡 vs 斯图加特-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BuxOkCVzSgl4Wz-nf1_T-M
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-美因茨 vs 勒沃库森-涂远 鲁靖明
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ac2ZLHgpgCPIvbx7fYpCwY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-美因茨 vs 勒沃库森-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9F8oavZ3bvsYsaZ2K7PbJfM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-美因茨 vs 勒沃库森-涂远 鲁靖明
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JFPm3JqCVcLRf7scUm-uAA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-科隆 vs 奥格斯堡-刘洪新
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IPsfsAEyEy_DJhokM8qkVg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-科隆 vs 奥格斯堡-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MQgafGdLb0DyLKh1M-ek9k
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-RB莱比锡 vs 汉堡-王子睿
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EuFsa0qKcA3b-S0Ihb9pP0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日21:30-德甲联赛-RB莱比锡 vs 汉堡-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H6FkfYmXm_JeHi7tNFhD00
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-桑德兰 vs 狼队-刘焕
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JXz_4sgxW-sTLYB5W2nrto
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-桑德兰 vs 狼队-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CbAFf3lobtobo7wTkDTmVs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-桑德兰 vs 狼队-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KJxP4G9PdIpQB-JUR-Z27M
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-曼城 vs 埃弗顿-苏东 黄健翔 程思钦
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MQjx8ooHUt4QTroD_Bnth8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-曼城 vs 埃弗顿-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9C6_hLdo76mVqZj9ezXfjhA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-曼城 vs 埃弗顿-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DChjx2tp78DDlKOF-k5Mi4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-水晶宫 vs 伯恩茅斯-吴桐 马延峰
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9I2NJbUZEwdBOO2cSJ7aq3c
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-水晶宫 vs 伯恩茅斯-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FQYbkqgc_ZD5_pK8bHHpw0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-水晶宫 vs 伯恩茅斯-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9I7jPFGlmYNKVhivYiQl500
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-伯恩利 vs 利兹联-郭灿亮
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BnXabo1Hf_uObXCcMBFe4E
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-伯恩利 vs 利兹联-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CdfJxEMY-rtHvMmFefZLc8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-伯恩利 vs 利兹联-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CplnT7P6JYe3GwKwwZXy1Y
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-布赖顿 vs 纽卡斯尔联-苗锟
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9B7XsOBPPnhRgjw-pCudaAs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-布赖顿 vs 纽卡斯尔联-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LQUzGrQqXeXecr8V8cnFb0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:00-英超联赛-布赖顿 vs 纽卡斯尔联-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BH9BkCgc_xRv0KZZkkHnKs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:15-西甲联赛-巴塞罗那 vs 赫罗纳-张昊泽 李欣
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OLYu9dp7z-bDWNBKTp-Qdo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日22:15-西甲联赛-巴塞罗那 vs 赫罗纳-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9P0WOqtlH-Z-mHIEKkDI1kc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日23:00-法甲联赛-尼斯 vs 里昂-盛斌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9C2vq_L-kDA5vGxBo2hqWMc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月18日23:00-法甲联赛-尼斯 vs 里昂-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FdP3R5eSmDPxXUueCOZ_A8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:00-意甲联赛-都灵 vs 那不勒斯-石庆圣 李彦
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IcnepLaieuxTFtx3pAb9qA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:00-意甲联赛-都灵 vs 那不勒斯-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JImn_Ip8o8NUzFGLMH92kU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:30-英超联赛-富勒姆 vs 阿森纳-颜强 徐阳 邵凌霄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L70awcCaxrHW09cqXt9pBc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:30-英超联赛-富勒姆 vs 阿森纳-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DozS2RMD3Rt4Gl_M17eU80
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:30-英超联赛-富勒姆 vs 阿森纳-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E5jGFYoTipsML24mWDSdjQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:30-德甲联赛-拜仁慕尼黑 vs 多特蒙德-鲁靖明 张力 李子琪
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9D5d8ua1QcBtqq9U9Xc-Zqk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:30-德甲联赛-拜仁慕尼黑 vs 多特蒙德-4K赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DqrhaPTewnGJWiAGJilcFo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:30-德甲联赛-拜仁慕尼黑 vs 多特蒙德-沈云怡 秦游夏
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H_0BQyqjomkjm5TI7XlOHY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:30-西甲联赛-比利亚雷亚尔 vs 皇家贝蒂斯-兰子非
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ar2Eh7uR_m0WHUvqZyt7JA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日00:30-西甲联赛-比利亚雷亚尔 vs 皇家贝蒂斯-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FqrESPt_rKp-FKEH2PwFnM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日01:00-法甲联赛-昂热 vs 摩纳哥-邵煊
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BSg4gqOl9F5c0mORMoQ8-8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日01:00-法甲联赛-昂热 vs 摩纳哥-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PtVl06DrcQaZCGeboD4rWc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日02:45-意甲联赛-罗马 vs 国际米兰-刘腾 贺宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IF2m_TTHpI-tbsg672fihs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日02:45-意甲联赛-罗马 vs 国际米兰-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ESq3bXph2uMR7oQD7NpChI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日02:45-意甲联赛-罗马 vs 国际米兰-刘腾 贺宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FvWVFcAvCouUh_cWk8DqEk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日03:00-西甲联赛-马德里竞技 vs 奥萨苏纳-李霄 王宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KhupxZNdy93E9xurMUJuC8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日03:00-西甲联赛-马德里竞技 vs 奥萨苏纳-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IV5Nu7QZwA5SzQiaKesDGw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日03:05-法甲联赛-马赛 vs 勒阿弗尔-刘一臻
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Kdk7vLAPQaEW1UsgIV9smg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日03:05-法甲联赛-马赛 vs 勒阿弗尔-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9C5ZRkHNPaqJMENrWCHVtG0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日04:00-UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森-UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森-陈瑞阳 郑文祺
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Oq06cQbqMdxkzUAkPzjJoY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日04:00-UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森-UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HLMhnburuwWZiPQMpXE5eY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日04:00-UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森-UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森-智能字幕
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DzRwFXOVWt4qymrdT3_y50
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-逐马计划东营马拉松-逐马计划东营马拉松-东营
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Kl6Or8NHHEg3GIlaFkJX14
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-第十二届浪琴表北京国际马术大师赛第四日-北京国际马术大师赛Day4-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FN88K16MmwcTpOzOjvO-rw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-2025度小满西安马拉松赛等七场比赛-2025度小满西安马拉松赛-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NQGJH8ku7b-bcD1bc554bk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-2025度小满西安马拉松赛等七场比赛-2025度小满西安马拉松赛-扬子江龙凤堂2025泰州马拉松
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CUZ2M_LcR27nXG59Sj33nM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-2025度小满西安马拉松赛等七场比赛-2025度小满西安马拉松赛-2025东盛华府泗洪马拉松
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Hf95nfahEjdLuj0gOHpUdo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-2025度小满西安马拉松赛等七场比赛-2025度小满西安马拉松赛-2025随州马拉松
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MyP44mI0m3Jp4OiLgCKg8M
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-2025度小满西安马拉松赛等七场比赛-2025度小满西安马拉松赛-“杭州-阿克苏同心杯”2025阿克苏市马拉松
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PW9XyW720cNx9deGdhPddM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-2025度小满西安马拉松赛等七场比赛-2025度小满西安马拉松赛-博斯腾·2025铁门关半程马拉松
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MganbM9UcbXVv7-WF_o004
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-2025度小满西安马拉松赛等七场比赛-2025度小满西安马拉松赛-2025中国田径协会10公里精英赛·揭西河婆站
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BljkcE7XeULQDrcAN_cNrU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-扬子江龙凤堂2025泰州马拉松-扬子江龙凤堂2025泰州马拉松-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PeE8A_p-wU-O88R92KOJ6E
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-2025东盛华府泗洪马拉松-2025东盛华府泗洪马拉松-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NUJEDKOOp-UkLbSbT57odI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日07:30-2025随州马拉松-2025随州马拉松-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9P_SiKtRRkqJlOy2E77lyvk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日08:00-国际跳绳大师赛：决赛-国际跳绳大师赛：决赛-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PVu0pAKMzNm8BDjH5Xsvj0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日10:40-环广西Stage6：南宁城市赛段-环广西Stage6：南宁城市赛段-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KDITTvkblsbPXGSfsQ_Q1Q
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日11:00-决赛 17负----18负决3/4名-决赛 17负----18负决3/4名-2025乌鲁木齐城市足球联赛决赛: 决赛 17负----18负决3/4名
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KHJj0ryuJzyO4Lmv1nIU9c
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日11:00-WTA大阪站决赛-WTA大阪站决赛-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KlsS2ouufZGRe-xU5EKVtk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日11:00-WTA大阪站决赛-WTA大阪站决赛-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EJG20U99q3pmWTB61FmQ_U
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日11:45-UCI自由式小轮车公园赛世界杯-女子组-UCI自由式小轮车公园赛世界杯-女子组-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MQW4gdxZW0qWJlKBzIjXqE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日13:00-半决赛1-半决赛1-2025独牙传奇中式九球大师赛: 半决赛
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9P8R5BS4UwKIXcYiHyjEDSA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日13:00-半决赛1-半决赛1-2025独牙传奇中式九球大师赛: 半决赛清流
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KYcONXlPbYMXtpKycWn17E
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日13:00-超三联赛-超三联赛 季后赛及附加赛 半决赛-蔡凯臣 李嘉伟
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PKW6aB3ZKiG7yIIycf-c5k
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日14:00-UCI自由式小轮车公园赛世界杯-男子组-UCI自由式小轮车公园赛世界杯-男子组-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Hs0Vcqtqm6-UlfDOzSOXzo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日14:30-中乙联赛-深圳二零二八vs海门珂缔缘-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FdT_cTMDH1DY4aMNM01Cnk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日14:30-中乙联赛-贵州筑城竞技vs山东泰山B队-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BuoOUr_WErWF-IJ6OSRxPk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日14:30-中乙联赛-无锡吴钩vs成都蓉城B队-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BihAXuqWzCiSIllPClXlJo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日14:30-中乙联赛-长春喜都vs广西恒宸-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ASeyyJ0f8z04UNhFOOPjrc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日14:30-宁波网球公开赛Day7-宁波网球公开赛Day7-中心球场
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EGNqKpJxfvYnK29wz27ZoU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:00-广安板楯蛮队 VS 巴中红叶队-广安板楯蛮队 VS 巴中红叶队-25/26赛季四川省城市足球联赛: 广安板楯蛮队 VS 巴中红叶队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PJ7Srwg3HcreRLeX_8Gfp8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:00-南充丝绸源点队 VS 成都锦城队-南充丝绸源点队 VS 成都锦城队-25/26赛季四川省城市足球联赛: 南充丝绸源点队 VS 成都锦城队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ITA87Zzd-Subhda6JKlYrc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:00-武汉理工大学vs江汉大学-武汉理工大学vs江汉大学-2025赛季武汉城市足球超级联赛：高校组 武汉理工大学vs江汉大学
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GbvGbrV84Y30ekKZIiNRj8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:00-武昌职业学院vs武汉大学-武昌职业学院vs武汉大学-2025赛季武汉城市足球超级联赛：高校组 武昌职业学院vs武汉大学
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Epu9-aAL8VMxGUog-O54cI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:00-华中科技大学vs武汉体育学院-华中科技大学vs武汉体育学院-2025赛季武汉城市足球超级联赛：高校组 华中科技大学vs武汉体育学院
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MnT7bbOj0Amo5y9IaPuQgU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:00-华中师范大学vs武汉城市职业学院-华中师范大学vs武汉城市职业学院-2025赛季武汉城市足球超级联赛：高校组 华中师范大学vs武汉城市职业学院
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NJ3dwARSCWXUAto0ouseKo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:00-GT世界挑战赛北京亦庄站Day2-GT3/GT4决赛 年度冠军将揭晓-官方解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HHCOAxK8cCP1ICjmm0UMDg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:30-中超联赛-大连英博 vs 武汉三镇-涂远 于海
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PUHFSh3wCsymVyBHOms8Q8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:30-中超联赛-大连英博 vs 武汉三镇-4K赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CYJ2yGtKUbp7W0WNqkU5bM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:30-中甲联赛-陕西联合 vs 青岛红狮-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E_fwqPpzJ1WBZybIgVIalY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日15:50-环广西Stage6：女子世巡赛-环广西Stage6：女子世巡赛-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ap8s-idXblZwdysPfEEjzs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日16:00-决赛 17胜----18胜决1/2名  闭幕式-决赛 17胜----18胜决1/2名  闭幕式-2025乌鲁木齐城市足球联赛决赛: 决赛 17胜----18胜决1/2名
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PvKA-9gBdJRTJMalUUCpqc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日16:00-2025年河南省女子排球城市联赛第二阶段（C组）第四轮-第二阶段（C组）第四轮-商丘vs开封
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9B9U53Z8JmwepeXSKx6tObc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日16:00-2025年河南省女子排球城市联赛第二阶段（C组）第四轮-第二阶段（C组）第四轮-郑州vs周口
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O2LEkINQazuomq3omNmhO8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日16:00-2025年河南省女子排球城市联赛第二阶段（C组）第四轮-第二阶段（C组）第四轮-新乡南太行vs洛阳
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9A84PWzPFZQLkTk5zo6RFnk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日16:00-2025年河南省女子排球城市联赛第二阶段（C组）第四轮-第二阶段（C组）第四轮-平顶山vs航空港区
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Hxevhac6JjNRQEnYT9ygl4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日17:30-UCI自由式小轮车平地花式世界杯-男子组-UCI自由式小轮车平地花式世界杯-男子组-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Iddv_-zLxYqQK66WjV24X4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日18:30-意甲联赛-科莫 vs 尤文图斯-吴桐 刘腾
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HW7ZvwCptn7TF_plENazJI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日18:30-意甲联赛-科莫 vs 尤文图斯-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PFhki_bJvHtsZ6JLTweqHc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日18:30-半决赛2-半决赛2-2025独牙传奇中式九球大师赛: 半决赛
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OnAuBeaJiX48K_nq2Yurfo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日18:30-半决赛2-半决赛2-2025独牙传奇中式九球大师赛: 半决赛清流
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AvtWzYhf78ME99ZH-1U3K4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:00-超三联赛-超三联赛总决赛 铜牌赛及金牌赛-蔡凯臣 李嘉伟
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9K7MlcjO_iZJqwjqBsAfWHM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:30-中甲联赛-南京城市 vs 定南赣联-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9M8Gs5pLxLF9z0vNDzIOI2Y
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:30-中甲联赛-南通支云 vs 广西平果-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Mger8LJ1wMDr6QAXBej1yU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:30-杭州VS台州-杭州VS台州-2025浙江省城市篮球联赛: 杭州VS台州
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LggCBdVSq22hbXROO-Dmm4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:30-诸暨VS余姚-诸暨VS余姚-2025浙江省城市篮球联赛: 诸暨VS余姚
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PWFYNWwFIprNdzCgKOMiac
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:30-抚州VS九江-抚州VS九江-2025江西省城市足球超级联赛三四名决赛: 抚州VS九江(官方解说)
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IHxZKWjmt3Z-c9IiSu34C8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:35-中超联赛-河南 vs 长春亚泰-孙雨轩 雷腾龙
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JwY-jdheFGYvBQPqxdCNDQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:35-中超联赛-河南 vs 长春亚泰-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ahd_N_mP3OvhVpXW-E_MAc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:35-达州川汉子队 VS 遂宁舍得干队-达州川汉子队 VS 遂宁舍得干队-25/26赛季四川省城市足球联赛: 达州川汉子队 VS 遂宁舍得干队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KTdRV6iKAABjRtBAO47OII
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:35-眉山射天狼队 VS 攀枝花攀钢钢铁勇士队-眉山射天狼队 VS 攀枝花攀钢钢铁勇士队-25/26赛季四川省城市足球联赛: 眉山射天狼队 VS 攀枝花攀钢钢铁勇士队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FXGlGtkegLFPHDXSwSf630
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:35-凉山好医生队 VS 雅安貊貊队-凉山好医生队 VS 雅安貊貊队-25/26赛季四川省城市足球联赛: 凉山好医生队 VS 雅安貊貊队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DU99aHUmti6YvrWSmAM_zE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:35-江苏城市足球联赛半决赛-南通队vs无锡队-官方解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9INBA589iaWt2EK1Xo7cXfQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日19:45-FISE人字坡狂欢赛·小轮车-男子专业组-FISE人字坡狂欢赛·小轮车-男子专业组-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MIiIIsrhqvXn30NoF8x6Zk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日20:00-西甲联赛-埃尔切 vs 毕尔巴鄂竞技-唐晖
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PRjBR0CyB_sIdpduh_0uAo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日20:00-西甲联赛-埃尔切 vs 毕尔巴鄂竞技-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IcRSPwxUkH6Ly5D70Drsbk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日20:15-湖南省足球联赛-张家界vs长沙-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ir30IPzOtXi8OikkcAmcq0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日20:15-湖南省足球联赛-岳阳vs郴州-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OT-X0Hoy71zhn_-eKAn0pc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:00-英超联赛-托特纳姆热刺 vs 阿斯顿维拉-娄一晨 刘越
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Gr_fraEWrTcXYtR5bcMfwg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:00-英超联赛-托特纳姆热刺 vs 阿斯顿维拉-4K赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J1qs4phSwMUjj9HCBjH1Ow
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:00-英超联赛-托特纳姆热刺 vs 阿斯顿维拉-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ca55QMH4JJGjNn2xGuSqh4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:00-意甲联赛-热那亚 vs 帕尔马-吴奕博
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LFuOUETkikqSeZwQv5Sw4E
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:00-意甲联赛-热那亚 vs 帕尔马-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HlymjSoNN98QfxqT6_sJSA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:00-意甲联赛-卡利亚里 vs 博洛尼亚-梁祥宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JYYm5N45wtaxPNh-BbpwYI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:00-意甲联赛-卡利亚里 vs 博洛尼亚-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Fv4AOfLfnU7YNyO2MU47pk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:00-法甲联赛-朗斯 vs 巴黎-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Bksk2-JeKGkzaY0iSPU30I
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:00-法甲联赛-朗斯 vs 巴黎-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9C5Gq8hiPYpAvzyJQ2QDb9s
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:20-国际马联场地障碍世界杯西欧联赛-国际马联场地障碍世界杯西欧联赛-清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BAjehF73dQPCaCpFH4EOJI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:30-德甲联赛-弗赖堡 vs 法兰克福-吴子越
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OCvzjUCgAsZXQEjrUIDVR8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日21:30-德甲联赛-弗赖堡 vs 法兰克福-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N0JNp6nY341T-lzvHXItMY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日22:15-西甲联赛-塞尔塔 vs 皇家社会-兰子非
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JGHD-vQVjWcKepEoLKtOWk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日22:15-西甲联赛-塞尔塔 vs 皇家社会-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FMK4cIl9ESI80zsa3BNGWo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:15-法甲联赛-雷恩 vs 欧塞尔-盛斌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IFHY0haiuebfJVRch3YfBE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:15-法甲联赛-雷恩 vs 欧塞尔-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DMoKpUHrTnnM21fss9_Z0w
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:15-法甲联赛-洛里昂 vs 布雷斯特-乔迁
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E2U4Fy0iL8gyztjVESbrYE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:15-法甲联赛-洛里昂 vs 布雷斯特-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H2GezMekItbkzVfgmd8Soc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:15-法甲联赛-图卢兹 vs 梅斯-李永熙
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Hw1fBb9wRSnQA67iDiDNTk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:15-法甲联赛-图卢兹 vs 梅斯-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GXtUZbYZdtu3xV53Sdkkmg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:30-英超联赛-利物浦 vs 曼联-詹俊 张路 邵凌霄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N5stoZiWKcuLOl0mk1TceM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:30-英超联赛-利物浦 vs 曼联-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LoWa63NMR4cfwRIncL6Q1E
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:30-英超联赛-利物浦 vs 曼联-英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9M05tEFlHA851vnRCIEwilo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:30-英超联赛-利物浦 vs 曼联-陈渤胄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HJ08dja2KtFbRMOouMkCes
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:30-英超联赛-利物浦 vs 曼联-詹俊 张路 邵凌霄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DrKIpivycuElioOOuO36uM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:30-英超联赛-利物浦 vs 曼联-江忠德
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ImSuD4VFta9XwDfxDoaLGc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:30-英超联赛-利物浦 vs 曼联-洪荒
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O0-X-bWO5TVR0Y1LbzBGOk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:30-德甲联赛-圣保利 vs 霍芬海姆-赵宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KbGZKVSqghotM3MEuhULO4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10月19日23:30-德甲联赛-圣保利 vs 霍芬海姆-赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AjmpbvNgd5w1ngkVXPT0d0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 11:00_费尔南德斯出战_费尔南德斯出战_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JW99_vW32rg_ubJk753M0k
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 11:00_费尔南德斯出战_费尔南德斯出战_英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9F3QS7Yb-RhjMkG8dfUaR2Y
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 12:00_16进8单败淘汰_16进8单败淘汰_2025独牙传奇中式九球大师赛: 16进8单败淘汰
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N4-2QlvjHK8WvF0kHExDrw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 12:00_16进8单败淘汰_16进8单败淘汰_2025独牙传奇中式九球大师赛: 16进8单败淘汰清流
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KZJ0C3BFj5J4AXLZKeQIWQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 12:00_GTWC-GT3排位赛、预决赛_GTWC-GT3排位赛、预决赛_官方解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L93Vp-mgl7jaGoF6T1BweI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 13:00_莱巴金娜、保利尼出战_莱巴金娜、保利尼出战_中心球场
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9F1tlr_Fh5mgDnIDuWDYUbc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 13:00_莱巴金娜、保利尼出战_莱巴金娜、保利尼出战_李宁
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9K4BBhvUAMqQhhJi90bwzRE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 15:00_莱巴金娜、保利尼出战_莱巴金娜、保利尼出战_李宁
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CXo7a2FM6WoQhDdMPWYxgU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 17:30_莱巴金娜、保利尼出战_莱巴金娜、保利尼出战_鸿昆
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CcFewUAfX-JF5kllW77v0g
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:00_莱巴金娜、保利尼出战_莱巴金娜、保利尼出战_鸿昆
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ah3JIsvGrXbG_tn6G4XTqM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 12:50_超三联赛 季后赛12进8及附加赛小组赛_超三联赛 季后赛12进8及附加赛小组赛_蔡凯臣 李嘉伟
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L-e6Ixq05P7xBXF2R5tbgg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 13:30_环广西Stage5：宜州-弄拉赛段_环广西Stage5：宜州-弄拉赛段_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MsBnRJbMcjleyKrAy_S0Yw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:00_女单、女双决赛_女单、女双决赛_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KbdZlrpmYX84PW1_i8jnb8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:00_UCI自由式小轮车公园赛世界杯-男子组_UCI自由式小轮车公园赛世界杯-男子组_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9D-AYDEULhl6-UK24Cv53gU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:20_中乙联赛_温州俱乐部中胤vs湖北青年星_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9P2E9aiv_25x9lUkdHT6Ab8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:20_中乙联赛_广东铭途vs上海海港富盛经开_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KOP5gprl1Jj5MgF8nRaAhU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:20_中乙联赛_杭州临平吴越vs泉州亚新_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9In64QPjS4xXqsEk-An51n0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:20_中乙联赛_兰州陇原竞技vs广州蒲公英德桦绿建_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CqdPIBR6RRTABKNfNUM53U
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:20_中乙联赛_泰安天贶vs昆明城星_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DCq535hF-ZDbJCfDewBqhI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:20_中乙联赛_北京理工vs赣州瑞狮_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JhoIk8Fc0By57Z3MXTbb1M
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:20_中乙联赛_武汉三镇B队vs山西崇德荣海_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N_eNvrnmtTeWgy0S94gpTA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:20_中乙联赛_广西蓝航vs江西庐山_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ELFpiW92ae8mIeZmME8WoI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:50_中甲联赛_延边龙鼎 vs 佛山南狮_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IO6qpd73ScptLkpSMhPCyo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 15:00_逐马计划东营站大咖分享会_逐马计划东营站大咖分享会_竖屏
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AoJlcZgvl6xlktWvYL1QyQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 15:20_中甲联赛_上海嘉定汇龙 vs 辽宁铁人_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NHtMPjPDGPDXKrt1kvN5VE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 14:30_资阳中国牙谷队 VS 宜宾长江首城队_资阳中国牙谷队 VS 宜宾长江首城队_25/26赛季四川省城市足球联赛: 资阳中国牙谷队 VS 宜宾长江首城队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Nshb9RiNxVWFbAYedDPAuw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 15:30_中超联赛_深圳新鹏城 vs 北京国安_李欣 董路 邵凌霄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MSX3enncMsFoyieJNNZ4Qk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 15:45_中超联赛_深圳新鹏城 vs 北京国安_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FQCd2LTYgJs3w1POHuWkQk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 16:00_交叉赛 沙区代表队vs达坂城代表队_交叉赛 沙区代表队vs达坂城代表队_2025乌鲁木齐城市足球联赛交叉赛: 交叉赛 B1------A2
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HKNGcM3GbQ0PQeRNctLDkc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 15:55_全国女子篮球锦标赛_山东赤水河酒vs武汉盛帆黄鹤_清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9C-Qerq9Cr-St510vvcWo3Q
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 18:00_FISE国际滑板街式精英赛-男子专业组_FISE国际滑板街式精英赛-男子专业组_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CzFbum3eJfYbpirDkv1LpY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 18:50_中甲联赛_大连鲲城 vs 重庆铜梁龙_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PeQpipBswN6jC0zANthiuU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 18:50_中甲联赛_苏州东吴 vs 广东广州豹_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ALHm12wG32kGI9uZV71I0c
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:00_8进4单败淘汰-解说_8进4单败淘汰-解说_2025独牙传奇中式九球大师赛: 8进4单败淘汰-解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Pib4zztkpfnsTwSHDem2Po
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:00_8进4单败淘汰一号台_8进4单败淘汰一号台_2025独牙传奇中式九球大师赛: 8进4单败淘汰一号台
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9G-96AWp6aT2RJasr3VlpHM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:00_8进4单败淘汰二号台_8进4单败淘汰二号台_2025独牙传奇中式九球大师赛: 8进4单败淘汰二号台
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9INRQLwW0EM_78tKC4DetE8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:00_8进4单败淘汰三号台_8进4单败淘汰三号台_2025独牙传奇中式九球大师赛: 8进4单败淘汰三号台
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ix7ZsmNs1JuvjwpJ7uKRY0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:00_8进4单败淘汰四号台_8进4单败淘汰四号台_2025独牙传奇中式九球大师赛: 8进4单败淘汰四号台
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9I7N_NiRky-bWxDjmn944Ps
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 18:50_超三联赛 季后赛四分之一决赛及附加赛小组赛_超三联赛 季后赛四分之一决赛及附加赛小组赛_蔡凯臣 李嘉伟
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ahsdrv8lteEw5S6kmJirvc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 18:55_汉超第8轮 黄陂区vs江夏区_汉超第8轮 黄陂区vs江夏区_2025赛季武汉城市足球超级联赛：汉超第8轮 黄陂区vs江夏区
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9I-w5QKO9mpkkpdX3HPoBEg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:20_中甲联赛_石家庄功夫 vs 深圳青年人_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CKfdO4cXQgGujyG0RR2hSg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:00_英超联赛_诺丁汉森林 vs 切尔西_詹俊 张路 林梦鸽
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9G3TUuGS9wRJWYUF48U_Fug
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:15_英超联赛_诺丁汉森林 vs 切尔西_英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LroHlvuXsqqrqwc6p5ygmg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:15_英超联赛_诺丁汉森林 vs 切尔西_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9D0dCiIxjEJ9CyIX3AM-s1k
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:15_英超联赛_诺丁汉森林 vs 切尔西_清流播出9
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Nj7SFDamuprLHLh3rz_J6s
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:30_庆元VS舟山_庆元VS舟山_2025浙江省城市篮球联赛: 庆元VS舟山
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J-36fhf-l8El4t__3zWEps
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:30_湖州VS嘉兴经开区_湖州VS嘉兴经开区_2025浙江省城市篮球联赛: 湖州VS嘉兴经开区
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FgSElDgUgFu_Uh1I2Odp_o
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:30_金华VS温州_金华VS温州_2025浙江省城市篮球联赛: 金华VS温州
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IQmv3IPtWk5X1e4FLzNA9Q
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:25_全国女子篮球锦标赛_江苏南钢vs四川远达美乐_清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Blyvf5oWfcV_BLB7JyOyAU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:00_中超联赛_浙江 vs 山东泰山_石庆圣 李彦
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FvoMn7gLEMtThpxDMGxfmo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:20_中超联赛_浙江 vs 山东泰山_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O3r11Baj1vWzSj68dVkOY8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 18:35_泸州窖香队 VS内江重龍酒队_泸州窖香队 VS内江重龍酒队_25/26赛季四川省城市足球联赛: 泸州窖香队 VS内江重龍酒队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CW-hu4NCs-dnN1lISJQgSU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 18:35_阿坝州雪山雄鹰队 VS 绵阳九洲长虹队_阿坝州雪山雄鹰队 VS 绵阳九洲长虹队_25/26赛季四川省城市足球联赛: 阿坝州雪山雄鹰队 VS 绵阳九洲长虹队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9P71bfhrPI_uo2vqDHN0gQw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 18:35_广元剑门雄关队 VS德阳重装队_广元剑门雄关队 VS德阳重装队_25/26赛季四川省城市足球联赛: 广元剑门雄关队 VS德阳重装队
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ET0OBI28I5eLoSqX5cgiyc
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 18:55_江苏城市足球联赛半决赛_南京队vs泰州队_官方解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KshxBrG7K5BEadvBwGZGxI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:35_湖南省足球联赛_衡阳vs湘西_清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HqDusdQUur8_SfonrBQO-Q
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:35_湖南省足球联赛_常德vs邵阳_清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Br7PDZOT85K98a9ArZYAPM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:35_湖南省足球联赛_怀化vs永州_清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9G_Ww-YrWd_DQ5ywP5eErKU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:45_中超联赛_云南玉昆 vs 天津津门虎_刘腾 张辛昕
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Hds9EDXb2hptHGm64xUUZ4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:45_中超联赛_云南玉昆 vs 天津津门虎_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PvurRBGlElZ4kHy1IsewpQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:45_西甲联赛_塞维利亚 vs 马略卡_梁祥宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Cj_qsnvC2-RrSa4pAlS22k
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 19:45_西甲联赛_塞维利亚 vs 马略卡_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Bm0Z7kxrv8vDuMg9nPW2q4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 20:00_湖南省足球联赛_娄底vs益阳_清流播出
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NBv-Z_AjUBWQsuglCnmeSA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 20:20_FISE人字坡狂欢赛·滑板-男子专业组_FISE人字坡狂欢赛·滑板-男子专业组_解说
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Cmddk-bcXOsrbZrLOH_DWw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 20:45_意甲联赛_比萨 vs 维罗纳_谭逸雄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MkUunzIBqILLvIjXRcwzEU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 20:45_意甲联赛_比萨 vs 维罗纳_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9F_a2gXlyZDll53Tex5Vc4I
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 20:45_意甲联赛_莱切 vs 萨索洛_乔迁
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KHoL0N6u0EaKw0N_0bG0tw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 20:45_意甲联赛_莱切 vs 萨索洛_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IZb91HmNbKd0sNn1jAtAuY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:15_德甲联赛_海登海姆 vs 不来梅_周楚雄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ma6nqHNsY6EiFZxqFEAVfY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:15_德甲联赛_海登海姆 vs 不来梅_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Nu4UxYLwv6AkQXJ6W_oAqI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:15_德甲联赛_沃尔夫斯堡 vs 斯图加特_刘洋
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DIuNsemEl410g6ZTE0dq6Q
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:15_德甲联赛_沃尔夫斯堡 vs 斯图加特_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L02f6whTn78I_apADXV41s
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:00_德甲联赛_美因茨 vs 勒沃库森_涂远 鲁靖明
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H7jTvJYBwU8dP05TTFxMoQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:15_德甲联赛_美因茨 vs 勒沃库森_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L__FZcojP_BT5yxUU8ahkg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:00_德甲联赛_美因茨 vs 勒沃库森_涂远 鲁靖明
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BHQ5hSbKFnf-M9xAriZDM0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:15_德甲联赛_科隆 vs 奥格斯堡_刘洪新
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NaaKfK9k1VEZ0aZ8yk4Ub8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:15_德甲联赛_科隆 vs 奥格斯堡_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PngLVN0_7DvLlbb-T09Rt8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:15_德甲联赛_RB莱比锡 vs 汉堡_王子睿
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JF2raIFF2pK32B_eN8OnLQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:15_德甲联赛_RB莱比锡 vs 汉堡_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FpSJ72y8XWU_6U2fqMm4LA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_桑德兰 vs 狼队_刘焕
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GPN0b1AkNzQDTtEhC0f55A
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_桑德兰 vs 狼队_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LgFzwpYHxaFbubFDxcYnAQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_桑德兰 vs 狼队_英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Hj0tpYHz_fi7mOx1RsWCrs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:30_英超联赛_曼城 vs 埃弗顿_苏东 黄健翔 程思钦
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MkXeKildzxjbIis1S13vSw
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_曼城 vs 埃弗顿_英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LWs7uB4PDZfGgF7XwaP_w4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_曼城 vs 埃弗顿_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HlnXtU_0Fy6jJSqQzKy1JQ
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_水晶宫 vs 伯恩茅斯_吴桐 马延峰
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9I0C9hoZGprinS-yTRZh4-o
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_水晶宫 vs 伯恩茅斯_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Hcjzb3cP69jrAxczLGFH34
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_水晶宫 vs 伯恩茅斯_英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HLzIBUSOjoiI3F2g7HjWEs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_伯恩利 vs 利兹联_郭灿亮
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NJnCqxXnYi3i--aKOmL3ag
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_伯恩利 vs 利兹联_英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GblVulJnGuNGllzCN-EJA8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_伯恩利 vs 利兹联_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L1VaJo2air14DYq7brlM30
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_布赖顿 vs 纽卡斯尔联_苗锟
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Kfa7DJGwfOF2A0KkHhiuws
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_布赖顿 vs 纽卡斯尔联_英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9G1BTInUcwksdKho_LUGKKI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 21:45_英超联赛_布赖顿 vs 纽卡斯尔联_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FLj1vlbxPO9BrjSxMdigVI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 22:00_西甲联赛_巴塞罗那 vs 赫罗纳_张昊泽 李欣
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Bs-EhdDJgCHVONztjt7Bbg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 22:00_西甲联赛_巴塞罗那 vs 赫罗纳_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DIlxT3tA694Zwph4-ltwbs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 22:45_法甲联赛_尼斯 vs 里昂_盛斌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CrgULDULYePe4WybNZcO1I
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 22:45_法甲联赛_尼斯 vs 里昂_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EAjtv5-BnoBDjQ9ifBk2qE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 23:45_意甲联赛_都灵 vs 那不勒斯_石庆圣 李彦
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OoR2zVWoi1pGtil06nV2-k
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/18 23:45_意甲联赛_都灵 vs 那不勒斯_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EVWWAZ1VHvlweTfrAML4rM
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:00_英超联赛_富勒姆 vs 阿森纳_颜强 徐阳 邵凌霄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JI1XMgzQWAIxjkRw38pFoA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:15_英超联赛_富勒姆 vs 阿森纳_英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CrIOSK-IhdpLGavXfExvWg
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:15_英超联赛_富勒姆 vs 阿森纳_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KGR9KCtJhpwCxqxKbB5RJA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:00_德甲联赛_拜仁慕尼黑 vs 多特蒙德_鲁靖明 张力 李子琪
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Lwzb6qrcHBk_4pfKhu5EbE
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:15_德甲联赛_拜仁慕尼黑 vs 多特蒙德_4K赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MzQXJKP6gXA8exEariCOdA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:15_德甲联赛_拜仁慕尼黑 vs 多特蒙德_沈云怡 秦游夏
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Nlm-aPSof0wFzv_RZORprA
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:15_西甲联赛_比利亚雷亚尔 vs 皇家贝蒂斯_兰子非
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Fd976pVjnq3VXwksiRgvy0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:15_西甲联赛_比利亚雷亚尔 vs 皇家贝蒂斯_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Gghw7rf3QskoJ4p6OF2suU
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:45_法甲联赛_昂热 vs 摩纳哥_邵煊
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J04DJ68D69Z6wp7YbLaTEo
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 00:45_法甲联赛_昂热 vs 摩纳哥_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EQlC1t7nMVV-RON0g2yPFI
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 02:15_意甲联赛_罗马 vs 国际米兰_刘腾 贺宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KHTz8dqMaSKaCgd0AQqX7o
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 02:30_意甲联赛_罗马 vs 国际米兰_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AJX9ibk0kG7vZO53eQNY7A
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 02:15_意甲联赛_罗马 vs 国际米兰_刘腾 贺宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9F923zohMoZoUhXy_BoOAzs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 02:45_西甲联赛_马德里竞技 vs 奥萨苏纳_李霄 王宇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N-D6s3iP5Zu7odlS8rnEsY
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 02:45_西甲联赛_马德里竞技 vs 奥萨苏纳_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OdEEjxjfGoBc0rzD8P2xLk
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 02:50_法甲联赛_马赛 vs 勒阿弗尔_刘一臻
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GcWF0ax2UfAg0m8MjgF7ek
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 02:50_法甲联赛_马赛 vs 勒阿弗尔_赛场原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9A60N0fZgLYxL2qRSzXAl48
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 03:55_UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森_UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森_陈瑞阳 郑文祺
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LSHJEjIQCitYj2Ff0qgJ2g
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 03:55_UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森_UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森_英文原声
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N7bgypz8peuhl2Rg5Moqm4
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="咪咕体育",10/19 03:55_UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森_UFC格斗之夜：里德尔VS艾伦 傲日其楞出战吉布森_智能字幕
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NsLuqdFo-lJyar2x_Q7Bms
