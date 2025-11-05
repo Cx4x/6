@@ -1,4 +1,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="咸鱼" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="💎添加唯一售后QQ💎",💎添加唯一售后QQ💎
+https://cccimg.com/view.php/6099371f290b30f968df614849c46f7a.mp4
+#EXTINF:-1 tvg-name="咸鱼" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="💎QQ：1913138318💎",💎QQ：1913138318💎
+https://cccimg.com/view.php/6099371f290b30f968df614849c46f7a.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="东亚超级联赛", 2025-11-05 19:00:00_东亚超级联赛_东亚超级联赛 乌兰巴托野马vs昌原LG猎隼
 http://8.134.78.95:37643/txsport/100002:20256819/350709/1775833400.m3u8?txtoken=fb5e7abd0a22af9112fb33ed4e18e72f54d6d7d2faf4064dd3ecc485904800dd5798c3a9e43a3afb935cd32c47763f39fe52fff1c2723d033d41cbbc57b421da0e518be4320ff364b8381160ed047eba018333400c8f646e634da49d27260021d113c8998cd8f0d03432804c875a31a907a4309f12b4a3675fe3d378bb
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100308.png" group-title="WTA年终总决赛", 2025-11-05 20:10:00_WTA年终总决赛_维罗尼卡·库德梅托娃/梅尔滕斯 vs 埃拉尼/鲍里妮
