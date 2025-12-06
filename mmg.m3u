@@ -179,119 +179,272 @@ http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fu
 http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245156
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月06日23:15阿拉维斯vs皇家社会（赛场原声）" group-title="[12月6日-西甲]",12月06日23:15阿拉维斯vs皇家社会（赛场原声）
 http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245157
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日00:00南特vs朗斯" group-title="[12月7日-法甲]",12月07日00:00南特vs朗斯
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245158
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日01:00国际米兰vs科莫" group-title="[12月7日-意甲]",12月07日01:00国际米兰vs科莫
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245159
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日01:15萨顿联vs施鲁斯伯里" group-title="[12月7日-足总杯]",12月07日01:15萨顿联vs施鲁斯伯里
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245160
 
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日00:00南特vs朗斯（李永熙）" group-title="[12月7日-法甲]",12月07日00:00南特vs朗斯（李永熙）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247932
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日00:00南特vs朗斯（赛场原声）" group-title="[12月7日-法甲]",12月07日00:00南特vs朗斯（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247933
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日01:00国际米兰vs科莫（刘腾王宇）" group-title="[12月7日-意甲]",12月07日01:00国际米兰vs科莫（刘腾王宇）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247934
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日01:00国际米兰vs科莫（赛场原声）" group-title="[12月7日-意甲]",12月07日01:00国际米兰vs科莫（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247935
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日01:15萨顿联vs施鲁斯伯里（郭灿亮）" group-title="[12月7日-足总杯]",12月07日01:15萨顿联vs施鲁斯伯里（郭灿亮）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247936
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日01:15萨顿联vs施鲁斯伯里（赛场原声）" group-title="[12月7日-足总杯]",12月07日01:15萨顿联vs施鲁斯伯里（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247937
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日01:30利兹联vs利物浦（詹俊张路李子琪）" group-title="[12月7日-英超]",12月07日01:30利兹联vs利物浦（詹俊张路李子琪）1
+https://mgev.188766.xyz/play?migutoken=f84593c03bfe191097b0dbab18a7020c&id=L4pNMZORVn2Lc3tgk7uBoxP7bVTTmqyrpRQp2MLalaouYWJLlvWRGNm6VWFZxGOrcCpwEn1o%2FQ7OP7E1yj2HWFkTQvnYS%2F46VU07FfDZN%2FMCXTjeEOIuOA%2F9L9BTrS%2BNuI1ipb12aFpZ%2Bsqe0v0n%2B0PKI7n4xSFh5yCygDSjhbhuIGYlPVju8Dok%2BHjQ315bnCA0pJ2%2FNiHfwkAFONhq3%2BdLgZ4BjXXCZH%2FCNg4Z1a8x7W8B%2FkUa3wui33OYoAC1ahZrFZVU3dKEyAGc6tbm8HZ7NNQrg5gs3fqu5uYFIlBp2uyodoCekifYg4lrQC3nw74vq6RXVWQk9phL7A4Kzn7awmsjGaFkkszCZZxEr9PMWVd0wu6OpvKolyOQ6pdQ3ueY8f9%2BF3KYK1Hk7R5wCA%3D%3D&name=UQDcv%2BofvuazCDbOx4Ni32v6ax7%2BOxgzp0A%2BUwrB%2BC1PYPqcNfdD3i0ictoFTGzryDpZp%2B3iyUu8KwOwrHDLynoGOevrx18T5%2FM5rNsm%2FvgJH%2BGX3KlgOxvPRs2AGVFN
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日01:30利兹联vs利物浦" group-title="[12月7日-英超]",12月07日01:30利兹联vs利物浦
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245161
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" tvg-name="12月07日01:30RB莱比锡vs法兰克福" group-title="[12月7日-德甲]",12月07日01:30RB莱比锡vs法兰克福
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245162
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日01:30皇家贝蒂斯vs巴塞罗那" group-title="[12月7日-西甲]",12月07日01:30皇家贝蒂斯vs巴塞罗那
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245163
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日02:00图卢兹vs斯特拉斯堡" group-title="[12月7日-法甲]",12月07日02:00图卢兹vs斯特拉斯堡
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245164
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" tvg-name="12月07日03:00半决赛" group-title="[12月7日-斯诺克]",12月07日03:00半决赛
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245165
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日03:30切斯特菲尔德vs唐卡斯特" group-title="[12月7日-足总杯]",12月07日03:30切斯特菲尔德vs唐卡斯特
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245166
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日03:45维罗纳vs亚特兰大" group-title="[12月7日-意甲]",12月07日03:45维罗纳vs亚特兰大
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245167
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日04:00毕尔巴鄂竞技vs马德里竞技" group-title="[12月7日-西甲]",12月07日04:00毕尔巴鄂竞技vs马德里竞技
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245168
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日04:05巴黎圣日耳曼vs雷恩" group-title="[12月7日-法甲]",12月07日04:05巴黎圣日耳曼vs雷恩
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245169
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日06:00鹈鹕VS篮网" group-title="[12月7日-NBA]",12月07日06:00鹈鹕VS篮网
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245170
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/10000000040310663de2.png" tvg-name="12月07日07:00UFC第323期：梅拉布VS彼得-严" group-title="[12月7日-UFC数字赛]",12月07日07:00UFC第323期：梅拉布VS彼得-严
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245171
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/9/28/1000000011111066d90b.png" tvg-name="12月07日07:30神行2025宁德马拉松" group-title="[12月7日-逐马计划]",12月07日07:30神行2025宁德马拉松
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245172
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" tvg-name="12月07日07:30深圳、珠海等五场马拉松" group-title="[12月7日-马拉松系列赛]",12月07日07:30深圳、珠海等五场马拉松
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245173
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" tvg-name="12月07日07:302025丽珠医药珠海马拉松" group-title="[12月7日-马拉松系列赛]",12月07日07:302025丽珠医药珠海马拉松
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245174
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:00老鹰VS奇才" group-title="[12月7日-NBA]",12月07日08:00老鹰VS奇才
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245175
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:30勇士VS骑士" group-title="[12月7日-NBA]",12月07日08:30勇士VS骑士
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245176
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:30雄鹿VS活塞" group-title="[12月7日-NBA]",12月07日08:30雄鹿VS活塞
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245177
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日09:00快船VS森林狼" group-title="[12月7日-NBA]",12月07日09:00快船VS森林狼
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245178
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日09:00国王VS热火" group-title="[12月7日-NBA]",12月07日09:00国王VS热火
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245179
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日09:00【训练馆视角】直击赛前训练" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日09:00【训练馆视角】直击赛前训练
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245180
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日09:30火箭VS独行侠" group-title="[12月7日-NBA]",12月07日09:30火箭VS独行侠
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245181
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日10:00半决赛" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日10:00半决赛
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245182
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/17/100000001374106fb7a1.png" tvg-name="12月07日10:00江西庐山U21vs昆明城星U21" group-title="[12月7日-中国足球青少年精英联赛]",12月07日10:00江西庐山U21vs昆明城星U21
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245183
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" tvg-name="12月07日12:00江苏羽超VS芜湖兴航" group-title="[12月7日-羽超联赛]",12月07日12:00江苏羽超VS芜湖兴航
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245184
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" tvg-name="12月07日12:00浙江竞体VS深圳川崎羽众" group-title="[12月7日-羽超联赛]",12月07日12:00浙江竞体VS深圳川崎羽众
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245185
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" tvg-name="12月07日15:00南岸万和医药队VS科学城高芯猛虎队" group-title="[12月7日-重庆城市足球超级联赛]",12月07日15:00南岸万和医药队VS科学城高芯猛虎队
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245186
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" tvg-name="12月07日15:00开州汉丰湖队VS巫山红叶队" group-title="[12月7日-重庆城市足球超级联赛]",12月07日15:00开州汉丰湖队VS巫山红叶队
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245187
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" tvg-name="12月07日15:00云阳恐龙队VS巫溪红池坝队" group-title="[12月7日-重庆城市足球超级联赛]",12月07日15:00云阳恐龙队VS巫溪红池坝队
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245188
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" tvg-name="12月07日15:00酉阳800队VS黔江白垩纪恐龙队" group-title="[12月7日-重庆城市足球超级联赛]",12月07日15:00酉阳800队VS黔江白垩纪恐龙队
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245189
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/17/100000001374106fb7a1.png" tvg-name="12月07日15:00北京国安U21vs梅州客家U21" group-title="[12月7日-中国足球青少年精英联赛]",12月07日15:00北京国安U21vs梅州客家U21
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245190
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/17/100000001374106fb7a1.png" tvg-name="12月07日15:00青岛西海岸U21vs兰州陇原竞技U21" group-title="[12月7日-中国足球青少年精英联赛]",12月07日15:00青岛西海岸U21vs兰州陇原竞技U21
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245191
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/17/100000001374106fb7a1.png" tvg-name="12月07日15:00青岛海牛U21vs广西平果U21" group-title="[12月7日-中国足球青少年精英联赛]",12月07日15:00青岛海牛U21vs广西平果U21
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245192
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日17:00铜牌赛、决赛" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日17:00铜牌赛、决赛
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245193
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/21/100000001006106e59f4.jpeg" tvg-name="12月07日18:30和平精英复活赛Day2" group-title="[12月7日-和平精英全球总决赛]",12月07日18:30和平精英复活赛Day2
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245194
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" tvg-name="12月07日18:30厦门银行VS辽宁极兔李永波" group-title="[12月7日-羽超联赛]",12月07日18:30厦门银行VS辽宁极兔李永波
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245195
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" tvg-name="12月07日18:30瑞昌碧源VS青岛仁洲" group-title="[12月7日-羽超联赛]",12月07日18:30瑞昌碧源VS青岛仁洲
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245196
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日19:30克雷莫纳vs莱切" group-title="[12月7日-意甲]",12月07日19:30克雷莫纳vs莱切
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245197
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" tvg-name="12月07日19:30宁波VS嘉兴" group-title="[12月7日-浙江省城市篮球联赛]",12月07日19:30宁波VS嘉兴
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245198
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" tvg-name="12月07日19:30台州湾新区VS苍南" group-title="[12月7日-浙江省城市篮球联赛]",12月07日19:30台州湾新区VS苍南
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245199
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00曼联女足vs西汉姆联女足" group-title="[12月7日-英女超]",12月07日20:00曼联女足vs西汉姆联女足
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245200
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00莱斯特城女足vs曼城女足" group-title="[12月7日-英女超]",12月07日20:00莱斯特城女足vs曼城女足
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245201
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00伦敦城雌狮女足vs布莱顿女足" group-title="[12月7日-英女超]",12月07日20:00伦敦城雌狮女足vs布莱顿女足
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245202
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00托特纳姆热刺女足vs阿斯顿维拉女足" group-title="[12月7日-英女超]",12月07日20:00托特纳姆热刺女足vs阿斯顿维拉女足
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245203
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日20:30斯洛格镇vs马科斯菲尔德镇" group-title="[12月7日-足总杯]",12月07日20:30斯洛格镇vs马科斯菲尔德镇
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245204
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日21:00埃尔切vs赫罗纳" group-title="[12月7日-西甲]",12月07日21:00埃尔切vs赫罗纳
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245205
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" tvg-name="12月07日21:00决赛（第一阶段）" group-title="[12月7日-斯诺克]",12月07日21:00决赛（第一阶段）
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245206
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日22:00布赖顿vs西汉姆联" group-title="[12月7日-英超]",12月07日22:00布赖顿vs西汉姆联
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245207
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日22:00尼斯vs昂热" group-title="[12月7日-法甲]",12月07日22:00尼斯vs昂热
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245208
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日22:00卡利亚里vs罗马" group-title="[12月7日-意甲]",12月07日22:00卡利亚里vs罗马
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245209
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" tvg-name="12月07日22:30汉堡vs不来梅" group-title="[12月7日-德甲]",12月07日22:30汉堡vs不来梅
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245210
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日22:30博勒姆伍德vs纽波特" group-title="[12月7日-足总杯]",12月07日22:30博勒姆伍德vs纽波特
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245211
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日22:30切尔西女足vs埃弗顿女足" group-title="[12月7日-英女超]",12月07日22:30切尔西女足vs埃弗顿女足
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245212
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日23:15瓦伦西亚vs塞维利亚" group-title="[12月7日-西甲]",12月07日23:15瓦伦西亚vs塞维利亚
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245213
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日23:30格斯海德vs沃尔索尔" group-title="[12月7日-足总杯]",12月07日23:30格斯海德vs沃尔索尔
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F245214
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日01:30利兹联vs利物浦（詹俊张路李子琪）" group-title="[12月7日-英超]",12月07日01:30利兹联vs利物浦（詹俊张路李子琪）2
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247938
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日01:30利兹联vs利物浦（詹俊张路李子琪）" group-title="[12月7日-英超]",12月07日01:30利兹联vs利物浦（詹俊张路李子琪）3
+https://mgev.188766.xyz/play?migutoken=c9be2875f51b205de81acaf5f50ab83a&id=zRi%2BjmNSEkYt%2F2MfCy8q%2FGB2KvOLXbrpDQOR5J8jtIGGSUProvJ62RBdEz91Rrl8oT%2FauVNxQyLCxF0azOi2kFJi%2BrMInlooEzzulasIEwHbgbNH3RJd8Ty3nbjkx%2Ff3I4lDcFLa6stYNwYuam9FuLkvWmDazixBGANBNEnqhGYLeQAAg8eeXua3Aari4j7Dgrq1LTWXX3V70149Dx39o%2FHqSKanSOo1pOjFl8uWJ%2F8jEhf0AB9bJNIyxNQiFpvn8R1G9QrxvMIJsI2y%2FjhC8cJwTNpxTdQsT15rBLsW2tmJaTFMMclcmPyF6C493WmpXF0Ay4w0Mdl6uSLljdws03bDuwUklSj2pImMZFyT2j1hXTfGJjhCJ3sFWFy1uEu0CadqBbrQyadv6GI32nqS8w%3D%3D&name=4H5Jhe8AtpAs%2F815Bwd4ZvDyNarD3NN%2Fd4nLJWE5b50YX76ivoKTSdc3p8dV5tb3pO2C%2BCS7KZiNIXpOHqDRG0ZysLYsyEeLrJXvbV1gFVkTUeZSf4zc1G3132yTZTkz
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日01:30利兹联vs利物浦（陈凯冬何辉）" group-title="[12月7日-英超]",12月07日01:30利兹联vs利物浦（陈凯冬何辉）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247939
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日01:30利兹联vs利物浦（英文原声）" group-title="[12月7日-英超]",12月07日01:30利兹联vs利物浦（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247940
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日01:30利兹联vs利物浦（赛场原声）" group-title="[12月7日-英超]",12月07日01:30利兹联vs利物浦（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247941
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" tvg-name="12月07日01:30RB莱比锡vs法兰克福（鲁靖明）" group-title="[12月7日-德甲]",12月07日01:30RB莱比锡vs法兰克福（鲁靖明）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247943
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" tvg-name="12月07日01:30RB莱比锡vs法兰克福（赛场原声）" group-title="[12月7日-德甲]",12月07日01:30RB莱比锡vs法兰克福（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247944
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日01:30皇家贝蒂斯vs巴塞罗那（张昊泽李欣）" group-title="[12月7日-西甲]",12月07日01:30皇家贝蒂斯vs巴塞罗那（张昊泽李欣）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247945
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日01:30皇家贝蒂斯vs巴塞罗那（赛场原声）" group-title="[12月7日-西甲]",12月07日01:30皇家贝蒂斯vs巴塞罗那（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247947
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日02:00图卢兹vs斯特拉斯堡（刘一臻）" group-title="[12月7日-法甲]",12月07日02:00图卢兹vs斯特拉斯堡（刘一臻）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247948
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日02:00图卢兹vs斯特拉斯堡（赛场原声）" group-title="[12月7日-法甲]",12月07日02:00图卢兹vs斯特拉斯堡（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247949
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" tvg-name="12月07日03:00强强对话！塞尔比对战肖恩·墨菲（柏林）" group-title="[12月7日-斯诺克]",12月07日03:00强强对话！塞尔比对战肖恩·墨菲（柏林）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247950
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" tvg-name="12月07日03:00强强对话！塞尔比对战肖恩·墨菲（1号桌）" group-title="[12月7日-斯诺克]",12月07日03:00强强对话！塞尔比对战肖恩·墨菲（1号桌）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247951
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日03:30切斯特菲尔德vs唐卡斯特（涂远）" group-title="[12月7日-足总杯]",12月07日03:30切斯特菲尔德vs唐卡斯特（涂远）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247952
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日03:30切斯特菲尔德vs唐卡斯特（赛场原声）" group-title="[12月7日-足总杯]",12月07日03:30切斯特菲尔德vs唐卡斯特（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247953
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日03:45维罗纳vs亚特兰大（刘焕）" group-title="[12月7日-意甲]",12月07日03:45维罗纳vs亚特兰大（刘焕）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247954
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日03:45维罗纳vs亚特兰大（赛场原声）" group-title="[12月7日-意甲]",12月07日03:45维罗纳vs亚特兰大（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247955
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日04:00毕尔巴鄂竞技vs马德里竞技（孙雨轩贺宇）" group-title="[12月7日-西甲]",12月07日04:00毕尔巴鄂竞技vs马德里竞技（孙雨轩贺宇）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247956
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日04:00毕尔巴鄂竞技vs马德里竞技（赛场原声）" group-title="[12月7日-西甲]",12月07日04:00毕尔巴鄂竞技vs马德里竞技（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247957
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日04:05巴黎圣日耳曼vs雷恩（鹿中原王宇）" group-title="[12月7日-法甲]",12月07日04:05巴黎圣日耳曼vs雷恩（鹿中原王宇）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247958
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日04:05巴黎圣日耳曼vs雷恩（赛场原声）" group-title="[12月7日-法甲]",12月07日04:05巴黎圣日耳曼vs雷恩（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247960
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日06:00鹈鹕VS篮网（金哲豪）" group-title="[12月7日-NBA]",12月07日06:00鹈鹕VS篮网（金哲豪）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247961
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日06:00鹈鹕VS篮网（英文原声）" group-title="[12月7日-NBA]",12月07日06:00鹈鹕VS篮网（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247962
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/10000000040310663de2.png" tvg-name="12月07日07:00UFC第323期：梅拉布VS彼得-严（陈瑞阳李景亮任中贤）" group-title="[12月7日-UFC数字赛]",12月07日07:00UFC第323期：梅拉布VS彼得-严（陈瑞阳李景亮任中贤）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247963
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/10000000040310663de2.png" tvg-name="12月07日07:00UFC第323期：梅拉布VS彼得-严（郑文祺汪乐）" group-title="[12月7日-UFC数字赛]",12月07日07:00UFC第323期：梅拉布VS彼得-严（郑文祺汪乐）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247964
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/10000000040310663de2.png" tvg-name="12月07日07:00UFC第323期：梅拉布VS彼得-严（智能字幕）" group-title="[12月7日-UFC数字赛]",12月07日07:00UFC第323期：梅拉布VS彼得-严（智能字幕）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247965
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/10000000040310663de2.png" tvg-name="12月07日07:00UFC第323期：梅拉布VS彼得-严（英文原声）" group-title="[12月7日-UFC数字赛]",12月07日07:00UFC第323期：梅拉布VS彼得-严（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247966
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/9/28/1000000011111066d90b.png" tvg-name="12月07日07:30神行2025宁德马拉松（神行2025宁德马拉松）" group-title="[12月7日-逐马计划]",12月07日07:30神行2025宁德马拉松（神行2025宁德马拉松）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247967
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" tvg-name="12月07日07:30深圳、珠海等五场马拉松（荣耀·2025深圳马拉松）" group-title="[12月7日-马拉松系列赛]",12月07日07:30深圳、珠海等五场马拉松（荣耀·2025深圳马拉松）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247968
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" tvg-name="12月07日07:30深圳、珠海等五场马拉松（2025丽珠医药珠海马拉松）" group-title="[12月7日-马拉松系列赛]",12月07日07:30深圳、珠海等五场马拉松（2025丽珠医药珠海马拉松）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247969
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" tvg-name="12月07日07:30深圳、珠海等五场马拉松（温州银行·2025温州马拉松）" group-title="[12月7日-马拉松系列赛]",12月07日07:30深圳、珠海等五场马拉松（温州银行·2025温州马拉松）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247970
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" tvg-name="12月07日07:30深圳、珠海等五场马拉松（2025年特步泉州晋江马拉松赛）" group-title="[12月7日-马拉松系列赛]",12月07日07:30深圳、珠海等五场马拉松（2025年特步泉州晋江马拉松赛）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247971
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" tvg-name="12月07日07:30深圳、珠海等五场马拉松（2025澄迈半程马拉松）" group-title="[12月7日-马拉松系列赛]",12月07日07:30深圳、珠海等五场马拉松（2025澄迈半程马拉松）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247972
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/12/1000000010301069e12a.jpg" tvg-name="12月07日07:302025丽珠医药珠海马拉松（2025丽珠医药珠海马拉松）" group-title="[12月7日-马拉松系列赛]",12月07日07:302025丽珠医药珠海马拉松（2025丽珠医药珠海马拉松）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247973
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:00老鹰VS奇才（刘芳宇）" group-title="[12月7日-NBA]",12月07日08:00老鹰VS奇才（刘芳宇）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247974
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:00老鹰VS奇才（英文原声）" group-title="[12月7日-NBA]",12月07日08:00老鹰VS奇才（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247975
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:30勇士VS骑士（姜帆刘铁小七）" group-title="[12月7日-NBA]",12月07日08:30勇士VS骑士（姜帆刘铁小七）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247976
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:30勇士VS骑士（拜月宁）" group-title="[12月7日-NBA]",12月07日08:30勇士VS骑士（拜月宁）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247977
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:30勇士VS骑士（英文原声）" group-title="[12月7日-NBA]",12月07日08:30勇士VS骑士（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247978
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:30雄鹿VS活塞（罗森）" group-title="[12月7日-NBA]",12月07日08:30雄鹿VS活塞（罗森）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247979
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日08:30雄鹿VS活塞（英文原声）" group-title="[12月7日-NBA]",12月07日08:30雄鹿VS活塞（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247980
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日09:00快船VS森林狼（孙博王润陶）" group-title="[12月7日-NBA]",12月07日09:00快船VS森林狼（孙博王润陶）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247981
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日09:00快船VS森林狼（英文原声）" group-title="[12月7日-NBA]",12月07日09:00快船VS森林狼（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247982
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日09:00国王VS热火（徐秦威）" group-title="[12月7日-NBA]",12月07日09:00国王VS热火（徐秦威）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247983
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日09:00国王VS热火（英文原声）" group-title="[12月7日-NBA]",12月07日09:00国王VS热火（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247984
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日09:00【训练馆视角】直击赛前训练（训练馆）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日09:00【训练馆视角】直击赛前训练（训练馆）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247985
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日09:30火箭VS独行侠（刘圳展）" group-title="[12月7日-NBA]",12月07日09:30火箭VS独行侠（刘圳展）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247986
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月07日09:30火箭VS独行侠（英文原声）" group-title="[12月7日-NBA]",12月07日09:30火箭VS独行侠（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247987
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日10:00冲击决赛！国乒迎战韩国日德交锋（训练馆）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日10:00冲击决赛！国乒迎战韩国日德交锋（训练馆）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247988
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日10:00冲击决赛！国乒迎战韩国日德交锋（朱子恒）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日10:00冲击决赛！国乒迎战韩国日德交锋（朱子恒）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247989
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日10:00冲击决赛！国乒迎战韩国日德交锋（赛场原声）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日10:00冲击决赛！国乒迎战韩国日德交锋（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247990
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日10:00冲击决赛！国乒迎战韩国日德交锋（混采区）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日10:00冲击决赛！国乒迎战韩国日德交锋（混采区）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247991
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/17/100000001374106fb7a1.png" tvg-name="12月07日10:00江西庐山U21vs昆明城星U21（解说）" group-title="[12月7日-中国足球青少年精英联赛]",12月07日10:00江西庐山U21vs昆明城星U21（解说）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247993
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" tvg-name="12月07日12:00江苏羽超VS芜湖兴航（清流播出）" group-title="[12月7日-羽超联赛]",12月07日12:00江苏羽超VS芜湖兴航（清流播出）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247994
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" tvg-name="12月07日12:00浙江竞体VS深圳川崎羽众（清流播出）" group-title="[12月7日-羽超联赛]",12月07日12:00浙江竞体VS深圳川崎羽众（清流播出）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247995
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" tvg-name="12月07日15:00南岸万和医药队VS科学城高芯猛虎队（重庆城市足球超级联赛:南岸万和医药队VS科学城高芯猛虎队）" group-title="[12月7日-重庆城市足球超级联赛]",12月07日15:00南岸万和医药队VS科学城高芯猛虎队（重庆城市足球超级联赛:南岸万和医药队VS科学城高芯猛虎队）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247996
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" tvg-name="12月07日15:00开州汉丰湖队VS巫山红叶队（重庆城市足球超级联赛:开州汉丰湖队VS巫山红叶队）" group-title="[12月7日-重庆城市足球超级联赛]",12月07日15:00开州汉丰湖队VS巫山红叶队（重庆城市足球超级联赛:开州汉丰湖队VS巫山红叶队）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247997
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" tvg-name="12月07日15:00云阳恐龙队VS巫溪红池坝队（重庆城市足球超级联赛:云阳恐龙队VS巫溪红池坝队）" group-title="[12月7日-重庆城市足球超级联赛]",12月07日15:00云阳恐龙队VS巫溪红池坝队（重庆城市足球超级联赛:云阳恐龙队VS巫溪红池坝队）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247998
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/19/100000001375106f8922.jpg" tvg-name="12月07日15:00酉阳800队VS黔江白垩纪恐龙队（重庆城市足球超级联赛:酉阳800队VS黔江白垩纪恐龙队）" group-title="[12月7日-重庆城市足球超级联赛]",12月07日15:00酉阳800队VS黔江白垩纪恐龙队（重庆城市足球超级联赛:酉阳800队VS黔江白垩纪恐龙队）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F247999
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/17/100000001374106fb7a1.png" tvg-name="12月07日15:00北京国安U21vs梅州客家U21（解说）" group-title="[12月7日-中国足球青少年精英联赛]",12月07日15:00北京国安U21vs梅州客家U21（解说）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248000
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/17/100000001374106fb7a1.png" tvg-name="12月07日15:00青岛西海岸U21vs兰州陇原竞技U21（解说）" group-title="[12月7日-中国足球青少年精英联赛]",12月07日15:00青岛西海岸U21vs兰州陇原竞技U21（解说）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248001
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/17/100000001374106fb7a1.png" tvg-name="12月07日15:00青岛海牛U21vs广西平果U21（解说）" group-title="[12月7日-中国足球青少年精英联赛]",12月07日15:00青岛海牛U21vs广西平果U21（解说）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248002
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日17:00铜牌赛、决赛（训练馆）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日17:00铜牌赛、决赛（训练馆）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248003
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日17:00铜牌赛、决赛（邓亚萍刘国正周冠达）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日17:00铜牌赛、决赛（邓亚萍刘国正周冠达）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248004
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日17:00铜牌赛、决赛（李宏德）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日17:00铜牌赛、决赛（李宏德）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248005
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日17:00铜牌赛、决赛（赛场原声）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日17:00铜牌赛、决赛（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248006
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/12/2/1000000011421062e5c0.png" tvg-name="12月07日17:00铜牌赛、决赛（混采区）" group-title="[12月7日-国际乒联混合团体世界杯]",12月07日17:00铜牌赛、决赛（混采区）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248007
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/21/100000001006106e59f4.jpeg" tvg-name="12月07日18:30和平精英复活赛Day2（官方解说）" group-title="[12月7日-和平精英全球总决赛]",12月07日18:30和平精英复活赛Day2（官方解说）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248009
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/11/21/100000001006106e59f4.jpeg" tvg-name="12月07日18:30和平精英复活赛Day2（明星视角1）" group-title="[12月7日-和平精英全球总决赛]",12月07日18:30和平精英复活赛Day2（明星视角1）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248010
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" tvg-name="12月07日18:30厦门银行VS辽宁极兔李永波（清流播出）" group-title="[12月7日-羽超联赛]",12月07日18:30厦门银行VS辽宁极兔李永波（清流播出）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248011
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/9/e3e5fdc7-1f96-45ec-a4e7-51fd781aa197.png" tvg-name="12月07日18:30瑞昌碧源VS青岛仁洲（清流播出）" group-title="[12月7日-羽超联赛]",12月07日18:30瑞昌碧源VS青岛仁洲（清流播出）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248012
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日19:30克雷莫纳vs莱切（涂远）" group-title="[12月7日-意甲]",12月07日19:30克雷莫纳vs莱切（涂远）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248013
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日19:30克雷莫纳vs莱切（赛场原声）" group-title="[12月7日-意甲]",12月07日19:30克雷莫纳vs莱切（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248014
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" tvg-name="12月07日19:30宁波VS嘉兴（2025赛季浙江省城市篮球联赛:宁波VS嘉兴）" group-title="[12月7日-浙江省城市篮球联赛]",12月07日19:30宁波VS嘉兴（2025赛季浙江省城市篮球联赛:宁波VS嘉兴）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248015
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" tvg-name="12月07日19:30台州湾新区VS苍南（2025赛季浙江省城市篮球联赛:台州湾新区VS苍南）" group-title="[12月7日-浙江省城市篮球联赛]",12月07日19:30台州湾新区VS苍南（2025赛季浙江省城市篮球联赛:台州湾新区VS苍南）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248016
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" tvg-name="12月07日19:30浙江稠州银行VS东莞新彤盛（解说）" group-title="[12月7日-WCBA]",12月07日19:30浙江稠州银行VS东莞新彤盛（解说）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248017
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" tvg-name="12月07日19:30四川蜀道远达VS上海浦发银行（清流播出）" group-title="[12月7日-WCBA]",12月07日19:30四川蜀道远达VS上海浦发银行（清流播出）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248018
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" tvg-name="12月07日19:30石家庄英励VS武汉盛帆黄鹤（清流播出）" group-title="[12月7日-WCBA]",12月07日19:30石家庄英励VS武汉盛帆黄鹤（清流播出）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248019
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" tvg-name="12月07日19:30山东赤水河酒VS江苏南钢（解说）" group-title="[12月7日-WCBA]",12月07日19:30山东赤水河酒VS江苏南钢（解说）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248020
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" tvg-name="12月07日19:30山东赤水河酒VS江苏南钢（清流播出）" group-title="[12月7日-WCBA]",12月07日19:30山东赤水河酒VS江苏南钢（清流播出）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248021
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00曼联女足vs西汉姆联女足（吴桐）" group-title="[12月7日-英女超]",12月07日20:00曼联女足vs西汉姆联女足（吴桐）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248022
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00曼联女足vs西汉姆联女足（赛场原声）" group-title="[12月7日-英女超]",12月07日20:00曼联女足vs西汉姆联女足（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248023
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00莱斯特城女足vs曼城女足（刘畅）" group-title="[12月7日-英女超]",12月07日20:00莱斯特城女足vs曼城女足（刘畅）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248024
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00莱斯特城女足vs曼城女足（赛场原声）" group-title="[12月7日-英女超]",12月07日20:00莱斯特城女足vs曼城女足（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248025
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00伦敦城雌狮女足vs布莱顿女足（沈云怡）" group-title="[12月7日-英女超]",12月07日20:00伦敦城雌狮女足vs布莱顿女足（沈云怡）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248026
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00伦敦城雌狮女足vs布莱顿女足（赛场原声）" group-title="[12月7日-英女超]",12月07日20:00伦敦城雌狮女足vs布莱顿女足（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248027
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00托特纳姆热刺女足vs阿斯顿维拉女足（林梦鸽）" group-title="[12月7日-英女超]",12月07日20:00托特纳姆热刺女足vs阿斯顿维拉女足（林梦鸽）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248028
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日20:00托特纳姆热刺女足vs阿斯顿维拉女足（赛场原声）" group-title="[12月7日-英女超]",12月07日20:00托特纳姆热刺女足vs阿斯顿维拉女足（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248029
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日20:30斯洛格镇vs马科斯菲尔德镇（刘焕）" group-title="[12月7日-足总杯]",12月07日20:30斯洛格镇vs马科斯菲尔德镇（刘焕）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248030
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日20:30斯洛格镇vs马科斯菲尔德镇（赛场原声）" group-title="[12月7日-足总杯]",12月07日20:30斯洛格镇vs马科斯菲尔德镇（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248031
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日21:00埃尔切vs赫罗纳（兰子非）" group-title="[12月7日-西甲]",12月07日21:00埃尔切vs赫罗纳（兰子非）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248032
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日21:00埃尔切vs赫罗纳（赛场原声）" group-title="[12月7日-西甲]",12月07日21:00埃尔切vs赫罗纳（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248033
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" tvg-name="12月07日21:00决赛（第一阶段）（秦正庞卫国）" group-title="[12月7日-斯诺克]",12月07日21:00决赛（第一阶段）（秦正庞卫国）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248034
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" tvg-name="12月07日21:00决赛（第一阶段）（1号桌）" group-title="[12月7日-斯诺克]",12月07日21:00决赛（第一阶段）（1号桌）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248035
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日22:00布赖顿vs西汉姆联（苗锟）" group-title="[12月7日-英超]",12月07日22:00布赖顿vs西汉姆联（苗锟）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248036
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日22:00布赖顿vs西汉姆联（赛场原声）" group-title="[12月7日-英超]",12月07日22:00布赖顿vs西汉姆联（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248037
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月07日22:00布赖顿vs西汉姆联（英文原声）" group-title="[12月7日-英超]",12月07日22:00布赖顿vs西汉姆联（英文原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248038
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日22:00尼斯vs昂热（盛斌）" group-title="[12月7日-法甲]",12月07日22:00尼斯vs昂热（盛斌）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248039
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月07日22:00尼斯vs昂热（赛场原声）" group-title="[12月7日-法甲]",12月07日22:00尼斯vs昂热（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248040
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日22:00卡利亚里vs罗马（鲁靖明马延峰）" group-title="[12月7日-意甲]",12月07日22:00卡利亚里vs罗马（鲁靖明马延峰）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248041
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月07日22:00卡利亚里vs罗马（赛场原声）" group-title="[12月7日-意甲]",12月07日22:00卡利亚里vs罗马（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248042
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" tvg-name="12月07日22:30汉堡vs不来梅（王子睿）" group-title="[12月7日-德甲]",12月07日22:30汉堡vs不来梅（王子睿）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248043
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" tvg-name="12月07日22:30汉堡vs不来梅（赛场原声）" group-title="[12月7日-德甲]",12月07日22:30汉堡vs不来梅（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248044
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日22:30博勒姆伍德vs纽波特（涂远）" group-title="[12月7日-足总杯]",12月07日22:30博勒姆伍德vs纽波特（涂远）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248045
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日22:30博勒姆伍德vs纽波特（赛场原声）" group-title="[12月7日-足总杯]",12月07日22:30博勒姆伍德vs纽波特（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248046
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日22:30切尔西女足vs埃弗顿女足（胡小凡）" group-title="[12月7日-英女超]",12月07日22:30切尔西女足vs埃弗顿女足（胡小凡）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248047
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/10/10/6UU49F270LD4.png" tvg-name="12月07日22:30切尔西女足vs埃弗顿女足（赛场原声）" group-title="[12月7日-英女超]",12月07日22:30切尔西女足vs埃弗顿女足（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248048
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日23:15瓦伦西亚vs塞维利亚（李霄）" group-title="[12月7日-西甲]",12月07日23:15瓦伦西亚vs塞维利亚（李霄）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248049
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月07日23:15瓦伦西亚vs塞维利亚（赛场原声）" group-title="[12月7日-西甲]",12月07日23:15瓦伦西亚vs塞维利亚（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248050
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日23:30格斯海德vs沃尔索尔（张昊泽）" group-title="[12月7日-足总杯]",12月07日23:30格斯海德vs沃尔索尔（张昊泽）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248051
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月07日23:30格斯海德vs沃尔索尔（赛场原声）" group-title="[12月7日-足总杯]",12月07日23:30格斯海德vs沃尔索尔（赛场原声）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248052
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月08日00:15欧塞尔vs梅斯" group-title="[12月8日-法甲]",12月08日00:15欧塞尔vs梅斯
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248053
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月08日00:15勒阿弗尔vs巴黎" group-title="[12月8日-法甲]",12月08日00:15勒阿弗尔vs巴黎
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248054
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" tvg-name="12月08日00:30富勒姆vs水晶宫" group-title="[12月8日-英超]",12月08日00:30富勒姆vs水晶宫
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248055
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" tvg-name="12月08日00:30多特蒙德vs霍芬海姆" group-title="[12月8日-德甲]",12月08日00:30多特蒙德vs霍芬海姆
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248056
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月08日01:00拉齐奥vs博洛尼亚" group-title="[12月8日-意甲]",12月08日01:00拉齐奥vs博洛尼亚
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248057
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月08日01:30西班牙人vs巴列卡诺" group-title="[12月8日-西甲]",12月08日01:30西班牙人vs巴列卡诺
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248058
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/1/10/1000000004951064ccd7.png" tvg-name="12月08日01:30布莱克浦vs卡莱尔联" group-title="[12月8日-足总杯]",12月08日01:30布莱克浦vs卡莱尔联
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248059
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" tvg-name="12月08日03:00决赛（第二阶段）" group-title="[12月8日-斯诺克]",12月08日03:00决赛（第二阶段）
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248060
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月08日03:45那不勒斯vs尤文图斯" group-title="[12月8日-意甲]",12月08日03:45那不勒斯vs尤文图斯
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248061
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/30/6V1HD8GVET6J.png" tvg-name="12月08日03:45洛里昂vs里昂" group-title="[12月8日-法甲]",12月08日03:45洛里昂vs里昂
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248062
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/09/27/6UROS3QNB1F8.png" tvg-name="12月08日04:00皇家马德里vs塞尔塔" group-title="[12月8日-西甲]",12月08日04:00皇家马德里vs塞尔塔
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248063
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" tvg-name="12月08日19:30江西鲸裕清酒VS大连文体旅" group-title="[12月8日-WCBA]",12月08日19:30江西鲸裕清酒VS大连文体旅
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248064
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" tvg-name="12月08日19:30陕西榆林天泽VS北京首钢园" group-title="[12月8日-WCBA]",12月08日19:30陕西榆林天泽VS北京首钢园
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248065
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/10/20/100000000535106f44f7.png" tvg-name="12月08日20:00新疆天山VS山西竹叶青酒" group-title="[12月8日-WCBA]",12月08日20:00新疆天山VS山西竹叶青酒
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248066
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" tvg-name="12月08日22:00比萨vs帕尔马" group-title="[12月8日-意甲]",12月08日22:00比萨vs帕尔马
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F248067
