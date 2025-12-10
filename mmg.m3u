@@ -10,12 +10,16 @@ https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月10日07:00热火VS魔术（孙博周赫）" group-title="[12月10日-NBA]",12月10日07:00热火VS魔术（孙博周赫）
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252817
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月10日07:00热火VS魔术（英文原声）" group-title="[12月10日-NBA]",12月10日07:00热火VS魔术（英文原声）
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252818
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月10日09:30尼克斯VS猛龙（庄宁宇周鹏王羽希）" group-title="[12月10日-NBA]",12月10日09:30尼克斯VS猛龙（庄宁宇周鹏王羽希）
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252819
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" tvg-name="2025-12-1007:00:00_NBA杯淘汰赛_魔术vs热火_王猛吴谦辰辰" group-title="NBA杯淘汰赛",2025-12-1007:00:00_NBA杯淘汰赛_魔术vs热火_王猛吴谦辰辰
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252655
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" tvg-name="2025-12-1007:00:00_NBA杯淘汰赛_魔术vs热火_英文原音" group-title="NBA杯淘汰赛",2025-12-1007:00:00_NBA杯淘汰赛_魔术vs热火_英文原音
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252656
+
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" tvg-name="2025-12-1009:30:00_NBA杯淘汰赛_猛龙vs尼克斯_段冉管维佳泱泱" group-title="NBA杯淘汰赛",2025-12-1009:30:00_NBA杯淘汰赛_猛龙vs尼克斯_段冉管维佳泱泱
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252658
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" tvg-name="2025-12-1009:30:00_NBA杯淘汰赛_猛龙vs尼克斯_英文原音" group-title="NBA杯淘汰赛",2025-12-1009:30:00_NBA杯淘汰赛_猛龙vs尼克斯_英文原音
+http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252659
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月10日09:30尼克斯VS猛龙（英文原声）" group-title="[12月10日-NBA]",12月10日09:30尼克斯VS猛龙（英文原声）
 http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252820
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/8/100000001385106fe086.png" tvg-name="12月10日10:00郑奥、安郑、喻宇豪领衔出战（清流播出）" group-title="[12月10日-全国体操冠军赛]",12月10日10:00郑奥、安郑、喻宇豪领衔出战（清流播出）
