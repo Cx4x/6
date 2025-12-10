@@ -20,8 +20,6 @@ http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fu
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" tvg-name="2025-12-1009:30:00_NBA杯淘汰赛_猛龙vs尼克斯_英文原音" group-title="NBA杯淘汰赛",2025-12-1009:30:00_NBA杯淘汰赛_猛龙vs尼克斯_英文原音
 http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252659
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" tvg-name="12月10日09:30尼克斯VS猛龙（英文原声）" group-title="[12月10日-NBA]",12月10日09:30尼克斯VS猛龙（英文原声）
-http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252820
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/12/8/100000001385106fe086.png" tvg-name="12月10日10:00郑奥、安郑、喻宇豪领衔出战（清流播出）" group-title="[12月10日-全国体操冠军赛]",12月10日10:00郑奥、安郑、喻宇豪领衔出战（清流播出）
 http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252821
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png" tvg-name="12月10日10:30莎头混双迎首秀！石洵瑶PK陈幸同（石楚阳小马哥）" group-title="[12月10日-WTT]",12月10日10:30莎头混双迎首秀！石洵瑶PK陈幸同（石楚阳小马哥）
@@ -96,13 +94,3 @@ http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fu
 http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252856
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" tvg-name="12月11日21:00赵心童白雨露出战吴宜泽vs傅家俊" group-title="[12月11日-斯诺克]",12月11日21:00赵心童白雨露出战吴宜泽vs傅家俊
 http://117.72.211.52:91/api/proxy_migu.php?action=proxy&url=http%3A%2F%2Ftyzb.fun%2FEurHcw%2F252857
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA备用线路", 2025-12-10 07:00:00_NBA杯淘汰赛_魔术 vs 热火_王猛 吴谦 辰辰
-http://xiaoya.crccxw.top:35455/txsport/100000:10022501201/357157/1776789500.m3u8?txtoken=17fbc8552c734e8dffbbd2cc70d5b4d81d6dc5b0b4923f713d9e7f65527adc290f12ee73849beaf8afacbb620275147d11649e9584771dc0b4869d3b2359b510a0c1b4c4df78277cb010a5ade1d127241b5478eb86d9ba90d31fec8d667efc2f1810b13dde1412533f65280e2ca00606832b6530c9d92be5257e2dc82b
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA备用线路", 2025-12-10 07:00:00_NBA杯淘汰赛_魔术 vs 热火_英文原音
-http://xiaoya.crccxw.top:35455/txsport/100000:10022501201/357157/1392156000.m3u8?txtoken=916b7defa3b09e748aed3bd34aa68a2247e35fc76ecbe17407b28e6e4d8f76ff7d6246fbdd606dbbd083d236d077dafcba66a1f5ed7d7c38ae2199ca249f2a134c049e5d38c55c364d88b90480fa19f1a76cc08dbbc72d452141ac9d535751c86cb6b0f9864af1171cd9f8c913a1fb2c72b52824e29ed8ab4d11a8bf46
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA备用线路", 2025-12-10 09:30:00_NBA杯淘汰赛_猛龙 vs 尼克斯_段冉 管维佳 泱泱
-http://xiaoya.crccxw.top:35455/txsport/100000:10022501202/357159/1776789200.m3u8?txtoken=798e44c630ef3a34293174c54acf3a7b2d9583706f9f1618f010311e8c2b4d0b06ad977980b42e3a674c78bc62155bc403313f5b2dbfe04ecf49d09eae6359e71bd1ae471911b0c682c4dff36037435fb334f3a6604ee2cea213daaca9c8bc621b9930a587a576c11abb323b82be3e5b22d0137b0333a9719d1be4764b
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA备用线路", 2025-12-10 09:30:00_NBA杯淘汰赛_猛龙 vs 尼克斯_英文原音
-http://xiaoya.crccxw.top:35455/txsport/100000:10022501202/357159/1776789300.m3u8?txtoken=bca166d4a47b81f5264b9e2c406ee7cdfebbe3e4f492ed76982495f6a3dc7d6f01adad4fa69d2ea4ddd14ca07a68a0e3a163c5d4cfbd71e1f800b0dc34333838d33d176e13539cf9a5c934b008ed955dae3f0352a51bfdc4756bac18eec544998b1c3e87b4256158d2ae3254b9a82ec210f6ac46be5e0262bc1a08ae51
