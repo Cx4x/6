@@ -10,20 +10,11 @@ https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
 
 
 
-#EXTM3U
-#EXTINF:-1,tvg-id="[NBA] 12月18日09:00 骑士VS公牛 张泽欣" tvg-name="[NBA] 12月18日09:00 骑士VS公牛 张泽欣" tvg-logo="https://epg.112114.xyz/logo/12月18日09:00骑士VS公牛张泽欣.png" group-title="咪咕体育",[NBA] 12月18日09:00 骑士VS公牛 张泽欣
-http://8.138.8.12:9527/migu.php?id=961135177&userId=1599000370&userToken=nlpsDAC6423096678222E6CC
-#EXTINF:-1,tvg-id="[NBA] 12月18日09:00 骑士VS公牛 英文原声" tvg-name="[NBA] 12月18日09:00 骑士VS公牛 英文原声" tvg-logo="https://epg.112114.xyz/logo/12月18日09:00骑士VS公牛英文原声.png" group-title="咪咕体育",[NBA] 12月18日09:00 骑士VS公牛 英文原声
-http://8.138.8.12:9527/migu.php?id=961135275&userId=1599000370&userToken=nlpsDAC6423096678222E6CC
-#EXTINF:-1,tvg-id="[NBA] 12月18日09:00 灰熊VS森林狼 邢晨" tvg-name="[NBA] 12月18日09:00 灰熊VS森林狼 邢晨" tvg-logo="https://epg.112114.xyz/logo/12月18日09:00灰熊VS森林狼邢晨.png" group-title="咪咕体育",[NBA] 12月18日09:00 灰熊VS森林狼 邢晨
-http://8.138.8.12:9527/migu.php?id=961135295&userId=1599000370&userToken=nlpsDAC6423096678222E6CC
-#EXTINF:-1,tvg-id="[NBA] 12月18日09:00 灰熊VS森林狼 英文原声" tvg-name="[NBA] 12月18日09:00 灰熊VS森林狼 英文原声" tvg-logo="https://epg.112114.xyz/logo/12月18日09:00灰熊VS森林狼英文原声.png" group-title="咪咕体育",[NBA] 12月18日09:00 灰熊VS森林狼 英文原声
-http://8.138.8.12:9527/migu.php?id=961135360&userId=1599000370&userToken=nlpsDAC6423096678222E6CC
-#EXTINF:-1,tvg-id="[WCBA] 12月18日19:30 福建金篮 VS 江西鲸裕清酒 清流播出" tvg-name="[WCBA] 12月18日19:30 福建金篮 VS 江西鲸裕清酒 清流播出" tvg-logo="https://epg.112114.xyz/logo/12月18日19:30福建金篮VS江西鲸裕清酒清流播出.png" group-title="福建",[WCBA] 12月18日19:30 福建金篮 VS 江西鲸裕清酒 清流播出
-http://8.138.8.12:9527/migu.php?id=960958440&userId=1599000370&userToken=nlpsDAC6423096678222E6CC
-#EXTINF:-1,tvg-id="[WCBA] 12月18日19:30 大连文体旅 VS 河南豫光金铅 清流播出" tvg-name="[WCBA] 12月18日19:30 大连文体旅 VS 河南豫光金铅 清流播出" tvg-logo="https://epg.112114.xyz/logo/12月18日19:30大连文体旅VS河南豫光金铅清流播出.png" group-title="河南",[WCBA] 12月18日19:30 大连文体旅 VS 河南豫光金铅 清流播出
-http://8.138.8.12:9527/migu.php?id=960958420&userId=1599000370&userToken=nlpsDAC6423096678222E6CC
-#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球.png" group-title="浙江",[浙江省城市篮球联赛] 12月18日19:30 舟山VS金华 2025浙江省城市篮球联赛: 舟山VS金华
-http://8.138.8.12:9527/migu.php?id=961049032&userId=1599000370&userToken=nlpsDAC6423096678222E6CC
-#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球.png" group-title="浙江",[浙江省城市篮球联赛] 12月18日19:30 富阳VS嘉兴 2025浙江省城市篮球联赛: 富阳VS嘉兴
-http://8.138.8.12:9527/migu.php?id=961049291&userId=1599000370&userToken=nlpsDAC6423096678222E6CC
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",12月18日09:00_NBA常规赛_骑士vs公牛 李雪儿
+https://mgev.188766.xyz/play?migutoken=a1c8250d3263e0416c3e8e593beda7a7&id=NG9E8X0QXUivRuG6N9xdr2uTgTpErd2ZX47CVcA%2Bhrh3ZtSUTLmUcH2dl3Zkvl%2Bz8aIHv1YZ66kOkJ9NZHJFfGyL6CkwHAeS6gl9ljy%2FjmZv3wX9mb4nASbHmnAKvx1XUa%2FUqm5RIpmVNLhNdH%2BhD1szEAqANrLKLllOPGvvVA6%2BCiFrZrRxVp1QOzg2RD34fQij1EjC1T96%2FLItThPIQaFH05ld3r3jx2qdlzpk2xy6IdWjbAOEKHIH61uA2xjidUUDqvOwxKp%2FUSQ9maPxtdLNQNc6DjSgSiypdTZB1SBvLecxvtMUjlNzc83lALvkf3w9Slt3GcX2YMJcXB%2F6jQ%3D%3D&name=Vhk9Zr6UWBvTnjg8oZ%2B2rMAUl%2B2acY9zG71D8Ymrt4nQXe1BqL5Q15aIWgAei%2FlreXLUU%2B7w4EPHa1qZysiAHDox34docDJ5bzEU6kE0zuA%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",12月18日09:00_NBA常规赛_骑士vs公牛 英文原音
+https://mgev.188766.xyz/play?migutoken=b2aab19330c4959d46285cd06d09d2b9&id=iBse4Gg1VpcCfC57eMN09hEV5EwdX0XiHQAd2O5mxuYLE2HCqlMJiOWAfK1wNzyDx%2BOmxSlTDjbkHnTbhY1DrMS94LdQYVXA7K344%2BZCP2Fw%2BDsvPJZEgUrsOg0KbfjVazW9th7zGmKn%2BjV40jvBFUNquyfdPt0sprxM6n%2FkIcr%2FXvWbd3KC8YCY6sP1S9U3vkW19owe%2B5tiznjcx1dx%2B9ksdXEYHb2l8W%2BWA%2FpdfheqXbGFT%2BSpJez0zxBhcqsex34X3FdxVSyFg92GLZ0hFmNWoOi%2BTE5yRMPgwwT7VX7pS1vJEV3eFusVok6bFP4alZXi%2BcUovca%2FyhdFf3TQ8g%3D%3D&name=UcD43SsxaDA3lzZhnLPxm92DSRulO%2FccZqT8UUkjl0Lb4%2FyYfVnmP53V%2BMSqIdqKBV09CsRn%2F0rcby%2FVzIqIVi2a8JdPcp8AZK6r0hfgdzM%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",12月18日09:00_NBA常规赛_灰熊vs森林狼 柯凡 杨毅 泱泱
+https://mgev.188766.xyz/play?migutoken=d22866d8228836897bb12dae3b1746ba&id=YyOYfnZ5a%2BipUkQhE9o1OvZsn5DPS%2BvfCz2uwEgDLjn22EoYGyZAJtlq2kTYIgp7gb4y8ANu18Vx1NTbvSf5H%2BfJ7MSq1Y4%2Bll%2FyY%2FdfrVBoexMsrR3%2BhHmviS4jHzJKF6fI08nkEm1slSjBsktzF4vXaHrvzNvF%2B%2BZsYrVFzuzmciDT8Fmkiltnozc45v7GC2ulMAyxQqXFgPi4RRX25UbrfkHEcSNgkHP4oCdPFJyCJ0zU9AcfAFsJb1YnyguA33MlFra8cKWZ8bpNkjucYlq%2FBOFXfwIz4haX2%2BQz6dksyyCVCoBQToKg%2BZzkQrP54ZVTKLLW0tzjIlRP2HhQ2A%3D%3D&name=SR9kyARoQqtwC1YEvaZxaGu1n6QHhTGXFhvtYyG5wlErnQFnylm3fNjSHipaoy%2BHCE6B%2B3bpwfYXaChdbhQe5BNqLomYp61tSkeDoZiaUnewQJdj4M2m3SqR2Z%2BIcUBt
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="NBA常规赛",12月18日09:00_NBA常规赛_灰熊vs森林狼 英文原音
+https://mgev.188766.xyz/play?migutoken=fd26269979dc0cd6c58921202c69dc21&id=F1TMQZ1XAwBTEECuFZikERlI0Mg359%2F0Ubz7JFbmkpLIpIcWAo2Kwz6eZigBHmUCfbez849MtzdJ9aYWieH08XjE%2B0HZ3i5YbYa6FSQZwnKGZ%2Fr9uOlTeWW6p8q9%2F8yRL1Bzt5UVpd4zkus3Omomq28%2FziIwcvVvADfOznteqEneZU0598rFyN3yXoV%2BSMuD%2FY1iJpcihwwrb0UqG8IcV9L0XdJOXzXboEq%2FraUWcnfXxWTVHQ9ghObkfbQ0Yb5Ckznl6xTfGqE%2B0WCwEsdGlf1noyKXZcNoF0W%2BPPf4kHSVrwceZXJkw0X5k1QF6PKAB2dZYAoaGITC05nV%2B9HKBA%3D%3D&name=13OFvUjete4g7188kZ5xDb0XV2fa8xU5bjpWjjxMuq9zFGEiOtcdE7YNTHA6K3zERnYSjkH16LzqfjOCWSJfwKovVgkeTzw%2Fz0GCPjLVmqI%3D
