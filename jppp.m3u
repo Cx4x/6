@@ -11,6 +11,8 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/e52230f79050aa333c4ac6430f40a
 http://125.227.210.55:8215/VideoInput/play.ts
 #EXTINF:-1 tvg-id="NHKBS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="🏵日本频道🏵",NHK BS
 http://125.227.210.55:8210/VideoInput/play.ts
+#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="🏵日本频道🏵",NHK BSP 4K
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" group-title="🏵日本频道🏵",フジテレビ
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" group-title="🏵日本频道🏵",テレビX5
