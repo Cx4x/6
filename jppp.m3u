@@ -160,15 +160,15 @@ https://nl.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
 https://nl.utako.moe/tabi/index.m3u8
 
-#EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://i.imgur.com/VYh3V8E.png" group-title="印度频道",&pictures (1080p)
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/500px-CNBC_2025.svg.png" group-title="其他频道",CNBC
+https://tg-sub-bot.sharewithyou.dpdns.org/play?id=1254950701&sign=MTI1NDk1MDcwMS1odHRwczovL2ZsMS5tb3Zlb25qb3kuY29tL0NOQkMvaW5kZXgubTN1OC1zeDY1ZnJxbmV3bmV3&url=https%3A%2F%2Ffl1.moveonjoy.com%2FCNBC%2Findex.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-logo="https://i.imgur.com/VYh3V8E.png" group-title="其他频道",&pictures (1080p)
 http://66.102.120.18:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="JayaTV.in@SD" tvg-logo="https://i.imgur.com/wZJBYmA.png" group-title="印度频道",Jaya TV (1080p)
+#EXTINF:-1 tvg-id="JayaTV.in@SD" tvg-logo="https://i.imgur.com/wZJBYmA.png" group-title="其他频道",Jaya TV (1080p)
 http://103.140.254.2:3500/live/419.m3u8
-#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-logo="https://i.imgur.com/m7lm99w.png" group-title="印度频道",Raj Digital Plus (1080p)
+#EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-logo="https://i.imgur.com/m7lm99w.png" group-title="其他频道",Raj Digital Plus (1080p)
 http://livestream.rajtv.tv/cluster1/Content/Channel/RajDigitalPlus/HLS/master.m3u8
-#EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-logo="https://i.imgur.com/hZVa8eQ.png" group-title="印度频道",Raj Musix Tamil (1080p)
+#EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-logo="https://i.imgur.com/hZVa8eQ.png" group-title="其他频道",Raj Musix Tamil (1080p)
 http://livestream.rajtv.tv/cluster1/Content/Channel/RajMusix/HLS/master.m3u8
-#EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://i.imgur.com/uiDnvqt.png" group-title="印度频道",Sony Marathi (1080p)
+#EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://i.imgur.com/uiDnvqt.png" group-title="其他频道",Sony Marathi (1080p)
 https://nxtlive.net/sliv/stream.php?e=.m3u8&id=985980256
-
-
