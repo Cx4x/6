@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.utako.moe/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 tvg-name="APTV" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🏵日本频道🏵",💎以下频道需要魔法💎
 https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
 #EXTINF:-1 tvg-name="APTV" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🏵日本频道🏵",💎以下频道需要魔法💎
