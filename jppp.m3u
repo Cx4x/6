@@ -8,6 +8,10 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/e52230f79050aa333c4ac6430f40a
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" group-title="日本频道",テレビX5
 http://main5.mov3.co/hls/main.m3u8
 
+#EXTINF:-1 tvg-id="nhk-bsp4k.jp" tvg-name="NHK BSP4K JP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/NHK_BSP4K_2023logo.svg" group-title="日本频道",NHK BSP4K JP
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
+#EXTINF:-1 tvg-id="nhk-bs8k.jp" tvg-name="NHK BS8K JP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/NHK_BS8K_%282020%29.svg" group-title="日本频道",NHK BS8K JP
+https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
 #EXTINF:-1 group-title="日本频道" tvg-id="fastch_v2_goshogi" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo",囲碁・将棋ライト
 https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
 #EXTINF:-1 group-title="日本频道" tvg-id="fastch_v2_busns" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ビジネス・プレミアムチャンネル
